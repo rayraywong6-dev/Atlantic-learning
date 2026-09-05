@@ -1,0 +1,46 @@
+name: Update Atlantic learning library
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "fetch_atlantic.py"
+      - ".github/workflows/update.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atlantic-rss-update
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch public RSS entries
+        run: python fetch_atlantic.py
+
+      - name: Commit updated library
+        run: |
+          if git diff --quiet -- docs/data/articles.json; then
+            echo "No article changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/articles.json
+          git commit -m "Update Atlantic learning library"
+          git push
