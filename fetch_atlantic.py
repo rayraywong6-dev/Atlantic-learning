@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Collect public The Atlantic RSS metadata for a personal learning library."""
+"""Collect public The Atlantic RSS metadata for a personal learning library.\n\nDesigned to run daily in GitHub Actions without third-party dependencies.\n"""
 
 from __future__ import annotations
 
