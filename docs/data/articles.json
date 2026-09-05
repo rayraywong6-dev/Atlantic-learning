@@ -1,7 +1,1015 @@
 {
-  "updated_at": "",
-  "article_count": 0,
-  "feeds": {},
+  "updated_at": "2026-09-05T01:32:12.747824+00:00",
+  "article_count": 125,
+  "feeds": {
+    "全部": "https://www.theatlantic.com/feed/all/",
+    "精选": "https://www.theatlantic.com/feed/best-of/",
+    "商业": "https://www.theatlantic.com/feed/channel/business/",
+    "科技": "https://www.theatlantic.com/feed/channel/technology/",
+    "教育": "https://www.theatlantic.com/feed/channel/education/",
+    "国际": "https://www.theatlantic.com/feed/channel/international/"
+  },
   "errors": [],
-  "articles": []
+  "articles": [
+    {
+      "title": "Crypto Money Still Matters for the Midterms",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/crypto-money-still-matters-for-the-midterms/688537/",
+      "author": "",
+      "published": "2026-09-04T22:36:00+00:00",
+      "category": "精选",
+      "summary": "The industry is a surprising top spender in the races."
+    },
+    {
+      "title": "There’s No Such Thing as an AI ‘Lab’",
+      "link": "https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/",
+      "author": "",
+      "published": "2026-09-04T19:25:00+00:00",
+      "category": "科技",
+      "summary": "The term lends an air of scientific rigor to what are really billion-dollar corporations."
+    },
+    {
+      "title": "What Tech Titans Don’t Understand About Sci-Fi",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/the-books-briefing-tech-titans-sci-fi-asimov-lepore/688525/",
+      "author": "",
+      "published": "2026-09-04T18:45:00+00:00",
+      "category": "精选",
+      "summary": "The genre frequently exposes the rot within supposedly perfect futures."
+    },
+    {
+      "title": "The Meaning of the Lindsay Clancy Mistrial",
+      "link": "https://www.theatlantic.com/ideas/2026/09/clancy-mistrial-debate-conspiracy/688483/",
+      "author": "",
+      "published": "2026-09-04T18:32:00+00:00",
+      "category": "精选",
+      "summary": "Everyone has a theory. But what if this case means nothing at all?"
+    },
+    {
+      "title": "OpenAI Wants to Talk About The Federalist Papers",
+      "link": "https://www.theatlantic.com/technology/2026/09/openai-constitution-dean-ball/688524/",
+      "author": "",
+      "published": "2026-09-04T17:01:00+00:00",
+      "category": "科技",
+      "summary": "The AI giant is worried about what all-powerful bots could mean for our constitutional rights."
+    },
+    {
+      "title": "Why So Many Men Are Unraveling",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/why-so-many-men-are-unraveling/688520/",
+      "author": "",
+      "published": "2026-09-04T17:00:00+00:00",
+      "category": "精选",
+      "summary": "The disinhibited men looking for purpose in all the wrong places"
+    },
+    {
+      "title": "A Movie Can’t Be Just Its Own Thing Anymore",
+      "link": "https://www.theatlantic.com/culture/2026/09/onslaught-movie-review-a24-adam-wingard/688521/",
+      "author": "",
+      "published": "2026-09-04T16:21:37+00:00",
+      "category": "精选",
+      "summary": "Onslaught is a victim of Hollywood’s obsession with turning everything into a franchise."
+    },
+    {
+      "title": "Introducing: The Permanent Questions With David Brooks",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/introducing-the-permanent-questions/688438/",
+      "author": "",
+      "published": "2026-09-04T15:45:00+00:00",
+      "category": "精选",
+      "summary": "Conversations from the deep end"
+    },
+    {
+      "title": "Photos of the Week: Nomad Games, Pushkin Puppet, Lunar Simulation",
+      "link": "https://www.theatlantic.com/photography/2026/09/photos-of-the-week-nomad-games-pushkin-puppet-lunar-simulation/688512/",
+      "author": "",
+      "published": "2026-09-04T13:00:00+00:00",
+      "category": "精选",
+      "summary": "A 90-year-old bodybuilding champion in Japan, a memorial for King Harald V of Norway, a kite festival in Indonesia, a marching-band performance in Atlanta, and much more."
+    },
+    {
+      "title": "The Dark Side of Mindfulness",
+      "link": "https://www.theatlantic.com/ideas/2026/09/meditation-willoughby-britton-downsides/688474/",
+      "author": "",
+      "published": "2026-09-04T13:00:00+00:00",
+      "category": "精选",
+      "summary": "A prominent psychologist and meditation teacher set out to research the benefits of the practice. What she found alarmed her."
+    },
+    {
+      "title": "The Missing Ingredient of Modern Life",
+      "link": "https://www.theatlantic.com/magazine/2026/10/modern-life-maxxing-antidote/688344/",
+      "author": "",
+      "published": "2026-09-04T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Why we need wonder"
+    },
+    {
+      "title": "The Dead-Internet Theory Is Back",
+      "link": "https://www.theatlantic.com/technology/2026/09/chatgpt-imessage-ai-texting/688507/",
+      "author": "",
+      "published": "2026-09-04T10:48:19+00:00",
+      "category": "科技",
+      "summary": "Am I talking to you, or ChatGPT?"
+    },
+    {
+      "title": "Trump’s Antitrust Gambit May Backfire",
+      "link": "https://www.theatlantic.com/ideas/2026/09/live-nation-trump-antitrust-monopolies/688508/",
+      "author": "",
+      "published": "2026-09-04T02:52:03+00:00",
+      "category": "精选",
+      "summary": "What the Live Nation case says about the fate of monopolies now"
+    },
+    {
+      "title": "The Vicious Cycle Trump May Restart",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/venezuela-trump-oil-cycle/688516/",
+      "author": "",
+      "published": "2026-09-03T22:32:00+00:00",
+      "category": "精选",
+      "summary": "The American seizure of Venezuelan oil is likely the first step in a familiar, unhappy chain of events."
+    },
+    {
+      "title": "How the Early Dreams of the Internet Changed",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/early-computers-1984-apple/688515/",
+      "author": "",
+      "published": "2026-09-03T20:41:00+00:00",
+      "category": "精选",
+      "summary": "Technology was once seen as countercultural. What happened?"
+    },
+    {
+      "title": "The Hasan Piker Question",
+      "link": "https://www.theatlantic.com/politics/2026/09/hasan-piker-midterms-democrats-michigan/688504/",
+      "author": "",
+      "published": "2026-09-03T20:12:23+00:00",
+      "category": "精选",
+      "summary": "Many Democrats would like him to go away."
+    },
+    {
+      "title": "An Alien Scholar’s Notes on Trump’s Washington",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/an-alien-scholars-notes-on-trumps-washington/688511/",
+      "author": "",
+      "published": "2026-09-03T18:15:00+00:00",
+      "category": "精选",
+      "summary": "Why did he hate one pool so much?"
+    },
+    {
+      "title": "The Sexual Politics of the ‘Bed Trick’",
+      "link": "https://www.theatlantic.com/books/2026/09/sexual-deception-trial-the-bed-trick-izabella-scott-book-review/688510/",
+      "author": "",
+      "published": "2026-09-03T17:00:00+00:00",
+      "category": "精选",
+      "summary": "A new book about an infamous trial asks how the stories we tell can define our relationships."
+    },
+    {
+      "title": "Gloria Steinem’s Feminism for All",
+      "link": "https://www.theatlantic.com/culture/2026/09/gloria-steinem-obit/688506/",
+      "author": "",
+      "published": "2026-09-03T14:06:00+00:00",
+      "category": "全部",
+      "summary": "The activist and writer, who died yesterday at the age of 92, steadfastly fought for her belief that women could change the world together."
+    },
+    {
+      "title": "The Schism Within the Trump Administration on Mexico",
+      "link": "https://www.theatlantic.com/national-security/2026/09/mexico-trump-stephen-miller-usmca/688496/",
+      "author": "",
+      "published": "2026-09-03T14:00:00+00:00",
+      "category": "全部",
+      "summary": "Officials are veering between praise for cooperation and threats to attack."
+    },
+    {
+      "title": "The Netherlands Will Never Be Rid of Louisiana Crawfish",
+      "link": "https://www.theatlantic.com/science/2026/09/american-crayfish-netherlands-eating/688430/",
+      "author": "",
+      "published": "2026-09-03T13:51:56+00:00",
+      "category": "精选",
+      "summary": "What will it take for the Dutch to eat them?"
+    },
+    {
+      "title": "What the Floods Say About Xi Jinping",
+      "link": "https://www.theatlantic.com/international/2026/09/china-nepal-flood-xi-jinping/688484/",
+      "author": "",
+      "published": "2026-09-03T12:06:00+00:00",
+      "category": "国际",
+      "summary": "China’s leader behaves more like an emperor than a man of the people."
+    },
+    {
+      "title": "Should We Be Afraid of Our Food?",
+      "link": "https://www.theatlantic.com/ideas/2026/09/food-safety-crisis-trump-cyclospora/688495/",
+      "author": "",
+      "published": "2026-09-03T11:00:00+00:00",
+      "category": "全部",
+      "summary": "America’s food-safety system is being methodically dismantled by the Trump administration."
+    },
+    {
+      "title": "Creating the Perfect Female Monster",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/furious-perfect-female-monster/688485/",
+      "author": "",
+      "published": "2026-09-03T11:00:00+00:00",
+      "category": "全部",
+      "summary": "Furious takes revenge on a fictional Jeffrey Epstein."
+    },
+    {
+      "title": "How ‘Somatics’ Became the Solution to Modern Life",
+      "link": "https://www.theatlantic.com/culture/2026/09/somatic-trend-classes/688210/",
+      "author": "",
+      "published": "2026-09-03T11:00:00+00:00",
+      "category": "全部",
+      "summary": "The word isn’t new—but lately, it’s everywhere."
+    },
+    {
+      "title": "The MAGA Right Is Only Pretending to Be Censored",
+      "link": "https://www.theatlantic.com/ideas/2026/09/censorship-industrial-complex-conspiracy/688490/",
+      "author": "",
+      "published": "2026-09-02T17:49:05+00:00",
+      "category": "精选",
+      "summary": "The conspiracy theory that persists even though no evidence supports it"
+    },
+    {
+      "title": "The Singularity Is Not What It Seems",
+      "link": "https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/",
+      "author": "",
+      "published": "2026-09-02T00:16:00+00:00",
+      "category": "科技",
+      "summary": "Whatever the AI future is, we’re in it right now."
+    },
+    {
+      "title": "The Growing Lawlessness in California’s Forests",
+      "link": "https://www.theatlantic.com/science/2026/09/frog-biologists-kidnapping-california-national-forest/688445/",
+      "author": "",
+      "published": "2026-09-01T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Two frog biologists were kidnapped in the woods. More bizarre situations may come."
+    },
+    {
+      "title": "The Women Obsessed With Lindsay Clancy",
+      "link": "https://www.theatlantic.com/ideas/2026/08/lindsay-clancy-trial-women/688470/",
+      "author": "",
+      "published": "2026-08-31T19:48:00+00:00",
+      "category": "精选",
+      "summary": "Horrific crimes have always attracted attention, but the women who have filled the courtroom are seeking something beyond spectacle."
+    },
+    {
+      "title": "We Are Living in the Fantasy World of 13-Year-Old Boys",
+      "link": "https://www.theatlantic.com/books/2026/08/silicon-valley-science-fiction-jill-lepore-book-review/688467/",
+      "author": "",
+      "published": "2026-08-31T12:00:00+00:00",
+      "category": "科技",
+      "summary": "Many of the tech billionaires who built our world have taken the wrong lessons from their favorite science fiction."
+    },
+    {
+      "title": "China Is Flatlining",
+      "link": "https://www.theatlantic.com/international/2026/08/china-beijing-communist-xi-favorability/688454/",
+      "author": "",
+      "published": "2026-08-31T10:00:00+00:00",
+      "category": "国际",
+      "summary": "The country’s “stability” hides a host of problems."
+    },
+    {
+      "title": "The AI Backlash Gets Professional",
+      "link": "https://www.theatlantic.com/technology/2026/08/irreplaceable-climate-activists-ai-backlash/688404/",
+      "author": "",
+      "published": "2026-08-28T15:17:09+00:00",
+      "category": "科技",
+      "summary": "A new group is targeting tech companies and the government with the climate movement’s playbook."
+    },
+    {
+      "title": "A Turning Point in AI Writing",
+      "link": "https://www.theatlantic.com/technology/2026/08/wall-street-journal-ai-op-ed/688433/",
+      "author": "",
+      "published": "2026-08-27T22:12:00+00:00",
+      "category": "科技",
+      "summary": "The Wall Street Journal is defending an op-ed written by a chatbot."
+    },
+    {
+      "title": "Why I Am Right About AI",
+      "link": "https://www.theatlantic.com/technology/2026/08/paul-claude-gigot-why-i-am-right-about-ai/688434/",
+      "author": "",
+      "published": "2026-08-27T21:11:28+00:00",
+      "category": "科技",
+      "summary": "Human writers are expensive, and they eventually die. AI is cheaper, and will never join a union."
+    },
+    {
+      "title": "How to Lose $12 Billion and Still Win",
+      "link": "https://www.theatlantic.com/technology/2026/08/meta-kids-social-media-settlement/688420/",
+      "author": "",
+      "published": "2026-08-26T22:18:48+00:00",
+      "category": "科技",
+      "summary": "Meta seems happy to pay a landmark legal settlement."
+    },
+    {
+      "title": "Why Did John Ratcliffe Go to Moscow?",
+      "link": "https://www.theatlantic.com/international/2026/08/cia-director-ratcliffe-moscow/688424/",
+      "author": "",
+      "published": "2026-08-26T22:06:00+00:00",
+      "category": "国际",
+      "summary": "Despite Trump’s claims, the CIA director’s visit was anything but routine. It might be a sign that Putin is getting more dangerous."
+    },
+    {
+      "title": "The German Far Right Is Poised for a Breakthrough",
+      "link": "https://www.theatlantic.com/international/2026/08/german-election-afd-far-right/688389/",
+      "author": "",
+      "published": "2026-08-26T10:00:00+00:00",
+      "category": "国际",
+      "summary": "The AfD could do something next month that would mark a first in the country’s postwar history."
+    },
+    {
+      "title": "Is Mojtaba Khamenei Dead?",
+      "link": "https://www.theatlantic.com/international/2026/08/mojtaba-khamenei-dead-rumor-iran/688393/",
+      "author": "",
+      "published": "2026-08-25T11:00:00+00:00",
+      "category": "国际",
+      "summary": "The office of Iran’s supreme leader has fallen quiet, fueling uncertainty in a country with decisions to make."
+    },
+    {
+      "title": "Logging In Was Never Supposed to Be This Complicated",
+      "link": "https://www.theatlantic.com/technology/2026/08/password-manager-login-difficulty/688396/",
+      "author": "",
+      "published": "2026-08-24T21:06:00+00:00",
+      "category": "科技",
+      "summary": "Please, not another two-factor-authentication code."
+    },
+    {
+      "title": "Iran Unleashed",
+      "link": "https://www.theatlantic.com/international/2026/08/iran-middle-east-power/688374/",
+      "author": "",
+      "published": "2026-08-23T11:00:00+00:00",
+      "category": "国际",
+      "summary": "The dominant power in the Middle East from now on will not be the U.S. or Israel but Iran."
+    },
+    {
+      "title": "So a C-List Celebrity Is Selling Your House?",
+      "link": "https://www.theatlantic.com/culture/2026/08/real-estate-agent-social-media-celebrity/688378/",
+      "author": "",
+      "published": "2026-08-22T12:00:00+00:00",
+      "category": "商业",
+      "summary": "Reality-TV stars and influencers are getting into real estate."
+    },
+    {
+      "title": "Why Is Everyone in Silicon Valley Talking Like That?",
+      "link": "https://www.theatlantic.com/technology/2026/08/ai-jargon-in-everday-speech/688358/",
+      "author": "",
+      "published": "2026-08-20T21:38:06+00:00",
+      "category": "科技",
+      "summary": "Did you mix something up? Maybe you’re just “hallucinating.”"
+    },
+    {
+      "title": "Another Pot of Paint Thrown in the Public’s Face",
+      "link": "https://www.theatlantic.com/technology/2026/08/matisse-sf-moma-ai/688328/",
+      "author": "",
+      "published": "2026-08-20T17:17:43+00:00",
+      "category": "科技",
+      "summary": "Does AI actually belong in an art museum?"
+    },
+    {
+      "title": "Are You Sure You Want a Car With a Giant Touch Screen?",
+      "link": "https://www.theatlantic.com/technology/2026/08/car-prices-memory-ram-ai/688329/",
+      "author": "",
+      "published": "2026-08-19T20:22:00+00:00",
+      "category": "科技",
+      "summary": "The AI boom is making phones and laptops more expensive. Cars are next."
+    },
+    {
+      "title": "The Home Slopping Network",
+      "link": "https://www.theatlantic.com/technology/2026/08/fairground-ai-roku-channel/688318/",
+      "author": "",
+      "published": "2026-08-19T15:15:33+00:00",
+      "category": "科技",
+      "summary": "A new channel on Roku’s TV service offers all-you-can-eat AI programming. I binged eight hours of it."
+    },
+    {
+      "title": "What Really Happens If China Wins the AI Race?",
+      "link": "https://www.theatlantic.com/technology/2026/08/what-if-china-wins-ai-race/688256/",
+      "author": "",
+      "published": "2026-08-18T17:06:19+00:00",
+      "category": "科技",
+      "summary": "For years, the tech industry has portrayed Chinese AI development as an existential threat. The truth is not so straightforward."
+    },
+    {
+      "title": "There’s No Reason to Buy a New Phone Anymore",
+      "link": "https://www.theatlantic.com/technology/2026/08/secondhand-tech-boom/688309/",
+      "author": "",
+      "published": "2026-08-18T16:08:11+00:00",
+      "category": "科技",
+      "summary": "Consumers are ditching the hype cycle and buying used devices in unprecedented numbers."
+    },
+    {
+      "title": "Ukraine’s Long Shot",
+      "link": "https://www.theatlantic.com/international/2026/08/russia-ukraine-drone-war-protest/688259/",
+      "author": "",
+      "published": "2026-08-15T11:00:00+00:00",
+      "category": "国际",
+      "summary": "The country may have hoped that deeper drone attacks would cause Russians to protest the war, but mass demonstrations don’t look likely."
+    },
+    {
+      "title": "What I Saw in Sinaloa",
+      "link": "https://www.theatlantic.com/international/2026/08/cartels-mexico-sinaloa-influencers-cesar-gastelum/688253/",
+      "author": "",
+      "published": "2026-08-13T16:36:00+00:00",
+      "category": "国际",
+      "summary": "The U.S. is trying to destroy Mexican cartels. But so far, a turf war has only deepened."
+    },
+    {
+      "title": "Tehran Has to Make a Choice",
+      "link": "https://www.theatlantic.com/international/2026/08/iran-muslim-countries-defense-pact/688265/",
+      "author": "",
+      "published": "2026-08-13T11:00:00+00:00",
+      "category": "国际",
+      "summary": "A new regional pact highlights Iran’s isolation."
+    },
+    {
+      "title": "Mark Zuckerberg’s Convenient Truth",
+      "link": "https://www.theatlantic.com/technology/2026/08/mark-zuckerberg-ai-manifesto/688269/",
+      "author": "",
+      "published": "2026-08-12T21:15:00+00:00",
+      "category": "科技",
+      "summary": "The Meta CEO has a new message now that his company is losing the AI race."
+    },
+    {
+      "title": "It May Be Time to Panic About AI",
+      "link": "https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/",
+      "author": "",
+      "published": "2026-08-12T20:05:28+00:00",
+      "category": "科技",
+      "summary": "Bots are starting to conspire with one another. Can they be reeled back in?"
+    },
+    {
+      "title": "A Silver Lining in Afghanistan",
+      "link": "https://www.theatlantic.com/international/2026/08/afghanistan-withdrawal-taliban-terrorism/688251/",
+      "author": "",
+      "published": "2026-08-12T11:30:00+00:00",
+      "category": "国际",
+      "summary": "Five years after the U.S. withdrawal, al-Qaeda remains weak and the Taliban has become an unexpected partner."
+    },
+    {
+      "title": "Shopping Is Impossible",
+      "link": "https://www.theatlantic.com/technology/2026/08/online-shopping-inescapable/688254/",
+      "author": "",
+      "published": "2026-08-11T21:17:00+00:00",
+      "category": "科技",
+      "summary": "It’s never been more exhausting to buy stuff."
+    },
+    {
+      "title": "Ukraine May Be Just the Ally America Needs",
+      "link": "https://www.theatlantic.com/international/2026/08/ukraine-ally-trump-patriot-missile/688226/",
+      "author": "",
+      "published": "2026-08-09T11:00:00+00:00",
+      "category": "国际",
+      "summary": "The country Trump once disdained as a burden has become a military powerhouse."
+    },
+    {
+      "title": "A Chatbot-Free Childhood Will Be a Status Symbol",
+      "link": "https://www.theatlantic.com/technology/2026/08/ultra-processed-childhood-ai/688217/",
+      "author": "",
+      "published": "2026-08-07T14:48:18+00:00",
+      "category": "科技",
+      "summary": "AI is like ultra-processed food for developing brains."
+    },
+    {
+      "title": "Iran Goes Looking for Love in Jordan",
+      "link": "https://www.theatlantic.com/international/2026/08/iran-appeals-jordan-alliance/688205/",
+      "author": "",
+      "published": "2026-08-07T11:00:00+00:00",
+      "category": "国际",
+      "summary": "Tehran wants the Arab public to balk at the cost of allying with the United States."
+    },
+    {
+      "title": "An Unfortunate Surprise for BMW Owners",
+      "link": "https://www.theatlantic.com/technology/2026/08/bmw-spiderman-ad/688194/",
+      "author": "",
+      "published": "2026-08-05T20:06:00+00:00",
+      "category": "科技",
+      "summary": "The luxury automaker is beaming a Spider-Man ad into its cars."
+    },
+    {
+      "title": "Someone Is Mysteriously Snapping Up Used Books Around the World",
+      "link": "https://www.theatlantic.com/technology/2026/08/ai-companies-buying-used-books-for-data/688167/",
+      "author": "",
+      "published": "2026-08-05T18:40:00+00:00",
+      "category": "科技",
+      "summary": "Are AI companies to blame?"
+    },
+    {
+      "title": "Gen Z Is Testing the Limits of How Weird Parties Can Get",
+      "link": "https://www.theatlantic.com/technology/2026/08/gen-z-party-themes-partiful/688171/",
+      "author": "",
+      "published": "2026-08-05T16:01:00+00:00",
+      "category": "科技",
+      "summary": "Would you attend a “farewell to Spirit Airlines” party?"
+    },
+    {
+      "title": "What Happened to al-Qaeda?",
+      "link": "https://www.theatlantic.com/magazine/2026/09/al-qaeda-25-years-post-9-11/687965/",
+      "author": "",
+      "published": "2026-08-05T10:00:00+00:00",
+      "category": "国际",
+      "summary": "Twenty-five years after 9/11, analysts can’t decide if the terrorist organization is all but defunct or more threatening than ever."
+    },
+    {
+      "title": "The One Town That Wants a Data Center",
+      "link": "https://www.theatlantic.com/technology/2026/08/jay-maine-wants-data-center/688043/",
+      "author": "",
+      "published": "2026-08-03T11:31:00+00:00",
+      "category": "科技",
+      "summary": "The YIMBYism of Jay, Maine"
+    },
+    {
+      "title": "The Far Right Is Distorting Ceuta",
+      "link": "https://www.theatlantic.com/ideas/2026/08/ceuta-spain-far-right/688154/",
+      "author": "",
+      "published": "2026-08-02T20:43:05+00:00",
+      "category": "国际",
+      "summary": "We’ve seen this before."
+    },
+    {
+      "title": "Which Screen Is the ‘Good Screen’ Now?",
+      "link": "https://www.theatlantic.com/technology/2026/08/instagram-tv-app/688134/",
+      "author": "",
+      "published": "2026-08-02T12:00:00+00:00",
+      "category": "科技",
+      "summary": "Instagram TV brings the endless scroll to your television."
+    },
+    {
+      "title": "Schengen’s Greatest Failure",
+      "link": "https://www.theatlantic.com/politics/2026/07/migration-splitting-europe-apart/688137/",
+      "author": "",
+      "published": "2026-07-31T19:21:29+00:00",
+      "category": "国际",
+      "summary": "The Ceuta crisis is undermining an agreement designed to foster “solidarity.”"
+    },
+    {
+      "title": "Iran’s War Within",
+      "link": "https://www.theatlantic.com/international/2026/07/iran-repression-citizens-regime/688102/",
+      "author": "",
+      "published": "2026-07-30T11:00:00+00:00",
+      "category": "国际",
+      "summary": "The Islamic Republic’s ultimate target remains its own people."
+    },
+    {
+      "title": "The Ticking Clock on the Strait of Hormuz",
+      "link": "https://www.theatlantic.com/international/2026/07/iran-war-hormuz-strait/688062/",
+      "author": "",
+      "published": "2026-07-25T11:00:00+00:00",
+      "category": "国际",
+      "summary": "Trump said it himself in June—military force won’t open the waterway, and energy reserves are quickly winding down."
+    },
+    {
+      "title": "The War Is Lost. Now Fix What It Broke.",
+      "link": "https://www.theatlantic.com/international/2026/07/iran-defeat-cost-oil-drones/688034/",
+      "author": "",
+      "published": "2026-07-23T20:51:23+00:00",
+      "category": "国际",
+      "summary": "America has to rethink how it moves resources, fights wars, and deters adversaries."
+    },
+    {
+      "title": "Pete Hegseth’s Reckless Message to Pilots",
+      "link": "https://www.theatlantic.com/international/2026/07/hegseth-reckless-military-helicopter/688008/",
+      "author": "",
+      "published": "2026-07-21T14:09:47+00:00",
+      "category": "国际",
+      "summary": "The secretary of defense is making one of the most dangerous jobs in America more lethal."
+    },
+    {
+      "title": "China’s Questionable Tech Strategy",
+      "link": "https://www.theatlantic.com/international/2026/07/china-tech-sector-ai/687938/",
+      "author": "",
+      "published": "2026-07-19T12:00:00+00:00",
+      "category": "国际",
+      "summary": "Keeping out the world’s best tools promises to stymie innovation."
+    },
+    {
+      "title": "Where the War Is Still a War",
+      "link": "https://www.theatlantic.com/international/2026/07/iran-us-airstrikes-coast/687963/",
+      "author": "",
+      "published": "2026-07-17T14:01:01+00:00",
+      "category": "国际",
+      "summary": "The southern coast of Iran is still getting battered. Some Iranians want their government’s hawks to see for themselves."
+    },
+    {
+      "title": "Trump Has Only Terrible Choices With Iran",
+      "link": "https://www.theatlantic.com/international/2026/07/trump-iran-negotiations-hormuz-nuclear/687937/",
+      "author": "",
+      "published": "2026-07-17T11:00:00+00:00",
+      "category": "国际",
+      "summary": "Some involve accepting Iranian control of the Strait of Hormuz. The rest call for escalation."
+    },
+    {
+      "title": "The Opening After Netanyahu",
+      "link": "https://www.theatlantic.com/international/2026/07/america-israel-election-netanyahu-eisenkot/687930/",
+      "author": "",
+      "published": "2026-07-16T14:37:28+00:00",
+      "category": "国际",
+      "summary": "A new Israeli government won’t deliver peace overnight, but it could reverse the trajectory toward endless conflict."
+    },
+    {
+      "title": "How the Elite See Rome",
+      "link": "https://www.theatlantic.com/magazine/2026/08/rome-elite-tourism-imago-artis/687621/",
+      "author": "",
+      "published": "2026-07-13T11:00:00+00:00",
+      "category": "国际",
+      "summary": "Need the Colosseum to yourself? Want to see a privately owned masterpiece by Caravaggio? For the tourism fixer Fulvio De Bonis, there’s no such thing as a closed door."
+    },
+    {
+      "title": "NATO Is Going Strong, Actually",
+      "link": "https://www.theatlantic.com/international/2026/07/nato-alliance-trump-europe/687874/",
+      "author": "",
+      "published": "2026-07-12T11:00:00+00:00",
+      "category": "国际",
+      "summary": "Trump hasn’t made the alliance less resilient or less necessary."
+    },
+    {
+      "title": "The Rise of Emotional Surveillance",
+      "link": "https://www.theatlantic.com/culture/2026/05/worker-surveillance-emotion-ai/687029/",
+      "author": "",
+      "published": "2026-05-03T12:00:00+00:00",
+      "category": "商业",
+      "summary": "Companies are monitoring workers not just for productivity but for agreeability."
+    },
+    {
+      "title": "A Mediocre Public-School Education for Just $40,000 a Pupil",
+      "link": "https://www.theatlantic.com/ideas/2026/04/new-york-city-schools-budget/686971/",
+      "author": "",
+      "published": "2026-04-28T11:00:00+00:00",
+      "category": "教育",
+      "summary": "How New York City’s education budget became an untouchable money pit"
+    },
+    {
+      "title": "The Looming College-Enrollment Death Spiral",
+      "link": "https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/",
+      "author": "",
+      "published": "2026-04-12T11:00:00+00:00",
+      "category": "教育",
+      "summary": "After many decades of democratization, higher education could once again become a luxury good."
+    },
+    {
+      "title": "States Are Learning the Wrong Lesson From the ‘Mississippi Miracle’",
+      "link": "https://www.theatlantic.com/ideas/2026/04/mississippi-education-miracle/686731/",
+      "author": "",
+      "published": "2026-04-09T11:00:00+00:00",
+      "category": "教育",
+      "summary": "A phonics-based curriculum is only one part of how Mississippi went from worst to first in education. The other part is much harder to pull off."
+    },
+    {
+      "title": "Trump’s Assault on Higher Education Has Hit a Snag",
+      "link": "https://www.theatlantic.com/ideas/2026/03/trump-universities-lawsuits/686319/",
+      "author": "",
+      "published": "2026-03-10T21:09:00+00:00",
+      "category": "教育",
+      "summary": "Universities and their allies have been able to block many, if not most, of the White House’s moves in court."
+    },
+    {
+      "title": "The Multibillion-Dollar Foundation That Controls the Humanities",
+      "link": "https://www.theatlantic.com/magazine/2026/03/mellon-foundation-humanities-research-funding/685733/",
+      "author": "",
+      "published": "2026-02-12T12:00:00+00:00",
+      "category": "教育",
+      "summary": "Is the Andrew W. Mellon Foundation the last best hope for American arts and letters—or is it killing them?"
+    },
+    {
+      "title": "The Program That’s Turning Schools Around",
+      "link": "https://www.theatlantic.com/education/2026/01/texas-education-community-schools/685703/",
+      "author": "",
+      "published": "2026-01-28T12:31:00+00:00",
+      "category": "教育",
+      "summary": "The key to closing the achievement gap may lie outside the classroom."
+    },
+    {
+      "title": "The Entry-Level Hiring Process Is Breaking Down",
+      "link": "https://www.theatlantic.com/ideas/2025/12/grade-inflation-ai-hiring/685157/",
+      "author": "",
+      "published": "2025-12-16T12:00:00+00:00",
+      "category": "教育",
+      "summary": "Grade inflation and the rise of AI are making it impossible for employers to evaluate recent graduates."
+    },
+    {
+      "title": "Accommodation Nation",
+      "link": "https://www.theatlantic.com/magazine/2026/01/elite-university-student-accommodation/684946/",
+      "author": "",
+      "published": "2025-12-02T12:00:00+00:00",
+      "category": "教育",
+      "summary": "America’s colleges have an extra-time-on-tests problem."
+    },
+    {
+      "title": "How to Think, Not What to Think",
+      "link": "https://www.theatlantic.com/ideas/archive/2025/09/teach-students-how-think-not-what-think/684271/",
+      "author": "",
+      "published": "2025-09-19T11:00:00+00:00",
+      "category": "教育",
+      "summary": "College is not just about transmitting knowledge—it’s also about learning and practicing the skills that connect us to one another."
+    },
+    {
+      "title": "What Many Parents Miss About the Phones-in-Schools Debate",
+      "link": "https://www.theatlantic.com/family/archive/2025/08/phone-ban-school-parents/683982/",
+      "author": "",
+      "published": "2025-08-25T11:00:00+00:00",
+      "category": "教育",
+      "summary": "Some focus on reaching their children in an emergency—and overlook the devices’ everyday threats."
+    },
+    {
+      "title": "The Elite-University Presidents Who Despise One Another",
+      "link": "https://www.theatlantic.com/ideas/archive/2025/08/trump-university-presidents/683803/",
+      "author": "",
+      "published": "2025-08-11T11:00:00+00:00",
+      "category": "教育",
+      "summary": "Inside the civil war between the Ivy League and the South"
+    },
+    {
+      "title": "Why the White House Backed Down From Its First Big Education Cuts",
+      "link": "https://www.theatlantic.com/politics/archive/2025/08/trump-education-funding-freeze/683744/",
+      "author": "",
+      "published": "2025-08-05T11:00:00+00:00",
+      "category": "教育",
+      "summary": "Defunding popular programs can be as unwelcome in Trump country as it is in coastal cities."
+    },
+    {
+      "title": "Scammers Are Coming for College Students",
+      "link": "https://www.theatlantic.com/ideas/archive/2025/07/trump-higher-education-fraud/683688/",
+      "author": "",
+      "published": "2025-07-29T11:00:00+00:00",
+      "category": "教育",
+      "summary": "The U.S. Department of Education used to employ people whose job was to stop waste, fraud, and abuse. Now almost all of their desks are empty."
+    },
+    {
+      "title": "The Problem With Rewards Credit Cards",
+      "link": "https://www.theatlantic.com/culture/archive/2025/07/sapphire-reserve-credit-card-rewards/683613/",
+      "author": "",
+      "published": "2025-07-24T14:18:00+00:00",
+      "category": "商业",
+      "summary": "Their fees are getting higher—and their benefits are sometimes wildly complicated to redeem."
+    },
+    {
+      "title": "Can This Man Save Harvard?",
+      "link": "https://www.theatlantic.com/ideas/archive/2025/07/alan-garber-harvard-trump/683592/",
+      "author": "",
+      "published": "2025-07-18T10:00:00+00:00",
+      "category": "教育",
+      "summary": "To fend off illiberalism from the White House, the university’s president also has to confront illiberalism on campus."
+    },
+    {
+      "title": "Anti-Semitism Gets the DEI Treatment",
+      "link": "https://www.theatlantic.com/ideas/archive/2025/07/columbia-anti-semitism-trump/683586/",
+      "author": "",
+      "published": "2025-07-17T21:25:00+00:00",
+      "category": "教育",
+      "summary": "University leaders may be implementing reforms that aren’t proven to work, or are proven not to work."
+    },
+    {
+      "title": "The Computer-Science Bubble Is Bursting",
+      "link": "https://www.theatlantic.com/economy/archive/2025/06/computer-science-bubble-ai/683242/",
+      "author": "",
+      "published": "2025-06-21T12:00:00+00:00",
+      "category": "教育",
+      "summary": "Artificial intelligence is ideally suited to replacing the very type of person who built it."
+    },
+    {
+      "title": "Trump’s Campaign to Scare Off Foreign Students",
+      "link": "https://www.theatlantic.com/ideas/archive/2025/05/foreign-students-trump/682955/",
+      "author": "",
+      "published": "2025-05-28T17:45:07+00:00",
+      "category": "教育",
+      "summary": "The administration’s recent crackdown could have a powerful deterrent effect."
+    },
+    {
+      "title": "The New Spiritual Leader on Campus",
+      "link": "https://www.theatlantic.com/family/archive/2025/05/college-chaplain-secular-students/682825/",
+      "author": "",
+      "published": "2025-05-18T12:30:00+00:00",
+      "category": "教育",
+      "summary": "Students are growing less religious. Many chaplains are adapting."
+    },
+    {
+      "title": "The Teen-Disengagement Crisis",
+      "link": "https://www.theatlantic.com/family/archive/2025/02/disengaged-teens-parents-nagging-school/681834/",
+      "author": "",
+      "published": "2025-02-26T15:02:00+00:00",
+      "category": "教育",
+      "summary": "By middle school, many kids’ interest in learning falls off a cliff. The ripple effects could last for years."
+    },
+    {
+      "title": "The Secret That Colleges Should Stop Keeping",
+      "link": "https://www.theatlantic.com/ideas/archive/2025/02/college-cheaper-sticker-price/681742/",
+      "author": "",
+      "published": "2025-02-20T13:00:00+00:00",
+      "category": "教育",
+      "summary": "Despite ever-higher sticker prices, the real cost of getting a degree has been going down."
+    },
+    {
+      "title": "How the Ivy League Broke America",
+      "link": "https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/",
+      "author": "",
+      "published": "2024-11-14T11:00:00+00:00",
+      "category": "教育",
+      "summary": "The meritocracy isn’t working. We need something new."
+    },
+    {
+      "title": "How One Woman Became the Scapegoat for America’s Reading Crisis",
+      "link": "https://www.theatlantic.com/magazine/archive/2024/12/lucy-calkins-child-literacy-teaching-methodology/680394/",
+      "author": "",
+      "published": "2024-11-13T12:00:00+00:00",
+      "category": "教育",
+      "summary": "Lucy Calkins was an education superstar. Now she’s cast as the reason a generation of students struggles to read. Can she reclaim her good name?"
+    },
+    {
+      "title": "The Worst of Crypto Is Yet to Come",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/10/crypto-lobbying-trump-harris/680445/",
+      "author": "",
+      "published": "2024-10-30T11:00:00+00:00",
+      "category": "商业",
+      "summary": "No matter who wins in November, the digital-asset market could be on the brink of a deregulation-fueled bonanza."
+    },
+    {
+      "title": "A Bogus New Rationale for Trump’s Economic Agenda",
+      "link": "https://www.theatlantic.com/politics/archive/2024/10/trump-tariffs-economic-uncertainty/680427/",
+      "author": "",
+      "published": "2024-10-28T18:02:00+00:00",
+      "category": "商业",
+      "summary": "His allies now claim that he wouldn’t really impose massive global tariffs if elected. But the uncertainty created by threats is bad enough."
+    },
+    {
+      "title": "The Most Opinionated Man in America",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/10/mike-solana-pirate-wires/680355/",
+      "author": "",
+      "published": "2024-10-25T11:00:00+00:00",
+      "category": "商业",
+      "summary": "Mike Solana, a Peter Thiel protégé, has made his Pirate Wires newsletter a must-read among the anti-woke investor class—and a window into what the most powerful people in tech really think."
+    },
+    {
+      "title": "The Truth About Immigration and the American Worker",
+      "link": "https://www.theatlantic.com/economy/archive/2024/10/immigration-working-class-wages/680128/",
+      "author": "",
+      "published": "2024-10-03T11:00:00+00:00",
+      "category": "商业",
+      "summary": "In many domains, the conventional wisdom among progressives is mistaken, oversimplified, or based on wishful thinking. The economics of immigration is not one of them."
+    },
+    {
+      "title": "Revenge of the Office",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/10/remote-work-amazon-executives/680108/",
+      "author": "",
+      "published": "2024-10-02T11:00:00+00:00",
+      "category": "商业",
+      "summary": "Many of America’s corporate executives have had enough of the remote-work experiment."
+    },
+    {
+      "title": "The Elite College Students Who Can’t Read Books",
+      "link": "https://www.theatlantic.com/magazine/archive/2024/11/the-elite-college-students-who-cant-read-books/679945/",
+      "author": "",
+      "published": "2024-10-01T11:30:00+00:00",
+      "category": "教育",
+      "summary": "To read a book in college, it helps to have read a book in high school."
+    },
+    {
+      "title": "We Need Supply-Side Education Policy",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/09/skills-based-hiring-degree-requirements/680044/",
+      "author": "",
+      "published": "2024-09-27T13:28:00+00:00",
+      "category": "商业",
+      "summary": "Eliminating degree requirements for jobs is very popular with voters but would do almost nothing to help workers who don’t have a college diploma."
+    },
+    {
+      "title": "Lighthouse Parents Have More Confident Kids",
+      "link": "https://www.theatlantic.com/family/archive/2024/09/lighthouse-parents-have-more-confident-kids/679976/",
+      "author": "",
+      "published": "2024-09-22T13:00:00+00:00",
+      "category": "教育",
+      "summary": "Sometimes, the best thing a parent can do is nothing at all."
+    },
+    {
+      "title": "Trump’s Deranged Plan to Lower Food Prices by Raising Them",
+      "link": "https://www.theatlantic.com/politics/archive/2024/09/trump-tariffs-grocery-prices/679942/",
+      "author": "",
+      "published": "2024-09-20T11:00:00+00:00",
+      "category": "商业",
+      "summary": "If you wish grocery stores were more expensive and offered less variety, then you’ll love his tariff proposal."
+    },
+    {
+      "title": "Did the Fed Wait Too Long to Act?",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/09/federal-reserve-interest-rate-cut/679910/",
+      "author": "",
+      "published": "2024-09-18T18:05:00+00:00",
+      "category": "商业",
+      "summary": "America has officially defeated inflation without experiencing a recession—yet."
+    },
+    {
+      "title": "How School Drop-Off Became a Nightmare",
+      "link": "https://www.theatlantic.com/family/archive/2024/09/school-drop-off-cars-chaos/679869/",
+      "author": "",
+      "published": "2024-09-16T11:00:00+00:00",
+      "category": "教育",
+      "summary": "More parents are driving kids than ever before. The result is mayhem."
+    },
+    {
+      "title": "The Wrath at Khan",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/08/silicon-valley-lina-khan-antitrust/679655/",
+      "author": "",
+      "published": "2024-08-30T11:00:00+00:00",
+      "category": "商业",
+      "summary": "Silicon Valley billionaires claim that antitrust enforcement hurts the little guy. Do they have a point?"
+    },
+    {
+      "title": "Marijuana Is Too Strong Now",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/08/high-potency-marijuana-regulation/679639/",
+      "author": "",
+      "published": "2024-08-29T11:00:00+00:00",
+      "category": "商业",
+      "summary": "As weed has become easier to obtain, it has become harder to smoke."
+    },
+    {
+      "title": "What Kamala Harris Doesn’t Get About Food Costs",
+      "link": "https://www.theatlantic.com/politics/archive/2024/08/kamala-harris-food-prices/679593/",
+      "author": "",
+      "published": "2024-08-23T16:47:00+00:00",
+      "category": "商业",
+      "summary": "The real culprit is the host of federal laws and regulations propping up prices to benefit corporate interests."
+    },
+    {
+      "title": "TV Still Runs Politics",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/08/tv-still-runs-politics/679550/",
+      "author": "",
+      "published": "2024-08-22T11:00:00+00:00",
+      "category": "商业",
+      "summary": "Just about every major development in the current presidential campaign started as a television event."
+    },
+    {
+      "title": "Sometimes You Just Have to Ignore the Economists",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/08/economists-kamala-harris-price-gouging/679547/",
+      "author": "",
+      "published": "2024-08-22T11:00:00+00:00",
+      "category": "商业",
+      "summary": "Kamala Harris’s proposed price-gouging ban might irritate academics, but it makes sense to everyone else."
+    },
+    {
+      "title": "We’re Entering an AI Price-Fixing Dystopia",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/08/ai-price-algorithms-realpage/679405/",
+      "author": "",
+      "published": "2024-08-10T11:30:00+00:00",
+      "category": "商业",
+      "summary": "Algorithmic collusion appears to be spreading to more and more industries. And existing laws may not be equipped to stop it."
+    },
+    {
+      "title": "My Mom Says She Loves Me. AI Says She’s Lying.",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/07/ai-lie-detection-technology/679201/",
+      "author": "",
+      "published": "2024-07-29T11:30:00+00:00",
+      "category": "商业",
+      "summary": "Can machine-learning algorithms distinguish truth from falsehood? We’re about to find out."
+    },
+    {
+      "title": "The Urban Doom Loop Could Still Happen",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/07/urban-doom-loop-san-francisco/679090/",
+      "author": "",
+      "published": "2024-07-20T12:00:00+00:00",
+      "category": "商业",
+      "summary": "City economies are booming, but the risk of a commercial-real-estate crash remains as real as ever."
+    },
+    {
+      "title": "What the VW-Rivian Deal Means for Big Auto",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/07/volkswagen-rivian-ev-software/678935/",
+      "author": "",
+      "published": "2024-07-08T11:00:00+00:00",
+      "category": "商业",
+      "summary": "The joint venture between a legacy giant and an EV start-up will be a fascinating test of the industry’s effort to embrace technological change."
+    },
+    {
+      "title": "NASA Finally Has an Alternative to SpaceX",
+      "link": "https://www.theatlantic.com/science/archive/2024/06/boeing-starliner-launch-nasa-astronauts/678574/",
+      "author": "",
+      "published": "2024-06-05T15:25:15+00:00",
+      "category": "商业",
+      "summary": "After years of complications, Boeing has launched astronauts to space for the first time."
+    },
+    {
+      "title": "The Rise of Poverty Inc.",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/06/corporate-middlemen-poverty-programs/678548/",
+      "author": "",
+      "published": "2024-06-01T12:00:00+00:00",
+      "category": "商业",
+      "summary": "How helping the poor became big business"
+    },
+    {
+      "title": "Why Your Vet Bill Is So High",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/04/vet-private-equity-industry/678180/",
+      "author": "",
+      "published": "2024-04-25T13:31:00+00:00",
+      "category": "商业",
+      "summary": "Corporations and private-equity funds have been rolling up smaller chains and previously independent practices."
+    },
+    {
+      "title": "Boeing and the Dark Age of American Manufacturing",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/04/boeing-corporate-america-manufacturing/678137/",
+      "author": "",
+      "published": "2024-04-20T12:00:00+00:00",
+      "category": "商业",
+      "summary": "Somewhere along the line, the plane maker lost interest in making its own planes. Can it rediscover its engineering soul?"
+    },
+    {
+      "title": "Welcome to Pricing Hell",
+      "link": "https://www.theatlantic.com/ideas/archive/2024/04/surge-pricing-fees-economy/678078/",
+      "author": "",
+      "published": "2024-04-16T11:00:00+00:00",
+      "category": "商业",
+      "summary": "The ubiquitous rise of add-on fees and personalized pricing has turned buying stuff into a game you can’t win."
+    },
+    {
+      "title": "Seriously, What Are You Supposed to Do With Old Clothes?",
+      "link": "https://www.theatlantic.com/technology/archive/2022/08/what-to-do-with-old-clothing-donation-waste/671043/",
+      "author": "",
+      "published": "2022-08-03T20:41:00+00:00",
+      "category": "精选",
+      "summary": "There are no good solutions to the problems of closet clean-out."
+    }
+  ]
 }
