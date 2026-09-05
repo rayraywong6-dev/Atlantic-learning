@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="The Atlantic 公开文章英文学习索引">
+  <title>Atlantic Learning</title>
+  <style>
+    :root{--ink:#172235;--muted:#657184;--line:#dce3ec;--blue:#1557b0;--pale:#f2f7fd;--paper:#fff}
+    *{box-sizing:border-box}
+    body{margin:0;background:#f5f7fa;color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC",sans-serif}
+    header{background:linear-gradient(135deg,#0d3267,#1763bb);color:white;padding:54px 20px 42px}
+    .wrap{width:min(1060px,calc(100% - 32px));margin:auto}
+    h1{font-family:Georgia,serif;font-size:clamp(36px,7vw,66px);letter-spacing:-2px;margin:0 0 8px}
+    header p{margin:0;opacity:.82;font-size:15px}
+    .toolbar{display:grid;grid-template-columns:1fr 170px;gap:12px;margin:24px 0 14px}
+    input,select{width:100%;border:1px solid var(--line);border-radius:12px;background:white;padding:13px 14px;font-size:15px;color:var(--ink);outline:none}
+    input:focus,select:focus{border-color:var(--blue);box-shadow:0 0 0 3px #1557b01a}
+    .meta{color:var(--muted);font-size:13px;margin:0 2px 18px}
+    .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;padding-bottom:50px}
+    article{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:22px;display:flex;flex-direction:column;min-height:260px;box-shadow:0 5px 18px #16294609}
+    .eyebrow{display:flex;justify-content:space-between;gap:12px;color:var(--blue);font-size:12px;font-weight:700;letter-spacing:.05em}
+    article h2{font-family:Georgia,serif;font-size:24px;line-height:1.18;margin:14px 0 8px}
+    .byline{color:var(--muted);font-size:13px;margin-bottom:14px}
+    .summary{color:#3d4a5d;font-size:14px;line-height:1.7;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+    .open{margin-top:auto;padding-top:18px;color:var(--blue);font-weight:700;text-decoration:none;font-size:14px}
+    .open:hover{text-decoration:underline}
+    .empty{grid-column:1/-1;background:white;border:1px solid var(--line);border-radius:16px;padding:38px;text-align:center;color:var(--muted)}
+    footer{border-top:1px solid var(--line);color:var(--muted);padding:24px 0 38px;font-size:12px;line-height:1.7}
+    @media(max-width:700px){header{padding-top:40px}.toolbar{grid-template-columns:1fr}.grid{grid-template-columns:1fr}article{min-height:235px}}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>Atlantic Learning</h1>
+      <p>公开文章索引 · 每日更新 · 从标题和摘要开始读英文</p>
+    </div>
+  </header>
+  <main class="wrap">
+    <div class="toolbar">
+      <input id="search" type="search" placeholder="搜索标题、作者或摘要…" aria-label="搜索文章">
+      <select id="category" aria-label="筛选栏目"><option value="">全部栏目</option></select>
+    </div>
+    <div class="meta" id="meta">正在读取资料库…</div>
+    <section class="grid" id="articles"></section>
+  </main>
+  <footer><div class="wrap">本站仅索引 The Atlantic 公开 RSS 提供的元数据与摘要，不绕过订阅或付费墙。文章版权归 The Atlantic 及原作者所有。</div></footer>
+<script>
+const state={articles:[],query:"",category:""};
+const escapeHtml=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+function dateLabel(value){
+  if(!value)return "";
+  const d=new Date(value);
+  return Number.isNaN(d.valueOf())?value:new Intl.DateTimeFormat("zh-CN",{year:"numeric",month:"short",day:"numeric"}).format(d);
+}
+function render(){
+  const q=state.query.trim().toLowerCase();
+  const rows=state.articles.filter(a=>(!state.category||a.category===state.category)&&(!q||[a.title,a.author,a.summary].join(" ").toLowerCase().includes(q)));
+  document.querySelector("#meta").textContent=`显示 ${rows.length} 篇文章`;
+  document.querySelector("#articles").innerHTML=rows.length?rows.map(a=>`
+    <article>
+      <div class="eyebrow"><span>${escapeHtml(a.category||"文章")}</span><span>${escapeHtml(dateLabel(a.published))}</span></div>
+      <h2>${escapeHtml(a.title)}</h2>
+      <div class="byline">${a.author?"By "+escapeHtml(a.author):""}</div>
+      <div class="summary">${escapeHtml(a.summary||"RSS 未提供摘要，请前往原文阅读。")}</div>
+      <a class="open" href="${escapeHtml(a.link)}" target="_blank" rel="noopener noreferrer">阅读原文 →</a>
+    </article>`).join(""):`<div class="empty">没有找到匹配的文章。</div>`;
+}
+fetch("./data/articles.json",{cache:"no-store"})
+  .then(r=>{if(!r.ok)throw new Error("HTTP "+r.status);return r.json()})
+  .then(data=>{
+    state.articles=data.articles||[];
+    const cats=[...new Set(state.articles.map(a=>a.category).filter(Boolean))].sort();
+    document.querySelector("#category").insertAdjacentHTML("beforeend",cats.map(c=>`<option>${escapeHtml(c)}</option>`).join(""));
+    const stamp=data.updated_at?dateLabel(data.updated_at):"尚未更新";
+    document.querySelector("#meta").textContent=`共 ${state.articles.length} 篇 · 更新于 ${stamp}`;
+    render();
+  })
+  .catch(err=>{document.querySelector("#meta").textContent="资料尚未生成";document.querySelector("#articles").innerHTML=`<div class="empty">首次自动更新完成后，文章会显示在这里。<br><small>${escapeHtml(err.message)}</small></div>`});
+document.querySelector("#search").addEventListener("input",e=>{state.query=e.target.value;render()});
+document.querySelector("#category").addEventListener("change",e=>{state.category=e.target.value;render()});
+</script>
+</body>
+</html>
