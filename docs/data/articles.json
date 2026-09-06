@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T01:32:12.747824+00:00",
-  "article_count": 125,
+  "updated_at": "2026-09-06T04:36:54.093288+00:00",
+  "article_count": 131,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
     "精选": "https://www.theatlantic.com/feed/best-of/",
@@ -11,6 +11,54 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "The Backlash Against Data Centers",
+      "link": "https://www.theatlantic.com/national/2026/09/backlash-ai-washington-week/688540/",
+      "author": "",
+      "published": "2026-09-05T14:24:35+00:00",
+      "category": "全部",
+      "summary": "The Atlantic staff writer Josh Tyrangiel joined for a special edition of Washington Week With The Atlantic to discuss the future of AI."
+    },
+    {
+      "title": "Rediscover the Ordinary",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/find-wonder-in-ordinary/688536/",
+      "author": "",
+      "published": "2026-09-05T13:00:00+00:00",
+      "category": "精选",
+      "summary": "A case for finding wonder in familiar things"
+    },
+    {
+      "title": "Why Wendell Berry Didn’t Worry About the Future",
+      "link": "https://www.theatlantic.com/culture/2026/09/wendell-berry-obit-legacy/688530/",
+      "author": "",
+      "published": "2026-09-05T12:00:00+00:00",
+      "category": "精选",
+      "summary": "His life as a writer and farmer was informed by a simple, clarifying idea: Forget tomorrow, and work toward what is good today."
+    },
+    {
+      "title": "J. D. Vance’s Disingenuous Defense of Tucker Carlson",
+      "link": "https://www.theatlantic.com/ideas/2026/09/vance-carlson-political-friendship/688533/",
+      "author": "",
+      "published": "2026-09-05T11:00:00+00:00",
+      "category": "精选",
+      "summary": "The vice president’s relationship with a conspiracy theorist is, at bottom, a political partnership, not a personal friendship."
+    },
+    {
+      "title": "The Rush-Job Presidency",
+      "link": "https://www.theatlantic.com/culture/2026/09/trump-ballroom-arch-rush/688523/",
+      "author": "",
+      "published": "2026-09-05T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Trump wants his ballroom and arch done while he’s in office. There’s a risk."
+    },
+    {
+      "title": "Why I Want More AI at Dartmouth",
+      "link": "https://www.theatlantic.com/ideas/2026/09/universities-prohibiting-ai-classroom/688509/",
+      "author": "",
+      "published": "2026-09-05T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Universities that hide from the technology will merely secure their irrelevance."
+    },
     {
       "title": "Crypto Money Still Matters for the Midterms",
       "link": "https://www.theatlantic.com/newsletters/2026/09/crypto-money-still-matters-for-the-midterms/688537/",
@@ -128,7 +176,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/09/early-computers-1984-apple/688515/",
       "author": "",
       "published": "2026-09-03T20:41:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Technology was once seen as countercultural. What happened?"
     },
     {
@@ -144,7 +192,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/09/an-alien-scholars-notes-on-trumps-washington/688511/",
       "author": "",
       "published": "2026-09-03T18:15:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Why did he hate one pool so much?"
     },
     {
@@ -152,7 +200,7 @@
       "link": "https://www.theatlantic.com/books/2026/09/sexual-deception-trial-the-bed-trick-izabella-scott-book-review/688510/",
       "author": "",
       "published": "2026-09-03T17:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A new book about an infamous trial asks how the stories we tell can define our relationships."
     },
     {
