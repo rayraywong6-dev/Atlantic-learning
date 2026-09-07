@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T04:36:54.093288+00:00",
-  "article_count": 131,
+  "updated_at": "2026-09-07T04:39:14.968556+00:00",
+  "article_count": 137,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
     "精选": "https://www.theatlantic.com/feed/best-of/",
@@ -11,6 +11,54 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Abstract",
+      "link": "https://www.theatlantic.com/magazine/2026/10/jane-hirshfield-abstract/688346/",
+      "author": "",
+      "published": "2026-09-06T15:00:00+00:00",
+      "category": "精选",
+      "summary": "A poem"
+    },
+    {
+      "title": "This Tiny E-Reader Is the Single Best Piece of Technology in Years",
+      "link": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+      "author": "",
+      "published": "2026-09-06T12:00:00+00:00",
+      "category": "科技",
+      "summary": "The $70 Xteink X3 puts Silicon Valley to shame."
+    },
+    {
+      "title": "What’s the Matter With Moderation?",
+      "link": "https://www.theatlantic.com/ideas/2026/09/adam-hamilton-kansas-senate-race/688531/",
+      "author": "",
+      "published": "2026-09-06T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Hoping to break a 94-year losing streak, Kansas Democrats have turned to Adam Hamilton, a Methodist pastor whose mood may not match his party’s."
+    },
+    {
+      "title": "Six Movies to Get You in the Fall Mood",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/six-movies-to-get-you-in-fall-mood/688527/",
+      "author": "",
+      "published": "2026-09-06T11:00:00+00:00",
+      "category": "精选",
+      "summary": "From cozy classics to unlikely favorites, The Atlantic ’s writers and editors share their seasonal picks."
+    },
+    {
+      "title": "AI Is Already Making Us Less Human",
+      "link": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
+      "author": "",
+      "published": "2026-09-06T10:00:00+00:00",
+      "category": "精选",
+      "summary": "As we learn to think more and more highly of the bots, we will learn to think less and less highly of our fellow humans."
+    },
+    {
+      "title": "Japan’s Strategic Turn",
+      "link": "https://www.theatlantic.com/ideas/2026/09/japan-defense-nuclear-threat/688517/",
+      "author": "",
+      "published": "2026-09-06T10:00:00+00:00",
+      "category": "全部",
+      "summary": "The country is taking once-unthinkable steps to ensure its own defense."
+    },
     {
       "title": "The Backlash Against Data Centers",
       "link": "https://www.theatlantic.com/national/2026/09/backlash-ai-washington-week/688540/",
@@ -104,7 +152,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/09/why-so-many-men-are-unraveling/688520/",
       "author": "",
       "published": "2026-09-04T17:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The disinhibited men looking for purpose in all the wrong places"
     },
     {
@@ -120,7 +168,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/09/introducing-the-permanent-questions/688438/",
       "author": "",
       "published": "2026-09-04T15:45:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Conversations from the deep end"
     },
     {
@@ -128,7 +176,7 @@
       "link": "https://www.theatlantic.com/photography/2026/09/photos-of-the-week-nomad-games-pushkin-puppet-lunar-simulation/688512/",
       "author": "",
       "published": "2026-09-04T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A 90-year-old bodybuilding champion in Japan, a memorial for King Harald V of Norway, a kite festival in Indonesia, a marching-band performance in Atlanta, and much more."
     },
     {
@@ -160,7 +208,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/09/live-nation-trump-antitrust-monopolies/688508/",
       "author": "",
       "published": "2026-09-04T02:52:03+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "What the Live Nation case says about the fate of monopolies now"
     },
     {
