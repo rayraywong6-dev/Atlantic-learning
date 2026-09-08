@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T04:39:14.968556+00:00",
-  "article_count": 137,
+  "updated_at": "2026-09-08T04:33:56.022732+00:00",
+  "article_count": 141,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
     "精选": "https://www.theatlantic.com/feed/best-of/",
@@ -11,6 +11,38 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "How the Government Wastes Our Time",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/ra-the-time-tax/688503/",
+      "author": "",
+      "published": "2026-09-07T16:00:00+00:00",
+      "category": "精选",
+      "summary": "What do we lose in the hours spent filling out paperwork?"
+    },
+    {
+      "title": "The Last Thing Teenagers Will Let You Teach Them",
+      "link": "https://www.theatlantic.com/family/2026/09/teen-driving-lessons/688534/",
+      "author": "",
+      "published": "2026-09-07T12:00:00+00:00",
+      "category": "精选",
+      "summary": "An interesting shift happens when a kid is learning to drive, and you’re both inside a box with your fear, moving 40 miles an hour."
+    },
+    {
+      "title": "The DSA’s Problem Isn’t ‘Media Training’",
+      "link": "https://www.theatlantic.com/politics/2026/09/democratic-socialist-authoritarian-extremist/688529/",
+      "author": "",
+      "published": "2026-09-07T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Authoritarian extremists are speaking for American socialists, and a lot of people don’t like what they say."
+    },
+    {
+      "title": "The Charges Were Dropped, but the Damage Was Already Done",
+      "link": "https://www.theatlantic.com/politics/2026/09/prosecution-immigration-ice-protests/688513/",
+      "author": "",
+      "published": "2026-09-07T11:00:00+00:00",
+      "category": "精选",
+      "summary": "David Huerta was arrested while protesting ICE raids in L.A."
+    },
     {
       "title": "Abstract",
       "link": "https://www.theatlantic.com/magazine/2026/10/jane-hirshfield-abstract/688346/",
@@ -44,7 +76,7 @@
       "summary": "From cozy classics to unlikely favorites, The Atlantic ’s writers and editors share their seasonal picks."
     },
     {
-      "title": "AI Is Already Making Us Less Human",
+      "title": "AI Is Already Changing What It Means to Be Human",
       "link": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
       "author": "",
       "published": "2026-09-06T10:00:00+00:00",
