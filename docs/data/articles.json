@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T04:33:56.022732+00:00",
-  "article_count": 141,
+  "updated_at": "2026-09-09T04:40:15.255296+00:00",
+  "article_count": 153,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
     "精选": "https://www.theatlantic.com/feed/best-of/",
@@ -11,6 +11,102 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Medicine Needs to Get Serious About AI",
+      "link": "https://www.theatlantic.com/health/2026/09/artificial-intelligence-autonomous-doctor-medicine/688543/",
+      "author": "",
+      "published": "2026-09-08T16:54:01+00:00",
+      "category": "精选",
+      "summary": "Let the robots try being doctors."
+    },
+    {
+      "title": "Cereal Has Strayed Too Far",
+      "link": "https://www.theatlantic.com/health/2026/09/cereal-dye-sugar-coated/688526/",
+      "author": "",
+      "published": "2026-09-08T16:44:15+00:00",
+      "category": "全部",
+      "summary": "How breakfast became dessert"
+    },
+    {
+      "title": "When Mothers Get Arrested for Mothering",
+      "link": "https://www.theatlantic.com/ideas/2026/09/karyann-parkinson-children-indpendence/688541/",
+      "author": "",
+      "published": "2026-09-08T16:17:00+00:00",
+      "category": "精选",
+      "summary": "Raising independent kids shouldn’t be this hard."
+    },
+    {
+      "title": "Why Lonnie Bunch Is Leaving the Smithsonian",
+      "link": "https://www.theatlantic.com/culture/2026/09/lonnie-bunch-will-leave-smithsonian/688544/",
+      "author": "",
+      "published": "2026-09-08T15:56:00+00:00",
+      "category": "精选",
+      "summary": "After months of clashes with the White House, the historian and leader of the institution is retiring later this year."
+    },
+    {
+      "title": "The Novel That Looks Death in the Eye",
+      "link": "https://www.theatlantic.com/books/2026/09/emma-clines-anti-escapist-novel-switzy-book-review/688538/",
+      "author": "",
+      "published": "2026-09-08T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Emma Cline’s Switzy might not make readers happy, but it could strike them with moments of sublime clarity."
+    },
+    {
+      "title": "The Myth of Perfect Knowledge",
+      "link": "https://www.theatlantic.com/ideas/2026/09/science-objectivity-myth-physics/688532/",
+      "author": "",
+      "published": "2026-09-08T12:30:00+00:00",
+      "category": "全部",
+      "summary": "Science will never be able to give a completely objective description of the world. That should make us humbler—and wiser."
+    },
+    {
+      "title": "Zoos Are Doubling Down on Very Unnatural Habitats",
+      "link": "https://www.theatlantic.com/science/2026/09/zoo-animals-technology/688416/",
+      "author": "",
+      "published": "2026-09-08T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Could high-tech toys help captive animals act more wild?"
+    },
+    {
+      "title": "Voters Have a Message for Democrats",
+      "link": "https://www.theatlantic.com/ideas/2026/09/democrats-voters-focus-groups/688519/",
+      "author": "",
+      "published": "2026-09-08T11:30:00+00:00",
+      "category": "全部",
+      "summary": "Fight harder."
+    },
+    {
+      "title": "Misunder­standing Norman Rockwell",
+      "link": "https://www.theatlantic.com/culture/2026/09/norman-rockwell-four-freedoms-david-lynch/688518/",
+      "author": "",
+      "published": "2026-09-08T11:30:00+00:00",
+      "category": "精选",
+      "summary": "His paintings evoked an American innocence that didn’t exist—and that the nation couldn’t live up to."
+    },
+    {
+      "title": "A War of Assassinations",
+      "link": "https://www.theatlantic.com/national-security/2026/09/iran-war-trump-assassinations/688522/",
+      "author": "",
+      "published": "2026-09-08T11:00:00+00:00",
+      "category": "精选",
+      "summary": "The U.S. and Iran are engaged in a conflict that is massive in scale but personal in nature."
+    },
+    {
+      "title": "The 24-Year-Old Who Lost Billions",
+      "link": "https://www.theatlantic.com/ideas/2026/09/aschenbrenner-ai-future/688493/",
+      "author": "",
+      "published": "2026-09-08T11:00:00+00:00",
+      "category": "全部",
+      "summary": "Leo Aschenbrenner claimed to know the future of AI."
+    },
+    {
+      "title": "Will Taiwan Just Give Up?",
+      "link": "https://www.theatlantic.com/magazine/2026/10/trump-taiwan-sovereignty-china/688356/",
+      "author": "",
+      "published": "2026-09-08T11:00:00+00:00",
+      "category": "国际",
+      "summary": "The Taiwanese don’t trust Trump, and they don’t believe America will come to their defense. A deal with China is starting to look inevitable."
+    },
     {
       "title": "How the Government Wastes Our Time",
       "link": "https://www.theatlantic.com/podcasts/2026/09/ra-the-time-tax/688503/",
