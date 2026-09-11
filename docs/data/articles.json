@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T04:40:54.987053+00:00",
-  "article_count": 169,
+  "updated_at": "2026-09-11T04:38:43.070555+00:00",
+  "article_count": 185,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
     "精选": "https://www.theatlantic.com/feed/best-of/",
@@ -11,6 +11,134 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Trump’s Weird Loyalty Pledge",
+      "link": "https://www.theatlantic.com/ideas/2026/09/trump-convention-speech/688583/",
+      "author": "",
+      "published": "2026-09-11T04:08:42+00:00",
+      "category": "精选",
+      "summary": "In a night of wild emotions and odd ideas, one moment stood out."
+    },
+    {
+      "title": "The MAGA Movement Is Splintering Without Charlie Kirk",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/charlie-kirk-one-year-maga-movement/688588/",
+      "author": "",
+      "published": "2026-09-10T21:58:00+00:00",
+      "category": "精选",
+      "summary": "A year of feuds among MAGA figures shows how much the movement depended on Kirk personally."
+    },
+    {
+      "title": "What Makes Tennis One of the Greatest Games",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/tenis-history-greatest-games-sport/688587/",
+      "author": "",
+      "published": "2026-09-10T21:40:00+00:00",
+      "category": "精选",
+      "summary": "It wasn’t always regarded as the intensely athletic sport that it is."
+    },
+    {
+      "title": "What Bush Understood That Trump Doesn’t",
+      "link": "https://www.theatlantic.com/ideas/2026/09/bush-trump-mamdani-giuliani-islam/688582/",
+      "author": "",
+      "published": "2026-09-10T20:48:08+00:00",
+      "category": "精选",
+      "summary": "The leaders of the American right have embraced the false idea that the United States is at war with Islam."
+    },
+    {
+      "title": "The Los Angeles Rams Are Trying to Defeat Time",
+      "link": "https://www.theatlantic.com/health/2026/09/nfl-australia-jet-lag-49ers-rams/688577/",
+      "author": "",
+      "published": "2026-09-10T19:27:07+00:00",
+      "category": "精选",
+      "summary": "Welcome to the Super Bowl of jet lag."
+    },
+    {
+      "title": "What Colin Powell Did on 9/11",
+      "link": "https://www.theatlantic.com/national-security/2026/09/colin-powell-911-democracy/688566/",
+      "author": "",
+      "published": "2026-09-10T19:15:32+00:00",
+      "category": "精选",
+      "summary": "His insistence during an overseas trip on championing democracy in foreign policy is now a relic."
+    },
+    {
+      "title": "The Thrill of Wanting AI to Destroy the World",
+      "link": "https://www.theatlantic.com/ideas/2026/09/ai-destroy-world-apocalypse/688575/",
+      "author": "",
+      "published": "2026-09-10T18:35:44+00:00",
+      "category": "精选",
+      "summary": "An Anthropic researcher quit his job because he believes AI will destroy humanity. His story is going viral because so many others want to believe too."
+    },
+    {
+      "title": "What the Failure to Convict the Alleged 9/11 Mastermind Reveals",
+      "link": "https://www.theatlantic.com/ideas/2026/09/9-11-lessons-bush-trump/688572/",
+      "author": "",
+      "published": "2026-09-10T17:56:00+00:00",
+      "category": "精选",
+      "summary": "The George W. Bush administration circumvented the law to persecute alleged September 11 perpetrators. It backfired."
+    },
+    {
+      "title": "Trump’s Dream World in Dallas",
+      "link": "https://www.theatlantic.com/politics/2026/09/trump-midterms-dallas-convention/688568/",
+      "author": "",
+      "published": "2026-09-10T15:28:00+00:00",
+      "category": "精选",
+      "summary": "At a midterm convention, Trump tries to defy the odds one last time."
+    },
+    {
+      "title": "What Russia Is Really Up To in Europe",
+      "link": "https://www.theatlantic.com/international/2026/09/putin-russia-europe-trump-war/688565/",
+      "author": "",
+      "published": "2026-09-10T15:00:00+00:00",
+      "category": "国际",
+      "summary": "Moscow doesn’t want a conventional war, but it is busy fighting a hybrid one."
+    },
+    {
+      "title": "Jackie Collins Wrote Her Own Revolution",
+      "link": "https://www.theatlantic.com/magazine/2026/10/writers-way-hollywood-jackie-collins-travel/688354/",
+      "author": "",
+      "published": "2026-09-10T13:00:00+00:00",
+      "category": "精选",
+      "summary": "The novelist imagined women enjoying equality in the bedroom and the boardroom. Are we any closer to living in that world?"
+    },
+    {
+      "title": "Trump Is Preparing for a Long War",
+      "link": "https://www.theatlantic.com/national-security/2026/09/trump-iran-war-navy/688563/",
+      "author": "",
+      "published": "2026-09-10T12:12:02+00:00",
+      "category": "精选",
+      "summary": "The military is doing long-term planning for its force in the Persian Gulf, risking further strain on the Navy."
+    },
+    {
+      "title": "What Lonnie Bunch Told Me",
+      "link": "https://www.theatlantic.com/culture/2026/09/lonnie-bunch-smithsonian-retirement/688564/",
+      "author": "",
+      "published": "2026-09-10T12:00:00+00:00",
+      "category": "精选",
+      "summary": "He was ready for life after the Smithsonian. Protecting the institution had taken a toll."
+    },
+    {
+      "title": "Sarah Longwell’s Playbook for Defeating MAGA",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/a-playbook-for-defeating-maga/688542/",
+      "author": "",
+      "published": "2026-09-10T11:00:00+00:00",
+      "category": "精选",
+      "summary": "The Bulwark publisher and author of How to Eat an Elephant on what voters want to hear"
+    },
+    {
+      "title": "The Election Deniers’ Long Game",
+      "link": "https://www.theatlantic.com/magazine/2026/10/big-lie-local-elections-midterms/688359/",
+      "author": "",
+      "published": "2026-09-10T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Right-wing activists have slowly taken control of a significant part of America’s local election apparatus. The country isn’t prepared for what they might do."
+    },
+    {
+      "title": "What the Aftermath of 9/11 Taught Me",
+      "link": "https://www.theatlantic.com/ideas/2026/09/9-11-first-responders-care/688554/",
+      "author": "",
+      "published": "2026-09-10T10:00:00+00:00",
+      "category": "精选",
+      "summary": "Government should be about producing results for people."
+    },
     {
       "title": "Okay, Sure, a Folding iPhone",
       "link": "https://www.theatlantic.com/technology/2026/09/apple-folding-iphone/688562/",
@@ -48,7 +176,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/09/trump-miderm-strategy-convention/688559/",
       "author": "",
       "published": "2026-09-09T19:15:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Traditionally, candidates try to distance themselves from unpopular presidents. But this year, that’s impossible."
     },
     {
@@ -56,7 +184,7 @@
       "link": "https://www.theatlantic.com/photography/2026/09/winners-ocean-photographer-year-2026/688545/",
       "author": "",
       "published": "2026-09-09T18:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Images from this year’s Ocean Photographer of the Year competition, presented by Oceanographic Magazine and Blancpain, featuring some of the best coastal, drone, and underwater photographs selected from more than 15,000 entries"
     },
     {
@@ -64,7 +192,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/09/david-frum-show-john-mcconnell-inside-the-white-house-on-911/688558/",
       "author": "",
       "published": "2026-09-09T18:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "John McConnell on his memories of working in the White House on September 11, 2001. Plus: American Pastoral , by Philip Roth."
     },
     {
@@ -80,7 +208,7 @@
       "link": "https://www.theatlantic.com/culture/2026/09/lonnie-bunch-smithsonian-legacy/688550/",
       "author": "",
       "published": "2026-09-09T12:55:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "As pressures bore down on an American institution, its secretary held firm."
     },
     {
