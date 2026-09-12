@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T04:38:43.070555+00:00",
-  "article_count": 185,
+  "updated_at": "2026-09-12T04:32:48.234443+00:00",
+  "article_count": 203,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
     "精选": "https://www.theatlantic.com/feed/best-of/",
@@ -12,11 +12,123 @@
   "errors": [],
   "articles": [
     {
+      "title": "Everything Trump Wants to Do Causes Inflation",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/trump-5k-inflation-republican-midterm-convention/688603/",
+      "author": "",
+      "published": "2026-09-11T22:16:00+00:00",
+      "category": "精选",
+      "summary": "Does he not understand, or does he just not care?"
+    },
+    {
+      "title": "A Recap of a Surreal Midterm Convention",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/trump-republican-midterm-convention-speeches/688606/",
+      "author": "",
+      "published": "2026-09-11T21:29:00+00:00",
+      "category": "精选",
+      "summary": "It isn’t over until the president’s tenor sings."
+    },
+    {
+      "title": "The AI Pandemic Isn’t On Its Way",
+      "link": "https://www.theatlantic.com/health/2026/09/ai-virus-nature-pandemic/688569/",
+      "author": "",
+      "published": "2026-09-11T17:12:58+00:00",
+      "category": "精选",
+      "summary": "Yet plenty of others might be, thanks to evolution."
+    },
+    {
+      "title": "Photos: 9/11 Memorials",
+      "link": "https://www.theatlantic.com/photography/2026/09/photos-911-memorials/688574/",
+      "author": "",
+      "published": "2026-09-11T17:09:49+00:00",
+      "category": "精选",
+      "summary": "Remembrance and reflection, 25 years later"
+    },
+    {
+      "title": "AI Writing Has Entered Its Post-Shame Era",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/is-ai-writing-inevitable/688578/",
+      "author": "",
+      "published": "2026-09-11T17:00:00+00:00",
+      "category": "精选",
+      "summary": "Media already have a trust problem."
+    },
+    {
+      "title": "The Spectacle of 1980s Hollywood",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/the-books-briefing-jackie-collins-la-novelist/688595/",
+      "author": "",
+      "published": "2026-09-11T16:00:00+00:00",
+      "category": "精选",
+      "summary": "Jackie Collins wrote flashy Hollywood thrillers, but isn’t often thought of as a canonical Los Angeles writer."
+    },
+    {
+      "title": "Trump Loses the Other Strait",
+      "link": "https://www.theatlantic.com/international/2026/09/trump-iran-houthis-yemen/688592/",
+      "author": "",
+      "published": "2026-09-11T14:40:00+00:00",
+      "category": "国际",
+      "summary": "The Houthi advance is bad news for the U.S., and even worse news for Saudi Arabia."
+    },
+    {
+      "title": "Postscript to American Ground: Unbuilding the World Trade Center",
+      "link": "https://www.theatlantic.com/national/2026/09/afterword-american-ground-unbuilding-world-trade-center/688570/",
+      "author": "",
+      "published": "2026-09-11T14:33:38+00:00",
+      "category": "精选",
+      "summary": "A note from the author"
+    },
+    {
+      "title": "Rules Designed to Create Chaos",
+      "link": "https://www.theatlantic.com/ideas/2026/09/mail-voting-usps-trump/688585/",
+      "author": "",
+      "published": "2026-09-11T13:12:56+00:00",
+      "category": "精选",
+      "summary": "The Trump administration is hoping to put so many restrictions on mail-in balloting that people simply won’t be able to vote that way at all."
+    },
+    {
+      "title": "Photos of the Week: Night Harvest, Heavy Surf, Pumpkin Kong",
+      "link": "https://www.theatlantic.com/photography/2026/09/photos-of-the-week-night-harvest-heavy-surf-pumpkin-kong/688573/",
+      "author": "",
+      "published": "2026-09-11T13:00:00+00:00",
+      "category": "精选",
+      "summary": "A dog fashion show in the Philippines, the West Indian Day Parade in Brooklyn, an ice cave in the French Alps, a traditional rodeo in Mexico City, and much more"
+    },
+    {
+      "title": "America Has Forfeited Its Greatest Strength",
+      "link": "https://www.theatlantic.com/ideas/2026/09/september-11-trust-america/688580/",
+      "author": "",
+      "published": "2026-09-11T12:20:00+00:00",
+      "category": "全部",
+      "summary": "Osama bin Laden wanted to eradicate faith in American power. Twenty-five years later, his dream is on the verge of coming true."
+    },
+    {
+      "title": "How to Kill a Franchise Before It Even Starts",
+      "link": "https://www.theatlantic.com/culture/2026/09/hope-movie-review/688589/",
+      "author": "",
+      "published": "2026-09-11T11:50:50+00:00",
+      "category": "精选",
+      "summary": "The new monster movie Hope can’t live up to its own epic aspirations."
+    },
+    {
+      "title": "A Quarter Century of Pain",
+      "link": "https://www.theatlantic.com/ideas/2026/09/anniversary-war-on-terror/688571/",
+      "author": "",
+      "published": "2026-09-11T10:00:00+00:00",
+      "category": "精选",
+      "summary": "After 9/11, the U.S. government was over-focused on fighting terrorism, losing sight of other threats. Americans are still living with the consequences."
+    },
+    {
+      "title": "The Original Sin of AI",
+      "link": "https://www.theatlantic.com/ideas/2026/09/meta-settlement-social-media-addiction-youth/688567/",
+      "author": "",
+      "published": "2026-09-11T10:00:00+00:00",
+      "category": "精选",
+      "summary": "The harms of chatbots are clear enough to do something about them now."
+    },
+    {
       "title": "Trump’s Weird Loyalty Pledge",
       "link": "https://www.theatlantic.com/ideas/2026/09/trump-convention-speech/688583/",
       "author": "",
       "published": "2026-09-11T04:08:42+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "In a night of wild emotions and odd ideas, one moment stood out."
     },
     {
@@ -24,7 +136,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/09/charlie-kirk-one-year-maga-movement/688588/",
       "author": "",
       "published": "2026-09-10T21:58:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A year of feuds among MAGA figures shows how much the movement depended on Kirk personally."
     },
     {
@@ -32,11 +144,11 @@
       "link": "https://www.theatlantic.com/newsletters/2026/09/tenis-history-greatest-games-sport/688587/",
       "author": "",
       "published": "2026-09-10T21:40:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "It wasn’t always regarded as the intensely athletic sport that it is."
     },
     {
-      "title": "What Bush Understood That Trump Doesn’t",
+      "title": "Bush Understood Something Trump Doesn’t",
       "link": "https://www.theatlantic.com/ideas/2026/09/bush-trump-mamdani-giuliani-islam/688582/",
       "author": "",
       "published": "2026-09-10T20:48:08+00:00",
@@ -48,11 +160,11 @@
       "link": "https://www.theatlantic.com/health/2026/09/nfl-australia-jet-lag-49ers-rams/688577/",
       "author": "",
       "published": "2026-09-10T19:27:07+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Welcome to the Super Bowl of jet lag."
     },
     {
-      "title": "What Colin Powell Did on 9/11",
+      "title": "How Colin Powell Spent 9/11",
       "link": "https://www.theatlantic.com/national-security/2026/09/colin-powell-911-democracy/688566/",
       "author": "",
       "published": "2026-09-10T19:15:32+00:00",
@@ -64,27 +176,27 @@
       "link": "https://www.theatlantic.com/ideas/2026/09/ai-destroy-world-apocalypse/688575/",
       "author": "",
       "published": "2026-09-10T18:35:44+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "An Anthropic researcher quit his job because he believes AI will destroy humanity. His story is going viral because so many others want to believe too."
     },
     {
-      "title": "What the Failure to Convict the Alleged 9/11 Mastermind Reveals",
+      "title": "The George W. Bush Administration’s Lesson for the Trump Era",
       "link": "https://www.theatlantic.com/ideas/2026/09/9-11-lessons-bush-trump/688572/",
       "author": "",
       "published": "2026-09-10T17:56:00+00:00",
-      "category": "精选",
-      "summary": "The George W. Bush administration circumvented the law to persecute alleged September 11 perpetrators. It backfired."
+      "category": "全部",
+      "summary": "It circumvented the law to pursue alleged September 11 perpetrators. That backfired."
     },
     {
       "title": "Trump’s Dream World in Dallas",
       "link": "https://www.theatlantic.com/politics/2026/09/trump-midterms-dallas-convention/688568/",
       "author": "",
       "published": "2026-09-10T15:28:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "At a midterm convention, Trump tries to defy the odds one last time."
     },
     {
-      "title": "What Russia Is Really Up To in Europe",
+      "title": "Russia’s Real Strategy in Europe",
       "link": "https://www.theatlantic.com/international/2026/09/putin-russia-europe-trump-war/688565/",
       "author": "",
       "published": "2026-09-10T15:00:00+00:00",
@@ -96,7 +208,7 @@
       "link": "https://www.theatlantic.com/magazine/2026/10/writers-way-hollywood-jackie-collins-travel/688354/",
       "author": "",
       "published": "2026-09-10T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The novelist imagined women enjoying equality in the bedroom and the boardroom. Are we any closer to living in that world?"
     },
     {
@@ -908,6 +1020,14 @@
       "summary": "It’s never been more exhausting to buy stuff."
     },
     {
+      "title": "The Man Who Refused to Sit on the Sidelines",
+      "link": "https://www.theatlantic.com/magazine/2026/09/fallen-september-11-firefighter-family/687964/",
+      "author": "",
+      "published": "2026-08-11T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Kevin Dowdell, a lieutenant in an elite FDNY rescue unit, taught his sons to take action. When he disappeared on 9/11, they went to Ground Zero to search for him."
+    },
+    {
       "title": "Ukraine May Be Just the Ally America Needs",
       "link": "https://www.theatlantic.com/international/2026/08/ukraine-ally-trump-patriot-missile/688226/",
       "author": "",
@@ -1484,12 +1604,36 @@
       "summary": "There are no good solutions to the problems of closet clean-out."
     },
     {
+      "title": "‘I Was Responsible for Those People’",
+      "link": "https://www.theatlantic.com/ideas/archive/2021/09/glenn-vogt-september-11/620030/",
+      "author": "",
+      "published": "2021-09-10T13:45:00+00:00",
+      "category": "精选",
+      "summary": "The manager of Windows on the World survived 9/11, while 79 of his employees died. He’s still searching for permission to move on."
+    },
+    {
+      "title": "What Bobby McIlvaine Left Behind",
+      "link": "https://www.theatlantic.com/magazine/archive/2021/09/twenty-years-gone-911-bobby-mcilvaine/619490/",
+      "author": "",
+      "published": "2021-08-09T10:00:00+00:00",
+      "category": "精选",
+      "summary": "Grief, conspiracy theories, and one family’s search for meaning in the two decades since 9/11"
+    },
+    {
       "title": "Autumnal Tints",
       "link": "https://www.theatlantic.com/magazine/archive/1862/10/autumnal-tints/308702/",
       "author": "",
       "published": "2011-10-09T03:04:14+00:00",
       "category": "精选",
       "summary": "“A great many, who have spent their lives in cities, and have never chanced to come into the country at this season, have never seen this, the flower, or rather the ripe fruit, of the year.”"
+    },
+    {
+      "title": "American Ground: Unbuilding the World Trade Center",
+      "link": "https://www.theatlantic.com/magazine/archive/2002/07/american-ground-unbuilding-the-world-trade-center/302542/",
+      "author": "",
+      "published": "2002-07-01T16:00:00+00:00",
+      "category": "精选",
+      "summary": "Part One: The Inner World"
     }
   ]
 }
