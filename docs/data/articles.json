@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T04:32:48.234443+00:00",
-  "article_count": 203,
+  "updated_at": "2026-09-13T04:45:42.631438+00:00",
+  "article_count": 211,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
     "精选": "https://www.theatlantic.com/feed/best-of/",
@@ -11,6 +11,70 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "AI’s Code-Red Moment",
+      "link": "https://www.theatlantic.com/technology/2026/09/dario-amodei-slow-down-ai-save-humanity/688610/",
+      "author": "",
+      "published": "2026-09-12T22:31:32+00:00",
+      "category": "科技",
+      "summary": "Anthropic’s CEO warns that the makers of artificial intelligence “owe it to humanity to try” to slow down."
+    },
+    {
+      "title": "AI Is Running Laps Around Our Political System",
+      "link": "https://www.theatlantic.com/politics/2026/09/ai-dario-amodei-essay/688596/",
+      "author": "",
+      "published": "2026-09-12T18:32:33+00:00",
+      "category": "精选",
+      "summary": "The technology is moving faster than elected officials can handle—and Anthropic’s CEO says the industry should slow down."
+    },
+    {
+      "title": "Remembering 9/11, 25 Years Later",
+      "link": "https://www.theatlantic.com/national/2026/09/remembering-9-11-washington-week/688609/",
+      "author": "",
+      "published": "2026-09-12T17:14:16+00:00",
+      "category": "全部",
+      "summary": "Editor’s Note: Washington Week With The Atlantic is a partnership between NewsHour Productions, WETA, and The Atlantic airing every Friday on PBS stations nationwide. Check your local listings , watch full episodes here , or listen to the weekly podcast here . It has been 25 years since nearly 3,000 people died in a terror attack on the World Trade Center on September 11. “As far as I’m concerned, we can never talk about them enough,” Jeffrey Goldberg, the editor in chief of The Atlantic , said last night. Panelists on Washington Week With The Atlantic joined him for a discussion about the lives that were lost, and they examined the fallout from one of the most terrifying events in the nation’s history. The Atlantic staff writer Jonathan Lemire was an intern at New York Daily News on 9/11. When he learned of the attacks on the Twin Towers, his editor sent him to nearby hospitals. “The most harrowing image from that day for me was you could look in” at the beds lined up, “and they stayed empty,” he said last night. “There weren’t the survivors that people thought could be rushed and saved.” Joining Goldberg to discuss this and more: Ann Compton, a former White House correspondent for ABC News; Sally Jenkins, a staff writer at The Atlantic ; Lemire, a staff writer at The Atlantic and a co-host of Morning Joe on MS NOW; Graeme Wood, a staff writer at The Atlantic . Watch the full episode here ."
+    },
+    {
+      "title": "Mario-a-Lago Kart , Anyone?",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/white-house-arcade-games-parody/688602/",
+      "author": "",
+      "published": "2026-09-12T13:00:00+00:00",
+      "category": "精选",
+      "summary": "The White House made a bunch of parody video games. We have more suggestions."
+    },
+    {
+      "title": "The Joy of Being Asked to Help",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/asking-help-awkward/688608/",
+      "author": "",
+      "published": "2026-09-12T12:49:00+00:00",
+      "category": "精选",
+      "summary": "Deciding to go it alone can end up depriving loved ones."
+    },
+    {
+      "title": "The Year Great-White Sharks Took Over Maine",
+      "link": "https://www.theatlantic.com/culture/2026/09/sharks-maine-infestation/688581/",
+      "author": "",
+      "published": "2026-09-12T12:00:00+00:00",
+      "category": "精选",
+      "summary": "More and more people have spotted them this season, but no one knows exactly why—or what to do."
+    },
+    {
+      "title": "Cormac McCarthy’s Midlife Crisis",
+      "link": "https://www.theatlantic.com/magazine/2026/10/cormac-mccarthy-biography-tracy-daugherty/688350/",
+      "author": "",
+      "published": "2026-09-12T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Heading west at 40 transformed his writing—and American literature."
+    },
+    {
+      "title": "Trump Will Never Mail the $5,000 Checks",
+      "link": "https://www.theatlantic.com/ideas/2026/09/trump-5000-rebate-checks/688599/",
+      "author": "",
+      "published": "2026-09-12T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Deconstructing a policy proposal that makes no sense on any level"
+    },
     {
       "title": "Everything Trump Wants to Do Causes Inflation",
       "link": "https://www.theatlantic.com/newsletters/2026/09/trump-5k-inflation-republican-midterm-convention/688603/",
@@ -112,7 +176,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/09/anniversary-war-on-terror/688571/",
       "author": "",
       "published": "2026-09-11T10:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "After 9/11, the U.S. government was over-focused on fighting terrorism, losing sight of other threats. Americans are still living with the consequences."
     },
     {
