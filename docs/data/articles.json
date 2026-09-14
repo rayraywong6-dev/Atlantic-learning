@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T04:45:42.631438+00:00",
-  "article_count": 211,
+  "updated_at": "2026-09-14T04:54:13.981746+00:00",
+  "article_count": 219,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
     "精选": "https://www.theatlantic.com/feed/best-of/",
@@ -11,6 +11,70 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "The Atlantic Launches New Weekly Video Podcast, The Permanent Questions With David Brooks",
+      "link": "https://www.theatlantic.com/press-releases/2026/09/atlantic-launches-new-podcast-david-brooks/688601/",
+      "author": "",
+      "published": "2026-09-13T16:53:00+00:00",
+      "category": "精选",
+      "summary": "Today The Atlantic is launching The Permanent Questions , a new video podcast hosted by staff writer David Brooks about the fundamental questions of human life that every generation—and every individual—must attempt to answer. In new episodes publishing every Sunday, David will engage thinkers, writers, and artists in conversations about what makes us human, what gives life meaning, and how we can build richer relationships and a more just society. For the first episode , available today, David is joined by Meghan Sullivan, the Wilsey Family College Professor of Philosophy at the University of Notre Dame, to consider what it means to live a good life. In an introduction to the show, David says: “There are a lot of shows about politics and business and health and tech, but there aren’t enough about the really big questions of life.” The podcast builds on David’s decades of writing about political, cultural, moral, and social issues. David joined The Atlantic’ s staff after many years as a contributing writer, and has recently written about the crucial lessons for the Democratic Party; “ The People Who Will Thrive in the AI Age ,” about why people’s relationship to mental effort will differentiate them; how “ History Is Running Backwards ” and why reactionaries are taking over the world; and “ Something Big Is Happening on Campus ,” on how plenty is going wrong in American higher education, but a lot is also going right. The launch of The Permanent Questions is part of a continued surge of audio and video at The Atlantic , which has doubled its number of weekly shows, podcast staff, and audio revenue in the past year. Since 2025, The Atlantic has launched the video podcasts The David Frum Show and Galaxy Brain with Charlie Warzel, and this past summer expanded its flagship show, Radio Atlantic —co-hosted by Hanna Rosin and Adam Harris , with a weekly Monday video episode hosted by Adam. The podcast is produced by The Atlantic and made possible by support from Yale University, where David is also a presidential senior fellow at Yale Jackson School of Global Affairs. Episodes of The Permanent Questions will be released each Sunday. Viewers can subscribe to watch on The Atlantic ’s YouTube channel or wherever they get their podcasts. Please reach out with any questions or requests. Press Contacts: Anna Bross and Paul Jackson | The Atlantic press@theatlantic.com"
+    },
+    {
+      "title": "What Is the Good Life?",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/what-is-the-good-life/688591/",
+      "author": "",
+      "published": "2026-09-13T15:00:00+00:00",
+      "category": "精选",
+      "summary": "The philosophy professor Meghan Sullivan doesn’t just want to teach her students about virtue; she wants to make them better human beings."
+    },
+    {
+      "title": "Facing the Music",
+      "link": "https://www.theatlantic.com/magazine/2026/10/boris-dralyuk-facing-the-music/688345/",
+      "author": "",
+      "published": "2026-09-13T15:00:00+00:00",
+      "category": "精选",
+      "summary": "A poem"
+    },
+    {
+      "title": "This Is What Women’s Self-Defense Looks Like",
+      "link": "https://www.theatlantic.com/family/2026/09/women-self-defense-class/688593/",
+      "author": "",
+      "published": "2026-09-13T12:00:00+00:00",
+      "category": "精选",
+      "summary": "It’s not just about protection. It’s about living a bigger life."
+    },
+    {
+      "title": "It’s All Fun and Games Until You Give AI Your Credit Card",
+      "link": "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/",
+      "author": "",
+      "published": "2026-09-13T11:30:00+00:00",
+      "category": "科技",
+      "summary": "AI personal assistants are now acting on people’s behalf in the real world—and all sorts of strange things are going wrong."
+    },
+    {
+      "title": "The Property-Tax Revolution",
+      "link": "https://www.theatlantic.com/ideas/2026/09/florida-taxes-amendment/688594/",
+      "author": "",
+      "published": "2026-09-13T11:00:00+00:00",
+      "category": "精选",
+      "summary": "States can’t afford these cuts."
+    },
+    {
+      "title": "The Birth of the New Legal Right",
+      "link": "https://www.theatlantic.com/ideas/2026/09/federalist-society-conference-conservative-court/688555/",
+      "author": "",
+      "published": "2026-09-13T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Forty-four years ago, a conservative legal convention offered disaffected students an identity—and hope."
+    },
+    {
+      "title": "Trump’s Secret Points System for Cabinet Members",
+      "link": "https://www.theatlantic.com/politics/2026/09/trump-cabinet-travel-midterms/688560/",
+      "author": "",
+      "published": "2026-09-13T10:00:00+00:00",
+      "category": "精选",
+      "summary": "The White House held a summer contest to see who could appear in the most congressional districts and states with competitive midterm elections."
+    },
     {
       "title": "AI’s Code-Red Moment",
       "link": "https://www.theatlantic.com/technology/2026/09/dario-amodei-slow-down-ai-save-humanity/688610/",
@@ -112,7 +176,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/09/is-ai-writing-inevitable/688578/",
       "author": "",
       "published": "2026-09-11T17:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Media already have a trust problem."
     },
     {
@@ -136,7 +200,7 @@
       "link": "https://www.theatlantic.com/national/2026/09/afterword-american-ground-unbuilding-world-trade-center/688570/",
       "author": "",
       "published": "2026-09-11T14:33:38+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A note from the author"
     },
     {
@@ -144,7 +208,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/09/mail-voting-usps-trump/688585/",
       "author": "",
       "published": "2026-09-11T13:12:56+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The Trump administration is hoping to put so many restrictions on mail-in balloting that people simply won’t be able to vote that way at all."
     },
     {
