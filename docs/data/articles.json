@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14T04:54:13.981746+00:00",
-  "article_count": 219,
+  "updated_at": "2026-09-15T04:52:54.634904+00:00",
+  "article_count": 237,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
     "精选": "https://www.theatlantic.com/feed/best-of/",
@@ -11,6 +11,150 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "A Night for Actor’s Actors, Not Movie Stars",
+      "link": "https://www.theatlantic.com/culture/2026/09/emmys-2026-matthew-rhys-widows-bay/688625/",
+      "author": "",
+      "published": "2026-09-15T04:23:21+00:00",
+      "category": "精选",
+      "summary": "This year’s Emmys ceremony celebrated versatile performers, not glitzy celebrities."
+    },
+    {
+      "title": "Jean Smart’s Reminder to the Women in the Room",
+      "link": "https://www.theatlantic.com/culture/2026/09/jean-smart-emmys-2026-history-hacks/688624/",
+      "author": "",
+      "published": "2026-09-15T04:16:28+00:00",
+      "category": "精选",
+      "summary": "The actor’s history-making Emmys win was a recognition of female performers who refuse to placate."
+    },
+    {
+      "title": "The Supreme Court Recognizes the Danger of Trump’s Election Plan",
+      "link": "https://www.theatlantic.com/ideas/2026/09/supreme-court-trump-election-plan/688626/",
+      "author": "",
+      "published": "2026-09-15T03:33:13+00:00",
+      "category": "精选",
+      "summary": "A majority of justices decided not to make the coming elections needlessly more chaotic than they already are."
+    },
+    {
+      "title": "‘The Flood is the Point’",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/the-canadians-have-had-enough-of-this-nonsense/688614/",
+      "author": "",
+      "published": "2026-09-15T01:35:56+00:00",
+      "category": "精选",
+      "summary": "As the midterms approach, the president can’t stop picking fights."
+    },
+    {
+      "title": "Trump’s See-No-Evil AI Policy",
+      "link": "https://www.theatlantic.com/politics/2026/09/trump-ai-policy-anthropic/688620/",
+      "author": "",
+      "published": "2026-09-15T00:53:00+00:00",
+      "category": "精选",
+      "summary": "Lawmakers from both parties are worried. But the president isn’t listening."
+    },
+    {
+      "title": "How Long Can the U.S. Escape an Atlantic Hurricane?",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/trumps-hurricane-luck-fema/688621/",
+      "author": "",
+      "published": "2026-09-14T22:34:00+00:00",
+      "category": "精选",
+      "summary": "The government doesn’t seem ready for a major disaster."
+    },
+    {
+      "title": "Trump’s Kennedy Center Shakedown",
+      "link": "https://www.theatlantic.com/ideas/2026/09/trump-kennedy-center/688618/",
+      "author": "",
+      "published": "2026-09-14T21:58:15+00:00",
+      "category": "精选",
+      "summary": "The only appropriate response is to refuse to accede to his demands."
+    },
+    {
+      "title": "A Bigoted Outburst Against Texas Sports Fans",
+      "link": "https://www.theatlantic.com/ideas/2026/09/bigoted-outburst-against-texas-sports-fans/688619/",
+      "author": "",
+      "published": "2026-09-14T21:13:00+00:00",
+      "category": "精选",
+      "summary": "Bo French’s xenophobia should force Republicans to confront the prejudice in their ranks."
+    },
+    {
+      "title": "Gas Prices Could Cost Republicans the Midterms",
+      "link": "https://www.theatlantic.com/politics/2026/09/trump-midterms-gas-prices/688616/",
+      "author": "",
+      "published": "2026-09-14T20:46:00+00:00",
+      "category": "精选",
+      "summary": "Many voters understand that the president isn’t directly responsible for the price of oil. Except this time, he is."
+    },
+    {
+      "title": "Who Needs Regulation When Trump Is President?",
+      "link": "https://www.theatlantic.com/ideas/2026/09/trump-ai/688612/",
+      "author": "",
+      "published": "2026-09-14T18:10:00+00:00",
+      "category": "精选",
+      "summary": "The president is turning the charge of personalism into a promise."
+    },
+    {
+      "title": "Why Does Donald Trump Hate This Sculpture?",
+      "link": "https://www.theatlantic.com/culture/2026/09/trump-sculpture-george-washington-smithsonian/688611/",
+      "author": "",
+      "published": "2026-09-14T16:20:00+00:00",
+      "category": "精选",
+      "summary": "The president wants the Smithsonian to add a colossal George Washington statue—and remove another work of abstract art in D.C."
+    },
+    {
+      "title": "A Nation of Strange, Idle Men",
+      "link": "https://www.theatlantic.com/books/2026/09/jon-ronson-castle-book-review/688586/",
+      "author": "",
+      "published": "2026-09-14T15:24:20+00:00",
+      "category": "精选",
+      "summary": "Jon Ronson’s The Castle argues that men are giving up on society because they have nothing better to do."
+    },
+    {
+      "title": "Americans Don’t Understand Who’s Rich",
+      "link": "https://www.theatlantic.com/ideas/2026/09/everywhere-millionaires-tax-code/688584/",
+      "author": "",
+      "published": "2026-09-14T15:15:00+00:00",
+      "category": "全部",
+      "summary": "The small-business owners with curiously large fortunes"
+    },
+    {
+      "title": "The Atlantic ’s October Cover: Anne Applebaum on the “Empire of Grift” and the Revolution in American Foreign Policy",
+      "link": "https://www.theatlantic.com/press-releases/2026/09/the-atlantics-october-cover-story-by-anne-applebaum/688604/",
+      "author": "",
+      "published": "2026-09-14T12:33:41+00:00",
+      "category": "精选",
+      "summary": "In The Atlantic ’s October cover story, “ Empire of Grift ,” staff writer Anne Applebaum examines how far-right ideologues have transformed American foreign policy into a tool of private gain and antidemocratic reaction. Instead of making the world safe for democracy, she writes, U.S. foreign policy is rewiring the international order. Reporting from Brazil, Applebaum reveals that the United States is not the ally Brazilians once knew. No longer is American power deployed solely by trained diplomats and reliable officials, working through state channels; instead, “informal envoys, private companies, online grifters, and hardened ideologues both inside and outside the government matter more. Unlike their predecessors, these people do not talk about spreading democracy, and don’t want to build long-term relationships. They don’t care about America’s reputation. They are deploying the tools of American diplomacy and government for their own purposes, to promote their own business interests or their own ideological goals, because, suddenly, they can .” Though the Trumpists currently in charge of the U.S. federal government are frequently described as “isolationists,” Applebaum argues that that characterization is wrong. Many of these officials “don’t think of themselves as ordinary Republicans who won an election and will temporarily hold power until the next election. Nor are they mere appendages of Trump. They believe they represent something much greater: the vanguard of a movement that will alter not just America, but the world.” Applebaum continues, “Like earlier revolutionaries, they do not believe that their opponents are legitimate rivals … Their enemies are existential, and they are international: super-spreaders of a ‘wokeness’ plague, or proponents of a fictitious ‘censorship-industrial complex,’ or advocates of ‘regulation’ that will hamper American business, or self-hating promoters of ‘mass migration’ who want to drown Western civilization in a sea of brown-faced aliens. To maintain their power and defeat these enemies, the predators, like their Bolshevik counterparts, cannot rely on traditional diplomacy, because they don’t trust its practitioners.” The democratic world that came into being after 1945—a world based not exclusively on law, but on a set of mostly self-imposed restraints—is changing, Applebaum writes. In the post-1945 democratic order, Applebaum observes, “American power was largely derived from alliances that it refrained from exploiting. Long-term relationships were held to be valuable, because you never knew when you might need your allies.” That U.S.-led democratic order was of enormous benefit to this country and to the world: “America helped build eight decades of peace, prosperity, and eventually democracy in Europe and much of Asia, creating markets for U.S. companies and unprecedented support for U.S. power. This world is fast disappearing. Instead, following the president’s lead, different people inside and outside the administration are seizing the revolutionary moment in order to win zero-sum victories. Countries that hang back from this free-for-all know they will suffer. ‘If we’re not at the table, we’re on the menu,’ Canadian Prime Minister Mark Carney said at Davos earlier this year. He was right.” Anne Applebaum’s “ Empire of Grift ” was published today at TheAtlantic.com. Please reach out with any questions or requests. Press contacts: Anna Bross and Paul Jackson | The Atlantic press@theatlantic.com"
+    },
+    {
+      "title": "George Lucas’s Next Great Epic Is an Art Museum",
+      "link": "https://www.theatlantic.com/magazine/2026/10/george-lucas-museum-narrative-art/688348/",
+      "author": "",
+      "published": "2026-09-14T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Inside the Star Wars creator’s temple to storytelling"
+    },
+    {
+      "title": "What Trump Doesn’t Understand About Xi",
+      "link": "https://www.theatlantic.com/international/2026/09/trump-xi-china-negotiation/688600/",
+      "author": "",
+      "published": "2026-09-14T11:00:00+00:00",
+      "category": "国际",
+      "summary": "The Chinese leader cares very little about personal rapport."
+    },
+    {
+      "title": "The Biggest Obstacle to Universal Child Care: Babies",
+      "link": "https://www.theatlantic.com/family/2026/09/baby-child-care-pay-stay-home/688590/",
+      "author": "",
+      "published": "2026-09-14T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Infant care is incredibly expensive to provide. But one solution could reduce the burden on both states and parents."
+    },
+    {
+      "title": "MAGA Is Making the World Safe for Corruption",
+      "link": "https://www.theatlantic.com/magazine/2026/10/maga-foreign-policy/688352/",
+      "author": "",
+      "published": "2026-09-14T10:00:00+00:00",
+      "category": "国际",
+      "summary": "Far-right ideologues have transformed American foreign policy into a tool of private gain and antidemocratic reaction."
+    },
     {
       "title": "The Atlantic Launches New Weekly Video Podcast, The Permanent Questions With David Brooks",
       "link": "https://www.theatlantic.com/press-releases/2026/09/atlantic-launches-new-podcast-david-brooks/688601/",
@@ -40,7 +184,7 @@
       "link": "https://www.theatlantic.com/family/2026/09/women-self-defense-class/688593/",
       "author": "",
       "published": "2026-09-13T12:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "It’s not just about protection. It’s about living a bigger life."
     },
     {
@@ -56,7 +200,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/09/florida-taxes-amendment/688594/",
       "author": "",
       "published": "2026-09-13T11:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "States can’t afford these cuts."
     },
     {
@@ -64,7 +208,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/09/federalist-society-conference-conservative-court/688555/",
       "author": "",
       "published": "2026-09-13T11:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Forty-four years ago, a conservative legal convention offered disaffected students an identity—and hope."
     },
     {
