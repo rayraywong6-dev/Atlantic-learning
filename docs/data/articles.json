@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T04:52:54.634904+00:00",
-  "article_count": 237,
+  "updated_at": "2026-09-16T04:47:41.859014+00:00",
+  "article_count": 249,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
     "精选": "https://www.theatlantic.com/feed/best-of/",
@@ -11,6 +11,102 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "A Shouting Match and an Ultimatum at the Kennedy Center",
+      "link": "https://www.theatlantic.com/culture/2026/09/kennedy-center-trump-beatty/688637/",
+      "author": "",
+      "published": "2026-09-16T00:54:00+00:00",
+      "category": "精选",
+      "summary": "President Trump berated a congresswoman during a board meeting, then posted that he would abandon the Kennedy Center if his name isn’t added to it."
+    },
+    {
+      "title": "The Only Thing Capable of Uniting Bernie and Bannon",
+      "link": "https://www.theatlantic.com/politics/2026/09/steve-bannon-bernie-sanders-ai-oligarch/688642/",
+      "author": "",
+      "published": "2026-09-16T00:09:41+00:00",
+      "category": "精选",
+      "summary": "They both fear that AI could wipe out humanity."
+    },
+    {
+      "title": "The Next Change Trump Has Planned for the Smithsonian",
+      "link": "https://www.theatlantic.com/culture/2026/09/trump-signs-smithsonian-history/688636/",
+      "author": "",
+      "published": "2026-09-15T23:21:00+00:00",
+      "category": "精选",
+      "summary": "A letter from Interior Secretary Doug Burgum revealed new details about warning signs the White House will install near the American-history museum."
+    },
+    {
+      "title": "Trump Is Looking for Diesel in All the Wrong Places",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/trump-diesel-prices-russia-ukraine/688644/",
+      "author": "",
+      "published": "2026-09-15T23:03:00+00:00",
+      "category": "精选",
+      "summary": "A Russia-Ukraine cease-fire isn’t guaranteed to get prices down."
+    },
+    {
+      "title": "Congress Might Be About to Hand Trump Sweeping Tariff Powers",
+      "link": "https://www.theatlantic.com/international/2026/09/russia-sanctions-bill-trump/688641/",
+      "author": "",
+      "published": "2026-09-15T21:27:00+00:00",
+      "category": "国际",
+      "summary": "The Russia-sanctions bill isn’t what it seems."
+    },
+    {
+      "title": "Math Can’t Go On Like This",
+      "link": "https://www.theatlantic.com/technology/2026/09/math-crisis-openai-millennium-prize/688631/",
+      "author": "",
+      "published": "2026-09-15T18:41:00+00:00",
+      "category": "科技",
+      "summary": "AI just solved one of the world’s hardest math problems."
+    },
+    {
+      "title": "Trump’s Position on AI Makes No Sense",
+      "link": "https://www.theatlantic.com/ideas/2026/09/trump-ai-china/688629/",
+      "author": "",
+      "published": "2026-09-15T15:47:00+00:00",
+      "category": "精选",
+      "summary": "If the president is so concerned about staying ahead in the AI race, why is he letting Chinese companies buy American chips?"
+    },
+    {
+      "title": "What Trump’s Bizarre Posts Are Teaching Us About AI",
+      "link": "https://www.theatlantic.com/culture/2026/09/what-trumps-bizarre-posts-are-teaching-us-about-ai/688617/",
+      "author": "",
+      "published": "2026-09-15T13:00:00+00:00",
+      "category": "精选",
+      "summary": "The president’s recent Truth Social barrage of fake images reflects the dangers—for all of us—of virtual self-aggrandizement."
+    },
+    {
+      "title": "A Diagnosis for Social Conflict That Gets Lost Along the Way",
+      "link": "https://www.theatlantic.com/books/2026/09/art-of-fighting-priya-parker-book-review/688598/",
+      "author": "",
+      "published": "2026-09-15T11:30:00+00:00",
+      "category": "精选",
+      "summary": "A new book suggests that arguing isn’t about winning but seems preoccupied with it anyway."
+    },
+    {
+      "title": "Sons and Mothers",
+      "link": "https://www.theatlantic.com/magazine/2026/10/nancy-huddleston-motherhood-writing/688360/",
+      "author": "",
+      "published": "2026-09-15T11:00:00+00:00",
+      "category": "精选",
+      "summary": "My mother devoted her life to teaching writers. Becoming one meant escaping the story she had written for me."
+    },
+    {
+      "title": "‘Feminism Is the Consequence of the “Man Problem,” Not Its Cause’",
+      "link": "https://www.theatlantic.com/magazine/2026/10/the-commons/688355/",
+      "author": "",
+      "published": "2026-09-15T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Readers respond to our June 2026 cover story and more."
+    },
+    {
+      "title": "What Comes After America",
+      "link": "https://www.theatlantic.com/magazine/2026/10/exit-party-emily-st-john-mandel/688349/",
+      "author": "",
+      "published": "2026-09-15T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Emily St. John Mandel’s latest work of science fiction considers the tenuousness of any possible future."
+    },
     {
       "title": "A Night for Actor’s Actors, Not Movie Stars",
       "link": "https://www.theatlantic.com/culture/2026/09/emmys-2026-matthew-rhys-widows-bay/688625/",
@@ -36,7 +132,7 @@
       "summary": "A majority of justices decided not to make the coming elections needlessly more chaotic than they already are."
     },
     {
-      "title": "‘The Flood is the Point’",
+      "title": "‘The Flood Is the Point’",
       "link": "https://www.theatlantic.com/podcasts/2026/09/the-canadians-have-had-enough-of-this-nonsense/688614/",
       "author": "",
       "published": "2026-09-15T01:35:56+00:00",
@@ -88,7 +184,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/09/trump-ai/688612/",
       "author": "",
       "published": "2026-09-14T18:10:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The president is turning the charge of personalism into a promise."
     },
     {
@@ -96,7 +192,7 @@
       "link": "https://www.theatlantic.com/culture/2026/09/trump-sculpture-george-washington-smithsonian/688611/",
       "author": "",
       "published": "2026-09-14T16:20:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The president wants the Smithsonian to add a colossal George Washington statue—and remove another work of abstract art in D.C."
     },
     {
@@ -104,7 +200,7 @@
       "link": "https://www.theatlantic.com/books/2026/09/jon-ronson-castle-book-review/688586/",
       "author": "",
       "published": "2026-09-14T15:24:20+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Jon Ronson’s The Castle argues that men are giving up on society because they have nothing better to do."
     },
     {
