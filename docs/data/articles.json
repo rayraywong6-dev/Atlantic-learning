@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T04:47:41.859014+00:00",
-  "article_count": 249,
+  "updated_at": "2026-09-17T04:51:17.791109+00:00",
+  "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
     "精选": "https://www.theatlantic.com/feed/best-of/",
@@ -11,6 +11,126 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Kash Patel Refuses to Take a Republican’s Lifeline",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/kash-patel-senate-hearing-bestiality/688658/",
+      "author": "",
+      "published": "2026-09-16T22:41:00+00:00",
+      "category": "精选",
+      "summary": "The FBI director allowed a Senate hearing to turn into a discussion of bestiality."
+    },
+    {
+      "title": "What Nature’s Silence Said to Annie Dillard",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/annie-dillard-obituary/688652/",
+      "author": "",
+      "published": "2026-09-16T19:49:00+00:00",
+      "category": "精选",
+      "summary": "The late writer believed that hearing the natural world is its own form of prayer."
+    },
+    {
+      "title": "The Most Powerful Man in AI Isn’t Worried at All",
+      "link": "https://www.theatlantic.com/technology/2026/09/jensen-huang-ai-anti-doomer/688654/",
+      "author": "",
+      "published": "2026-09-16T19:47:49+00:00",
+      "category": "科技",
+      "summary": "Jensen Huang: not a doomer"
+    },
+    {
+      "title": "This Is Your Brain on Short-Form Video",
+      "link": "https://www.theatlantic.com/health/2026/09/short-form-video-tiktok-brain-neuroscience/688632/",
+      "author": "",
+      "published": "2026-09-16T19:37:46+00:00",
+      "category": "精选",
+      "summary": "Scientists know very little about how TikTok and its copycats affect human cognition, but the signs aren’t good."
+    },
+    {
+      "title": "The Atrocities That Shaped the Modern Middle East",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/david-frum-show-simon-sebag-montefiore-middle-east/688646/",
+      "author": "",
+      "published": "2026-09-16T16:00:00+00:00",
+      "category": "精选",
+      "summary": "The historian Simon Sebag Montefiore on his latest book, The Cauldron , and how violence forged the modern Middle East"
+    },
+    {
+      "title": "The Knives Are Out for Bill Belichick",
+      "link": "https://www.theatlantic.com/culture/2026/09/bill-belichick-north-carolina-investigation/688648/",
+      "author": "",
+      "published": "2026-09-16T14:25:00+00:00",
+      "category": "精选",
+      "summary": "The celebrated coach’s football program at the University of North Carolina is under investigation. It’s hard to know what is of substance—and what is noise."
+    },
+    {
+      "title": "Pennsylvania’s Measles Outbreak Is Enormous",
+      "link": "https://www.theatlantic.com/health/2026/09/measles-deaths-pennsylvania-outbreak-kennedy/688647/",
+      "author": "",
+      "published": "2026-09-16T14:01:44+00:00",
+      "category": "精选",
+      "summary": "The two latest deaths suggest that the true number of infections is much larger than reported."
+    },
+    {
+      "title": "Destroying Humanity Is Against the Law",
+      "link": "https://www.theatlantic.com/ideas/2026/09/ai-risk-criminal-law/688615/",
+      "author": "",
+      "published": "2026-09-16T13:38:00+00:00",
+      "category": "精选",
+      "summary": "Don’t wait for a mass-extinction event before holding AI developers accountable."
+    },
+    {
+      "title": "An Ingredient That’s All Too Rare in Adult Life",
+      "link": "https://www.theatlantic.com/culture/2026/09/adult-silliness-praise-bocking-play/688623/",
+      "author": "",
+      "published": "2026-09-16T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Whatever happened to being silly?"
+    },
+    {
+      "title": "The Artist Who Ripped Up the Rules of Drawing",
+      "link": "https://www.theatlantic.com/culture/2026/09/willem-de-kooning-drawing-art-institute-chicago-review/688613/",
+      "author": "",
+      "published": "2026-09-16T11:30:00+00:00",
+      "category": "精选",
+      "summary": "Willem de Kooning was the best draftsman of his generation of postwar American artists. He had to unlearn everything he knew."
+    },
+    {
+      "title": "Venezuela’s People Problem",
+      "link": "https://www.theatlantic.com/international/2026/09/venezuela-skilled-professional-exodus/688640/",
+      "author": "",
+      "published": "2026-09-16T11:00:00+00:00",
+      "category": "国际",
+      "summary": "A state that spent decades alienating its professional class has lost the capacity to govern."
+    },
+    {
+      "title": "The Armored Sarcophagus Saving Ukrainian Soldiers",
+      "link": "https://www.theatlantic.com/international/2026/09/ukraine-frontline-medical-evacuations/688638/",
+      "author": "",
+      "published": "2026-09-16T11:00:00+00:00",
+      "category": "国际",
+      "summary": "Unmanned ground vehicles are conducting once-impossible medical evacuations along Ukraine’s front lines."
+    },
+    {
+      "title": "Cuba’s Old Economic Model Is ‘Exhausted’",
+      "link": "https://www.theatlantic.com/national-security/2026/09/cuba-america-diplomat-economy-coercion/688627/",
+      "author": "",
+      "published": "2026-09-16T11:00:00+00:00",
+      "category": "精选",
+      "summary": "A top Havana diplomat says the country is changing. But will it be enough to satisfy President Trump?"
+    },
+    {
+      "title": "An Electoral Mess in Missouri",
+      "link": "https://www.theatlantic.com/politics/2026/09/missouri-gerrymandering-election-rules/688622/",
+      "author": "",
+      "published": "2026-09-16T10:55:47+00:00",
+      "category": "精选",
+      "summary": "The Supreme Court struck down an attempt at gerrymandering. But the chaos is ongoing."
+    },
+    {
+      "title": "The American Age Is Over",
+      "link": "https://www.theatlantic.com/ideas/2026/09/trump-iran-superpower-decline/688639/",
+      "author": "",
+      "published": "2026-09-16T10:50:14+00:00",
+      "category": "精选",
+      "summary": "A period of global dominance has ended in plain sight."
+    },
     {
       "title": "A Shouting Match and an Ultimatum at the Kennedy Center",
       "link": "https://www.theatlantic.com/culture/2026/09/kennedy-center-trump-beatty/688637/",
@@ -64,7 +184,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/09/trump-ai-china/688629/",
       "author": "",
       "published": "2026-09-15T15:47:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "If the president is so concerned about staying ahead in the AI race, why is he letting Chinese companies buy American chips?"
     },
     {
@@ -80,7 +200,7 @@
       "link": "https://www.theatlantic.com/books/2026/09/art-of-fighting-priya-parker-book-review/688598/",
       "author": "",
       "published": "2026-09-15T11:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A new book suggests that arguing isn’t about winning but seems preoccupied with it anyway."
     },
     {
@@ -1890,118 +2010,6 @@
       "published": "2024-08-10T11:30:00+00:00",
       "category": "商业",
       "summary": "Algorithmic collusion appears to be spreading to more and more industries. And existing laws may not be equipped to stop it."
-    },
-    {
-      "title": "My Mom Says She Loves Me. AI Says She’s Lying.",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/07/ai-lie-detection-technology/679201/",
-      "author": "",
-      "published": "2024-07-29T11:30:00+00:00",
-      "category": "商业",
-      "summary": "Can machine-learning algorithms distinguish truth from falsehood? We’re about to find out."
-    },
-    {
-      "title": "The Urban Doom Loop Could Still Happen",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/07/urban-doom-loop-san-francisco/679090/",
-      "author": "",
-      "published": "2024-07-20T12:00:00+00:00",
-      "category": "商业",
-      "summary": "City economies are booming, but the risk of a commercial-real-estate crash remains as real as ever."
-    },
-    {
-      "title": "What the VW-Rivian Deal Means for Big Auto",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/07/volkswagen-rivian-ev-software/678935/",
-      "author": "",
-      "published": "2024-07-08T11:00:00+00:00",
-      "category": "商业",
-      "summary": "The joint venture between a legacy giant and an EV start-up will be a fascinating test of the industry’s effort to embrace technological change."
-    },
-    {
-      "title": "NASA Finally Has an Alternative to SpaceX",
-      "link": "https://www.theatlantic.com/science/archive/2024/06/boeing-starliner-launch-nasa-astronauts/678574/",
-      "author": "",
-      "published": "2024-06-05T15:25:15+00:00",
-      "category": "商业",
-      "summary": "After years of complications, Boeing has launched astronauts to space for the first time."
-    },
-    {
-      "title": "The Rise of Poverty Inc.",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/06/corporate-middlemen-poverty-programs/678548/",
-      "author": "",
-      "published": "2024-06-01T12:00:00+00:00",
-      "category": "商业",
-      "summary": "How helping the poor became big business"
-    },
-    {
-      "title": "Why Your Vet Bill Is So High",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/04/vet-private-equity-industry/678180/",
-      "author": "",
-      "published": "2024-04-25T13:31:00+00:00",
-      "category": "商业",
-      "summary": "Corporations and private-equity funds have been rolling up smaller chains and previously independent practices."
-    },
-    {
-      "title": "Boeing and the Dark Age of American Manufacturing",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/04/boeing-corporate-america-manufacturing/678137/",
-      "author": "",
-      "published": "2024-04-20T12:00:00+00:00",
-      "category": "商业",
-      "summary": "Somewhere along the line, the plane maker lost interest in making its own planes. Can it rediscover its engineering soul?"
-    },
-    {
-      "title": "Welcome to Pricing Hell",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/04/surge-pricing-fees-economy/678078/",
-      "author": "",
-      "published": "2024-04-16T11:00:00+00:00",
-      "category": "商业",
-      "summary": "The ubiquitous rise of add-on fees and personalized pricing has turned buying stuff into a game you can’t win."
-    },
-    {
-      "title": "The Myopia Generation",
-      "link": "https://www.theatlantic.com/magazine/archive/2022/10/kids-glasses-vision-increased-nearsightedness-myopia/671244/",
-      "author": "",
-      "published": "2022-09-13T10:00:00+00:00",
-      "category": "精选",
-      "summary": "Why do so many kids need glasses now?"
-    },
-    {
-      "title": "Seriously, What Are You Supposed to Do With Old Clothes?",
-      "link": "https://www.theatlantic.com/technology/archive/2022/08/what-to-do-with-old-clothing-donation-waste/671043/",
-      "author": "",
-      "published": "2022-08-03T20:41:00+00:00",
-      "category": "精选",
-      "summary": "There are no good solutions to the problems of closet clean-out."
-    },
-    {
-      "title": "‘I Was Responsible for Those People’",
-      "link": "https://www.theatlantic.com/ideas/archive/2021/09/glenn-vogt-september-11/620030/",
-      "author": "",
-      "published": "2021-09-10T13:45:00+00:00",
-      "category": "精选",
-      "summary": "The manager of Windows on the World survived 9/11, while 79 of his employees died. He’s still searching for permission to move on."
-    },
-    {
-      "title": "What Bobby McIlvaine Left Behind",
-      "link": "https://www.theatlantic.com/magazine/archive/2021/09/twenty-years-gone-911-bobby-mcilvaine/619490/",
-      "author": "",
-      "published": "2021-08-09T10:00:00+00:00",
-      "category": "精选",
-      "summary": "Grief, conspiracy theories, and one family’s search for meaning in the two decades since 9/11"
-    },
-    {
-      "title": "Autumnal Tints",
-      "link": "https://www.theatlantic.com/magazine/archive/1862/10/autumnal-tints/308702/",
-      "author": "",
-      "published": "2011-10-09T03:04:14+00:00",
-      "category": "精选",
-      "summary": "“A great many, who have spent their lives in cities, and have never chanced to come into the country at this season, have never seen this, the flower, or rather the ripe fruit, of the year.”"
-    },
-    {
-      "title": "American Ground: Unbuilding the World Trade Center",
-      "link": "https://www.theatlantic.com/magazine/archive/2002/07/american-ground-unbuilding-the-world-trade-center/302542/",
-      "author": "",
-      "published": "2002-07-01T16:00:00+00:00",
-      "category": "精选",
-      "summary": "Part One: The Inner World"
     }
   ]
 }
