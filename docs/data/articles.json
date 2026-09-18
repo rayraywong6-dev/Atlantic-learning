@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T04:51:17.791109+00:00",
+  "updated_at": "2026-09-18T04:41:54.113922+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,102 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "RFK Jr.’s Bold Reassurance to Anti-Vaxxers",
+      "link": "https://www.theatlantic.com/health/2026/09/rfk-jr-childrens-health-defense-conference-speech/688685/",
+      "author": "",
+      "published": "2026-09-17T23:33:23+00:00",
+      "category": "精选",
+      "summary": "“You have friends in the White House,” he said at a conference hosted by the anti-vaccine organization he founded."
+    },
+    {
+      "title": "Buttigieg: Democrats Need to Get Serious About Amending the Constitution",
+      "link": "https://www.theatlantic.com/politics/2026/09/pete-buttigieg-democrats-trump-midterms/688666/",
+      "author": "",
+      "published": "2026-09-17T22:36:33+00:00",
+      "category": "精选",
+      "summary": "The former transportation secretary spoke with The Atlantic ’s editor in chief about what comes next for Democrats should they win big in November."
+    },
+    {
+      "title": "Why Democrats Might Choose to Impeach Cabinet Members",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/who-would-a-democratic-house-impeach/688679/",
+      "author": "",
+      "published": "2026-09-17T22:14:00+00:00",
+      "category": "精选",
+      "summary": "The power to impeach secretaries and other executive-branch officers is not well known, but it’s an effective accountability measure."
+    },
+    {
+      "title": "Pay No Attention to the Russian Oligarch at My Wedding Weekend",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/russian-oligarch-wedding-donald-trump-jr/688678/",
+      "author": "",
+      "published": "2026-09-17T21:11:00+00:00",
+      "category": "精选",
+      "summary": "He’s just a dear friend we know nothing about!"
+    },
+    {
+      "title": "‘The Best Thing That Happened to Him Was Losing in 2020’",
+      "link": "https://www.theatlantic.com/books/2026/09/maggie-haberman-jonathan-swan-atlantic-festival/688665/",
+      "author": "",
+      "published": "2026-09-17T17:25:00+00:00",
+      "category": "精选",
+      "summary": "Maggie Haberman and Jonathan Swan explain how the four years between Donald Trump’s first and second terms changed the presidency."
+    },
+    {
+      "title": "Photos: Fighting Against Desertification in China",
+      "link": "https://www.theatlantic.com/photography/2026/09/photos-fighting-against-desertification-china/688634/",
+      "author": "",
+      "published": "2026-09-17T15:30:00+00:00",
+      "category": "精选",
+      "summary": "For decades, residents and workers in northern and western China have been battling growing deserts using multiple methods, including “straw checkerboards,” to slow the shifting sands and boost fertility."
+    },
+    {
+      "title": "When Meditation Has a Dark Side",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/meditation-dark-side-mindfulness/688628/",
+      "author": "",
+      "published": "2026-09-17T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Could there really be such a thing as too much mindfulness?"
+    },
+    {
+      "title": "College Is Coming Apart",
+      "link": "https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/",
+      "author": "",
+      "published": "2026-09-17T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Successive, overlapping crises reveal that American higher education makes no sense."
+    },
+    {
+      "title": "Why the Bomb Is Bad for Democracy",
+      "link": "https://www.theatlantic.com/books/2026/09/nuclear-weapons-and-secrecy-frenchman-flat-by-jon-else-book-review/688659/",
+      "author": "",
+      "published": "2026-09-17T11:30:00+00:00",
+      "category": "精选",
+      "summary": "A famous documentarian’s new book suggests that secrecy is a major impediment to sensible nuclear policy."
+    },
+    {
+      "title": "Who Made America Poorer and Dirtier?",
+      "link": "https://www.theatlantic.com/ideas/2026/09/vance-speech-immigrants-democrats/688656/",
+      "author": "",
+      "published": "2026-09-17T11:00:00+00:00",
+      "category": "精选",
+      "summary": "The people in charge are really hoping you’ll blame someone else."
+    },
+    {
+      "title": "The Dead Silence of AI Therapy",
+      "link": "https://www.theatlantic.com/technology/2026/09/ai-therapy-without-a-therapist/688633/",
+      "author": "",
+      "published": "2026-09-17T11:00:00+00:00",
+      "category": "科技",
+      "summary": "What happens when our therapists are no longer able to feel?"
+    },
+    {
+      "title": "A Plan to Pay Married Mothers Not to Work",
+      "link": "https://www.theatlantic.com/ideas/2026/09/vance-married-mothers-child-care/688645/",
+      "author": "",
+      "published": "2026-09-17T10:45:24+00:00",
+      "category": "精选",
+      "summary": "J. D. Vance has a terrible proposal."
+    },
     {
       "title": "Kash Patel Refuses to Take a Republican’s Lifeline",
       "link": "https://www.theatlantic.com/newsletters/2026/09/kash-patel-senate-hearing-bestiality/688658/",
@@ -112,7 +208,7 @@
       "link": "https://www.theatlantic.com/national-security/2026/09/cuba-america-diplomat-economy-coercion/688627/",
       "author": "",
       "published": "2026-09-16T11:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A top Havana diplomat says the country is changing. But will it be enough to satisfy President Trump?"
     },
     {
@@ -1914,102 +2010,6 @@
       "published": "2024-10-02T11:00:00+00:00",
       "category": "商业",
       "summary": "Many of America’s corporate executives have had enough of the remote-work experiment."
-    },
-    {
-      "title": "The Elite College Students Who Can’t Read Books",
-      "link": "https://www.theatlantic.com/magazine/archive/2024/11/the-elite-college-students-who-cant-read-books/679945/",
-      "author": "",
-      "published": "2024-10-01T11:30:00+00:00",
-      "category": "教育",
-      "summary": "To read a book in college, it helps to have read a book in high school."
-    },
-    {
-      "title": "We Need Supply-Side Education Policy",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/09/skills-based-hiring-degree-requirements/680044/",
-      "author": "",
-      "published": "2024-09-27T13:28:00+00:00",
-      "category": "商业",
-      "summary": "Eliminating degree requirements for jobs is very popular with voters but would do almost nothing to help workers who don’t have a college diploma."
-    },
-    {
-      "title": "Lighthouse Parents Have More Confident Kids",
-      "link": "https://www.theatlantic.com/family/archive/2024/09/lighthouse-parents-have-more-confident-kids/679976/",
-      "author": "",
-      "published": "2024-09-22T13:00:00+00:00",
-      "category": "教育",
-      "summary": "Sometimes, the best thing a parent can do is nothing at all."
-    },
-    {
-      "title": "Trump’s Deranged Plan to Lower Food Prices by Raising Them",
-      "link": "https://www.theatlantic.com/politics/archive/2024/09/trump-tariffs-grocery-prices/679942/",
-      "author": "",
-      "published": "2024-09-20T11:00:00+00:00",
-      "category": "商业",
-      "summary": "If you wish grocery stores were more expensive and offered less variety, then you’ll love his tariff proposal."
-    },
-    {
-      "title": "Did the Fed Wait Too Long to Act?",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/09/federal-reserve-interest-rate-cut/679910/",
-      "author": "",
-      "published": "2024-09-18T18:05:00+00:00",
-      "category": "商业",
-      "summary": "America has officially defeated inflation without experiencing a recession—yet."
-    },
-    {
-      "title": "How School Drop-Off Became a Nightmare",
-      "link": "https://www.theatlantic.com/family/archive/2024/09/school-drop-off-cars-chaos/679869/",
-      "author": "",
-      "published": "2024-09-16T11:00:00+00:00",
-      "category": "教育",
-      "summary": "More parents are driving kids than ever before. The result is mayhem."
-    },
-    {
-      "title": "The Wrath at Khan",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/08/silicon-valley-lina-khan-antitrust/679655/",
-      "author": "",
-      "published": "2024-08-30T11:00:00+00:00",
-      "category": "商业",
-      "summary": "Silicon Valley billionaires claim that antitrust enforcement hurts the little guy. Do they have a point?"
-    },
-    {
-      "title": "Marijuana Is Too Strong Now",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/08/high-potency-marijuana-regulation/679639/",
-      "author": "",
-      "published": "2024-08-29T11:00:00+00:00",
-      "category": "商业",
-      "summary": "As weed has become easier to obtain, it has become harder to smoke."
-    },
-    {
-      "title": "What Kamala Harris Doesn’t Get About Food Costs",
-      "link": "https://www.theatlantic.com/politics/archive/2024/08/kamala-harris-food-prices/679593/",
-      "author": "",
-      "published": "2024-08-23T16:47:00+00:00",
-      "category": "商业",
-      "summary": "The real culprit is the host of federal laws and regulations propping up prices to benefit corporate interests."
-    },
-    {
-      "title": "TV Still Runs Politics",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/08/tv-still-runs-politics/679550/",
-      "author": "",
-      "published": "2024-08-22T11:00:00+00:00",
-      "category": "商业",
-      "summary": "Just about every major development in the current presidential campaign started as a television event."
-    },
-    {
-      "title": "Sometimes You Just Have to Ignore the Economists",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/08/economists-kamala-harris-price-gouging/679547/",
-      "author": "",
-      "published": "2024-08-22T11:00:00+00:00",
-      "category": "商业",
-      "summary": "Kamala Harris’s proposed price-gouging ban might irritate academics, but it makes sense to everyone else."
-    },
-    {
-      "title": "We’re Entering an AI Price-Fixing Dystopia",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/08/ai-price-algorithms-realpage/679405/",
-      "author": "",
-      "published": "2024-08-10T11:30:00+00:00",
-      "category": "商业",
-      "summary": "Algorithmic collusion appears to be spreading to more and more industries. And existing laws may not be equipped to stop it."
     }
   ]
 }
