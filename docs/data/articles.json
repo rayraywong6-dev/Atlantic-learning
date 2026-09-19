@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T04:41:54.113922+00:00",
+  "updated_at": "2026-09-19T04:35:59.904177+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -12,7 +12,151 @@
   "errors": [],
   "articles": [
     {
-      "title": "RFK Jr.’s Bold Reassurance to Anti-Vaxxers",
+      "title": "The Greenland Fiasco Stumbles to an End",
+      "link": "https://www.theatlantic.com/national-security/2026/09/greenland-denmark-trump-military-deal/688717/",
+      "author": "",
+      "published": "2026-09-19T01:00:35+00:00",
+      "category": "精选",
+      "summary": "President Trump announced an agreement that appeared to satisfy all parties but came at a great cost."
+    },
+    {
+      "title": "Speak at Your Own Risk",
+      "link": "https://www.theatlantic.com/ideas/2026/09/trump-free-speech-media-banned/688713/",
+      "author": "",
+      "published": "2026-09-18T23:59:57+00:00",
+      "category": "精选",
+      "summary": "Donald Trump’s attacks on the First Amendment"
+    },
+    {
+      "title": "Can the Never-Trump Coalition Last?",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/never-trump-coalition-2028-future/688715/",
+      "author": "",
+      "published": "2026-09-18T22:13:00+00:00",
+      "category": "精选",
+      "summary": "The desire to resist the president continues to create some strange bedfellows."
+    },
+    {
+      "title": "Researchers Say They’ve Found the Truth About Thomas Jefferson",
+      "link": "https://www.theatlantic.com/ideas/2026/09/thomas-jefferson-genome-children/688635/",
+      "author": "",
+      "published": "2026-09-18T21:05:00+00:00",
+      "category": "精选",
+      "summary": "A secret 15-year effort has produced genetic evidence that one of the nation’s Founders fathered children with a woman he enslaved."
+    },
+    {
+      "title": "The Michael Kelly Award from The Atlantic is Awarded to Drew Philp for “There Will Be No Mercy” published in The Atavist Magazine",
+      "link": "https://www.theatlantic.com/press-releases/2026/09/drew-philp-wins-the-atlantics-michael-kelly-award/688711/",
+      "author": "",
+      "published": "2026-09-18T20:02:15+00:00",
+      "category": "精选",
+      "summary": "Finalists are from Texas Monthly , The New York Times Magazine , and New York magazine’s The Cut"
+    },
+    {
+      "title": "What the Kennedy Center’s Tax Return Reveals",
+      "link": "https://www.theatlantic.com/culture/2026/09/kennedy-center-trump-tax-return/688669/",
+      "author": "",
+      "published": "2026-09-18T19:52:00+00:00",
+      "category": "精选",
+      "summary": "A previously unseen filing captures the state of the institution seven months after Donald Trump’s takeover."
+    },
+    {
+      "title": "The Rise of Parasite Authors",
+      "link": "https://www.theatlantic.com/technology/2026/09/ai-authors-impersonating-writers-amazon/688709/",
+      "author": "",
+      "published": "2026-09-18T19:36:37+00:00",
+      "category": "科技",
+      "summary": "First, AI stole their books. Now it’s stealing their readers."
+    },
+    {
+      "title": "The Goal of Contemporary Journalism",
+      "link": "https://www.theatlantic.com/ideas/2026/09/atlantic-festival-journalism-press-freedom/688702/",
+      "author": "",
+      "published": "2026-09-18T19:08:00+00:00",
+      "category": "精选",
+      "summary": "Jeffrey Goldberg, Amna Nawaz, and Joe Kahn discussed how to sustain a free press in an era of public distrust, social-media punditry, and a hostile federal government."
+    },
+    {
+      "title": "Lina Khan on Doomer Panic and Ending AI Exceptionalism",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/lina-khan-on-the-ai-safety-panic/688693/",
+      "author": "",
+      "published": "2026-09-18T17:00:00+00:00",
+      "category": "精选",
+      "summary": "Why the AI-alarmism conversation feels off"
+    },
+    {
+      "title": "The Books You Should Read About the Bomb",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/books-briefing-books-you-should-read-about-bomb/688704/",
+      "author": "",
+      "published": "2026-09-18T16:50:00+00:00",
+      "category": "精选",
+      "summary": "The more we know about the world’s most powerful weapons, the better our chances of containing them."
+    },
+    {
+      "title": "The Other Way AI Impairs Our Thinking",
+      "link": "https://www.theatlantic.com/ideas/2026/09/ai-apocalypse-despair-focus/688689/",
+      "author": "",
+      "published": "2026-09-18T15:16:00+00:00",
+      "category": "精选",
+      "summary": "Suddenly the technology is sapping people’s concentration in a new way, one that abstaining from AI won’t fix."
+    },
+    {
+      "title": "City Rats Are Going on Birth Control",
+      "link": "https://www.theatlantic.com/science/2026/09/city-rats-birth-control/688688/",
+      "author": "",
+      "published": "2026-09-18T15:14:15+00:00",
+      "category": "精选",
+      "summary": "Contraceptives are kinder than poison."
+    },
+    {
+      "title": "Why a Sea-Lion Epidemic Is a Bad Sign for Humans",
+      "link": "https://www.theatlantic.com/science/2026/09/sea-lion-avian-flu-synanthrope/688662/",
+      "author": "",
+      "published": "2026-09-18T15:06:00+00:00",
+      "category": "全部",
+      "summary": "Animals that bridge the human world and the wild can be uniquely perilous to human health."
+    },
+    {
+      "title": "Hitler Could Have Been Stopped",
+      "link": "https://www.theatlantic.com/books/2026/09/the-lessons-of-hitlers-rise-for-the-trump-era/688687/",
+      "author": "",
+      "published": "2026-09-18T14:07:15+00:00",
+      "category": "精选",
+      "summary": "Timothy W. Ryback explains the contemporary lessons of Hitler’s rise."
+    },
+    {
+      "title": "Photos of the Week: Misty Morning, Haunted House, Light Festival",
+      "link": "https://www.theatlantic.com/photography/2026/09/photos-week-misty-morning-haunted-house-light-festival/688661/",
+      "author": "",
+      "published": "2026-09-18T13:00:00+00:00",
+      "category": "精选",
+      "summary": "More than 100 go-kart racers in England, swimming pigs on a Greek island, military training in Syria, a scene from Beijing Fashion Week, and much more"
+    },
+    {
+      "title": "When George W. Bush Defended Muslim Americans",
+      "link": "https://www.theatlantic.com/culture/2026/09/bush-islam-republicans/688686/",
+      "author": "",
+      "published": "2026-09-18T12:30:00+00:00",
+      "category": "精选",
+      "summary": "The former president spoke highly of Islam after 9/11—a posture that MAGA has abandoned."
+    },
+    {
+      "title": "Neil Young’s Epic Reckoning With Mortality",
+      "link": "https://www.theatlantic.com/culture/2026/09/neil-young-second-song-review/688664/",
+      "author": "",
+      "published": "2026-09-18T12:00:00+00:00",
+      "category": "精选",
+      "summary": "The rock legend has stayed prolific into old age, and his new album, Second Song , is a minor landmark."
+    },
+    {
+      "title": "Jon Ossoff Is Doing Something Different",
+      "link": "https://www.theatlantic.com/politics/2026/09/jon-ossoff-midterms-senate-georgia/688663/",
+      "author": "",
+      "published": "2026-09-18T09:00:00+00:00",
+      "category": "精选",
+      "summary": "What does that mean for 2028?"
+    },
+    {
+      "title": "RFK Jr.’s Brazen Reassurance to Anti-Vaxxers",
       "link": "https://www.theatlantic.com/health/2026/09/rfk-jr-childrens-health-defense-conference-speech/688685/",
       "author": "",
       "published": "2026-09-17T23:33:23+00:00",
@@ -48,7 +192,7 @@
       "link": "https://www.theatlantic.com/books/2026/09/maggie-haberman-jonathan-swan-atlantic-festival/688665/",
       "author": "",
       "published": "2026-09-17T17:25:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Maggie Haberman and Jonathan Swan explain how the four years between Donald Trump’s first and second terms changed the presidency."
     },
     {
@@ -56,7 +200,7 @@
       "link": "https://www.theatlantic.com/photography/2026/09/photos-fighting-against-desertification-china/688634/",
       "author": "",
       "published": "2026-09-17T15:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "For decades, residents and workers in northern and western China have been battling growing deserts using multiple methods, including “straw checkerboards,” to slow the shifting sands and boost fertility."
     },
     {
@@ -64,7 +208,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/09/meditation-dark-side-mindfulness/688628/",
       "author": "",
       "published": "2026-09-17T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Could there really be such a thing as too much mindfulness?"
     },
     {
@@ -1866,150 +2010,6 @@
       "published": "2025-08-25T11:00:00+00:00",
       "category": "教育",
       "summary": "Some focus on reaching their children in an emergency—and overlook the devices’ everyday threats."
-    },
-    {
-      "title": "The Elite-University Presidents Who Despise One Another",
-      "link": "https://www.theatlantic.com/ideas/archive/2025/08/trump-university-presidents/683803/",
-      "author": "",
-      "published": "2025-08-11T11:00:00+00:00",
-      "category": "教育",
-      "summary": "Inside the civil war between the Ivy League and the South"
-    },
-    {
-      "title": "Why the White House Backed Down From Its First Big Education Cuts",
-      "link": "https://www.theatlantic.com/politics/archive/2025/08/trump-education-funding-freeze/683744/",
-      "author": "",
-      "published": "2025-08-05T11:00:00+00:00",
-      "category": "教育",
-      "summary": "Defunding popular programs can be as unwelcome in Trump country as it is in coastal cities."
-    },
-    {
-      "title": "Scammers Are Coming for College Students",
-      "link": "https://www.theatlantic.com/ideas/archive/2025/07/trump-higher-education-fraud/683688/",
-      "author": "",
-      "published": "2025-07-29T11:00:00+00:00",
-      "category": "教育",
-      "summary": "The U.S. Department of Education used to employ people whose job was to stop waste, fraud, and abuse. Now almost all of their desks are empty."
-    },
-    {
-      "title": "The Problem With Rewards Credit Cards",
-      "link": "https://www.theatlantic.com/culture/archive/2025/07/sapphire-reserve-credit-card-rewards/683613/",
-      "author": "",
-      "published": "2025-07-24T14:18:00+00:00",
-      "category": "商业",
-      "summary": "Their fees are getting higher—and their benefits are sometimes wildly complicated to redeem."
-    },
-    {
-      "title": "Can This Man Save Harvard?",
-      "link": "https://www.theatlantic.com/ideas/archive/2025/07/alan-garber-harvard-trump/683592/",
-      "author": "",
-      "published": "2025-07-18T10:00:00+00:00",
-      "category": "教育",
-      "summary": "To fend off illiberalism from the White House, the university’s president also has to confront illiberalism on campus."
-    },
-    {
-      "title": "Anti-Semitism Gets the DEI Treatment",
-      "link": "https://www.theatlantic.com/ideas/archive/2025/07/columbia-anti-semitism-trump/683586/",
-      "author": "",
-      "published": "2025-07-17T21:25:00+00:00",
-      "category": "教育",
-      "summary": "University leaders may be implementing reforms that aren’t proven to work, or are proven not to work."
-    },
-    {
-      "title": "The Computer-Science Bubble Is Bursting",
-      "link": "https://www.theatlantic.com/economy/archive/2025/06/computer-science-bubble-ai/683242/",
-      "author": "",
-      "published": "2025-06-21T12:00:00+00:00",
-      "category": "教育",
-      "summary": "Artificial intelligence is ideally suited to replacing the very type of person who built it."
-    },
-    {
-      "title": "Trump’s Campaign to Scare Off Foreign Students",
-      "link": "https://www.theatlantic.com/ideas/archive/2025/05/foreign-students-trump/682955/",
-      "author": "",
-      "published": "2025-05-28T17:45:07+00:00",
-      "category": "教育",
-      "summary": "The administration’s recent crackdown could have a powerful deterrent effect."
-    },
-    {
-      "title": "The New Spiritual Leader on Campus",
-      "link": "https://www.theatlantic.com/family/archive/2025/05/college-chaplain-secular-students/682825/",
-      "author": "",
-      "published": "2025-05-18T12:30:00+00:00",
-      "category": "教育",
-      "summary": "Students are growing less religious. Many chaplains are adapting."
-    },
-    {
-      "title": "The Teen-Disengagement Crisis",
-      "link": "https://www.theatlantic.com/family/archive/2025/02/disengaged-teens-parents-nagging-school/681834/",
-      "author": "",
-      "published": "2025-02-26T15:02:00+00:00",
-      "category": "教育",
-      "summary": "By middle school, many kids’ interest in learning falls off a cliff. The ripple effects could last for years."
-    },
-    {
-      "title": "The Secret That Colleges Should Stop Keeping",
-      "link": "https://www.theatlantic.com/ideas/archive/2025/02/college-cheaper-sticker-price/681742/",
-      "author": "",
-      "published": "2025-02-20T13:00:00+00:00",
-      "category": "教育",
-      "summary": "Despite ever-higher sticker prices, the real cost of getting a degree has been going down."
-    },
-    {
-      "title": "How the Ivy League Broke America",
-      "link": "https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/",
-      "author": "",
-      "published": "2024-11-14T11:00:00+00:00",
-      "category": "教育",
-      "summary": "The meritocracy isn’t working. We need something new."
-    },
-    {
-      "title": "How One Woman Became the Scapegoat for America’s Reading Crisis",
-      "link": "https://www.theatlantic.com/magazine/archive/2024/12/lucy-calkins-child-literacy-teaching-methodology/680394/",
-      "author": "",
-      "published": "2024-11-13T12:00:00+00:00",
-      "category": "教育",
-      "summary": "Lucy Calkins was an education superstar. Now she’s cast as the reason a generation of students struggles to read. Can she reclaim her good name?"
-    },
-    {
-      "title": "The Worst of Crypto Is Yet to Come",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/10/crypto-lobbying-trump-harris/680445/",
-      "author": "",
-      "published": "2024-10-30T11:00:00+00:00",
-      "category": "商业",
-      "summary": "No matter who wins in November, the digital-asset market could be on the brink of a deregulation-fueled bonanza."
-    },
-    {
-      "title": "A Bogus New Rationale for Trump’s Economic Agenda",
-      "link": "https://www.theatlantic.com/politics/archive/2024/10/trump-tariffs-economic-uncertainty/680427/",
-      "author": "",
-      "published": "2024-10-28T18:02:00+00:00",
-      "category": "商业",
-      "summary": "His allies now claim that he wouldn’t really impose massive global tariffs if elected. But the uncertainty created by threats is bad enough."
-    },
-    {
-      "title": "The Most Opinionated Man in America",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/10/mike-solana-pirate-wires/680355/",
-      "author": "",
-      "published": "2024-10-25T11:00:00+00:00",
-      "category": "商业",
-      "summary": "Mike Solana, a Peter Thiel protégé, has made his Pirate Wires newsletter a must-read among the anti-woke investor class—and a window into what the most powerful people in tech really think."
-    },
-    {
-      "title": "The Truth About Immigration and the American Worker",
-      "link": "https://www.theatlantic.com/economy/archive/2024/10/immigration-working-class-wages/680128/",
-      "author": "",
-      "published": "2024-10-03T11:00:00+00:00",
-      "category": "商业",
-      "summary": "In many domains, the conventional wisdom among progressives is mistaken, oversimplified, or based on wishful thinking. The economics of immigration is not one of them."
-    },
-    {
-      "title": "Revenge of the Office",
-      "link": "https://www.theatlantic.com/ideas/archive/2024/10/remote-work-amazon-executives/680108/",
-      "author": "",
-      "published": "2024-10-02T11:00:00+00:00",
-      "category": "商业",
-      "summary": "Many of America’s corporate executives have had enough of the remote-work experiment."
     }
   ]
 }
