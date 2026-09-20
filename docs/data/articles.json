@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T04:35:59.904177+00:00",
+  "updated_at": "2026-09-20T04:52:26.551140+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,78 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Treat AI Like a Normal Crisis",
+      "link": "https://www.theatlantic.com/technology/2026/09/how-to-navigate-ai-panic/688703/",
+      "author": "",
+      "published": "2026-09-19T18:10:00+00:00",
+      "category": "科技",
+      "summary": "What if the doomers and skeptics are both a little bit right?"
+    },
+    {
+      "title": "Kara Swisher: AI Isn’t Going to Destroy Humanity—But the People Building It Might",
+      "link": "https://www.theatlantic.com/technology/2026/09/kara-swisher-ai-destroy-humanity-atlantic-festival/688721/",
+      "author": "",
+      "published": "2026-09-19T16:41:00+00:00",
+      "category": "科技",
+      "summary": "The longtime tech journalist says she’s seen Silicon Valley make the same mistakes again and again."
+    },
+    {
+      "title": "What AI Anxiety Looks Like in China",
+      "link": "https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/",
+      "author": "",
+      "published": "2026-09-19T14:40:00+00:00",
+      "category": "国际",
+      "summary": "A top-down tech revolution is harder to manage than a bottom-up one."
+    },
+    {
+      "title": "Emily Wilson Can’t Let The Odyssey Go",
+      "link": "https://www.theatlantic.com/books/2026/09/emily-wilson-odyssey-christopher-nolan-new-translation-q-and-a-atlantic-festival/688718/",
+      "author": "",
+      "published": "2026-09-19T14:35:14+00:00",
+      "category": "精选",
+      "summary": "The translator spoke about her desire to retranslate the epic—and her harsh review of the recent film."
+    },
+    {
+      "title": "The Republicans Distancing Themselves From Trump",
+      "link": "https://www.theatlantic.com/national/2026/09/republicans-distancing-trump-washington-week/688719/",
+      "author": "",
+      "published": "2026-09-19T13:06:10+00:00",
+      "category": "全部",
+      "summary": "Panelists joined to discuss how some Republicans are responding to the president ahead of the midterms."
+    },
+    {
+      "title": "The Wisdom of Uncertainty",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/wisdom-of-accepting-uncertainty/688714/",
+      "author": "",
+      "published": "2026-09-19T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Why accepting what we don’t know can change how we see the world"
+    },
+    {
+      "title": "College Sports Are Great",
+      "link": "https://www.theatlantic.com/ideas/2026/09/college-sports-defense-football/688708/",
+      "author": "",
+      "published": "2026-09-19T12:00:00+00:00",
+      "category": "精选",
+      "summary": "The accomplishments of athletes are every bit as impressive and legitimate as those of dancers, debaters, and oboists."
+    },
+    {
+      "title": "Trump Is Betting on the Wrong Europe",
+      "link": "https://www.theatlantic.com/international/2026/09/europe-afd-far-right/688706/",
+      "author": "",
+      "published": "2026-09-19T11:00:00+00:00",
+      "category": "国际",
+      "summary": "The far-right parties the White House favors have a foreign-policy agenda that won’t serve American interests."
+    },
+    {
+      "title": "The Data-Center Debate Is Divorced From the Facts",
+      "link": "https://www.theatlantic.com/ideas/2026/09/data-center-facts-effects/688670/",
+      "author": "",
+      "published": "2026-09-19T11:00:00+00:00",
+      "category": "全部",
+      "summary": "All those scary numbers aren’t what they seem."
+    },
     {
       "title": "The Greenland Fiasco Stumbles to an End",
       "link": "https://www.theatlantic.com/national-security/2026/09/greenland-denmark-trump-military-deal/688717/",
@@ -1938,78 +2010,6 @@
       "published": "2026-04-28T11:00:00+00:00",
       "category": "教育",
       "summary": "How New York City’s education budget became an untouchable money pit"
-    },
-    {
-      "title": "The Looming College-Enrollment Death Spiral",
-      "link": "https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/",
-      "author": "",
-      "published": "2026-04-12T11:00:00+00:00",
-      "category": "教育",
-      "summary": "After many decades of democratization, higher education could once again become a luxury good."
-    },
-    {
-      "title": "States Are Learning the Wrong Lesson From the ‘Mississippi Miracle’",
-      "link": "https://www.theatlantic.com/ideas/2026/04/mississippi-education-miracle/686731/",
-      "author": "",
-      "published": "2026-04-09T11:00:00+00:00",
-      "category": "教育",
-      "summary": "A phonics-based curriculum is only one part of how Mississippi went from worst to first in education. The other part is much harder to pull off."
-    },
-    {
-      "title": "Trump’s Assault on Higher Education Has Hit a Snag",
-      "link": "https://www.theatlantic.com/ideas/2026/03/trump-universities-lawsuits/686319/",
-      "author": "",
-      "published": "2026-03-10T21:09:00+00:00",
-      "category": "教育",
-      "summary": "Universities and their allies have been able to block many, if not most, of the White House’s moves in court."
-    },
-    {
-      "title": "The Multibillion-Dollar Foundation That Controls the Humanities",
-      "link": "https://www.theatlantic.com/magazine/2026/03/mellon-foundation-humanities-research-funding/685733/",
-      "author": "",
-      "published": "2026-02-12T12:00:00+00:00",
-      "category": "教育",
-      "summary": "Is the Andrew W. Mellon Foundation the last best hope for American arts and letters—or is it killing them?"
-    },
-    {
-      "title": "The Program That’s Turning Schools Around",
-      "link": "https://www.theatlantic.com/education/2026/01/texas-education-community-schools/685703/",
-      "author": "",
-      "published": "2026-01-28T12:31:00+00:00",
-      "category": "教育",
-      "summary": "The key to closing the achievement gap may lie outside the classroom."
-    },
-    {
-      "title": "The Entry-Level Hiring Process Is Breaking Down",
-      "link": "https://www.theatlantic.com/ideas/2025/12/grade-inflation-ai-hiring/685157/",
-      "author": "",
-      "published": "2025-12-16T12:00:00+00:00",
-      "category": "教育",
-      "summary": "Grade inflation and the rise of AI are making it impossible for employers to evaluate recent graduates."
-    },
-    {
-      "title": "Accommodation Nation",
-      "link": "https://www.theatlantic.com/magazine/2026/01/elite-university-student-accommodation/684946/",
-      "author": "",
-      "published": "2025-12-02T12:00:00+00:00",
-      "category": "教育",
-      "summary": "America’s colleges have an extra-time-on-tests problem."
-    },
-    {
-      "title": "How to Think, Not What to Think",
-      "link": "https://www.theatlantic.com/ideas/archive/2025/09/teach-students-how-think-not-what-think/684271/",
-      "author": "",
-      "published": "2025-09-19T11:00:00+00:00",
-      "category": "教育",
-      "summary": "College is not just about transmitting knowledge—it’s also about learning and practicing the skills that connect us to one another."
-    },
-    {
-      "title": "What Many Parents Miss About the Phones-in-Schools Debate",
-      "link": "https://www.theatlantic.com/family/archive/2025/08/phone-ban-school-parents/683982/",
-      "author": "",
-      "published": "2025-08-25T11:00:00+00:00",
-      "category": "教育",
-      "summary": "Some focus on reaching their children in an emergency—and overlook the devices’ everyday threats."
     }
   ]
 }
