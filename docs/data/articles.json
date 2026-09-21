@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T04:52:26.551140+00:00",
+  "updated_at": "2026-09-21T04:53:58.737520+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,86 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Trump’s Attacks on the Media Are Self-Defeating",
+      "link": "https://www.theatlantic.com/ideas/2026/09/trump-press/688725/",
+      "author": "",
+      "published": "2026-09-20T21:46:06+00:00",
+      "category": "精选",
+      "summary": "When the president asserts that all negative coverage is false, he seals his party off from necessary criticism."
+    },
+    {
+      "title": "Trump’s Monumental Obsession",
+      "link": "https://www.theatlantic.com/ideas/2026/09/trumps-arch-arsenal/688723/",
+      "author": "",
+      "published": "2026-09-20T17:17:14+00:00",
+      "category": "精选",
+      "summary": "The president fantasizes about a capital city full of memorials—to himself."
+    },
+    {
+      "title": "Pinballing",
+      "link": "https://www.theatlantic.com/books/2026/09/poem-jan-beatty-pinballing/688667/",
+      "author": "",
+      "published": "2026-09-20T16:00:00+00:00",
+      "category": "精选",
+      "summary": "A poem"
+    },
+    {
+      "title": "What Is Humanity’s Place in the Cosmos?",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/what-is-humanitys-place-in-the-cosmos/688668/",
+      "author": "",
+      "published": "2026-09-20T13:00:00+00:00",
+      "category": "精选",
+      "summary": "A lifelong fascination with terra incognita led the astrophysicist Priyamvada Natarajan to map out the universe’s most enigmatic phenomena."
+    },
+    {
+      "title": "50 Songs That Explain America",
+      "link": "https://www.theatlantic.com/culture/2026/09/50-songs-explain-america-playlist/687598/",
+      "author": "",
+      "published": "2026-09-20T13:00:00+00:00",
+      "category": "精选",
+      "summary": "From Sinatra to SZA, Appalachian folk to Detroit funk, a journey through the music that showed one British critic this country’s soul"
+    },
+    {
+      "title": "The Pinball President",
+      "link": "https://www.theatlantic.com/ideas/2026/09/trump-attention-presidents/688712/",
+      "author": "",
+      "published": "2026-09-20T11:00:00+00:00",
+      "category": "精选",
+      "summary": "No commander in chief has been better at seizing public attention than Donald Trump. But there is a difference between getting attention and doing something with it."
+    },
+    {
+      "title": "A Show That Lovingly Pokes Fun at Gen Z",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/adults-normal-people-culture-entretainment-recommendations/688705/",
+      "author": "",
+      "published": "2026-09-20T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Culture and entertainment recommendations including Adults , Emmylou Harris, and more"
+    },
+    {
+      "title": "Guatemala’s Democracy Dilemma",
+      "link": "https://www.theatlantic.com/international/2026/09/guatemala-democracy-arevalo/688651/",
+      "author": "",
+      "published": "2026-09-20T11:00:00+00:00",
+      "category": "国际",
+      "summary": "A reformist president weighs the pressure to move fast against the imperative to restore institutions his people can trust."
+    },
+    {
+      "title": "190 Days Without a Homicide",
+      "link": "https://www.theatlantic.com/ideas/2026/09/shooting-lexington-kentucky/688630/",
+      "author": "",
+      "published": "2026-09-20T11:00:00+00:00",
+      "category": "精选",
+      "summary": "How a record stretch of peace ended in my hometown."
+    },
+    {
+      "title": "The Firebrand",
+      "link": "https://www.theatlantic.com/ideas/2026/09/abdul-el-sayed-michigan-senate-profile/688576/",
+      "author": "",
+      "published": "2026-09-20T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Abdul El-Sayed wants to win the Michigan Senate race his way—as an unabashed progressive populist and a fierce critic of Israel."
+    },
     {
       "title": "Treat AI Like a Normal Crisis",
       "link": "https://www.theatlantic.com/technology/2026/09/how-to-navigate-ai-panic/688703/",
@@ -120,7 +200,7 @@
       "link": "https://www.theatlantic.com/press-releases/2026/09/drew-philp-wins-the-atlantics-michael-kelly-award/688711/",
       "author": "",
       "published": "2026-09-18T20:02:15+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Finalists are from Texas Monthly , The New York Times Magazine , and New York magazine’s The Cut"
     },
     {
@@ -128,7 +208,7 @@
       "link": "https://www.theatlantic.com/culture/2026/09/kennedy-center-trump-tax-return/688669/",
       "author": "",
       "published": "2026-09-18T19:52:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A previously unseen filing captures the state of the institution seven months after Donald Trump’s takeover."
     },
     {
@@ -1930,86 +2010,6 @@
       "published": "2026-07-25T11:00:00+00:00",
       "category": "国际",
       "summary": "Trump said it himself in June—military force won’t open the waterway, and energy reserves are quickly winding down."
-    },
-    {
-      "title": "The War Is Lost. Now Fix What It Broke.",
-      "link": "https://www.theatlantic.com/international/2026/07/iran-defeat-cost-oil-drones/688034/",
-      "author": "",
-      "published": "2026-07-23T20:51:23+00:00",
-      "category": "国际",
-      "summary": "America has to rethink how it moves resources, fights wars, and deters adversaries."
-    },
-    {
-      "title": "Pete Hegseth’s Reckless Message to Pilots",
-      "link": "https://www.theatlantic.com/international/2026/07/hegseth-reckless-military-helicopter/688008/",
-      "author": "",
-      "published": "2026-07-21T14:09:47+00:00",
-      "category": "国际",
-      "summary": "The secretary of defense is making one of the most dangerous jobs in America more lethal."
-    },
-    {
-      "title": "China’s Questionable Tech Strategy",
-      "link": "https://www.theatlantic.com/international/2026/07/china-tech-sector-ai/687938/",
-      "author": "",
-      "published": "2026-07-19T12:00:00+00:00",
-      "category": "国际",
-      "summary": "Keeping out the world’s best tools promises to stymie innovation."
-    },
-    {
-      "title": "Where the War Is Still a War",
-      "link": "https://www.theatlantic.com/international/2026/07/iran-us-airstrikes-coast/687963/",
-      "author": "",
-      "published": "2026-07-17T14:01:01+00:00",
-      "category": "国际",
-      "summary": "The southern coast of Iran is still getting battered. Some Iranians want their government’s hawks to see for themselves."
-    },
-    {
-      "title": "Trump Has Only Terrible Choices With Iran",
-      "link": "https://www.theatlantic.com/international/2026/07/trump-iran-negotiations-hormuz-nuclear/687937/",
-      "author": "",
-      "published": "2026-07-17T11:00:00+00:00",
-      "category": "国际",
-      "summary": "Some involve accepting Iranian control of the Strait of Hormuz. The rest call for escalation."
-    },
-    {
-      "title": "The Opening After Netanyahu",
-      "link": "https://www.theatlantic.com/international/2026/07/america-israel-election-netanyahu-eisenkot/687930/",
-      "author": "",
-      "published": "2026-07-16T14:37:28+00:00",
-      "category": "国际",
-      "summary": "A new Israeli government won’t deliver peace overnight, but it could reverse the trajectory toward endless conflict."
-    },
-    {
-      "title": "How the Elite See Rome",
-      "link": "https://www.theatlantic.com/magazine/2026/08/rome-elite-tourism-imago-artis/687621/",
-      "author": "",
-      "published": "2026-07-13T11:00:00+00:00",
-      "category": "国际",
-      "summary": "Need the Colosseum to yourself? Want to see a privately owned masterpiece by Caravaggio? For the tourism fixer Fulvio De Bonis, there’s no such thing as a closed door."
-    },
-    {
-      "title": "NATO Is Going Strong, Actually",
-      "link": "https://www.theatlantic.com/international/2026/07/nato-alliance-trump-europe/687874/",
-      "author": "",
-      "published": "2026-07-12T11:00:00+00:00",
-      "category": "国际",
-      "summary": "Trump hasn’t made the alliance less resilient or less necessary."
-    },
-    {
-      "title": "The Rise of Emotional Surveillance",
-      "link": "https://www.theatlantic.com/culture/2026/05/worker-surveillance-emotion-ai/687029/",
-      "author": "",
-      "published": "2026-05-03T12:00:00+00:00",
-      "category": "商业",
-      "summary": "Companies are monitoring workers not just for productivity but for agreeability."
-    },
-    {
-      "title": "A Mediocre Public-School Education for Just $40,000 a Pupil",
-      "link": "https://www.theatlantic.com/ideas/2026/04/new-york-city-schools-budget/686971/",
-      "author": "",
-      "published": "2026-04-28T11:00:00+00:00",
-      "category": "教育",
-      "summary": "How New York City’s education budget became an untouchable money pit"
     }
   ]
 }
