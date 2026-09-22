@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T04:53:58.737520+00:00",
+  "updated_at": "2026-09-22T04:53:44.755920+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,94 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "The Press Is Not the Root of Trump’s Problems",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/trump-ban-press-cnn-politico-msnow/688732/",
+      "author": "",
+      "published": "2026-09-21T22:03:00+00:00",
+      "category": "精选",
+      "summary": "He’s in a predicament of his own creation."
+    },
+    {
+      "title": "The Confrontation That Broke New York",
+      "link": "https://www.theatlantic.com/books/2026/09/daniel-penny-jordan-neely-man-in-the-mirror-anand-giridharadas-book-review/688730/",
+      "author": "",
+      "published": "2026-09-21T19:18:34+00:00",
+      "category": "精选",
+      "summary": "A new book sheds some light on the death of Jordan Neely and the trial that divided a post-pandemic city."
+    },
+    {
+      "title": "Photos: Wildflowers Bloom in the Atacama Desert",
+      "link": "https://www.theatlantic.com/photography/2026/09/photos-wildflowers-bloom-atacama-desert/688728/",
+      "author": "",
+      "published": "2026-09-21T16:15:21+00:00",
+      "category": "精选",
+      "summary": "Javier Torres, a photojournalist with AFP, recently visited the Atacama Desert in Chile, capturing images of a desert in bloom after a spell of unusually wet weather."
+    },
+    {
+      "title": "What Were My Dreams Trying to Tell Me?",
+      "link": "https://www.theatlantic.com/magazine/2026/11/ayad-akhtar-dreams-meditation/688676/",
+      "author": "",
+      "published": "2026-09-21T13:00:00+00:00",
+      "category": "全部",
+      "summary": "To make sense of my deepest experiences, I needed a new way of talking about the soul."
+    },
+    {
+      "title": "In Defense of Guilt by Association",
+      "link": "https://www.theatlantic.com/ideas/2026/09/vance-sayed-piker-carlson-friendships/688657/",
+      "author": "",
+      "published": "2026-09-21T13:00:00+00:00",
+      "category": "精选",
+      "summary": "The wisdom of judging politicians by the company they keep"
+    },
+    {
+      "title": "The Book Claiming to Teach Couples How to Select Their Baby’s Sex",
+      "link": "https://www.theatlantic.com/family/2026/09/babydust-boy-girl/688722/",
+      "author": "",
+      "published": "2026-09-21T12:00:00+00:00",
+      "category": "精选",
+      "summary": "The Babydust Method features advice debunked decades ago. Why have tens of thousands of people bought in?"
+    },
+    {
+      "title": "The Curious Left-Wing Argument Against New AI Regulations",
+      "link": "https://www.theatlantic.com/ideas/2026/09/ai-regulation-anti-monopoly-challenge/688707/",
+      "author": "",
+      "published": "2026-09-21T11:30:00+00:00",
+      "category": "精选",
+      "summary": "The governing challenges raised by AI expose several unfortunate tendencies in the populist anti-monopoly movement."
+    },
+    {
+      "title": "How to Regulate the Ghosts",
+      "link": "https://www.theatlantic.com/ideas/2026/09/ai-regulation-trump/688726/",
+      "author": "",
+      "published": "2026-09-21T11:18:40+00:00",
+      "category": "精选",
+      "summary": "You don’t have to know everything to do something."
+    },
+    {
+      "title": "The Pangram Backlash Unfolding on College Campuses",
+      "link": "https://www.theatlantic.com/technology/2026/09/college-professors-ai-detectors-pangram/688727/",
+      "author": "",
+      "published": "2026-09-21T11:00:00+00:00",
+      "category": "科技",
+      "summary": "Professors are tearing their hair out over AI detectors."
+    },
+    {
+      "title": "Don’t Ask How This War Ends",
+      "link": "https://www.theatlantic.com/ideas/2026/09/dont-ask-how-the-iran-war-ends/688724/",
+      "author": "",
+      "published": "2026-09-21T10:00:00+00:00",
+      "category": "精选",
+      "summary": "It is, unfortunately, the wrong question."
+    },
+    {
+      "title": "The Northern Passage",
+      "link": "https://www.theatlantic.com/politics/2026/09/haitians-canada-tps-ice/688684/",
+      "author": "",
+      "published": "2026-09-21T10:00:00+00:00",
+      "category": "精选",
+      "summary": "ICE is targeting Haitians with new intensity. Now some are fleeing the United States for Canada."
+    },
     {
       "title": "Trump’s Attacks on the Media Are Self-Defeating",
       "link": "https://www.theatlantic.com/ideas/2026/09/trump-press/688725/",
@@ -81,7 +169,7 @@
       "author": "",
       "published": "2026-09-20T11:00:00+00:00",
       "category": "精选",
-      "summary": "How a record stretch of peace ended in my hometown."
+      "summary": "How a record stretch of peace ended in my hometown"
     },
     {
       "title": "The Firebrand",
@@ -120,7 +208,7 @@
       "link": "https://www.theatlantic.com/books/2026/09/emily-wilson-odyssey-christopher-nolan-new-translation-q-and-a-atlantic-festival/688718/",
       "author": "",
       "published": "2026-09-19T14:35:14+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The translator spoke about her desire to retranslate the epic—and her harsh review of the recent film."
     },
     {
@@ -1922,94 +2010,6 @@
       "published": "2026-08-07T14:48:18+00:00",
       "category": "科技",
       "summary": "AI is like ultra-processed food for developing brains."
-    },
-    {
-      "title": "Iran Goes Looking for Love in Jordan",
-      "link": "https://www.theatlantic.com/international/2026/08/iran-appeals-jordan-alliance/688205/",
-      "author": "",
-      "published": "2026-08-07T11:00:00+00:00",
-      "category": "国际",
-      "summary": "Tehran wants the Arab public to balk at the cost of allying with the United States."
-    },
-    {
-      "title": "An Unfortunate Surprise for BMW Owners",
-      "link": "https://www.theatlantic.com/technology/2026/08/bmw-spiderman-ad/688194/",
-      "author": "",
-      "published": "2026-08-05T20:06:00+00:00",
-      "category": "科技",
-      "summary": "The luxury automaker is beaming a Spider-Man ad into its cars."
-    },
-    {
-      "title": "Someone Is Mysteriously Snapping Up Used Books Around the World",
-      "link": "https://www.theatlantic.com/technology/2026/08/ai-companies-buying-used-books-for-data/688167/",
-      "author": "",
-      "published": "2026-08-05T18:40:00+00:00",
-      "category": "科技",
-      "summary": "Are AI companies to blame?"
-    },
-    {
-      "title": "Gen Z Is Testing the Limits of How Weird Parties Can Get",
-      "link": "https://www.theatlantic.com/technology/2026/08/gen-z-party-themes-partiful/688171/",
-      "author": "",
-      "published": "2026-08-05T16:01:00+00:00",
-      "category": "科技",
-      "summary": "Would you attend a “farewell to Spirit Airlines” party?"
-    },
-    {
-      "title": "What Happened to al-Qaeda?",
-      "link": "https://www.theatlantic.com/magazine/2026/09/al-qaeda-25-years-post-9-11/687965/",
-      "author": "",
-      "published": "2026-08-05T10:00:00+00:00",
-      "category": "国际",
-      "summary": "Twenty-five years after 9/11, analysts can’t decide if the terrorist organization is all but defunct or more threatening than ever."
-    },
-    {
-      "title": "The One Town That Wants a Data Center",
-      "link": "https://www.theatlantic.com/technology/2026/08/jay-maine-wants-data-center/688043/",
-      "author": "",
-      "published": "2026-08-03T11:31:00+00:00",
-      "category": "科技",
-      "summary": "The YIMBYism of Jay, Maine"
-    },
-    {
-      "title": "The Far Right Is Distorting Ceuta",
-      "link": "https://www.theatlantic.com/ideas/2026/08/ceuta-spain-far-right/688154/",
-      "author": "",
-      "published": "2026-08-02T20:43:05+00:00",
-      "category": "国际",
-      "summary": "We’ve seen this before."
-    },
-    {
-      "title": "Which Screen Is the ‘Good Screen’ Now?",
-      "link": "https://www.theatlantic.com/technology/2026/08/instagram-tv-app/688134/",
-      "author": "",
-      "published": "2026-08-02T12:00:00+00:00",
-      "category": "科技",
-      "summary": "Instagram TV brings the endless scroll to your television."
-    },
-    {
-      "title": "Schengen’s Greatest Failure",
-      "link": "https://www.theatlantic.com/politics/2026/07/migration-splitting-europe-apart/688137/",
-      "author": "",
-      "published": "2026-07-31T19:21:29+00:00",
-      "category": "国际",
-      "summary": "The Ceuta crisis is undermining an agreement designed to foster “solidarity.”"
-    },
-    {
-      "title": "Iran’s War Within",
-      "link": "https://www.theatlantic.com/international/2026/07/iran-repression-citizens-regime/688102/",
-      "author": "",
-      "published": "2026-07-30T11:00:00+00:00",
-      "category": "国际",
-      "summary": "The Islamic Republic’s ultimate target remains its own people."
-    },
-    {
-      "title": "The Ticking Clock on the Strait of Hormuz",
-      "link": "https://www.theatlantic.com/international/2026/07/iran-war-hormuz-strait/688062/",
-      "author": "",
-      "published": "2026-07-25T11:00:00+00:00",
-      "category": "国际",
-      "summary": "Trump said it himself in June—military force won’t open the waterway, and energy reserves are quickly winding down."
     }
   ]
 }
