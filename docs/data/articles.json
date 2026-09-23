@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T04:53:44.755920+00:00",
+  "updated_at": "2026-09-23T04:43:40.649540+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,86 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Oh, Good, Trump’s Arch Will Store Military-Grade Weapons",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/normal-places-store-military-grade-weapons-trump-arch/688745/",
+      "author": "",
+      "published": "2026-09-22T21:59:00+00:00",
+      "category": "精选",
+      "summary": "Here are 13 other very normal places to store munitions."
+    },
+    {
+      "title": "Don Jr.’s Wedding Trap",
+      "link": "https://www.theatlantic.com/national-security/2026/09/donald-trump-jr-kremlev-wedding/688734/",
+      "author": "",
+      "published": "2026-09-22T20:13:18+00:00",
+      "category": "精选",
+      "summary": "His luxurious, Russian-funded wedding celebration was a counterintelligence nightmare."
+    },
+    {
+      "title": "David Ellison Will Get Control of CNN After All",
+      "link": "https://www.theatlantic.com/ideas/2026/09/david-ellison-cnn-control/688740/",
+      "author": "",
+      "published": "2026-09-22T19:48:00+00:00",
+      "category": "精选",
+      "summary": "And don’t pretend an “independent editorial board” will mean otherwise"
+    },
+    {
+      "title": "The ‘New Word’ Trump Hates",
+      "link": "https://www.theatlantic.com/ideas/2026/09/affordability-politics-democrats-policy/688736/",
+      "author": "",
+      "published": "2026-09-22T19:00:00+00:00",
+      "category": "精选",
+      "summary": "Affordability is the Democrats’ unifying theme. It may be enough to carry them to victory in the midterms."
+    },
+    {
+      "title": "America’s Biggest Dating Company Is Betting on Trad Values",
+      "link": "https://www.theatlantic.com/family/2026/09/upward-dating-app-traditional/688737/",
+      "author": "",
+      "published": "2026-09-22T17:43:46+00:00",
+      "category": "精选",
+      "summary": "Match Group thinks young people want to date using old scripts."
+    },
+    {
+      "title": "The ICE Officer in Austin Wasn’t Wearing a Body Cam",
+      "link": "https://www.theatlantic.com/politics/2026/09/austin-ice-shooting-body-camera/688738/",
+      "author": "",
+      "published": "2026-09-22T16:29:21+00:00",
+      "category": "精选",
+      "summary": "The officer who shot a Venezuelan man was hired last year from another federal law-enforcement agency."
+    },
+    {
+      "title": "Winners of the Bird Photographer of the Year 2026",
+      "link": "https://www.theatlantic.com/photography/2026/09/winners-bird-photographer-year-2026/688733/",
+      "author": "",
+      "published": "2026-09-22T14:41:36+00:00",
+      "category": "精选",
+      "summary": "A selection of some of the winning entries from this year’s bird-photography contest. Competition organizers were kind enough to share some of the winners and runners-up, chosen from more than 24,000 entries."
+    },
+    {
+      "title": "Trump Battles Against an Economy of His Making",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/ra-us-china/688731/",
+      "author": "",
+      "published": "2026-09-22T14:04:55+00:00",
+      "category": "精选",
+      "summary": "A high-stakes week unfolds among Trump, Xi, and other global leaders."
+    },
+    {
+      "title": "America’s Allies Are No Longer Waiting for Trump to Leave",
+      "link": "https://www.theatlantic.com/national-security/2026/09/allies-trump-canada-foreign-policy/688729/",
+      "author": "",
+      "published": "2026-09-22T11:00:00+00:00",
+      "category": "精选",
+      "summary": "They now figure isolationism and protectionism will be U.S. foreign policy for a long time to come."
+    },
+    {
+      "title": "Israel Can’t Postpone Its Reckoning Forever",
+      "link": "https://www.theatlantic.com/ideas/2026/09/israel-secular-religious-divide/688649/",
+      "author": "",
+      "published": "2026-09-22T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Intractable divides between the secular and the religious pose a bigger problem for the country than any external threat."
+    },
     {
       "title": "The Press Is Not the Root of Trump’s Problems",
       "link": "https://www.theatlantic.com/newsletters/2026/09/trump-ban-press-cnn-politico-msnow/688732/",
@@ -120,7 +200,7 @@
       "link": "https://www.theatlantic.com/books/2026/09/poem-jan-beatty-pinballing/688667/",
       "author": "",
       "published": "2026-09-20T16:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A poem"
     },
     {
@@ -128,7 +208,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/09/what-is-humanitys-place-in-the-cosmos/688668/",
       "author": "",
       "published": "2026-09-20T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A lifelong fascination with terra incognita led the astrophysicist Priyamvada Natarajan to map out the universe’s most enigmatic phenomena."
     },
     {
@@ -1930,86 +2010,6 @@
       "published": "2026-08-18T16:08:11+00:00",
       "category": "科技",
       "summary": "Consumers are ditching the hype cycle and buying used devices in unprecedented numbers."
-    },
-    {
-      "title": "Ukraine’s Long Shot",
-      "link": "https://www.theatlantic.com/international/2026/08/russia-ukraine-drone-war-protest/688259/",
-      "author": "",
-      "published": "2026-08-15T11:00:00+00:00",
-      "category": "国际",
-      "summary": "The country may have hoped that deeper drone attacks would cause Russians to protest the war, but mass demonstrations don’t look likely."
-    },
-    {
-      "title": "What I Saw in Sinaloa",
-      "link": "https://www.theatlantic.com/international/2026/08/cartels-mexico-sinaloa-influencers-cesar-gastelum/688253/",
-      "author": "",
-      "published": "2026-08-13T16:36:00+00:00",
-      "category": "国际",
-      "summary": "The U.S. is trying to destroy Mexican cartels. But so far, a turf war has only deepened."
-    },
-    {
-      "title": "Tehran Has to Make a Choice",
-      "link": "https://www.theatlantic.com/international/2026/08/iran-muslim-countries-defense-pact/688265/",
-      "author": "",
-      "published": "2026-08-13T11:00:00+00:00",
-      "category": "国际",
-      "summary": "A new regional pact highlights Iran’s isolation."
-    },
-    {
-      "title": "Mark Zuckerberg’s Convenient Truth",
-      "link": "https://www.theatlantic.com/technology/2026/08/mark-zuckerberg-ai-manifesto/688269/",
-      "author": "",
-      "published": "2026-08-12T21:15:00+00:00",
-      "category": "科技",
-      "summary": "The Meta CEO has a new message now that his company is losing the AI race."
-    },
-    {
-      "title": "It May Be Time to Panic About AI",
-      "link": "https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/",
-      "author": "",
-      "published": "2026-08-12T20:05:28+00:00",
-      "category": "科技",
-      "summary": "Bots are starting to conspire with one another. Can they be reeled back in?"
-    },
-    {
-      "title": "A Silver Lining in Afghanistan",
-      "link": "https://www.theatlantic.com/international/2026/08/afghanistan-withdrawal-taliban-terrorism/688251/",
-      "author": "",
-      "published": "2026-08-12T11:30:00+00:00",
-      "category": "国际",
-      "summary": "Five years after the U.S. withdrawal, al-Qaeda remains weak and the Taliban has become an unexpected partner."
-    },
-    {
-      "title": "Shopping Is Impossible",
-      "link": "https://www.theatlantic.com/technology/2026/08/online-shopping-inescapable/688254/",
-      "author": "",
-      "published": "2026-08-11T21:17:00+00:00",
-      "category": "科技",
-      "summary": "It’s never been more exhausting to buy stuff."
-    },
-    {
-      "title": "The Man Who Refused to Sit on the Sidelines",
-      "link": "https://www.theatlantic.com/magazine/2026/09/fallen-september-11-firefighter-family/687964/",
-      "author": "",
-      "published": "2026-08-11T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Kevin Dowdell, a lieutenant in an elite FDNY rescue unit, taught his sons to take action. When he disappeared on 9/11, they went to Ground Zero to search for him."
-    },
-    {
-      "title": "Ukraine May Be Just the Ally America Needs",
-      "link": "https://www.theatlantic.com/international/2026/08/ukraine-ally-trump-patriot-missile/688226/",
-      "author": "",
-      "published": "2026-08-09T11:00:00+00:00",
-      "category": "国际",
-      "summary": "The country Trump once disdained as a burden has become a military powerhouse."
-    },
-    {
-      "title": "A Chatbot-Free Childhood Will Be a Status Symbol",
-      "link": "https://www.theatlantic.com/technology/2026/08/ultra-processed-childhood-ai/688217/",
-      "author": "",
-      "published": "2026-08-07T14:48:18+00:00",
-      "category": "科技",
-      "summary": "AI is like ultra-processed food for developing brains."
     }
   ]
 }
