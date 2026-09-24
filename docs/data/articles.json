@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T04:43:40.649540+00:00",
+  "updated_at": "2026-09-24T04:48:24.493874+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,110 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "AI’s Risk to Financial Systems",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/ai-financial-system-risk-banks/688763/",
+      "author": "",
+      "published": "2026-09-23T22:46:00+00:00",
+      "category": "精选",
+      "summary": "The tech may soon become an existential risk to humanity, but it’s already a risk to many Americans in a more mundane way: their banks."
+    },
+    {
+      "title": "China Has No Use for AI Doomerism",
+      "link": "https://www.theatlantic.com/technology/2026/09/china-ai-panic-doomerism/688761/",
+      "author": "",
+      "published": "2026-09-23T21:31:40+00:00",
+      "category": "科技",
+      "summary": "The country’s most prominent AI companies are focused on beating the U.S., no matter the cost."
+    },
+    {
+      "title": "My Night at the Reindeer-Sausage Buffet",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/trump-greenland-invasion-denmark-embassy-food/688760/",
+      "author": "",
+      "published": "2026-09-23T21:25:00+00:00",
+      "category": "精选",
+      "summary": "What I learned at a “Taste of the Arctic” dinner at the Danish ambassador’s residence"
+    },
+    {
+      "title": "The Makings of a Prewar World",
+      "link": "https://www.theatlantic.com/international/2026/09/international-order-unga-trump/688753/",
+      "author": "",
+      "published": "2026-09-23T20:26:51+00:00",
+      "category": "国际",
+      "summary": "President Trump’s speech to the United Nations clarifies the vision he shares with Vladimir Putin and Xi Jinping."
+    },
+    {
+      "title": "A Revealing Exchange Between Donald Trump and Kaitlan Collins",
+      "link": "https://www.theatlantic.com/culture/2026/09/trump-kaitlan-collins-united-nations/688757/",
+      "author": "",
+      "published": "2026-09-23T20:22:00+00:00",
+      "category": "精选",
+      "summary": "The president doesn’t understand how journalism works."
+    },
+    {
+      "title": "How to Argue in the Trump Era Without Losing Your Mind",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/david-frum-show-jessica-tarlov-winning-arguments/688756/",
+      "author": "",
+      "published": "2026-09-23T19:30:00+00:00",
+      "category": "精选",
+      "summary": "Jessica Tarlov on her new book, I Disagree: Winning Arguments Without Losing Friends , and the dangers of platforming the wrong people"
+    },
+    {
+      "title": "Six Hard-to-Find Books Worth Reading",
+      "link": "https://www.theatlantic.com/books/2026/09/six-books-worth-tracking-down/688752/",
+      "author": "",
+      "published": "2026-09-23T18:30:00+00:00",
+      "category": "精选",
+      "summary": "These titles are no longer fashionable, if they ever were—but should you manage to read one, you might love it."
+    },
+    {
+      "title": "The Middle East Still to Come",
+      "link": "https://www.theatlantic.com/international/2026/09/middle-east-future/688747/",
+      "author": "",
+      "published": "2026-09-23T15:27:13+00:00",
+      "category": "国际",
+      "summary": "A region defined by conflict and dynamism is reconstituting itself and the world."
+    },
+    {
+      "title": "Xi Is Getting What He Wants",
+      "link": "https://www.theatlantic.com/international/2026/09/xi-trump-summit/688743/",
+      "author": "",
+      "published": "2026-09-23T15:21:00+00:00",
+      "category": "国际",
+      "summary": "The Chinese president has neutralized Trump."
+    },
+    {
+      "title": "Why I’m Sending My Black Son to Private School",
+      "link": "https://www.theatlantic.com/ideas/2026/09/public-school-nikole-hannah-jones/688746/",
+      "author": "",
+      "published": "2026-09-23T12:48:00+00:00",
+      "category": "精选",
+      "summary": "I admire Nikole Hannah-Jones’s choice. I am making a different one."
+    },
+    {
+      "title": "The Enduring Mystery of Annie Dillard",
+      "link": "https://www.theatlantic.com/books/2026/09/annie-dillard-pilgrim-at-tinker-creek/688741/",
+      "author": "",
+      "published": "2026-09-23T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Dillard kept much of her personal life carefully outside the scope of her nonfiction."
+    },
+    {
+      "title": "An Existential Threat to the Oil Industry",
+      "link": "https://www.theatlantic.com/science/2026/09/climate-attribution-oil-company-lawsuits/688744/",
+      "author": "",
+      "published": "2026-09-23T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Can the energy giants be held responsible for extreme weather?"
+    },
+    {
+      "title": "The Supporters Urging Trump to Declare Martial Law for the Midterms",
+      "link": "https://www.theatlantic.com/politics/2026/09/trump-midterms-2026/688716/",
+      "author": "",
+      "published": "2026-09-23T09:00:00+00:00",
+      "category": "精选",
+      "summary": "Trump’s advisers have been working for months to move his focus away from baseless theories of election fraud. A group of outsiders is making that difficult."
+    },
     {
       "title": "Oh, Good, Trump’s Arch Will Store Military-Grade Weapons",
       "link": "https://www.theatlantic.com/newsletters/2026/09/normal-places-store-military-grade-weapons-trump-arch/688745/",
@@ -96,7 +200,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/09/trump-ban-press-cnn-politico-msnow/688732/",
       "author": "",
       "published": "2026-09-21T22:03:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "He’s in a predicament of his own creation."
     },
     {
@@ -104,7 +208,7 @@
       "link": "https://www.theatlantic.com/books/2026/09/daniel-penny-jordan-neely-man-in-the-mirror-anand-giridharadas-book-review/688730/",
       "author": "",
       "published": "2026-09-21T19:18:34+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A new book sheds some light on the death of Jordan Neely and the trial that divided a post-pandemic city."
     },
     {
@@ -1906,110 +2010,6 @@
       "published": "2026-08-27T21:11:28+00:00",
       "category": "科技",
       "summary": "Human writers are expensive, and they eventually die. AI is cheaper, and will never join a union."
-    },
-    {
-      "title": "How to Lose $12 Billion and Still Win",
-      "link": "https://www.theatlantic.com/technology/2026/08/meta-kids-social-media-settlement/688420/",
-      "author": "",
-      "published": "2026-08-26T22:18:48+00:00",
-      "category": "科技",
-      "summary": "Meta seems happy to pay a landmark legal settlement."
-    },
-    {
-      "title": "Why Did John Ratcliffe Go to Moscow?",
-      "link": "https://www.theatlantic.com/international/2026/08/cia-director-ratcliffe-moscow/688424/",
-      "author": "",
-      "published": "2026-08-26T22:06:00+00:00",
-      "category": "国际",
-      "summary": "Despite Trump’s claims, the CIA director’s visit was anything but routine. It might be a sign that Putin is getting more dangerous."
-    },
-    {
-      "title": "The German Far Right Is Poised for a Breakthrough",
-      "link": "https://www.theatlantic.com/international/2026/08/german-election-afd-far-right/688389/",
-      "author": "",
-      "published": "2026-08-26T10:00:00+00:00",
-      "category": "国际",
-      "summary": "The AfD could do something next month that would mark a first in the country’s postwar history."
-    },
-    {
-      "title": "Is Mojtaba Khamenei Dead?",
-      "link": "https://www.theatlantic.com/international/2026/08/mojtaba-khamenei-dead-rumor-iran/688393/",
-      "author": "",
-      "published": "2026-08-25T11:00:00+00:00",
-      "category": "国际",
-      "summary": "The office of Iran’s supreme leader has fallen quiet, fueling uncertainty in a country with decisions to make."
-    },
-    {
-      "title": "Logging In Was Never Supposed to Be This Complicated",
-      "link": "https://www.theatlantic.com/technology/2026/08/password-manager-login-difficulty/688396/",
-      "author": "",
-      "published": "2026-08-24T21:06:00+00:00",
-      "category": "科技",
-      "summary": "Please, not another two-factor-authentication code."
-    },
-    {
-      "title": "Iran Unleashed",
-      "link": "https://www.theatlantic.com/international/2026/08/iran-middle-east-power/688374/",
-      "author": "",
-      "published": "2026-08-23T11:00:00+00:00",
-      "category": "国际",
-      "summary": "The dominant power in the Middle East from now on will not be the U.S. or Israel but Iran."
-    },
-    {
-      "title": "So a C-List Celebrity Is Selling Your House?",
-      "link": "https://www.theatlantic.com/culture/2026/08/real-estate-agent-social-media-celebrity/688378/",
-      "author": "",
-      "published": "2026-08-22T12:00:00+00:00",
-      "category": "商业",
-      "summary": "Reality-TV stars and influencers are getting into real estate."
-    },
-    {
-      "title": "Why Is Everyone in Silicon Valley Talking Like That?",
-      "link": "https://www.theatlantic.com/technology/2026/08/ai-jargon-in-everday-speech/688358/",
-      "author": "",
-      "published": "2026-08-20T21:38:06+00:00",
-      "category": "科技",
-      "summary": "Did you mix something up? Maybe you’re just “hallucinating.”"
-    },
-    {
-      "title": "Another Pot of Paint Thrown in the Public’s Face",
-      "link": "https://www.theatlantic.com/technology/2026/08/matisse-sf-moma-ai/688328/",
-      "author": "",
-      "published": "2026-08-20T17:17:43+00:00",
-      "category": "科技",
-      "summary": "Does AI actually belong in an art museum?"
-    },
-    {
-      "title": "Are You Sure You Want a Car With a Giant Touch Screen?",
-      "link": "https://www.theatlantic.com/technology/2026/08/car-prices-memory-ram-ai/688329/",
-      "author": "",
-      "published": "2026-08-19T20:22:00+00:00",
-      "category": "科技",
-      "summary": "The AI boom is making phones and laptops more expensive. Cars are next."
-    },
-    {
-      "title": "The Home Slopping Network",
-      "link": "https://www.theatlantic.com/technology/2026/08/fairground-ai-roku-channel/688318/",
-      "author": "",
-      "published": "2026-08-19T15:15:33+00:00",
-      "category": "科技",
-      "summary": "A new channel on Roku’s TV service offers all-you-can-eat AI programming. I binged eight hours of it."
-    },
-    {
-      "title": "What Really Happens If China Wins the AI Race?",
-      "link": "https://www.theatlantic.com/technology/2026/08/what-if-china-wins-ai-race/688256/",
-      "author": "",
-      "published": "2026-08-18T17:06:19+00:00",
-      "category": "科技",
-      "summary": "For years, the tech industry has portrayed Chinese AI development as an existential threat. The truth is not so straightforward."
-    },
-    {
-      "title": "There’s No Reason to Buy a New Phone Anymore",
-      "link": "https://www.theatlantic.com/technology/2026/08/secondhand-tech-boom/688309/",
-      "author": "",
-      "published": "2026-08-18T16:08:11+00:00",
-      "category": "科技",
-      "summary": "Consumers are ditching the hype cycle and buying used devices in unprecedented numbers."
     }
   ]
 }
