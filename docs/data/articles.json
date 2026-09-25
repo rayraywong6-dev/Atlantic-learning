@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T04:48:24.493874+00:00",
+  "updated_at": "2026-09-25T04:56:01.682140+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,86 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Trump’s Public Service Announcement: ‘Love Me’",
+      "link": "https://www.theatlantic.com/politics/2026/09/trump-ad-white-house-psa/688778/",
+      "author": "",
+      "published": "2026-09-24T23:20:00+00:00",
+      "category": "精选",
+      "summary": "Taxpayers are funding a campaign-style ad for the president."
+    },
+    {
+      "title": "Trump Should Stop Hosting Summits",
+      "link": "https://www.theatlantic.com/ideas/2026/09/trump-xi-summit-china/688776/",
+      "author": "",
+      "published": "2026-09-24T22:50:55+00:00",
+      "category": "精选",
+      "summary": "He’s turned them into a pointless ritual."
+    },
+    {
+      "title": "The Doomed Midterm Strategy Some Republicans Are Trying",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/gop-members-seeking-distance-trump-midterms/688777/",
+      "author": "",
+      "published": "2026-09-24T21:59:00+00:00",
+      "category": "精选",
+      "summary": "GOP incumbents are seeking distance from President Trump, but that’s not likely to save them."
+    },
+    {
+      "title": "Why Female Fans Can’t Win",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/why-female-fans-cant-win/688775/",
+      "author": "",
+      "published": "2026-09-24T21:37:00+00:00",
+      "category": "精选",
+      "summary": "Damned if they cheer; damned if they don’t."
+    },
+    {
+      "title": "Another Female Democrat Is Mean, Apparently",
+      "link": "https://www.theatlantic.com/ideas/2026/09/peltola-democratic-staffers-complain/688770/",
+      "author": "",
+      "published": "2026-09-24T20:00:31+00:00",
+      "category": "精选",
+      "summary": "A New York Times report on Representative Mary Peltola’s management is revealing—about her younger employees’ self-regard."
+    },
+    {
+      "title": "Why Fauda Is So Popular in the Arab World",
+      "link": "https://www.theatlantic.com/ideas/2026/09/fauda-israeli-tv-show-popularity/688766/",
+      "author": "",
+      "published": "2026-09-24T15:00:10+00:00",
+      "category": "精选",
+      "summary": "Viewers may find, in the fictions of a TV show, a more realistic portrayal of their world than they are usually offered."
+    },
+    {
+      "title": "Nikole Hannah-Jones Faced Too Much Apathy to Win",
+      "link": "https://www.theatlantic.com/ideas/2026/09/hannah-jones-school-choice-response/688758/",
+      "author": "",
+      "published": "2026-09-24T14:35:08+00:00",
+      "category": "精选",
+      "summary": "Fixing troubled schools requires collective action, and no one should underestimate the difficulty."
+    },
+    {
+      "title": "Trump Could Leave the Iran Mess to His Successor",
+      "link": "https://www.theatlantic.com/international/2026/09/trump-iran-successor-blame/688754/",
+      "author": "",
+      "published": "2026-09-24T11:00:00+00:00",
+      "category": "国际",
+      "summary": "And if he blames the next administration for whatever happens, he’ll likely succeed."
+    },
+    {
+      "title": "The ‘Godfather of AI’ on the Best Chance Humanity Has to Survive",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/what-the-godfather-of-ai-thinks-we-should-do/688748/",
+      "author": "",
+      "published": "2026-09-24T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Geoffrey Hinton still believes the potential benefits of artificial intelligence outweigh its potential for destruction."
+    },
+    {
+      "title": "The Deferential President",
+      "link": "https://www.theatlantic.com/politics/2026/09/trump-xi-china-summit/688762/",
+      "author": "",
+      "published": "2026-09-24T09:00:00+00:00",
+      "category": "精选",
+      "summary": "Not long ago, President Trump could claim that he ran the world. Now he’s waiting at the bottom of a set of airline steps for the Chinese president."
+    },
     {
       "title": "AI’s Risk to Financial Systems",
       "link": "https://www.theatlantic.com/newsletters/2026/09/ai-financial-system-risk-banks/688763/",
@@ -96,7 +176,7 @@
       "link": "https://www.theatlantic.com/books/2026/09/annie-dillard-pilgrim-at-tinker-creek/688741/",
       "author": "",
       "published": "2026-09-23T12:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Dillard kept much of her personal life carefully outside the scope of her nonfiction."
     },
     {
@@ -120,7 +200,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/09/normal-places-store-military-grade-weapons-trump-arch/688745/",
       "author": "",
       "published": "2026-09-22T21:59:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Here are 13 other very normal places to store munitions."
     },
     {
@@ -128,7 +208,7 @@
       "link": "https://www.theatlantic.com/national-security/2026/09/donald-trump-jr-kremlev-wedding/688734/",
       "author": "",
       "published": "2026-09-22T20:13:18+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "His luxurious, Russian-funded wedding celebration was a counterintelligence nightmare."
     },
     {
@@ -1930,86 +2010,6 @@
       "published": "2026-09-03T11:00:00+00:00",
       "category": "全部",
       "summary": "Furious takes revenge on a fictional Jeffrey Epstein."
-    },
-    {
-      "title": "How ‘Somatics’ Became the Solution to Modern Life",
-      "link": "https://www.theatlantic.com/culture/2026/09/somatic-trend-classes/688210/",
-      "author": "",
-      "published": "2026-09-03T11:00:00+00:00",
-      "category": "全部",
-      "summary": "The word isn’t new—but lately, it’s everywhere."
-    },
-    {
-      "title": "The MAGA Right Is Only Pretending to Be Censored",
-      "link": "https://www.theatlantic.com/ideas/2026/09/censorship-industrial-complex-conspiracy/688490/",
-      "author": "",
-      "published": "2026-09-02T17:49:05+00:00",
-      "category": "精选",
-      "summary": "The conspiracy theory that persists even though no evidence supports it"
-    },
-    {
-      "title": "The Singularity Is Not What It Seems",
-      "link": "https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/",
-      "author": "",
-      "published": "2026-09-02T00:16:00+00:00",
-      "category": "科技",
-      "summary": "Whatever the AI future is, we’re in it right now."
-    },
-    {
-      "title": "The Growing Lawlessness in California’s Forests",
-      "link": "https://www.theatlantic.com/science/2026/09/frog-biologists-kidnapping-california-national-forest/688445/",
-      "author": "",
-      "published": "2026-09-01T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Two frog biologists were kidnapped in the woods. More bizarre situations may come."
-    },
-    {
-      "title": "The Women Obsessed With Lindsay Clancy",
-      "link": "https://www.theatlantic.com/ideas/2026/08/lindsay-clancy-trial-women/688470/",
-      "author": "",
-      "published": "2026-08-31T19:48:00+00:00",
-      "category": "精选",
-      "summary": "Horrific crimes have always attracted attention, but the women who have filled the courtroom are seeking something beyond spectacle."
-    },
-    {
-      "title": "We Are Living in the Fantasy World of 13-Year-Old Boys",
-      "link": "https://www.theatlantic.com/books/2026/08/silicon-valley-science-fiction-jill-lepore-book-review/688467/",
-      "author": "",
-      "published": "2026-08-31T12:00:00+00:00",
-      "category": "科技",
-      "summary": "Many of the tech billionaires who built our world have taken the wrong lessons from their favorite science fiction."
-    },
-    {
-      "title": "China Is Flatlining",
-      "link": "https://www.theatlantic.com/international/2026/08/china-beijing-communist-xi-favorability/688454/",
-      "author": "",
-      "published": "2026-08-31T10:00:00+00:00",
-      "category": "国际",
-      "summary": "The country’s “stability” hides a host of problems."
-    },
-    {
-      "title": "The AI Backlash Gets Professional",
-      "link": "https://www.theatlantic.com/technology/2026/08/irreplaceable-climate-activists-ai-backlash/688404/",
-      "author": "",
-      "published": "2026-08-28T15:17:09+00:00",
-      "category": "科技",
-      "summary": "A new group is targeting tech companies and the government with the climate movement’s playbook."
-    },
-    {
-      "title": "A Turning Point in AI Writing",
-      "link": "https://www.theatlantic.com/technology/2026/08/wall-street-journal-ai-op-ed/688433/",
-      "author": "",
-      "published": "2026-08-27T22:12:00+00:00",
-      "category": "科技",
-      "summary": "The Wall Street Journal is defending an op-ed written by a chatbot."
-    },
-    {
-      "title": "Why I Am Right About AI",
-      "link": "https://www.theatlantic.com/technology/2026/08/paul-claude-gigot-why-i-am-right-about-ai/688434/",
-      "author": "",
-      "published": "2026-08-27T21:11:28+00:00",
-      "category": "科技",
-      "summary": "Human writers are expensive, and they eventually die. AI is cheaper, and will never join a union."
     }
   ]
 }
