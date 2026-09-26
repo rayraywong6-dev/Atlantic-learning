@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T04:56:01.682140+00:00",
+  "updated_at": "2026-09-26T04:56:27.044625+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,158 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "The Absences Haunting the Trump Administration",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/trump-understaffed-administration/688795/",
+      "author": "",
+      "published": "2026-09-25T21:22:00+00:00",
+      "category": "精选",
+      "summary": "The president has left hundreds of appointed roles open—including those that would have a central role in implementing his priorities."
+    },
+    {
+      "title": "Egypt’s Warning to Israel",
+      "link": "https://www.theatlantic.com/national-security/2026/09/egypt-israel-gaza-hamas-palestinian-october-7/688720/",
+      "author": "",
+      "published": "2026-09-25T21:03:32+00:00",
+      "category": "精选",
+      "summary": "Cairo’s intelligence chief visited Tel Aviv shortly before October 7 with a dire message about Gaza."
+    },
+    {
+      "title": "The Show That Always Chased Ratings, No Matter the Cost",
+      "link": "https://www.theatlantic.com/culture/2026/09/primetime-movie-robert-pattinson-to-catch-a-predator/688796/",
+      "author": "",
+      "published": "2026-09-25T21:00:13+00:00",
+      "category": "精选",
+      "summary": "The film Primetime imagines the impulses that fueled the making of To Catch a Predator ."
+    },
+    {
+      "title": "The Right Way to Adapt a Video Game",
+      "link": "https://www.theatlantic.com/culture/2026/09/resident-evil-2026-movie-zach-cregger-interview/688792/",
+      "author": "",
+      "published": "2026-09-25T19:49:55+00:00",
+      "category": "精选",
+      "summary": "The director of the latest Resident Evil movie glanced past the details to capture the franchise’s spirit."
+    },
+    {
+      "title": "AI Companies’ New Plan to Keep Themselves From Destroying Everything",
+      "link": "https://www.theatlantic.com/technology/2026/09/ai-companies-evaluators-risk/688785/",
+      "author": "",
+      "published": "2026-09-25T17:56:16+00:00",
+      "category": "科技",
+      "summary": "Third-party evaluators will be allowed inside companies to monitor the models. But how much access and influence will they really have?"
+    },
+    {
+      "title": "The Two-Year Temper Tantrum to Come",
+      "link": "https://www.theatlantic.com/ideas/2026/09/trump-white-house-press-fight/688788/",
+      "author": "",
+      "published": "2026-09-25T17:47:06+00:00",
+      "category": "精选",
+      "summary": "Trump’s recent kerfuffle with the press is a preview of his next era."
+    },
+    {
+      "title": "The Republicans Are Bolting From Trump",
+      "link": "https://www.theatlantic.com/politics/2026/09/republicans-distance-from-trump-midterms/688771/",
+      "author": "",
+      "published": "2026-09-25T17:36:23+00:00",
+      "category": "精选",
+      "summary": "A president who demanded loyalty is no longer getting it."
+    },
+    {
+      "title": "What Annie Dillard Left Out",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/books-briefing-what-annie-dillard-left-out/688786/",
+      "author": "",
+      "published": "2026-09-25T17:10:00+00:00",
+      "category": "精选",
+      "summary": "Dillard understood that even in suburban landscapes, nature could be transcendent—but human relationships are largely absent from her writing."
+    },
+    {
+      "title": "What Do We Do About the Cameras Everywhere?",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/meta-glasses-flock-surveillance-cameras/688767/",
+      "author": "",
+      "published": "2026-09-25T17:00:00+00:00",
+      "category": "精选",
+      "summary": "A genuine reckoning with Meta and the surveillance state"
+    },
+    {
+      "title": "America’s Hypocritical Take on Intellectual Property",
+      "link": "https://www.theatlantic.com/technology/2026/09/trump-admin-ai-copyright-lawsuits/688751/",
+      "author": "",
+      "published": "2026-09-25T14:18:28+00:00",
+      "category": "科技",
+      "summary": "An overlooked DOJ document argues that copyright suits against AI companies should be widely dismissed."
+    },
+    {
+      "title": "What Does the Climate Movement Do Now?",
+      "link": "https://www.theatlantic.com/science/2026/09/climate-movement-next-big-idea/688781/",
+      "author": "",
+      "published": "2026-09-25T14:04:15+00:00",
+      "category": "精选",
+      "summary": "Advocates are searching for a political wave to catch."
+    },
+    {
+      "title": "How to Destroy a Lesbian Bar",
+      "link": "https://www.theatlantic.com/ideas/2026/09/bar-masking-greenfield-boston-globe/688772/",
+      "author": "",
+      "published": "2026-09-25T13:15:43+00:00",
+      "category": "精选",
+      "summary": "The scourge of COVID led to drive-by whinings disguised as activism."
+    },
+    {
+      "title": "Maybe Alex Gibney Did Elon Musk a Favor",
+      "link": "https://www.theatlantic.com/culture/2026/09/elon-musk-documentary-alex-gibney-interview/688780/",
+      "author": "",
+      "published": "2026-09-25T13:00:00+00:00",
+      "category": "精选",
+      "summary": "For his new documentary about the tech mogul, the director plays by unconventional rules."
+    },
+    {
+      "title": "An Underappreciated Problem With Dating Apps",
+      "link": "https://www.theatlantic.com/family/2026/09/dating-strategies-apps-matchmakers/688779/",
+      "author": "",
+      "published": "2026-09-25T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Going on lots of first dates with strangers is not a great way to find love. Getting to know someone slowly is."
+    },
+    {
+      "title": "Photos of the Week: Human Tower, Pumpkin Pyramid, Monster Town",
+      "link": "https://www.theatlantic.com/photography/2026/09/photos-of-the-week-human-tower-pumpkin-pyramid-monster-town/688765/",
+      "author": "",
+      "published": "2026-09-25T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Scenes from the Asian Games in Japan, livestock in the Swiss Alps, the European Tram Driver Championship in Warsaw, a cycling race in Montreal, and much more"
+    },
+    {
+      "title": "The Americans Having the Most Sex",
+      "link": "https://www.theatlantic.com/ideas/2026/09/religion-sex-recession-marriage/688774/",
+      "author": "",
+      "published": "2026-09-25T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Regular churchgoers have a surprising advantage over secular couples."
+    },
+    {
+      "title": "Why Macklemore Was Kicked Off the Ed Sheeran Tour",
+      "link": "https://www.theatlantic.com/culture/2026/09/ed-sheeran-macklemore-cancelled-tour-israel-palestine/688773/",
+      "author": "",
+      "published": "2026-09-25T11:30:00+00:00",
+      "category": "精选",
+      "summary": "Music’s most consequential confrontation over Israel and Palestine has complicated the idea of the apolitical concert."
+    },
+    {
+      "title": "Let’s Get Specific About These Doomsday Scenarios",
+      "link": "https://www.theatlantic.com/ideas/2026/09/ai-extinction-scenarios/688769/",
+      "author": "",
+      "published": "2026-09-25T11:00:00+00:00",
+      "category": "精选",
+      "summary": "How exactly is AI supposed to kill us all?"
+    },
+    {
+      "title": "The Houthis Have a Rich Sense of Irony and Timing",
+      "link": "https://www.theatlantic.com/national-security/2026/09/houthis-yemen-iran-trump-saudis/688768/",
+      "author": "",
+      "published": "2026-09-25T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Supposedly decimated last year, they are back and stronger than ever."
+    },
     {
       "title": "Trump’s Public Service Announcement: ‘Love Me’",
       "link": "https://www.theatlantic.com/politics/2026/09/trump-ad-white-house-psa/688778/",
@@ -48,7 +200,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/09/peltola-democratic-staffers-complain/688770/",
       "author": "",
       "published": "2026-09-24T20:00:31+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A New York Times report on Representative Mary Peltola’s management is revealing—about her younger employees’ self-regard."
     },
     {
@@ -56,7 +208,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/09/fauda-israeli-tv-show-popularity/688766/",
       "author": "",
       "published": "2026-09-24T15:00:10+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Viewers may find, in the fictions of a TV show, a more realistic portrayal of their world than they are usually offered."
     },
     {
@@ -1858,158 +2010,6 @@
       "published": "2026-09-04T17:01:00+00:00",
       "category": "科技",
       "summary": "The AI giant is worried about what all-powerful bots could mean for our constitutional rights."
-    },
-    {
-      "title": "Why So Many Men Are Unraveling",
-      "link": "https://www.theatlantic.com/podcasts/2026/09/why-so-many-men-are-unraveling/688520/",
-      "author": "",
-      "published": "2026-09-04T17:00:00+00:00",
-      "category": "全部",
-      "summary": "The disinhibited men looking for purpose in all the wrong places"
-    },
-    {
-      "title": "A Movie Can’t Be Just Its Own Thing Anymore",
-      "link": "https://www.theatlantic.com/culture/2026/09/onslaught-movie-review-a24-adam-wingard/688521/",
-      "author": "",
-      "published": "2026-09-04T16:21:37+00:00",
-      "category": "精选",
-      "summary": "Onslaught is a victim of Hollywood’s obsession with turning everything into a franchise."
-    },
-    {
-      "title": "Introducing: The Permanent Questions With David Brooks",
-      "link": "https://www.theatlantic.com/podcasts/2026/09/introducing-the-permanent-questions/688438/",
-      "author": "",
-      "published": "2026-09-04T15:45:00+00:00",
-      "category": "全部",
-      "summary": "Conversations from the deep end"
-    },
-    {
-      "title": "Photos of the Week: Nomad Games, Pushkin Puppet, Lunar Simulation",
-      "link": "https://www.theatlantic.com/photography/2026/09/photos-of-the-week-nomad-games-pushkin-puppet-lunar-simulation/688512/",
-      "author": "",
-      "published": "2026-09-04T13:00:00+00:00",
-      "category": "全部",
-      "summary": "A 90-year-old bodybuilding champion in Japan, a memorial for King Harald V of Norway, a kite festival in Indonesia, a marching-band performance in Atlanta, and much more."
-    },
-    {
-      "title": "The Dark Side of Mindfulness",
-      "link": "https://www.theatlantic.com/ideas/2026/09/meditation-willoughby-britton-downsides/688474/",
-      "author": "",
-      "published": "2026-09-04T13:00:00+00:00",
-      "category": "精选",
-      "summary": "A prominent psychologist and meditation teacher set out to research the benefits of the practice. What she found alarmed her."
-    },
-    {
-      "title": "The Missing Ingredient of Modern Life",
-      "link": "https://www.theatlantic.com/magazine/2026/10/modern-life-maxxing-antidote/688344/",
-      "author": "",
-      "published": "2026-09-04T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Why we need wonder"
-    },
-    {
-      "title": "The Dead-Internet Theory Is Back",
-      "link": "https://www.theatlantic.com/technology/2026/09/chatgpt-imessage-ai-texting/688507/",
-      "author": "",
-      "published": "2026-09-04T10:48:19+00:00",
-      "category": "科技",
-      "summary": "Am I talking to you, or ChatGPT?"
-    },
-    {
-      "title": "Trump’s Antitrust Gambit May Backfire",
-      "link": "https://www.theatlantic.com/ideas/2026/09/live-nation-trump-antitrust-monopolies/688508/",
-      "author": "",
-      "published": "2026-09-04T02:52:03+00:00",
-      "category": "全部",
-      "summary": "What the Live Nation case says about the fate of monopolies now"
-    },
-    {
-      "title": "The Vicious Cycle Trump May Restart",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/venezuela-trump-oil-cycle/688516/",
-      "author": "",
-      "published": "2026-09-03T22:32:00+00:00",
-      "category": "精选",
-      "summary": "The American seizure of Venezuelan oil is likely the first step in a familiar, unhappy chain of events."
-    },
-    {
-      "title": "How the Early Dreams of the Internet Changed",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/early-computers-1984-apple/688515/",
-      "author": "",
-      "published": "2026-09-03T20:41:00+00:00",
-      "category": "全部",
-      "summary": "Technology was once seen as countercultural. What happened?"
-    },
-    {
-      "title": "The Hasan Piker Question",
-      "link": "https://www.theatlantic.com/politics/2026/09/hasan-piker-midterms-democrats-michigan/688504/",
-      "author": "",
-      "published": "2026-09-03T20:12:23+00:00",
-      "category": "精选",
-      "summary": "Many Democrats would like him to go away."
-    },
-    {
-      "title": "An Alien Scholar’s Notes on Trump’s Washington",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/an-alien-scholars-notes-on-trumps-washington/688511/",
-      "author": "",
-      "published": "2026-09-03T18:15:00+00:00",
-      "category": "全部",
-      "summary": "Why did he hate one pool so much?"
-    },
-    {
-      "title": "The Sexual Politics of the ‘Bed Trick’",
-      "link": "https://www.theatlantic.com/books/2026/09/sexual-deception-trial-the-bed-trick-izabella-scott-book-review/688510/",
-      "author": "",
-      "published": "2026-09-03T17:00:00+00:00",
-      "category": "全部",
-      "summary": "A new book about an infamous trial asks how the stories we tell can define our relationships."
-    },
-    {
-      "title": "Gloria Steinem’s Feminism for All",
-      "link": "https://www.theatlantic.com/culture/2026/09/gloria-steinem-obit/688506/",
-      "author": "",
-      "published": "2026-09-03T14:06:00+00:00",
-      "category": "全部",
-      "summary": "The activist and writer, who died yesterday at the age of 92, steadfastly fought for her belief that women could change the world together."
-    },
-    {
-      "title": "The Schism Within the Trump Administration on Mexico",
-      "link": "https://www.theatlantic.com/national-security/2026/09/mexico-trump-stephen-miller-usmca/688496/",
-      "author": "",
-      "published": "2026-09-03T14:00:00+00:00",
-      "category": "全部",
-      "summary": "Officials are veering between praise for cooperation and threats to attack."
-    },
-    {
-      "title": "The Netherlands Will Never Be Rid of Louisiana Crawfish",
-      "link": "https://www.theatlantic.com/science/2026/09/american-crayfish-netherlands-eating/688430/",
-      "author": "",
-      "published": "2026-09-03T13:51:56+00:00",
-      "category": "精选",
-      "summary": "What will it take for the Dutch to eat them?"
-    },
-    {
-      "title": "What the Floods Say About Xi Jinping",
-      "link": "https://www.theatlantic.com/international/2026/09/china-nepal-flood-xi-jinping/688484/",
-      "author": "",
-      "published": "2026-09-03T12:06:00+00:00",
-      "category": "国际",
-      "summary": "China’s leader behaves more like an emperor than a man of the people."
-    },
-    {
-      "title": "Should We Be Afraid of Our Food?",
-      "link": "https://www.theatlantic.com/ideas/2026/09/food-safety-crisis-trump-cyclospora/688495/",
-      "author": "",
-      "published": "2026-09-03T11:00:00+00:00",
-      "category": "全部",
-      "summary": "America’s food-safety system is being methodically dismantled by the Trump administration."
-    },
-    {
-      "title": "Creating the Perfect Female Monster",
-      "link": "https://www.theatlantic.com/podcasts/2026/09/furious-perfect-female-monster/688485/",
-      "author": "",
-      "published": "2026-09-03T11:00:00+00:00",
-      "category": "全部",
-      "summary": "Furious takes revenge on a fictional Jeffrey Epstein."
     }
   ]
 }
