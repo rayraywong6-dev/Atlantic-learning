@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T04:56:27.044625+00:00",
+  "updated_at": "2026-09-27T05:17:01.089472+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,62 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "The Pacific Is a Mess of Hurricanes",
+      "link": "https://www.theatlantic.com/science/2026/09/pacific-hurricanes/688802/",
+      "author": "",
+      "published": "2026-09-26T20:37:35+00:00",
+      "category": "精选",
+      "summary": "Hawaii is on its third close call this season."
+    },
+    {
+      "title": "What Israel Knew Before October 7",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/ra-vivian-reporting/688798/",
+      "author": "",
+      "published": "2026-09-26T17:17:12+00:00",
+      "category": "精选",
+      "summary": "A conversation with Vivian Salama about her exclusive reporting that Egypt’s top spy warned of the coming attack."
+    },
+    {
+      "title": "How to Define the Fuzzy Phases of Life",
+      "link": "https://www.theatlantic.com/newsletters/2026/09/middle-age-life-stages-definition/688801/",
+      "author": "",
+      "published": "2026-09-26T15:20:00+00:00",
+      "category": "精选",
+      "summary": "Modern life is making these stages harder and harder to pin down."
+    },
+    {
+      "title": "Xi’s Visit to Washington",
+      "link": "https://www.theatlantic.com/national/2026/09/xi-trump-washington-week/688800/",
+      "author": "",
+      "published": "2026-09-26T14:48:39+00:00",
+      "category": "全部",
+      "summary": "Panelists joined to discuss what the Chinese president’s conversations with President Trump reveal about trade, AI, and the war with Iran."
+    },
+    {
+      "title": "Modern Media Weaken the Presidency",
+      "link": "https://www.theatlantic.com/ideas/2026/09/modern-media-presidential-power/688784/",
+      "author": "",
+      "published": "2026-09-26T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Structural forces in the news industry have made the effective exercise of presidential power more difficult."
+    },
+    {
+      "title": "How Militarizing the Triumphal Arch Could Backfire for Trump",
+      "link": "https://www.theatlantic.com/culture/2026/09/trump-triumphal-arch-military/688789/",
+      "author": "",
+      "published": "2026-09-26T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Adding drones and snipers to a planned monument may not work the way the president hopes."
+    },
+    {
+      "title": "Lenders Don’t Trust the United States Anymore",
+      "link": "https://www.theatlantic.com/ideas/2026/09/trump-national-debt-interest-rates/688783/",
+      "author": "",
+      "published": "2026-09-26T10:00:00+00:00",
+      "category": "精选",
+      "summary": "Blame Trump for rising borrowing costs."
+    },
     {
       "title": "The Absences Haunting the Trump Administration",
       "link": "https://www.theatlantic.com/newsletters/2026/09/trump-understaffed-administration/688795/",
@@ -144,7 +200,7 @@
       "link": "https://www.theatlantic.com/culture/2026/09/ed-sheeran-macklemore-cancelled-tour-israel-palestine/688773/",
       "author": "",
       "published": "2026-09-25T11:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Music’s most consequential confrontation over Israel and Palestine has complicated the idea of the apolitical concert."
     },
     {
@@ -152,7 +208,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/09/ai-extinction-scenarios/688769/",
       "author": "",
       "published": "2026-09-25T11:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "How exactly is AI supposed to kill us all?"
     },
     {
@@ -1954,62 +2010,6 @@
       "published": "2026-09-05T11:00:00+00:00",
       "category": "精选",
       "summary": "The vice president’s relationship with a conspiracy theorist is, at bottom, a political partnership, not a personal friendship."
-    },
-    {
-      "title": "The Rush-Job Presidency",
-      "link": "https://www.theatlantic.com/culture/2026/09/trump-ballroom-arch-rush/688523/",
-      "author": "",
-      "published": "2026-09-05T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Trump wants his ballroom and arch done while he’s in office. There’s a risk."
-    },
-    {
-      "title": "Why I Want More AI at Dartmouth",
-      "link": "https://www.theatlantic.com/ideas/2026/09/universities-prohibiting-ai-classroom/688509/",
-      "author": "",
-      "published": "2026-09-05T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Universities that hide from the technology will merely secure their irrelevance."
-    },
-    {
-      "title": "Crypto Money Still Matters for the Midterms",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/crypto-money-still-matters-for-the-midterms/688537/",
-      "author": "",
-      "published": "2026-09-04T22:36:00+00:00",
-      "category": "精选",
-      "summary": "The industry is a surprising top spender in the races."
-    },
-    {
-      "title": "There’s No Such Thing as an AI ‘Lab’",
-      "link": "https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/",
-      "author": "",
-      "published": "2026-09-04T19:25:00+00:00",
-      "category": "科技",
-      "summary": "The term lends an air of scientific rigor to what are really billion-dollar corporations."
-    },
-    {
-      "title": "What Tech Titans Don’t Understand About Sci-Fi",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/the-books-briefing-tech-titans-sci-fi-asimov-lepore/688525/",
-      "author": "",
-      "published": "2026-09-04T18:45:00+00:00",
-      "category": "精选",
-      "summary": "The genre frequently exposes the rot within supposedly perfect futures."
-    },
-    {
-      "title": "The Meaning of the Lindsay Clancy Mistrial",
-      "link": "https://www.theatlantic.com/ideas/2026/09/clancy-mistrial-debate-conspiracy/688483/",
-      "author": "",
-      "published": "2026-09-04T18:32:00+00:00",
-      "category": "精选",
-      "summary": "Everyone has a theory. But what if this case means nothing at all?"
-    },
-    {
-      "title": "OpenAI Wants to Talk About The Federalist Papers",
-      "link": "https://www.theatlantic.com/technology/2026/09/openai-constitution-dean-ball/688524/",
-      "author": "",
-      "published": "2026-09-04T17:01:00+00:00",
-      "category": "科技",
-      "summary": "The AI giant is worried about what all-powerful bots could mean for our constitutional rights."
     }
   ]
 }
