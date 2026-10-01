@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T05:30:44.351652+00:00",
+  "updated_at": "2026-10-01T05:50:35.588078+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -12,7 +12,103 @@
   "errors": [],
   "articles": [
     {
-      "title": "The DOJ’s Collapsing Probe Into a Supposed Anti-Trump Conspiracy",
+      "title": "A Near-Disaster on Flydubai",
+      "link": "https://www.theatlantic.com/ideas/2026/09/flydubai-plane-attack-israel/688848/",
+      "author": "",
+      "published": "2026-09-30T22:04:00+00:00",
+      "category": "精选",
+      "summary": "This unbelievable sequence of events has huge implications."
+    },
+    {
+      "title": "MAHA Gone Mild",
+      "link": "https://www.theatlantic.com/health/2026/09/maha-gone-mild/688844/",
+      "author": "",
+      "published": "2026-09-30T20:45:13+00:00",
+      "category": "精选",
+      "summary": "This week’s summit featured J. D. Vance, electrolyte powder, and very few mentions of vaccination."
+    },
+    {
+      "title": "Pete Hegseth’s Magic Marker",
+      "link": "https://www.theatlantic.com/international/2026/09/pete-hegseth-military-professors-tenure/688842/",
+      "author": "",
+      "published": "2026-09-30T19:20:28+00:00",
+      "category": "国际",
+      "summary": "The secretary of defense strikes another blow against military preparedness."
+    },
+    {
+      "title": "Eric Schmitt’s Very Bad Day at Work",
+      "link": "https://www.theatlantic.com/ideas/2026/09/maga-senate-hearing-eric-schmitt/688839/",
+      "author": "",
+      "published": "2026-09-30T19:05:06+00:00",
+      "category": "精选",
+      "summary": "For MAGA politicians, there’s no such thing as a gaffe."
+    },
+    {
+      "title": "How Trump Could Threaten the 2026 Election",
+      "link": "https://www.theatlantic.com/podcasts/2026/09/david-frum-show-eric-holder-voting-rights-act/688838/",
+      "author": "",
+      "published": "2026-09-30T18:00:00+00:00",
+      "category": "精选",
+      "summary": "Former Attorney General Eric Holder on the dismantling of the Voting Rights Act and whether the 2026 midterm elections will be free and fair"
+    },
+    {
+      "title": "Wushu, Teqball, and More: The 2026 Asian Games",
+      "link": "https://www.theatlantic.com/photography/2026/09/scenes-2026-asian-games/688831/",
+      "author": "",
+      "published": "2026-09-30T14:18:45+00:00",
+      "category": "精选",
+      "summary": "More than 10,000 athletes from 46 countries are now gathered in Japan, competing in 469 events across 43 different sports, during the 20th edition of the Asian Games."
+    },
+    {
+      "title": "Literature Is Becoming More Like a Video Game",
+      "link": "https://www.theatlantic.com/culture/2026/09/lit-rpg-dungeon-crawler-carl-dragon-con/688825/",
+      "author": "",
+      "published": "2026-09-30T13:00:00+00:00",
+      "category": "精选",
+      "summary": "The Dungeon Crawler Carl series is transforming how an entirely new audience engages with reading."
+    },
+    {
+      "title": "Only Trump Gets to Criticize the Supreme Court",
+      "link": "https://www.theatlantic.com/ideas/2026/09/trump-supreme-court-justices/688830/",
+      "author": "",
+      "published": "2026-09-30T12:45:34+00:00",
+      "category": "精选",
+      "summary": "“These are not the people I interviewed to serve.”"
+    },
+    {
+      "title": "How the Culture War Put Public Schools at Risk",
+      "link": "https://www.theatlantic.com/ideas/2026/09/trump-school-vouchers-teachers-ideology/688816/",
+      "author": "",
+      "published": "2026-09-30T12:30:34+00:00",
+      "category": "精选",
+      "summary": "Allegations about “woke nonsense” imperiled a crucial source of Americans’ common identity."
+    },
+    {
+      "title": "The Great Data-Center Rebellion",
+      "link": "https://www.theatlantic.com/magazine/2026/11/data-center-resistance-movement/688671/",
+      "author": "",
+      "published": "2026-09-30T12:00:00+00:00",
+      "category": "科技",
+      "summary": "Could a new populist movement help save American democracy?"
+    },
+    {
+      "title": "The Missed Opportunity of NAZA",
+      "link": "https://www.theatlantic.com/culture/2026/09/missed-opportunity-documentary-movie-naza/688832/",
+      "author": "",
+      "published": "2026-09-30T11:30:00+00:00",
+      "category": "精选",
+      "summary": "A provocative Israeli documentary should make viewers think about their own moral parameters. Instead, it distances them from the war."
+    },
+    {
+      "title": "Right-Wing Groups Are Making Money Off John Fetterman",
+      "link": "https://www.theatlantic.com/politics/2026/09/fetterman-gop-senate-fundraising/688824/",
+      "author": "",
+      "published": "2026-09-30T10:00:00+00:00",
+      "category": "精选",
+      "summary": "After losing his Democratic fundraisers, the Pennsylvania senator found a new firm with MAGA-world ties."
+    },
+    {
+      "title": "DOJ’s Collapsing Probe Into a Supposed Anti-Trump Conspiracy",
       "link": "https://www.theatlantic.com/newsletters/2026/09/trump-justice-department-conspiracy-fbi/688833/",
       "author": "",
       "published": "2026-09-29T22:55:00+00:00",
@@ -25,7 +121,7 @@
       "author": "",
       "published": "2026-09-29T19:55:05+00:00",
       "category": "科技",
-      "summary": "\"ARGH... WHY IS THIS SO HARD.\""
+      "summary": "“ARGH ... WHY IS THIS SO HARD.”"
     },
     {
       "title": "GLP-1s Are Rewriting the Story of Weight Loss and Mental Health",
@@ -64,7 +160,7 @@
       "link": "https://www.theatlantic.com/press-releases/2026/09/the-atlantic-is-announcing-seven-new-roles-in-the-newsroom/688820/",
       "author": "",
       "published": "2026-09-29T13:48:35+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Today The Atlantic is announcing seven new roles in the newsroom: Sophie Haigney and Robert F. Worth as staff writers; Zachary Fryer-Biggs, Jebediah Reed, and Alex Stockton as senior editors; Kevin Roose as a contributing writer; and Lindsey Sitz as a producer for video podcasts. Below is the staff announcement from editor in chief Jeffrey Goldberg and executive editor Adrienne LaFrance: Dear everyone, We’re writing to share the exciting news that we’re bringing aboard several excellent journalists. These new colleagues will help us grow The Atlantic and serve our readers, listeners, and viewers. Joining us are Zach Fryer-Biggs, Sophie Haigney, Jeb Reed, Kevin Roose, Lindsey Sitz, and Alex Stockton. We’re also pleased to let you know that a familiar face, our contributing writer Robert F. Worth, is becoming a staff writer. Zach Fryer-Biggs is joining us as a senior editor. He has been an editor and reporter on the national-security beat for more than 15 years, earning a reputation as a champion of aggressive accountability journalism and as a thoughtful, cool-under-pressure colleague even while chasing the most competitive stories of the day. He’s also known for his deep curiosity about all things military. Zach comes to us from CNN, where he served as a supervising editor for national security. Zach has shaped CNN’s coverage of the Iran war, the Pentagon’s boat-strike campaign, and upheaval at the intelligence agencies, among other subjects. Zach was previously the managing editor at Military.com, where he led a news team that earned the Gerald R. Ford Foundation Award for its reporting on recruiting efforts by extremist groups. As a reporter, Zach has covered the Pentagon and intelligence communities for outlets such as Newsweek and the Center for Public Integrity. Sophie Haigney is joining us as a staff writer. She is a fantastically creative and original thinker whose writing has appeared in The New Yorker, The New York Times Magazine, Harper’s, and other publications (including, many years ago, this one ). Most recently she was the web editor for The Paris Review , and wrote a monthly advice column for The Drift . Her first book of essays, Future Relics , is coming next year. Sophie’s work digs deep into everyday phenomena, such as the evolution in how we “search it up” online and the disappearance of the landline from modern fiction. She is the kind of writer who sees things in the world that you can’t believe you didn’t notice yourself—but only once she points them out to you. We’re excited to see her wide array of interests manifest themselves across our reporting. Jeb Reed is joining us as a senior editor, building out our coverage of money and power, among our most important coverage ambitions. Jeb is an extraordinary editor who is drawn to stories that illuminate complex characters, take the reader on a narrative adventure, and often complicate people’s assumptions about how the world works the way it does, and why. He is also skilled at driving incisive, timely coverage of politics, business, technology, and media, qualities that we know will serve him (and Atlantic subscribers) very well. Jeb comes to us from New York magazine, where he has worked since 2013, editing some of the most memorable writers and features published in recent years. Most recently, he served as the editor of Intelligencer . Before that, Jeb did stints at The Week, Radar, and—for those who remember that brief, shining moment when tablets represented the future of publishing— The Daily . We couldn’t be more excited that he is joining us. Kevin Roose is joining us as a contributing writer. Kevin, who comes to us from The New York Times , is among the most creative and ambitious journalists covering technology today. His obsessive curiosity about tech is evident in all that he does—and at times, technology is obsessed right back at him. (Recall the time a chatbot tried to break up his marriage.) In addition to his many years of daily reporting, Kevin is the author of four books—most recently, The AGI Chronicles , an excerpt of which is out today in The Atlantic . And he is a co-host of the podcast Machine Gods alongside Casey Newton. We are glad to count Kevin among the brilliant group of writers whose reporting and thinking will help guide us through this revolutionary moment in tech. Lindsey Sitz is coming onboard as a producer supporting video podcasts. She is a brilliant and resourceful Pulitzer Prize–winning journalist who brings more than 15 years of experience writing, directing, producing, and editing visual stories. Lindsey has a unique eye for video and impressive range—knowing exactly how to produce a story to capture the tone and tenor of the narrative. Her seven years as a video journalist at The Washington Post spanned breaking news, investigative docs, and a 10-part docuseries that earned her a Ben Bradlee Award for Courage in Journalism and recognition from the Webby Awards. More recently, as an independent producer, she has worked with Vox Media, National Geographic Society, and Virginia Public Media. We can’t wait to see what she achieves here at The Atlantic . Alex Stockton is joining us as a senior editor focused on growing our video offerings. As we continue to expand in the realms of social video and video podcasts, Alex will help us carve out a new lane for even more video journalism—including working directly with reporters on field reporting, experimenting with new forms such as livestreams, and producing other original videos such as essays and debates. Alex is immensely talented. He has many ambitious ideas, great taste, and an extremely impressive record of telling hard-to-get stories at the highest level. He comes to us from The New York Times , where he has worked as a filmmaker producing Opinion video for several years. His work has drawn huge audiences and won numerous awards. In 2021, he was awarded an Emmy for “Heartache in the Hot Zone,” a video dispatch from two New York hospitals overwhelmed by the first wave of the pandemic. In 2023, he received an Emmy for “The Taliban Promised Them Amnesty. Then They Executed Them,” an investigation into Taliban revenge killings since the United States’ withdrawal from Afghanistan. And in 2025, he won his third Emmy for “Two Weeks Inside Gaza’s Ruined Hospitals,” which followed a doctor on a volunteer mission into a war zone. Previously, Alex created hybrid-format video journalism at Vice News Tonight on HBO. Robert F. Worth is joining us as a staff writer. Bobby has been a prolific Atlantic contributing writer since 2023, covering a wide array of stories from around the country and the world. He has profiled Indian Prime Minister Narendra Modi, dug into the assassination of Shinzo Abe in Japan, surveyed the new Syria shortly after the fall of Bashar al-Assad, and reported from conflict zones in the Middle East, Ukraine—and, last winter, the Upper Midwest . He’s just back from Cuba, currently in Sicily, and actively watching developments in Yemen. Bobby is the very definition of game , and there is no story or region too intimidating for him. When you send Bobby somewhere—wherever it is—you know that he will come back with extraordinary details, ground-level clarity, and a story that demonstrates to the reader that there is simply no substitute for reporting about a place from the place itself. Bobby wrote his first Atlantic story in 1995—a profile of a model prison in Pennsylvania, edited by Jack Beatty. At the time he was an aspiring journalist, struggling to escape graduate school. During his decades away from the magazine, he did stints as a freelance book reviewer, a crime reporter in New York (where he was born and raised), a foreign correspondent for The New York Times in Baghdad and later Beirut, and a roving international writer for The New York Times Magazine . He also wrote a book, A Rage for Order , about the Arab uprisings and their bloody aftermath, published in 2016. Bobby is physically fearless, boundlessly curious, and based in Washington, D.C. Please join us in welcoming Zach, Sophie, Jeb, Kevin, Lindsey, Alex, and Bobby. Best wishes, Jeff and Adrienne Press Contacts: Anna Bross and Paul Jackson | press@theatlantic.com"
     },
     {
@@ -88,7 +184,7 @@
       "link": "https://www.theatlantic.com/politics/2026/09/el-salvador-bukele-trump-ice-deportation/688799/",
       "author": "",
       "published": "2026-09-29T12:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The world moved on after Kilmar Abrego Garcia, but people continue to disappear."
     },
     {
@@ -1914,102 +2010,6 @@
       "published": "2026-09-10T12:00:00+00:00",
       "category": "精选",
       "summary": "He was ready for life after the Smithsonian. Protecting the institution had taken a toll."
-    },
-    {
-      "title": "Sarah Longwell’s Playbook for Defeating MAGA",
-      "link": "https://www.theatlantic.com/podcasts/2026/09/a-playbook-for-defeating-maga/688542/",
-      "author": "",
-      "published": "2026-09-10T11:00:00+00:00",
-      "category": "精选",
-      "summary": "The Bulwark publisher and author of How to Eat an Elephant on what voters want to hear"
-    },
-    {
-      "title": "The Election Deniers’ Long Game",
-      "link": "https://www.theatlantic.com/magazine/2026/10/big-lie-local-elections-midterms/688359/",
-      "author": "",
-      "published": "2026-09-10T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Right-wing activists have slowly taken control of a significant part of America’s local election apparatus. The country isn’t prepared for what they might do."
-    },
-    {
-      "title": "What the Aftermath of 9/11 Taught Me",
-      "link": "https://www.theatlantic.com/ideas/2026/09/9-11-first-responders-care/688554/",
-      "author": "",
-      "published": "2026-09-10T10:00:00+00:00",
-      "category": "精选",
-      "summary": "Government should be about producing results for people."
-    },
-    {
-      "title": "Okay, Sure, a Folding iPhone",
-      "link": "https://www.theatlantic.com/technology/2026/09/apple-folding-iphone/688562/",
-      "author": "",
-      "published": "2026-09-09T22:44:00+00:00",
-      "category": "科技",
-      "summary": "Apple needs to learn to take risks again."
-    },
-    {
-      "title": "Why Trump Has It Out for Canada",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/why-trump-hates-canada/688561/",
-      "author": "",
-      "published": "2026-09-09T22:02:00+00:00",
-      "category": "精选",
-      "summary": "When the president is frustrated, he lashes out at friends harder than he does enemies."
-    },
-    {
-      "title": "New York, 25 Years Later",
-      "link": "https://www.theatlantic.com/politics/2026/09/new-york-world-trade-center-25-years/688556/",
-      "author": "",
-      "published": "2026-09-09T21:30:53+00:00",
-      "category": "精选",
-      "summary": "The September 11 attacks inspired a sense of national unity that has since been shattered."
-    },
-    {
-      "title": "All the Places Trump Was on 9/11",
-      "link": "https://www.theatlantic.com/politics/2026/09/trump-stories-september-911/688557/",
-      "author": "",
-      "published": "2026-09-09T20:06:37+00:00",
-      "category": "精选",
-      "summary": "The president’s latest version doesn’t square with the facts."
-    },
-    {
-      "title": "Does Trump Want Republicans to Win the Midterms?",
-      "link": "https://www.theatlantic.com/ideas/2026/09/trump-miderm-strategy-convention/688559/",
-      "author": "",
-      "published": "2026-09-09T19:15:00+00:00",
-      "category": "全部",
-      "summary": "Traditionally, candidates try to distance themselves from unpopular presidents. But this year, that’s impossible."
-    },
-    {
-      "title": "Winners of Ocean Photographer of the Year 2026",
-      "link": "https://www.theatlantic.com/photography/2026/09/winners-ocean-photographer-year-2026/688545/",
-      "author": "",
-      "published": "2026-09-09T18:30:00+00:00",
-      "category": "全部",
-      "summary": "Images from this year’s Ocean Photographer of the Year competition, presented by Oceanographic Magazine and Blancpain, featuring some of the best coastal, drone, and underwater photographs selected from more than 15,000 entries"
-    },
-    {
-      "title": "Inside the White House on 9/11",
-      "link": "https://www.theatlantic.com/podcasts/2026/09/david-frum-show-john-mcconnell-inside-the-white-house-on-911/688558/",
-      "author": "",
-      "published": "2026-09-09T18:00:00+00:00",
-      "category": "全部",
-      "summary": "John McConnell on his memories of working in the White House on September 11, 2001. Plus: American Pastoral , by Philip Roth."
-    },
-    {
-      "title": "The Inside Story of What Happened at Stars and Stripes",
-      "link": "https://www.theatlantic.com/ideas/2026/09/pentagon-military-newspaper-independence-supression/688547/",
-      "author": "",
-      "published": "2026-09-09T17:00:00+00:00",
-      "category": "精选",
-      "summary": "For generations, the newspaper has served American military families. That work must continue. And it must remain editorially independent."
-    },
-    {
-      "title": "Lonnie Bunch Protected the Smithsonian From More Than Trump",
-      "link": "https://www.theatlantic.com/culture/2026/09/lonnie-bunch-smithsonian-legacy/688550/",
-      "author": "",
-      "published": "2026-09-09T12:55:00+00:00",
-      "category": "全部",
-      "summary": "As pressures bore down on an American institution, its secretary held firm."
     }
   ]
 }
