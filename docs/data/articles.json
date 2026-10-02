@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T05:50:35.588078+00:00",
+  "updated_at": "2026-10-02T05:35:12.702750+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -12,7 +12,119 @@
   "errors": [],
   "articles": [
     {
-      "title": "A Near-Disaster on Flydubai",
+      "title": "A Terrible Way to Die, a Terrifying Way to Survive",
+      "link": "https://www.theatlantic.com/ideas/2026/10/christa-pike-tennessee-lethal-injection/688859/",
+      "author": "",
+      "published": "2026-10-01T20:59:00+00:00",
+      "category": "精选",
+      "summary": "America’s experiment with lethal injection has failed."
+    },
+    {
+      "title": "The 14 Movies to Look Out for This Fall",
+      "link": "https://www.theatlantic.com/culture/2026/10/best-movies-fall-2026-preview/688857/",
+      "author": "",
+      "published": "2026-10-01T19:08:07+00:00",
+      "category": "精选",
+      "summary": "The best new films coming this season take a close look at humanity."
+    },
+    {
+      "title": "I’m Calling for a Pause in the Development of the Universal Bone Dissolver",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/ai-slowdown-bone-dissolver/688854/",
+      "author": "",
+      "published": "2026-10-01T19:05:12+00:00",
+      "category": "精选",
+      "summary": "A recent incident has raised my concerns: Last month, the Bone Dissolver unexpectedly dissolved a number of bones."
+    },
+    {
+      "title": "What Trump Misunderstands About Modern Media",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/when-the-president-tries-to-control-the-stories/688853/",
+      "author": "",
+      "published": "2026-10-01T16:09:00+00:00",
+      "category": "精选",
+      "summary": "The president is eager to both undermine the credibility of the press and bask in its plaudits."
+    },
+    {
+      "title": "Pete Hegseth, Idea Guy",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/pete-hegseth-state-of-force-address/688852/",
+      "author": "",
+      "published": "2026-10-01T15:36:00+00:00",
+      "category": "精选",
+      "summary": "His State of the Force address was a partisan disgrace—with a few good ideas buried in it."
+    },
+    {
+      "title": "A Dissatisfying Apocalypse",
+      "link": "https://www.theatlantic.com/books/2026/10/hernan-diaz-disappointing-dystopan-novel-ply-book-review/688843/",
+      "author": "",
+      "published": "2026-10-01T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Hernan Diaz’s new novel, Ply , fails to fulfill the promise of every great end-of-the-world novel."
+    },
+    {
+      "title": "Want to Reform Democracy? Start Here.",
+      "link": "https://www.theatlantic.com/ideas/2026/10/pardon-power-congres-expand/688836/",
+      "author": "",
+      "published": "2026-10-01T12:00:00+00:00",
+      "category": "精选",
+      "summary": "A more constrained executive branch could begin to take shape with a smaller pardon power—and a bigger House of Representatives."
+    },
+    {
+      "title": "Is College Getting Less Safe for Women?",
+      "link": "https://www.theatlantic.com/culture/2026/10/cornell-gang-rape-allegations/688849/",
+      "author": "",
+      "published": "2026-10-01T11:41:00+00:00",
+      "category": "精选",
+      "summary": "A lawsuit about an alleged gang rape at Cornell University and a Wired story about sexual cyberharassment reveal how campus rape culture and online misogyny are colliding."
+    },
+    {
+      "title": "Why Americans Stopped Throwing Dinner Parties",
+      "link": "https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/",
+      "author": "",
+      "published": "2026-10-01T11:00:00+00:00",
+      "category": "精选",
+      "summary": "The share of adults who say they regularly have friends over has declined dramatically since 1975."
+    },
+    {
+      "title": "The Problem With Trump’s Crime Claims",
+      "link": "https://www.theatlantic.com/politics/2026/10/trump-immigration-ice-crime-sanctuary-city/688829/",
+      "author": "",
+      "published": "2026-10-01T11:00:00+00:00",
+      "category": "精选",
+      "summary": "The president says that his immigration crackdown is behind falling crime rates. The numbers don’t back that up."
+    },
+    {
+      "title": "The Baltic States Prepare for War",
+      "link": "https://www.theatlantic.com/magazine/2026/11/baltic-defense-russia/688692/",
+      "author": "",
+      "published": "2026-10-01T11:00:00+00:00",
+      "category": "国际",
+      "summary": "Lithuania, Latvia, and Estonia are readying themselves to fend off a Russian attack—with the help of the United States, or without it."
+    },
+    {
+      "title": "Min Jin Lee’s Underdog Morality",
+      "link": "https://www.theatlantic.com/podcasts/2026/10/min-jin-lee-american-hagwon/688835/",
+      "author": "",
+      "published": "2026-10-01T10:00:00+00:00",
+      "category": "精选",
+      "summary": "The Pachinko author on her latest novel, American Hagwon , and parents’ near-religious belief in elite education"
+    },
+    {
+      "title": "What Is Trump Doing?",
+      "link": "https://www.theatlantic.com/politics/2026/10/trump-midterms-polls-senate/688840/",
+      "author": "",
+      "published": "2026-10-01T09:00:00+00:00",
+      "category": "精选",
+      "summary": "Poll after poll shows that Trump’s presidency is not going well. And he has only himself to blame."
+    },
+    {
+      "title": "Baruch Obama",
+      "link": "https://www.theatlantic.com/politics/2026/10/barack-obama-josh-shapiro-president/688790/",
+      "author": "",
+      "published": "2026-10-01T09:00:00+00:00",
+      "category": "精选",
+      "summary": "Josh Shapiro’s one-man Black-Jewish alliance"
+    },
+    {
+      "title": "A Near Disaster on Flydubai",
       "link": "https://www.theatlantic.com/ideas/2026/09/flydubai-plane-attack-israel/688848/",
       "author": "",
       "published": "2026-09-30T22:04:00+00:00",
@@ -56,7 +168,7 @@
       "link": "https://www.theatlantic.com/photography/2026/09/scenes-2026-asian-games/688831/",
       "author": "",
       "published": "2026-09-30T14:18:45+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "More than 10,000 athletes from 46 countries are now gathered in Japan, competing in 469 events across 43 different sports, during the 20th edition of the Asian Games."
     },
     {
@@ -72,7 +184,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/09/trump-supreme-court-justices/688830/",
       "author": "",
       "published": "2026-09-30T12:45:34+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "“These are not the people I interviewed to serve.”"
     },
     {
@@ -80,7 +192,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/09/trump-school-vouchers-teachers-ideology/688816/",
       "author": "",
       "published": "2026-09-30T12:30:34+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Allegations about “woke nonsense” imperiled a crucial source of Americans’ common identity."
     },
     {
@@ -96,11 +208,11 @@
       "link": "https://www.theatlantic.com/culture/2026/09/missed-opportunity-documentary-movie-naza/688832/",
       "author": "",
       "published": "2026-09-30T11:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A provocative Israeli documentary should make viewers think about their own moral parameters. Instead, it distances them from the war."
     },
     {
-      "title": "Right-Wing Groups Are Making Money Off John Fetterman",
+      "title": "Right-Wing Groups Are Making Money off John Fetterman",
       "link": "https://www.theatlantic.com/politics/2026/09/fetterman-gop-senate-fundraising/688824/",
       "author": "",
       "published": "2026-09-30T10:00:00+00:00",
@@ -1898,118 +2010,6 @@
       "published": "2026-09-11T10:00:00+00:00",
       "category": "全部",
       "summary": "After 9/11, the U.S. government was over-focused on fighting terrorism, losing sight of other threats. Americans are still living with the consequences."
-    },
-    {
-      "title": "The Original Sin of AI",
-      "link": "https://www.theatlantic.com/ideas/2026/09/meta-settlement-social-media-addiction-youth/688567/",
-      "author": "",
-      "published": "2026-09-11T10:00:00+00:00",
-      "category": "精选",
-      "summary": "The harms of chatbots are clear enough to do something about them now."
-    },
-    {
-      "title": "Trump’s Weird Loyalty Pledge",
-      "link": "https://www.theatlantic.com/ideas/2026/09/trump-convention-speech/688583/",
-      "author": "",
-      "published": "2026-09-11T04:08:42+00:00",
-      "category": "全部",
-      "summary": "In a night of wild emotions and odd ideas, one moment stood out."
-    },
-    {
-      "title": "The MAGA Movement Is Splintering Without Charlie Kirk",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/charlie-kirk-one-year-maga-movement/688588/",
-      "author": "",
-      "published": "2026-09-10T21:58:00+00:00",
-      "category": "全部",
-      "summary": "A year of feuds among MAGA figures shows how much the movement depended on Kirk personally."
-    },
-    {
-      "title": "What Makes Tennis One of the Greatest Games",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/tenis-history-greatest-games-sport/688587/",
-      "author": "",
-      "published": "2026-09-10T21:40:00+00:00",
-      "category": "全部",
-      "summary": "It wasn’t always regarded as the intensely athletic sport that it is."
-    },
-    {
-      "title": "Bush Understood Something Trump Doesn’t",
-      "link": "https://www.theatlantic.com/ideas/2026/09/bush-trump-mamdani-giuliani-islam/688582/",
-      "author": "",
-      "published": "2026-09-10T20:48:08+00:00",
-      "category": "精选",
-      "summary": "The leaders of the American right have embraced the false idea that the United States is at war with Islam."
-    },
-    {
-      "title": "The Los Angeles Rams Are Trying to Defeat Time",
-      "link": "https://www.theatlantic.com/health/2026/09/nfl-australia-jet-lag-49ers-rams/688577/",
-      "author": "",
-      "published": "2026-09-10T19:27:07+00:00",
-      "category": "全部",
-      "summary": "Welcome to the Super Bowl of jet lag."
-    },
-    {
-      "title": "How Colin Powell Spent 9/11",
-      "link": "https://www.theatlantic.com/national-security/2026/09/colin-powell-911-democracy/688566/",
-      "author": "",
-      "published": "2026-09-10T19:15:32+00:00",
-      "category": "精选",
-      "summary": "His insistence during an overseas trip on championing democracy in foreign policy is now a relic."
-    },
-    {
-      "title": "The Thrill of Wanting AI to Destroy the World",
-      "link": "https://www.theatlantic.com/ideas/2026/09/ai-destroy-world-apocalypse/688575/",
-      "author": "",
-      "published": "2026-09-10T18:35:44+00:00",
-      "category": "全部",
-      "summary": "An Anthropic researcher quit his job because he believes AI will destroy humanity. His story is going viral because so many others want to believe too."
-    },
-    {
-      "title": "The George W. Bush Administration’s Lesson for the Trump Era",
-      "link": "https://www.theatlantic.com/ideas/2026/09/9-11-lessons-bush-trump/688572/",
-      "author": "",
-      "published": "2026-09-10T17:56:00+00:00",
-      "category": "全部",
-      "summary": "It circumvented the law to pursue alleged September 11 perpetrators. That backfired."
-    },
-    {
-      "title": "Trump’s Dream World in Dallas",
-      "link": "https://www.theatlantic.com/politics/2026/09/trump-midterms-dallas-convention/688568/",
-      "author": "",
-      "published": "2026-09-10T15:28:00+00:00",
-      "category": "全部",
-      "summary": "At a midterm convention, Trump tries to defy the odds one last time."
-    },
-    {
-      "title": "Russia’s Real Strategy in Europe",
-      "link": "https://www.theatlantic.com/international/2026/09/putin-russia-europe-trump-war/688565/",
-      "author": "",
-      "published": "2026-09-10T15:00:00+00:00",
-      "category": "国际",
-      "summary": "Moscow doesn’t want a conventional war, but it is busy fighting a hybrid one."
-    },
-    {
-      "title": "Jackie Collins Wrote Her Own Revolution",
-      "link": "https://www.theatlantic.com/magazine/2026/10/writers-way-hollywood-jackie-collins-travel/688354/",
-      "author": "",
-      "published": "2026-09-10T13:00:00+00:00",
-      "category": "全部",
-      "summary": "The novelist imagined women enjoying equality in the bedroom and the boardroom. Are we any closer to living in that world?"
-    },
-    {
-      "title": "Trump Is Preparing for a Long War",
-      "link": "https://www.theatlantic.com/national-security/2026/09/trump-iran-war-navy/688563/",
-      "author": "",
-      "published": "2026-09-10T12:12:02+00:00",
-      "category": "精选",
-      "summary": "The military is doing long-term planning for its force in the Persian Gulf, risking further strain on the Navy."
-    },
-    {
-      "title": "What Lonnie Bunch Told Me",
-      "link": "https://www.theatlantic.com/culture/2026/09/lonnie-bunch-smithsonian-retirement/688564/",
-      "author": "",
-      "published": "2026-09-10T12:00:00+00:00",
-      "category": "精选",
-      "summary": "He was ready for life after the Smithsonian. Protecting the institution had taken a toll."
     }
   ]
 }
