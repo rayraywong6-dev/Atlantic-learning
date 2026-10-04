@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T05:17:02.854232+00:00",
+  "updated_at": "2026-10-04T05:50:35.389889+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,62 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Don’t Write With AI , Say People Who Write With AI",
+      "link": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
+      "author": "",
+      "published": "2026-10-03T19:21:32+00:00",
+      "category": "科技",
+      "summary": "Your “cheating” is their “assistive tool.”"
+    },
+    {
+      "title": "Trump’s Shifting Control Over the GOP",
+      "link": "https://www.theatlantic.com/national/2026/10/trump-midterms-washington-week/688882/",
+      "author": "",
+      "published": "2026-10-03T13:53:28+00:00",
+      "category": "全部",
+      "summary": "Panelists joined to discuss the president’s travels to red states ahead of the midterm elections."
+    },
+    {
+      "title": "AI Could Worsen a Common Cognitive Trap",
+      "link": "https://www.theatlantic.com/science/2026/10/why-illusions-understanding-explanation-question/688826/",
+      "author": "",
+      "published": "2026-10-03T13:00:00+00:00",
+      "category": "全部",
+      "summary": "Almost everyone knows less than they think."
+    },
+    {
+      "title": "Bait and Switch",
+      "link": "https://www.theatlantic.com/magazine/2026/11/ai-images-hobbies/688674/",
+      "author": "",
+      "published": "2026-10-03T13:00:00+00:00",
+      "category": "科技",
+      "summary": "Fishermen have always exaggerated the size of their catches. But AI has taken the practice to a different level."
+    },
+    {
+      "title": "The Strange Power of Coincidence",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/strange-power-of-coincidence/688880/",
+      "author": "",
+      "published": "2026-10-03T12:00:00+00:00",
+      "category": "精选",
+      "summary": "What chance encounters reveal about the way our minds work"
+    },
+    {
+      "title": "The Mainstreaming of Anti-Indian Bigotry",
+      "link": "https://www.theatlantic.com/ideas/2026/10/french-rufo-meritocracy-race/688870/",
+      "author": "",
+      "published": "2026-10-03T12:00:00+00:00",
+      "category": "精选",
+      "summary": "A Republican schism over a social-media post by a Texas politician revealed that the party’s defense of a color-blind meritocracy has its limits."
+    },
+    {
+      "title": "I Quit OpenAI Because Its Culture Is Broken",
+      "link": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+      "author": "",
+      "published": "2026-10-03T11:00:00+00:00",
+      "category": "科技",
+      "summary": "The industry’s approach to safety will guarantee more failures unless something changes."
+    },
     {
       "title": "The Right’s Identity Politics Take a Bizarre Turn",
       "link": "https://www.theatlantic.com/newsletters/2026/10/maga-sarah-huckabee-sanders-woke/688876/",
@@ -104,7 +160,7 @@
       "link": "https://www.theatlantic.com/books/2026/10/mrbeast-james-patterson-book/688862/",
       "author": "",
       "published": "2026-10-02T12:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "James Patterson and MrBeast wrote a book in hopes of reaching young people."
     },
     {
@@ -144,7 +200,7 @@
       "link": "https://www.theatlantic.com/culture/2026/10/best-movies-fall-2026-preview/688857/",
       "author": "",
       "published": "2026-10-01T19:08:07+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The best new films coming this season take a close look at humanity."
     },
     {
@@ -152,7 +208,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/10/ai-slowdown-bone-dissolver/688854/",
       "author": "",
       "published": "2026-10-01T19:05:12+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A recent incident has raised my concerns: Last month, the Bone Dissolver unexpectedly dissolved a number of bones."
     },
     {
@@ -1954,62 +2010,6 @@
       "published": "2026-09-13T11:00:00+00:00",
       "category": "全部",
       "summary": "Forty-four years ago, a conservative legal convention offered disaffected students an identity—and hope."
-    },
-    {
-      "title": "Trump’s Secret Points System for Cabinet Members",
-      "link": "https://www.theatlantic.com/politics/2026/09/trump-cabinet-travel-midterms/688560/",
-      "author": "",
-      "published": "2026-09-13T10:00:00+00:00",
-      "category": "精选",
-      "summary": "The White House held a summer contest to see who could appear in the most congressional districts and states with competitive midterm elections."
-    },
-    {
-      "title": "AI’s Code-Red Moment",
-      "link": "https://www.theatlantic.com/technology/2026/09/dario-amodei-slow-down-ai-save-humanity/688610/",
-      "author": "",
-      "published": "2026-09-12T22:31:32+00:00",
-      "category": "科技",
-      "summary": "Anthropic’s CEO warns that the makers of artificial intelligence “owe it to humanity to try” to slow down."
-    },
-    {
-      "title": "AI Is Running Laps Around Our Political System",
-      "link": "https://www.theatlantic.com/politics/2026/09/ai-dario-amodei-essay/688596/",
-      "author": "",
-      "published": "2026-09-12T18:32:33+00:00",
-      "category": "精选",
-      "summary": "The technology is moving faster than elected officials can handle—and Anthropic’s CEO says the industry should slow down."
-    },
-    {
-      "title": "Remembering 9/11, 25 Years Later",
-      "link": "https://www.theatlantic.com/national/2026/09/remembering-9-11-washington-week/688609/",
-      "author": "",
-      "published": "2026-09-12T17:14:16+00:00",
-      "category": "全部",
-      "summary": "Editor’s Note: Washington Week With The Atlantic is a partnership between NewsHour Productions, WETA, and The Atlantic airing every Friday on PBS stations nationwide. Check your local listings , watch full episodes here , or listen to the weekly podcast here . It has been 25 years since nearly 3,000 people died in a terror attack on the World Trade Center on September 11. “As far as I’m concerned, we can never talk about them enough,” Jeffrey Goldberg, the editor in chief of The Atlantic , said last night. Panelists on Washington Week With The Atlantic joined him for a discussion about the lives that were lost, and they examined the fallout from one of the most terrifying events in the nation’s history. The Atlantic staff writer Jonathan Lemire was an intern at New York Daily News on 9/11. When he learned of the attacks on the Twin Towers, his editor sent him to nearby hospitals. “The most harrowing image from that day for me was you could look in” at the beds lined up, “and they stayed empty,” he said last night. “There weren’t the survivors that people thought could be rushed and saved.” Joining Goldberg to discuss this and more: Ann Compton, a former White House correspondent for ABC News; Sally Jenkins, a staff writer at The Atlantic ; Lemire, a staff writer at The Atlantic and a co-host of Morning Joe on MS NOW; Graeme Wood, a staff writer at The Atlantic . Watch the full episode here ."
-    },
-    {
-      "title": "Mario-a-Lago Kart , Anyone?",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/white-house-arcade-games-parody/688602/",
-      "author": "",
-      "published": "2026-09-12T13:00:00+00:00",
-      "category": "精选",
-      "summary": "The White House made a bunch of parody video games. We have more suggestions."
-    },
-    {
-      "title": "The Joy of Being Asked to Help",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/asking-help-awkward/688608/",
-      "author": "",
-      "published": "2026-09-12T12:49:00+00:00",
-      "category": "精选",
-      "summary": "Deciding to go it alone can end up depriving loved ones."
-    },
-    {
-      "title": "The Year Great-White Sharks Took Over Maine",
-      "link": "https://www.theatlantic.com/culture/2026/09/sharks-maine-infestation/688581/",
-      "author": "",
-      "published": "2026-09-12T12:00:00+00:00",
-      "category": "精选",
-      "summary": "More and more people have spotted them this season, but no one knows exactly why—or what to do."
     }
   ]
 }
