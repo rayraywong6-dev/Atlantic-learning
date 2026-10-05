@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T05:50:35.389889+00:00",
+  "updated_at": "2026-10-05T05:37:47.303574+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,70 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "An SNL Sketch That Understands How the Internet Shapes Our Reality",
+      "link": "https://www.theatlantic.com/culture/2026/10/saturday-night-live-get-ready-with-me/688883/",
+      "author": "",
+      "published": "2026-10-04T16:47:48+00:00",
+      "category": "精选",
+      "summary": "Sometimes your favorite influencer is really weird, and your friends just don’t get it."
+    },
+    {
+      "title": "Puffins",
+      "link": "https://www.theatlantic.com/magazine/2026/11/ange-mlinko-puffins/688694/",
+      "author": "",
+      "published": "2026-10-04T16:00:00+00:00",
+      "category": "全部",
+      "summary": "A poem"
+    },
+    {
+      "title": "AI’s Real Gift to Science",
+      "link": "https://www.theatlantic.com/science/2026/10/anthropic-artificial-intelligence-science-biology/688878/",
+      "author": "",
+      "published": "2026-10-04T15:56:28+00:00",
+      "category": "精选",
+      "summary": "Advanced models can help researchers sort through mountains of biological data."
+    },
+    {
+      "title": "The Vanity of Kings",
+      "link": "https://www.theatlantic.com/magazine/2026/11/public-monuments-egyptian-art-exhibits/688700/",
+      "author": "",
+      "published": "2026-10-04T14:00:00+00:00",
+      "category": "全部",
+      "summary": "How the ancient pharaohs attempted to preserve their legacies for eternity"
+    },
+    {
+      "title": "Should We Ban AI for Kids?",
+      "link": "https://www.theatlantic.com/podcasts/2026/10/should-we-ban-ai-for-kids/688864/",
+      "author": "",
+      "published": "2026-10-04T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Jonathan Haidt sounded the alarm on phones in schools. He thinks what’s coming will be even worse."
+    },
+    {
+      "title": "Are Mormons Losing Their Distinctiveness?",
+      "link": "https://www.theatlantic.com/health/2026/10/latter-day-saints-retention/688867/",
+      "author": "",
+      "published": "2026-10-04T12:00:00+00:00",
+      "category": "精选",
+      "summary": "People born into the Church of Jesus Christ of Latter-day Saints have tended to stay members for life. But that pattern has started to shift."
+    },
+    {
+      "title": "A Reckoning in Springfield",
+      "link": "https://www.theatlantic.com/politics/2026/10/pierre-damas-bel-driver-springfield/688865/",
+      "author": "",
+      "published": "2026-10-04T11:30:00+00:00",
+      "category": "精选",
+      "summary": "A truck driver out on his route confronts what the country has become."
+    },
+    {
+      "title": "A TV Show Where Teens Actually Act Like Teens",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/a-tv-show-where-teens-actually-act-like-teens/688879/",
+      "author": "",
+      "published": "2026-10-04T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Culture and entertainment recommendations including Derry Girls , Moonstruck , and more"
+    },
     {
       "title": "Don’t Write With AI , Say People Who Write With AI",
       "link": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
@@ -128,7 +192,7 @@
       "link": "https://www.theatlantic.com/photography/2026/10/photos-of-the-week-mermaid-dance-medieval-village-alpaca-cafe/688858/",
       "author": "",
       "published": "2026-10-02T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The world’s tallest wind turbine, in Germany; scenes from Moscow Fashion Week; a procession of judges in London; yodeling in an underground garage in Austria; and much more"
     },
     {
@@ -136,7 +200,7 @@
       "link": "https://www.theatlantic.com/books/2026/10/city-without-jews-douglas-smith-book-review-vienna/688855/",
       "author": "",
       "published": "2026-10-02T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Douglas Smith’s The City Without Jews revisits the decimation of a robust community—and the city that betrayed it."
     },
     {
@@ -144,7 +208,7 @@
       "link": "https://www.theatlantic.com/culture/2026/10/ella-langley-choosin-texas-billboard-record/688860/",
       "author": "",
       "published": "2026-10-02T12:26:11+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The criteria—and meaning—of a No. 1 hit are always changing."
     },
     {
@@ -1946,70 +2010,6 @@
       "published": "2026-09-14T11:00:00+00:00",
       "category": "精选",
       "summary": "Infant care is incredibly expensive to provide. But one solution could reduce the burden on both states and parents."
-    },
-    {
-      "title": "MAGA Is Making the World Safe for Corruption",
-      "link": "https://www.theatlantic.com/magazine/2026/10/maga-foreign-policy/688352/",
-      "author": "",
-      "published": "2026-09-14T10:00:00+00:00",
-      "category": "国际",
-      "summary": "Far-right ideologues have transformed American foreign policy into a tool of private gain and antidemocratic reaction."
-    },
-    {
-      "title": "The Atlantic Launches New Weekly Video Podcast, The Permanent Questions With David Brooks",
-      "link": "https://www.theatlantic.com/press-releases/2026/09/atlantic-launches-new-podcast-david-brooks/688601/",
-      "author": "",
-      "published": "2026-09-13T16:53:00+00:00",
-      "category": "精选",
-      "summary": "Today The Atlantic is launching The Permanent Questions , a new video podcast hosted by staff writer David Brooks about the fundamental questions of human life that every generation—and every individual—must attempt to answer. In new episodes publishing every Sunday, David will engage thinkers, writers, and artists in conversations about what makes us human, what gives life meaning, and how we can build richer relationships and a more just society. For the first episode , available today, David is joined by Meghan Sullivan, the Wilsey Family College Professor of Philosophy at the University of Notre Dame, to consider what it means to live a good life. In an introduction to the show, David says: “There are a lot of shows about politics and business and health and tech, but there aren’t enough about the really big questions of life.” The podcast builds on David’s decades of writing about political, cultural, moral, and social issues. David joined The Atlantic’ s staff after many years as a contributing writer, and has recently written about the crucial lessons for the Democratic Party; “ The People Who Will Thrive in the AI Age ,” about why people’s relationship to mental effort will differentiate them; how “ History Is Running Backwards ” and why reactionaries are taking over the world; and “ Something Big Is Happening on Campus ,” on how plenty is going wrong in American higher education, but a lot is also going right. The launch of The Permanent Questions is part of a continued surge of audio and video at The Atlantic , which has doubled its number of weekly shows, podcast staff, and audio revenue in the past year. Since 2025, The Atlantic has launched the video podcasts The David Frum Show and Galaxy Brain with Charlie Warzel, and this past summer expanded its flagship show, Radio Atlantic —co-hosted by Hanna Rosin and Adam Harris , with a weekly Monday video episode hosted by Adam. The podcast is produced by The Atlantic and made possible by support from Yale University, where David is also a presidential senior fellow at Yale Jackson School of Global Affairs. Episodes of The Permanent Questions will be released each Sunday. Viewers can subscribe to watch on The Atlantic ’s YouTube channel or wherever they get their podcasts. Please reach out with any questions or requests. Press Contacts: Anna Bross and Paul Jackson | The Atlantic press@theatlantic.com"
-    },
-    {
-      "title": "What Is the Good Life?",
-      "link": "https://www.theatlantic.com/podcasts/2026/09/what-is-the-good-life/688591/",
-      "author": "",
-      "published": "2026-09-13T15:00:00+00:00",
-      "category": "精选",
-      "summary": "The philosophy professor Meghan Sullivan doesn’t just want to teach her students about virtue; she wants to make them better human beings."
-    },
-    {
-      "title": "Facing the Music",
-      "link": "https://www.theatlantic.com/magazine/2026/10/boris-dralyuk-facing-the-music/688345/",
-      "author": "",
-      "published": "2026-09-13T15:00:00+00:00",
-      "category": "精选",
-      "summary": "A poem"
-    },
-    {
-      "title": "This Is What Women’s Self-Defense Looks Like",
-      "link": "https://www.theatlantic.com/family/2026/09/women-self-defense-class/688593/",
-      "author": "",
-      "published": "2026-09-13T12:00:00+00:00",
-      "category": "全部",
-      "summary": "It’s not just about protection. It’s about living a bigger life."
-    },
-    {
-      "title": "It’s All Fun and Games Until You Give AI Your Credit Card",
-      "link": "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/",
-      "author": "",
-      "published": "2026-09-13T11:30:00+00:00",
-      "category": "科技",
-      "summary": "AI personal assistants are now acting on people’s behalf in the real world—and all sorts of strange things are going wrong."
-    },
-    {
-      "title": "The Property-Tax Revolution",
-      "link": "https://www.theatlantic.com/ideas/2026/09/florida-taxes-amendment/688594/",
-      "author": "",
-      "published": "2026-09-13T11:00:00+00:00",
-      "category": "全部",
-      "summary": "States can’t afford these cuts."
-    },
-    {
-      "title": "The Birth of the New Legal Right",
-      "link": "https://www.theatlantic.com/ideas/2026/09/federalist-society-conference-conservative-court/688555/",
-      "author": "",
-      "published": "2026-09-13T11:00:00+00:00",
-      "category": "全部",
-      "summary": "Forty-four years ago, a conservative legal convention offered disaffected students an identity—and hope."
     }
   ]
 }
