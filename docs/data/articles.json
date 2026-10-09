@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T06:01:49.055795+00:00",
+  "updated_at": "2026-10-09T06:06:52.199329+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,142 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "‘Nothing About This Was Inevitable’",
+      "link": "https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose-book/688944/",
+      "author": "",
+      "published": "2026-10-08T22:38:25+00:00",
+      "category": "科技",
+      "summary": "The leaders of AI’s biggest companies refuse to admit they’re in control."
+    },
+    {
+      "title": "Trump’s Team of Mercenaries",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/trump-guilfoyle-blair-lacivita-mercenaries/688943/",
+      "author": "",
+      "published": "2026-10-08T22:30:00+00:00",
+      "category": "精选",
+      "summary": "People around the president are using their roles to cash in. They learned it by watching him."
+    },
+    {
+      "title": "Anne Carson’s Seductive Strangeness",
+      "link": "https://www.theatlantic.com/books/2026/10/anne-carson-nobel-prize-literature-autobiography-of-red/688938/",
+      "author": "",
+      "published": "2026-10-08T18:57:54+00:00",
+      "category": "精选",
+      "summary": "The winner of this year’s Nobel Prize in Literature makes ancient texts feel tantalizingly new."
+    },
+    {
+      "title": "The Oil Crisis America Saw Coming",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/us-oil-energy-crisis-1987-middle-east-hormuz/688937/",
+      "author": "",
+      "published": "2026-10-08T18:10:00+00:00",
+      "category": "精选",
+      "summary": "In 1987, two writers predicted a path to energy independence from the Middle East. What they didn’t anticipate was what the U.S. would do to get there."
+    },
+    {
+      "title": "What I Saw at New York’s Anti-Israel October 7 Rallies",
+      "link": "https://www.theatlantic.com/ideas/2026/10/october-7-new-york-israel-mamdani/688932/",
+      "author": "",
+      "published": "2026-10-08T18:00:14+00:00",
+      "category": "精选",
+      "summary": "Some protesters observed the attack’s anniversary by implicitly saluting Hamas. A fringe of that fringe took aim at the mayor."
+    },
+    {
+      "title": "How Digger Dug Its Own Box-Office Grave",
+      "link": "https://www.theatlantic.com/culture/2026/10/digger-tom-cruise-box-office-flop-explained/688934/",
+      "author": "",
+      "published": "2026-10-08T16:56:15+00:00",
+      "category": "精选",
+      "summary": "Even Tom Cruise couldn’t convince audiences that his unpleasant new film is a crowd-pleaser."
+    },
+    {
+      "title": "If You Want a Real Digital Commons, Build It Yourself",
+      "link": "https://www.theatlantic.com/ideas/2026/10/rappler-philippines-digital-commons/688927/",
+      "author": "",
+      "published": "2026-10-08T16:34:00+00:00",
+      "category": "全部",
+      "summary": "Rappler’s answer to state-sponsored lies and harassment was to stop using corporate social media as its public square."
+    },
+    {
+      "title": "The Simple Truth Behind Jane Doe’s Story",
+      "link": "https://www.theatlantic.com/ideas/2026/10/jane-doe-cornell-7-story/688912/",
+      "author": "",
+      "published": "2026-10-08T15:18:52+00:00",
+      "category": "精选",
+      "summary": "Everyone knew what happened at Cornell was wrong."
+    },
+    {
+      "title": "Kathy Hochul’s Improbable Turnaround",
+      "link": "https://www.theatlantic.com/politics/2026/10/kathy-hochul-trump-mamdani-ny/688868/",
+      "author": "",
+      "published": "2026-10-08T14:47:36+00:00",
+      "category": "精选",
+      "summary": "The governor of New York would like some respect."
+    },
+    {
+      "title": "Why FBI Officials Are Worried About the Midterms",
+      "link": "https://www.theatlantic.com/podcasts/2026/10/kash-patel-fbi-midterms/688920/",
+      "author": "",
+      "published": "2026-10-08T14:00:00+00:00",
+      "category": "精选",
+      "summary": "People inside the bureau believe that Kash Patel is “desperate” to deliver indictments—and generate headlines—that would please the president."
+    },
+    {
+      "title": "The Breakout Music Video of the Year Has a Message for Men. What Is It?",
+      "link": "https://www.theatlantic.com/culture/2026/10/gener8ion-yung-lean-storm-video-damien-jalet-interview/688924/",
+      "author": "",
+      "published": "2026-10-08T13:36:13+00:00",
+      "category": "精选",
+      "summary": "Damien Jalet, the choreographer behind the viral video for Gener8ion’s “Storm,” explains his process."
+    },
+    {
+      "title": "The Decade’s 10 Most Defining Movies (So Far)",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/movies-2020s-most-defining-video-village/688917/",
+      "author": "",
+      "published": "2026-10-08T13:00:00+00:00",
+      "category": "精选",
+      "summary": "These films best capture the strange spirit of the 2020s."
+    },
+    {
+      "title": "Forgive the Bad Texters",
+      "link": "https://www.theatlantic.com/magazine/2026/11/text-communication-social-obligation/688696/",
+      "author": "",
+      "published": "2026-10-08T13:00:00+00:00",
+      "category": "精选",
+      "summary": "We are truly sorry for our delayed response."
+    },
+    {
+      "title": "The Marriage That Captures a High Point of American Art",
+      "link": "https://www.theatlantic.com/culture/2026/10/jackson-pollock-lee-krasner-met-review/688916/",
+      "author": "",
+      "published": "2026-10-08T12:00:00+00:00",
+      "category": "精选",
+      "summary": "An ambitious retrospective examines the life and work of Jackson Pollock and Lee Krasner—to brilliant effect."
+    },
+    {
+      "title": "How the Polls Could Be Wrong Again",
+      "link": "https://www.theatlantic.com/politics/2026/10/midterm-polls-error/688922/",
+      "author": "",
+      "published": "2026-10-08T11:15:00+00:00",
+      "category": "精选",
+      "summary": "Democrats appear headed toward a big victory. But a small polling error could mean a dramatically different outcome."
+    },
+    {
+      "title": "Reducing the Number of Generals Isn’t the Problem",
+      "link": "https://www.theatlantic.com/international/2026/10/generals-hegseth-military-public-trust/688919/",
+      "author": "",
+      "published": "2026-10-08T11:00:00+00:00",
+      "category": "国际",
+      "summary": "Hegseth is damaging the military and the public’s trust in it."
+    },
+    {
+      "title": "The Biggest Source of Inequality That No One Talks About",
+      "link": "https://www.theatlantic.com/economy/2026/10/pass-through-corporate-tax/688918/",
+      "author": "",
+      "published": "2026-10-08T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Progressives are focused on the wrong tax loophole."
+    },
     {
       "title": "The White House and the Market Are Telling Different Stories",
       "link": "https://www.theatlantic.com/newsletters/2026/10/scott-bessent-vs-bond-market/688921/",
@@ -32,7 +168,7 @@
       "link": "https://www.theatlantic.com/books/2026/10/poem-alexandra-petri-something-like-people/688908/",
       "author": "",
       "published": "2026-10-07T20:50:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A poem"
     },
     {
@@ -48,7 +184,7 @@
       "link": "https://www.theatlantic.com/photography/2026/10/photos-student-protests-france/688909/",
       "author": "",
       "published": "2026-10-07T17:09:05+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "For much of the past month, students in France, alongside teachers and union members, have been protesting against poor conditions in schools. Thousands have been arrested following a day of nationwide demonstrations and blockades yesterday."
     },
     {
@@ -56,7 +192,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/10/david-frum-show-reihan-salam-american-cities/688915/",
       "author": "",
       "published": "2026-10-07T17:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Reihan Salam on why large American cities are often so ineffective at governing themselves, and how those cities can deliver better government to their residents"
     },
     {
@@ -64,7 +200,7 @@
       "link": "https://www.theatlantic.com/culture/2026/10/carrie-tv-show-review-mike-flanagan-stephen-king/688914/",
       "author": "",
       "published": "2026-10-07T16:32:11+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A modern-day adaptation explains away cruelty rather than exploring it."
     },
     {
@@ -72,7 +208,7 @@
       "link": "https://www.theatlantic.com/culture/2026/10/the-social-reckoning-movie-review-aaron-sorkin/688907/",
       "author": "",
       "published": "2026-10-07T13:05:12+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The Social Reckoning lacks the most compelling element of its predecessor."
     },
     {
@@ -1874,142 +2010,6 @@
       "published": "2026-09-17T17:25:00+00:00",
       "category": "全部",
       "summary": "Maggie Haberman and Jonathan Swan explain how the four years between Donald Trump’s first and second terms changed the presidency."
-    },
-    {
-      "title": "Photos: Fighting Against Desertification in China",
-      "link": "https://www.theatlantic.com/photography/2026/09/photos-fighting-against-desertification-china/688634/",
-      "author": "",
-      "published": "2026-09-17T15:30:00+00:00",
-      "category": "全部",
-      "summary": "For decades, residents and workers in northern and western China have been battling growing deserts using multiple methods, including “straw checkerboards,” to slow the shifting sands and boost fertility."
-    },
-    {
-      "title": "When Meditation Has a Dark Side",
-      "link": "https://www.theatlantic.com/podcasts/2026/09/meditation-dark-side-mindfulness/688628/",
-      "author": "",
-      "published": "2026-09-17T13:00:00+00:00",
-      "category": "全部",
-      "summary": "Could there really be such a thing as too much mindfulness?"
-    },
-    {
-      "title": "College Is Coming Apart",
-      "link": "https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/",
-      "author": "",
-      "published": "2026-09-17T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Successive, overlapping crises reveal that American higher education makes no sense."
-    },
-    {
-      "title": "Why the Bomb Is Bad for Democracy",
-      "link": "https://www.theatlantic.com/books/2026/09/nuclear-weapons-and-secrecy-frenchman-flat-by-jon-else-book-review/688659/",
-      "author": "",
-      "published": "2026-09-17T11:30:00+00:00",
-      "category": "精选",
-      "summary": "A famous documentarian’s new book suggests that secrecy is a major impediment to sensible nuclear policy."
-    },
-    {
-      "title": "Who Made America Poorer and Dirtier?",
-      "link": "https://www.theatlantic.com/ideas/2026/09/vance-speech-immigrants-democrats/688656/",
-      "author": "",
-      "published": "2026-09-17T11:00:00+00:00",
-      "category": "精选",
-      "summary": "The people in charge are really hoping you’ll blame someone else."
-    },
-    {
-      "title": "The Dead Silence of AI Therapy",
-      "link": "https://www.theatlantic.com/technology/2026/09/ai-therapy-without-a-therapist/688633/",
-      "author": "",
-      "published": "2026-09-17T11:00:00+00:00",
-      "category": "科技",
-      "summary": "What happens when our therapists are no longer able to feel?"
-    },
-    {
-      "title": "A Plan to Pay Married Mothers Not to Work",
-      "link": "https://www.theatlantic.com/ideas/2026/09/vance-married-mothers-child-care/688645/",
-      "author": "",
-      "published": "2026-09-17T10:45:24+00:00",
-      "category": "精选",
-      "summary": "J. D. Vance has a terrible proposal."
-    },
-    {
-      "title": "Kash Patel Refuses to Take a Republican’s Lifeline",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/kash-patel-senate-hearing-bestiality/688658/",
-      "author": "",
-      "published": "2026-09-16T22:41:00+00:00",
-      "category": "精选",
-      "summary": "The FBI director allowed a Senate hearing to turn into a discussion of bestiality."
-    },
-    {
-      "title": "What Nature’s Silence Said to Annie Dillard",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/annie-dillard-obituary/688652/",
-      "author": "",
-      "published": "2026-09-16T19:49:00+00:00",
-      "category": "精选",
-      "summary": "The late writer believed that hearing the natural world is its own form of prayer."
-    },
-    {
-      "title": "The Most Powerful Man in AI Isn’t Worried at All",
-      "link": "https://www.theatlantic.com/technology/2026/09/jensen-huang-ai-anti-doomer/688654/",
-      "author": "",
-      "published": "2026-09-16T19:47:49+00:00",
-      "category": "科技",
-      "summary": "Jensen Huang: not a doomer"
-    },
-    {
-      "title": "This Is Your Brain on Short-Form Video",
-      "link": "https://www.theatlantic.com/health/2026/09/short-form-video-tiktok-brain-neuroscience/688632/",
-      "author": "",
-      "published": "2026-09-16T19:37:46+00:00",
-      "category": "精选",
-      "summary": "Scientists know very little about how TikTok and its copycats affect human cognition, but the signs aren’t good."
-    },
-    {
-      "title": "The Atrocities That Shaped the Modern Middle East",
-      "link": "https://www.theatlantic.com/podcasts/2026/09/david-frum-show-simon-sebag-montefiore-middle-east/688646/",
-      "author": "",
-      "published": "2026-09-16T16:00:00+00:00",
-      "category": "精选",
-      "summary": "The historian Simon Sebag Montefiore on his latest book, The Cauldron , and how violence forged the modern Middle East"
-    },
-    {
-      "title": "The Knives Are Out for Bill Belichick",
-      "link": "https://www.theatlantic.com/culture/2026/09/bill-belichick-north-carolina-investigation/688648/",
-      "author": "",
-      "published": "2026-09-16T14:25:00+00:00",
-      "category": "精选",
-      "summary": "The celebrated coach’s football program at the University of North Carolina is under investigation. It’s hard to know what is of substance—and what is noise."
-    },
-    {
-      "title": "Pennsylvania’s Measles Outbreak Is Enormous",
-      "link": "https://www.theatlantic.com/health/2026/09/measles-deaths-pennsylvania-outbreak-kennedy/688647/",
-      "author": "",
-      "published": "2026-09-16T14:01:44+00:00",
-      "category": "精选",
-      "summary": "The two latest deaths suggest that the true number of infections is much larger than reported."
-    },
-    {
-      "title": "Destroying Humanity Is Against the Law",
-      "link": "https://www.theatlantic.com/ideas/2026/09/ai-risk-criminal-law/688615/",
-      "author": "",
-      "published": "2026-09-16T13:38:00+00:00",
-      "category": "精选",
-      "summary": "Don’t wait for a mass-extinction event before holding AI developers accountable."
-    },
-    {
-      "title": "An Ingredient That’s All Too Rare in Adult Life",
-      "link": "https://www.theatlantic.com/culture/2026/09/adult-silliness-praise-bocking-play/688623/",
-      "author": "",
-      "published": "2026-09-16T13:00:00+00:00",
-      "category": "精选",
-      "summary": "Whatever happened to being silly?"
-    },
-    {
-      "title": "The Artist Who Ripped Up the Rules of Drawing",
-      "link": "https://www.theatlantic.com/culture/2026/09/willem-de-kooning-drawing-art-institute-chicago-review/688613/",
-      "author": "",
-      "published": "2026-09-16T11:30:00+00:00",
-      "category": "精选",
-      "summary": "Willem de Kooning was the best draftsman of his generation of postwar American artists. He had to unlearn everything he knew."
     }
   ]
 }
