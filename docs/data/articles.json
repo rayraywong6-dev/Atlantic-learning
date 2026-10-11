@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T05:50:39.755663+00:00",
+  "updated_at": "2026-10-11T05:44:35.590531+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,70 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Trump Is an Easy Mark for Putin",
+      "link": "https://www.theatlantic.com/ideas/2026/10/trumps-diesel-deal-sells-out-ukraine/688964/",
+      "author": "",
+      "published": "2026-10-10T18:14:00+00:00",
+      "category": "精选",
+      "summary": "The president’s diesel deal sells out Ukraine, and does nothing for Americans."
+    },
+    {
+      "title": "A Referendum on the President’s Policies",
+      "link": "https://www.theatlantic.com/national/2026/10/trump-red-states-washington-week/688963/",
+      "author": "",
+      "published": "2026-10-10T15:38:25+00:00",
+      "category": "全部",
+      "summary": "Panelists joined to discuss what the crucial races in battleground states and districts could mean for both parties in the midterm elections."
+    },
+    {
+      "title": "Those Books of Smut and Wonder",
+      "link": "https://www.theatlantic.com/magazine/2026/11/sarah-j-maas-romantasy/688680/",
+      "author": "",
+      "published": "2026-10-10T13:00:00+00:00",
+      "category": "精选",
+      "summary": "How Sarah J. Maas became the queen of romantasy"
+    },
+    {
+      "title": "Even Good Friends Can Be Bad Texters",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/good-friends-bad-texters/688957/",
+      "author": "",
+      "published": "2026-10-10T12:00:00+00:00",
+      "category": "精选",
+      "summary": "The time someone takes to reply may say little about your relationship."
+    },
+    {
+      "title": "Megyn Kelly’s Extreme Makeover",
+      "link": "https://www.theatlantic.com/culture/2026/10/megyn-kelly-youtube-cornell-allegations/688951/",
+      "author": "",
+      "published": "2026-10-10T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Does the TV host turned YouTube polemicist really believe what she’s saying?"
+    },
+    {
+      "title": "The Best Protein Source Is Hiding in Plain Sight",
+      "link": "https://www.theatlantic.com/health/2026/10/yogurt-best-protein-source/688950/",
+      "author": "",
+      "published": "2026-10-10T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Just have some yogurt."
+    },
+    {
+      "title": "‘Elon Is a Nuke’",
+      "link": "https://www.theatlantic.com/culture/2026/10/elon-musk-documentary-alex-gibney/688942/",
+      "author": "",
+      "published": "2026-10-10T12:00:00+00:00",
+      "category": "精选",
+      "summary": "A new documentary makes the case that Elon Musk is a human of mass destruction."
+    },
+    {
+      "title": "The French Are Very Worried, and That’s Making Things Worse",
+      "link": "https://www.theatlantic.com/international/2026/10/french-decline-politics-extremism/688953/",
+      "author": "",
+      "published": "2026-10-10T11:00:00+00:00",
+      "category": "国际",
+      "summary": "The belief that the country is on a downward slope fuels the appeal of radicalism."
+    },
     {
       "title": "This Is the Hurricane Season El Niño Foretold",
       "link": "https://www.theatlantic.com/science/2026/10/hurricane-season-isaias-simon/688961/",
@@ -88,7 +152,7 @@
       "link": "https://www.theatlantic.com/photography/2026/10/photos-of-the-week-sleep-competition-foggy-landscape-virtual-taekwondo/688933/",
       "author": "",
       "published": "2026-10-09T14:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Oktoberfest’s closing party in Munich, rally racing in Italy, traditional handheld fireworks in Japan, a pet-blessing ceremony in Chile, and much more"
     },
     {
@@ -112,7 +176,7 @@
       "link": "https://www.theatlantic.com/culture/2026/10/the-swan-behind-the-mirror-hulu-review-plastic-surgery/688930/",
       "author": "",
       "published": "2026-10-09T11:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "And what it got right"
     },
     {
@@ -144,7 +208,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/10/trump-guilfoyle-blair-lacivita-mercenaries/688943/",
       "author": "",
       "published": "2026-10-08T22:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "People around the president are using their roles to cash in. They learned it by watching him."
     },
     {
@@ -1946,70 +2010,6 @@
       "published": "2026-09-19T11:00:00+00:00",
       "category": "全部",
       "summary": "All those scary numbers aren’t what they seem."
-    },
-    {
-      "title": "The Greenland Fiasco Stumbles to an End",
-      "link": "https://www.theatlantic.com/national-security/2026/09/greenland-denmark-trump-military-deal/688717/",
-      "author": "",
-      "published": "2026-09-19T01:00:35+00:00",
-      "category": "精选",
-      "summary": "President Trump announced an agreement that appeared to satisfy all parties but came at a great cost."
-    },
-    {
-      "title": "Speak at Your Own Risk",
-      "link": "https://www.theatlantic.com/ideas/2026/09/trump-free-speech-media-banned/688713/",
-      "author": "",
-      "published": "2026-09-18T23:59:57+00:00",
-      "category": "精选",
-      "summary": "Donald Trump’s attacks on the First Amendment"
-    },
-    {
-      "title": "Can the Never-Trump Coalition Last?",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/never-trump-coalition-2028-future/688715/",
-      "author": "",
-      "published": "2026-09-18T22:13:00+00:00",
-      "category": "精选",
-      "summary": "The desire to resist the president continues to create some strange bedfellows."
-    },
-    {
-      "title": "Researchers Say They’ve Found the Truth About Thomas Jefferson",
-      "link": "https://www.theatlantic.com/ideas/2026/09/thomas-jefferson-genome-children/688635/",
-      "author": "",
-      "published": "2026-09-18T21:05:00+00:00",
-      "category": "精选",
-      "summary": "A secret 15-year effort has produced genetic evidence that one of the nation’s Founders fathered children with a woman he enslaved."
-    },
-    {
-      "title": "The Michael Kelly Award from The Atlantic is Awarded to Drew Philp for “There Will Be No Mercy” published in The Atavist Magazine",
-      "link": "https://www.theatlantic.com/press-releases/2026/09/drew-philp-wins-the-atlantics-michael-kelly-award/688711/",
-      "author": "",
-      "published": "2026-09-18T20:02:15+00:00",
-      "category": "全部",
-      "summary": "Finalists are from Texas Monthly , The New York Times Magazine , and New York magazine’s The Cut"
-    },
-    {
-      "title": "What the Kennedy Center’s Tax Return Reveals",
-      "link": "https://www.theatlantic.com/culture/2026/09/kennedy-center-trump-tax-return/688669/",
-      "author": "",
-      "published": "2026-09-18T19:52:00+00:00",
-      "category": "全部",
-      "summary": "A previously unseen filing captures the state of the institution seven months after Donald Trump’s takeover."
-    },
-    {
-      "title": "The Rise of Parasite Authors",
-      "link": "https://www.theatlantic.com/technology/2026/09/ai-authors-impersonating-writers-amazon/688709/",
-      "author": "",
-      "published": "2026-09-18T19:36:37+00:00",
-      "category": "科技",
-      "summary": "First, AI stole their books. Now it’s stealing their readers."
-    },
-    {
-      "title": "The Goal of Contemporary Journalism",
-      "link": "https://www.theatlantic.com/ideas/2026/09/atlantic-festival-journalism-press-freedom/688702/",
-      "author": "",
-      "published": "2026-09-18T19:08:00+00:00",
-      "category": "精选",
-      "summary": "Jeffrey Goldberg, Amna Nawaz, and Joe Kahn discussed how to sustain a free press in an era of public distrust, social-media punditry, and a hostile federal government."
     }
   ]
 }
