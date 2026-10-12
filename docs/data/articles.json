@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T05:44:35.590531+00:00",
+  "updated_at": "2026-10-12T05:55:04.443816+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,78 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "The Only Thing the Houthis Have Done Successfully",
+      "link": "https://www.theatlantic.com/ideas/2026/10/only-thing-houthis-have-done-successfully/688972/",
+      "author": "",
+      "published": "2026-10-11T23:40:00+00:00",
+      "category": "精选",
+      "summary": "What they do well is fight. Escalation against Saudi Arabia is assured."
+    },
+    {
+      "title": "Admiral McRaven: Public Execution Is Shameless and Ignoble",
+      "link": "https://www.theatlantic.com/ideas/2026/10/public-execution-nidal-hasan/688970/",
+      "author": "",
+      "published": "2026-10-11T18:07:00+00:00",
+      "category": "精选",
+      "summary": "A government livestream of Nidal Hasan’s killing would put America in extremely poor company."
+    },
+    {
+      "title": "A Spot-On SNL Parody About Men Who Can’t Deal With Time’s Passage",
+      "link": "https://www.theatlantic.com/culture/2026/10/snl-gillis-man-cave/688969/",
+      "author": "",
+      "published": "2026-10-11T17:42:00+00:00",
+      "category": "精选",
+      "summary": "After stumbling in his monologue, Shane Gillis anchored a perceptive sketch about the pull of the man cave."
+    },
+    {
+      "title": "I Thought I Was Good at Something",
+      "link": "https://www.theatlantic.com/books/2026/10/poem-robert-wood-lynn-i-thought/688936/",
+      "author": "",
+      "published": "2026-10-11T16:00:00+00:00",
+      "category": "精选",
+      "summary": "A poem"
+    },
+    {
+      "title": "Yet Another Literary Prizewinner Seems to Be AI",
+      "link": "https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/",
+      "author": "",
+      "published": "2026-10-11T14:00:00+00:00",
+      "category": "精选",
+      "summary": "The prestigious Caine Prize, announced last week, went to a story with many red flags."
+    },
+    {
+      "title": "Do Human Beings Have Souls?",
+      "link": "https://www.theatlantic.com/podcasts/2026/10/do-human-beings-have-souls/688931/",
+      "author": "",
+      "published": "2026-10-11T13:00:00+00:00",
+      "category": "精选",
+      "summary": "The philosopher Shelly Kagan has gained millions of fans online while arguing that we can embrace physicalism without giving up meaning, morality, or human exceptionalism."
+    },
+    {
+      "title": "A Left-Wing Politics Based on Calling People Names",
+      "link": "https://www.theatlantic.com/ideas/2026/10/influencer-who-wants-democrats-fight-dirty/688965/",
+      "author": "",
+      "published": "2026-10-11T12:00:00+00:00",
+      "category": "精选",
+      "summary": "For Jennifer Welch, moving left and reviling Republicans are the keys to victory."
+    },
+    {
+      "title": "All the Things You’re Not Allowed to Say In Texas",
+      "link": "https://www.theatlantic.com/ideas/2026/10/texas-university-censorship-free-speech/688827/",
+      "author": "",
+      "published": "2026-10-11T11:50:56+00:00",
+      "category": "精选",
+      "summary": "The state now controls what professors can teach."
+    },
+    {
+      "title": "Six of the Best First Lines in Modern Literature",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/six-of-the-best-first-lines-in-modern-literature/688958/",
+      "author": "",
+      "published": "2026-10-11T11:00:00+00:00",
+      "category": "精选",
+      "summary": "It is a truth universally acknowledged that every great book must be in want of a great first line."
+    },
     {
       "title": "Trump Is an Easy Mark for Putin",
       "link": "https://www.theatlantic.com/ideas/2026/10/trumps-diesel-deal-sells-out-ukraine/688964/",
@@ -80,7 +152,7 @@
       "link": "https://www.theatlantic.com/science/2026/10/hurricane-season-isaias-simon/688961/",
       "author": "",
       "published": "2026-10-09T22:40:18+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Hurricane Isaias formed so late in the season that it set an Atlantic Ocean record. The Pacific is on a very different track."
     },
     {
@@ -88,7 +160,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/10/public-execution-livestream-nidal-hasan/688955/",
       "author": "",
       "published": "2026-10-09T20:46:21+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Livestreaming Nidal Hasan’s death would only credit the Fort Hood shooter’s argument that this country is barbarous."
     },
     {
@@ -96,7 +168,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/10/public-killing-death-humanity/688954/",
       "author": "",
       "published": "2026-10-09T20:28:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "It is hard to appreciate how awful this viewing experience will be, until you have it."
     },
     {
@@ -112,7 +184,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/10/the-books-briefing-anne-carsons-point-of-view/688952/",
       "author": "",
       "published": "2026-10-09T17:50:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The new Nobel laureate invokes ancient history while understanding its inaccessibility."
     },
     {
@@ -120,7 +192,7 @@
       "link": "https://www.theatlantic.com/national-security/2026/10/kash-patel-fbi-russia-trip/688906/",
       "author": "",
       "published": "2026-10-09T17:22:59+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Democrats in Congress are asking the FBI director to cancel the reported trip."
     },
     {
@@ -128,7 +200,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/10/crypto-influence-politics-ben-mckenzie/688946/",
       "author": "",
       "published": "2026-10-09T17:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Ben McKenzie is a celebrity who investigated crypto during the pandemic, rather than shilling for it. He describes the currency’s strange journey."
     },
     {
@@ -1938,78 +2010,6 @@
       "published": "2026-09-20T11:00:00+00:00",
       "category": "精选",
       "summary": "Abdul El-Sayed wants to win the Michigan Senate race his way—as an unabashed progressive populist and a fierce critic of Israel."
-    },
-    {
-      "title": "Treat AI Like a Normal Crisis",
-      "link": "https://www.theatlantic.com/technology/2026/09/how-to-navigate-ai-panic/688703/",
-      "author": "",
-      "published": "2026-09-19T18:10:00+00:00",
-      "category": "科技",
-      "summary": "What if the doomers and skeptics are both a little bit right?"
-    },
-    {
-      "title": "Kara Swisher: AI Isn’t Going to Destroy Humanity—But the People Building It Might",
-      "link": "https://www.theatlantic.com/technology/2026/09/kara-swisher-ai-destroy-humanity-atlantic-festival/688721/",
-      "author": "",
-      "published": "2026-09-19T16:41:00+00:00",
-      "category": "科技",
-      "summary": "The longtime tech journalist says she’s seen Silicon Valley make the same mistakes again and again."
-    },
-    {
-      "title": "What AI Anxiety Looks Like in China",
-      "link": "https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/",
-      "author": "",
-      "published": "2026-09-19T14:40:00+00:00",
-      "category": "国际",
-      "summary": "A top-down tech revolution is harder to manage than a bottom-up one."
-    },
-    {
-      "title": "Emily Wilson Can’t Let The Odyssey Go",
-      "link": "https://www.theatlantic.com/books/2026/09/emily-wilson-odyssey-christopher-nolan-new-translation-q-and-a-atlantic-festival/688718/",
-      "author": "",
-      "published": "2026-09-19T14:35:14+00:00",
-      "category": "全部",
-      "summary": "The translator spoke about her desire to retranslate the epic—and her harsh review of the recent film."
-    },
-    {
-      "title": "The Republicans Distancing Themselves From Trump",
-      "link": "https://www.theatlantic.com/national/2026/09/republicans-distancing-trump-washington-week/688719/",
-      "author": "",
-      "published": "2026-09-19T13:06:10+00:00",
-      "category": "全部",
-      "summary": "Panelists joined to discuss how some Republicans are responding to the president ahead of the midterms."
-    },
-    {
-      "title": "The Wisdom of Uncertainty",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/wisdom-of-accepting-uncertainty/688714/",
-      "author": "",
-      "published": "2026-09-19T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Why accepting what we don’t know can change how we see the world"
-    },
-    {
-      "title": "College Sports Are Great",
-      "link": "https://www.theatlantic.com/ideas/2026/09/college-sports-defense-football/688708/",
-      "author": "",
-      "published": "2026-09-19T12:00:00+00:00",
-      "category": "精选",
-      "summary": "The accomplishments of athletes are every bit as impressive and legitimate as those of dancers, debaters, and oboists."
-    },
-    {
-      "title": "Trump Is Betting on the Wrong Europe",
-      "link": "https://www.theatlantic.com/international/2026/09/europe-afd-far-right/688706/",
-      "author": "",
-      "published": "2026-09-19T11:00:00+00:00",
-      "category": "国际",
-      "summary": "The far-right parties the White House favors have a foreign-policy agenda that won’t serve American interests."
-    },
-    {
-      "title": "The Data-Center Debate Is Divorced From the Facts",
-      "link": "https://www.theatlantic.com/ideas/2026/09/data-center-facts-effects/688670/",
-      "author": "",
-      "published": "2026-09-19T11:00:00+00:00",
-      "category": "全部",
-      "summary": "All those scary numbers aren’t what they seem."
     }
   ]
 }
