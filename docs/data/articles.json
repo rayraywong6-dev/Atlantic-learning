@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T05:55:04.443816+00:00",
+  "updated_at": "2026-10-13T06:46:10.748190+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,78 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Trump’s October Surprise",
+      "link": "https://www.theatlantic.com/politics/2026/10/trump-ukraine-russia-oil/688975/",
+      "author": "",
+      "published": "2026-10-12T21:08:00+00:00",
+      "category": "精选",
+      "summary": "Just ahead of the midterm elections, the president again helps Russia."
+    },
+    {
+      "title": "Trump’s Message to Ukraine Is Now Crystal Clear",
+      "link": "https://www.theatlantic.com/ideas/2026/10/trump-ukraine-putin-fuel/688974/",
+      "author": "",
+      "published": "2026-10-12T16:36:37+00:00",
+      "category": "精选",
+      "summary": "The president’s actions over the past 72 hours look like an effort to force Kyiv to surrender."
+    },
+    {
+      "title": "Make Big Brother Bad for Big Business",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/flock-surveiilance-cameras-regulation/688971/",
+      "author": "",
+      "published": "2026-10-12T14:30:00+00:00",
+      "category": "精选",
+      "summary": "Localities should ban Flock and its competitors until regulation better protects us from mass surveillance."
+    },
+    {
+      "title": "The Tragedy of AI Coding",
+      "link": "https://www.theatlantic.com/ideas/2026/10/ai-programming-big-tech-regulations/688960/",
+      "author": "",
+      "published": "2026-10-12T13:11:23+00:00",
+      "category": "精选",
+      "summary": "AI-assisted software development could have liberated programmers. Instead, it has become the latest way for Big Tech to confine us."
+    },
+    {
+      "title": "The People Who Outsource Emotional Labor to AI",
+      "link": "https://www.theatlantic.com/family/2026/10/ai-family-text/688962/",
+      "author": "",
+      "published": "2026-10-12T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Texting with difficult family members can be infuriating. For some individuals, Claude can help."
+    },
+    {
+      "title": "Immigration Is a Poorly Oiled Machine",
+      "link": "https://www.theatlantic.com/books/2026/10/wobbly-immigration-argument-racist-by-design-kelly-lytle-hernandez-book-review/688968/",
+      "author": "",
+      "published": "2026-10-12T11:30:00+00:00",
+      "category": "精选",
+      "summary": "Kelly Lytle Hernández’s new book, Racist by Design , makes a strong but incomplete—and counterproductive—argument."
+    },
+    {
+      "title": "Some Revised Scenes From The Social Network",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/revised-scenes-social-network-meta/688966/",
+      "author": "",
+      "published": "2026-10-12T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Making a whole new movie is not the best way to tell the continuing story of Mark Zuckerberg and Meta."
+    },
+    {
+      "title": "What Hasan Piker Believes",
+      "link": "https://www.theatlantic.com/ideas/2026/10/hasan-piker-podcast-democrat/688956/",
+      "author": "",
+      "published": "2026-10-12T11:00:00+00:00",
+      "category": "精选",
+      "summary": "He’s right to complain that a few provocative quotes do not capture his worldview."
+    },
+    {
+      "title": "Americans Aren’t Spending Their Retirement Savings",
+      "link": "https://www.theatlantic.com/economy/2026/10/retirement-spending-decrease-economy/688923/",
+      "author": "",
+      "published": "2026-10-12T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Bucket lists everywhere are suffering."
+    },
     {
       "title": "The Only Thing the Houthis Have Done Successfully",
       "link": "https://www.theatlantic.com/ideas/2026/10/only-thing-houthis-have-done-successfully/688972/",
@@ -40,7 +112,7 @@
       "link": "https://www.theatlantic.com/books/2026/10/poem-robert-wood-lynn-i-thought/688936/",
       "author": "",
       "published": "2026-10-11T16:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A poem"
     },
     {
@@ -56,7 +128,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/10/do-human-beings-have-souls/688931/",
       "author": "",
       "published": "2026-10-11T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The philosopher Shelly Kagan has gained millions of fans online while arguing that we can embrace physicalism without giving up meaning, morality, or human exceptionalism."
     },
     {
@@ -64,7 +136,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/10/influencer-who-wants-democrats-fight-dirty/688965/",
       "author": "",
       "published": "2026-10-11T12:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "For Jennifer Welch, moving left and reviling Republicans are the keys to victory."
     },
     {
@@ -80,7 +152,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/10/six-of-the-best-first-lines-in-modern-literature/688958/",
       "author": "",
       "published": "2026-10-11T11:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "It is a truth universally acknowledged that every great book must be in want of a great first line."
     },
     {
@@ -88,7 +160,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/10/trumps-diesel-deal-sells-out-ukraine/688964/",
       "author": "",
       "published": "2026-10-10T18:14:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The president’s diesel deal sells out Ukraine, and does nothing for Americans."
     },
     {
@@ -104,7 +176,7 @@
       "link": "https://www.theatlantic.com/magazine/2026/11/sarah-j-maas-romantasy/688680/",
       "author": "",
       "published": "2026-10-10T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "How Sarah J. Maas became the queen of romantasy"
     },
     {
@@ -136,7 +208,7 @@
       "link": "https://www.theatlantic.com/culture/2026/10/elon-musk-documentary-alex-gibney/688942/",
       "author": "",
       "published": "2026-10-10T12:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A new documentary makes the case that Elon Musk is a human of mass destruction."
     },
     {
@@ -1938,78 +2010,6 @@
       "published": "2026-09-20T21:46:06+00:00",
       "category": "精选",
       "summary": "When the president asserts that all negative coverage is false, he seals his party off from necessary criticism."
-    },
-    {
-      "title": "Trump’s Monumental Obsession",
-      "link": "https://www.theatlantic.com/ideas/2026/09/trumps-arch-arsenal/688723/",
-      "author": "",
-      "published": "2026-09-20T17:17:14+00:00",
-      "category": "精选",
-      "summary": "The president fantasizes about a capital city full of memorials—to himself."
-    },
-    {
-      "title": "Pinballing",
-      "link": "https://www.theatlantic.com/books/2026/09/poem-jan-beatty-pinballing/688667/",
-      "author": "",
-      "published": "2026-09-20T16:00:00+00:00",
-      "category": "全部",
-      "summary": "A poem"
-    },
-    {
-      "title": "What Is Humanity’s Place in the Cosmos?",
-      "link": "https://www.theatlantic.com/podcasts/2026/09/what-is-humanitys-place-in-the-cosmos/688668/",
-      "author": "",
-      "published": "2026-09-20T13:00:00+00:00",
-      "category": "全部",
-      "summary": "A lifelong fascination with terra incognita led the astrophysicist Priyamvada Natarajan to map out the universe’s most enigmatic phenomena."
-    },
-    {
-      "title": "50 Songs That Explain America",
-      "link": "https://www.theatlantic.com/culture/2026/09/50-songs-explain-america-playlist/687598/",
-      "author": "",
-      "published": "2026-09-20T13:00:00+00:00",
-      "category": "精选",
-      "summary": "From Sinatra to SZA, Appalachian folk to Detroit funk, a journey through the music that showed one British critic this country’s soul"
-    },
-    {
-      "title": "The Pinball President",
-      "link": "https://www.theatlantic.com/ideas/2026/09/trump-attention-presidents/688712/",
-      "author": "",
-      "published": "2026-09-20T11:00:00+00:00",
-      "category": "精选",
-      "summary": "No commander in chief has been better at seizing public attention than Donald Trump. But there is a difference between getting attention and doing something with it."
-    },
-    {
-      "title": "A Show That Lovingly Pokes Fun at Gen Z",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/adults-normal-people-culture-entretainment-recommendations/688705/",
-      "author": "",
-      "published": "2026-09-20T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Culture and entertainment recommendations including Adults , Emmylou Harris, and more"
-    },
-    {
-      "title": "Guatemala’s Democracy Dilemma",
-      "link": "https://www.theatlantic.com/international/2026/09/guatemala-democracy-arevalo/688651/",
-      "author": "",
-      "published": "2026-09-20T11:00:00+00:00",
-      "category": "国际",
-      "summary": "A reformist president weighs the pressure to move fast against the imperative to restore institutions his people can trust."
-    },
-    {
-      "title": "190 Days Without a Homicide",
-      "link": "https://www.theatlantic.com/ideas/2026/09/shooting-lexington-kentucky/688630/",
-      "author": "",
-      "published": "2026-09-20T11:00:00+00:00",
-      "category": "精选",
-      "summary": "How a record stretch of peace ended in my hometown"
-    },
-    {
-      "title": "The Firebrand",
-      "link": "https://www.theatlantic.com/ideas/2026/09/abdul-el-sayed-michigan-senate-profile/688576/",
-      "author": "",
-      "published": "2026-09-20T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Abdul El-Sayed wants to win the Michigan Senate race his way—as an unabashed progressive populist and a fierce critic of Israel."
     }
   ]
 }
