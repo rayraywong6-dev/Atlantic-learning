@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T06:46:10.748190+00:00",
+  "updated_at": "2026-10-14T04:51:25.704955+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,118 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Hi, I’m Your New Press Secretary, and It’s My First Time Reading Words Out Loud",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/press-secretary-katie-zacharia-first-briefing/688988/",
+      "author": "",
+      "published": "2026-10-13T23:47:00+00:00",
+      "category": "精选",
+      "summary": "A very uncomfortable 14 minutes"
+    },
+    {
+      "title": "A Novel That Turns the Tables on AI",
+      "link": "https://www.theatlantic.com/books/2026/10/joanna-kavenna-seven-review/688078/",
+      "author": "",
+      "published": "2026-10-13T20:45:00+00:00",
+      "category": "精选",
+      "summary": "Joanna Kavenna’s book about the battle of man versus machine is both funny and deadly serious."
+    },
+    {
+      "title": "Trump’s Affection for Russia Is No Mystery",
+      "link": "https://www.theatlantic.com/ideas/2026/10/trump-russia-putin-oil/688986/",
+      "author": "",
+      "published": "2026-10-13T20:14:42+00:00",
+      "category": "精选",
+      "summary": "The best explanation is the least complicated one."
+    },
+    {
+      "title": "Photos: Fall Is in the Air",
+      "link": "https://www.theatlantic.com/photography/2026/10/photos-fall-colors/688983/",
+      "author": "",
+      "published": "2026-10-13T19:53:18+00:00",
+      "category": "精选",
+      "summary": "Autumn, the best season, has arrived once again—the season of harvests, festivals, migrations, and, of course, spectacular fall colors. Collected here are early images from this year."
+    },
+    {
+      "title": "Trump’s Dubious Claim About the Ilhan Omar Search",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/trump-doj-ilhan-omar-search/688984/",
+      "author": "",
+      "published": "2026-10-13T17:30:00+00:00",
+      "category": "精选",
+      "summary": "The president proclaims unfettered power to go after his critics, but then disclaims any involvement once a prominent critic is actually the subject of a search."
+    },
+    {
+      "title": "What If AI Is the End of the World?",
+      "link": "https://www.theatlantic.com/ideas/2026/10/ai-end-of-world-meaning/688977/",
+      "author": "",
+      "published": "2026-10-13T17:07:22+00:00",
+      "category": "精选",
+      "summary": "The dramatic warnings of doom have fed an atmosphere of despair. But there are more constructive responses."
+    },
+    {
+      "title": "The Incredible Ambitions, and Rivalry, of Musk and Bezos",
+      "link": "https://www.theatlantic.com/podcasts/2026/10/ra-space-overlords/688899/",
+      "author": "",
+      "published": "2026-10-13T16:39:52+00:00",
+      "category": "精选",
+      "summary": "Space is hard, and expensive. The U.S. is relying on some of its wealthiest individuals to help it get there."
+    },
+    {
+      "title": "Why the Intelligence Gap Really Matters",
+      "link": "https://www.theatlantic.com/family/2026/10/intelligence-gap-relationships/688978/",
+      "author": "",
+      "published": "2026-10-13T13:42:00+00:00",
+      "category": "精选",
+      "summary": "Great thinkers and artists throughout history have argued that you can’t have true romance without a meeting of the minds."
+    },
+    {
+      "title": "The Atlantic ’s November Cover: Josh Tyrangiel Profiles Jeff Bezos and Elon Musk on Their Race to Control Outer Space—And Measures Who Is Ahead",
+      "link": "https://www.theatlantic.com/press-releases/2026/10/the-atlantics-november-cover-story-by-josh-tyrangiel/688976/",
+      "author": "",
+      "published": "2026-10-13T12:22:46+00:00",
+      "category": "精选",
+      "summary": "“They may be the only ones who can check the other’s power.”"
+    },
+    {
+      "title": "The Rise of the IRL Influencer",
+      "link": "https://www.theatlantic.com/health/2026/10/community-builders/688947/",
+      "author": "",
+      "published": "2026-10-13T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Americans need to party more. A new class of “community builders” is ready to help."
+    },
+    {
+      "title": "Good Villains Are Hard to Come By. This One’s Great.",
+      "link": "https://www.theatlantic.com/books/2026/10/avalon-rise-madeline-ffitch-book-review/688939/",
+      "author": "",
+      "published": "2026-10-13T12:00:00+00:00",
+      "category": "精选",
+      "summary": "A fascinating new novel pits a small Appalachian community against a very online foe."
+    },
+    {
+      "title": "The Journalist and the Manipulator",
+      "link": "https://www.theatlantic.com/magazine/2026/11/absent-woman-janet-malcolm-eve-sneider/688701/",
+      "author": "",
+      "published": "2026-10-13T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Janet Malcolm policed the literary ruses of others, but wasn’t afraid to deploy them herself."
+    },
+    {
+      "title": "The Man Who Wanted to Understand Every Aspect of Jewish Life",
+      "link": "https://www.theatlantic.com/magazine/2026/11/an-sky-jewish-ethnography-ukraine/688697/",
+      "author": "",
+      "published": "2026-10-13T11:00:00+00:00",
+      "category": "精选",
+      "summary": "In the Pale of Settlement, the writer S. An-Sky made an ecstatic, obsessive attempt to wrap his arms around an entire people just as it was disappearing."
+    },
+    {
+      "title": "Choose Your Overlord",
+      "link": "https://www.theatlantic.com/magazine/2026/11/bezos-musk-billionaire-space-race/688690/",
+      "author": "",
+      "published": "2026-10-13T10:00:00+00:00",
+      "category": "精选",
+      "summary": "Musk vs. Bezos"
+    },
     {
       "title": "Trump’s October Surprise",
       "link": "https://www.theatlantic.com/politics/2026/10/trump-ukraine-russia-oil/688975/",
@@ -32,7 +144,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/10/flock-surveiilance-cameras-regulation/688971/",
       "author": "",
       "published": "2026-10-12T14:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Localities should ban Flock and its competitors until regulation better protects us from mass surveillance."
     },
     {
@@ -48,7 +160,7 @@
       "link": "https://www.theatlantic.com/family/2026/10/ai-family-text/688962/",
       "author": "",
       "published": "2026-10-12T12:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Texting with difficult family members can be infuriating. For some individuals, Claude can help."
     },
     {
@@ -56,7 +168,7 @@
       "link": "https://www.theatlantic.com/books/2026/10/wobbly-immigration-argument-racist-by-design-kelly-lytle-hernandez-book-review/688968/",
       "author": "",
       "published": "2026-10-12T11:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Kelly Lytle Hernández’s new book, Racist by Design , makes a strong but incomplete—and counterproductive—argument."
     },
     {
@@ -88,7 +200,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/10/only-thing-houthis-have-done-successfully/688972/",
       "author": "",
       "published": "2026-10-11T23:40:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "What they do well is fight. Escalation against Saudi Arabia is assured."
     },
     {
@@ -96,7 +208,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/10/public-execution-nidal-hasan/688970/",
       "author": "",
       "published": "2026-10-11T18:07:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A government livestream of Nidal Hasan’s killing would put America in extremely poor company."
     },
     {
@@ -1898,118 +2010,6 @@
       "published": "2026-09-22T14:04:55+00:00",
       "category": "精选",
       "summary": "A high-stakes week unfolds among Trump, Xi, and other global leaders."
-    },
-    {
-      "title": "America’s Allies Are No Longer Waiting for Trump to Leave",
-      "link": "https://www.theatlantic.com/national-security/2026/09/allies-trump-canada-foreign-policy/688729/",
-      "author": "",
-      "published": "2026-09-22T11:00:00+00:00",
-      "category": "精选",
-      "summary": "They now figure isolationism and protectionism will be U.S. foreign policy for a long time to come."
-    },
-    {
-      "title": "Israel Can’t Postpone Its Reckoning Forever",
-      "link": "https://www.theatlantic.com/ideas/2026/09/israel-secular-religious-divide/688649/",
-      "author": "",
-      "published": "2026-09-22T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Intractable divides between the secular and the religious pose a bigger problem for the country than any external threat."
-    },
-    {
-      "title": "The Press Is Not the Root of Trump’s Problems",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/trump-ban-press-cnn-politico-msnow/688732/",
-      "author": "",
-      "published": "2026-09-21T22:03:00+00:00",
-      "category": "全部",
-      "summary": "He’s in a predicament of his own creation."
-    },
-    {
-      "title": "The Confrontation That Broke New York",
-      "link": "https://www.theatlantic.com/books/2026/09/daniel-penny-jordan-neely-man-in-the-mirror-anand-giridharadas-book-review/688730/",
-      "author": "",
-      "published": "2026-09-21T19:18:34+00:00",
-      "category": "全部",
-      "summary": "A new book sheds some light on the death of Jordan Neely and the trial that divided a post-pandemic city."
-    },
-    {
-      "title": "Photos: Wildflowers Bloom in the Atacama Desert",
-      "link": "https://www.theatlantic.com/photography/2026/09/photos-wildflowers-bloom-atacama-desert/688728/",
-      "author": "",
-      "published": "2026-09-21T16:15:21+00:00",
-      "category": "精选",
-      "summary": "Javier Torres, a photojournalist with AFP, recently visited the Atacama Desert in Chile, capturing images of a desert in bloom after a spell of unusually wet weather."
-    },
-    {
-      "title": "What Were My Dreams Trying to Tell Me?",
-      "link": "https://www.theatlantic.com/magazine/2026/11/ayad-akhtar-dreams-meditation/688676/",
-      "author": "",
-      "published": "2026-09-21T13:00:00+00:00",
-      "category": "全部",
-      "summary": "To make sense of my deepest experiences, I needed a new way of talking about the soul."
-    },
-    {
-      "title": "In Defense of Guilt by Association",
-      "link": "https://www.theatlantic.com/ideas/2026/09/vance-sayed-piker-carlson-friendships/688657/",
-      "author": "",
-      "published": "2026-09-21T13:00:00+00:00",
-      "category": "精选",
-      "summary": "The wisdom of judging politicians by the company they keep"
-    },
-    {
-      "title": "The Book Claiming to Teach Couples How to Select Their Baby’s Sex",
-      "link": "https://www.theatlantic.com/family/2026/09/babydust-boy-girl/688722/",
-      "author": "",
-      "published": "2026-09-21T12:00:00+00:00",
-      "category": "精选",
-      "summary": "The Babydust Method features advice debunked decades ago. Why have tens of thousands of people bought in?"
-    },
-    {
-      "title": "The Curious Left-Wing Argument Against New AI Regulations",
-      "link": "https://www.theatlantic.com/ideas/2026/09/ai-regulation-anti-monopoly-challenge/688707/",
-      "author": "",
-      "published": "2026-09-21T11:30:00+00:00",
-      "category": "精选",
-      "summary": "The governing challenges raised by AI expose several unfortunate tendencies in the populist anti-monopoly movement."
-    },
-    {
-      "title": "How to Regulate the Ghosts",
-      "link": "https://www.theatlantic.com/ideas/2026/09/ai-regulation-trump/688726/",
-      "author": "",
-      "published": "2026-09-21T11:18:40+00:00",
-      "category": "精选",
-      "summary": "You don’t have to know everything to do something."
-    },
-    {
-      "title": "The Pangram Backlash Unfolding on College Campuses",
-      "link": "https://www.theatlantic.com/technology/2026/09/college-professors-ai-detectors-pangram/688727/",
-      "author": "",
-      "published": "2026-09-21T11:00:00+00:00",
-      "category": "科技",
-      "summary": "Professors are tearing their hair out over AI detectors."
-    },
-    {
-      "title": "Don’t Ask How This War Ends",
-      "link": "https://www.theatlantic.com/ideas/2026/09/dont-ask-how-the-iran-war-ends/688724/",
-      "author": "",
-      "published": "2026-09-21T10:00:00+00:00",
-      "category": "精选",
-      "summary": "It is, unfortunately, the wrong question."
-    },
-    {
-      "title": "The Northern Passage",
-      "link": "https://www.theatlantic.com/politics/2026/09/haitians-canada-tps-ice/688684/",
-      "author": "",
-      "published": "2026-09-21T10:00:00+00:00",
-      "category": "精选",
-      "summary": "ICE is targeting Haitians with new intensity. Now some are fleeing the United States for Canada."
-    },
-    {
-      "title": "Trump’s Attacks on the Media Are Self-Defeating",
-      "link": "https://www.theatlantic.com/ideas/2026/09/trump-press/688725/",
-      "author": "",
-      "published": "2026-09-20T21:46:06+00:00",
-      "category": "精选",
-      "summary": "When the president asserts that all negative coverage is false, he seals his party off from necessary criticism."
     }
   ]
 }
