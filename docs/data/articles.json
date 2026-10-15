@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T04:51:25.704955+00:00",
+  "updated_at": "2026-10-15T04:36:07.766808+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,70 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Kimberly Guilfoyle Broke Trump’s Most Important Rule",
+      "link": "https://www.theatlantic.com/ideas/2026/10/kimberly-guilfoyle-trump-greece-davos/688996/",
+      "author": "",
+      "published": "2026-10-14T20:54:33+00:00",
+      "category": "精选",
+      "summary": "The president doesn’t seem to care about corruption; he cares about embarrassment."
+    },
+    {
+      "title": "How Trump Is Selling Out Ukraine",
+      "link": "https://www.theatlantic.com/podcasts/2026/10/david-frum-show-illia-ponomarenko-ukraine-trump/688994/",
+      "author": "",
+      "published": "2026-10-14T18:00:00+00:00",
+      "category": "精选",
+      "summary": "The Ukrainian journalist Illia Ponomarenko on his new book, The Land of Tears and Hope , a history of his country"
+    },
+    {
+      "title": "The Rise of In-Office Remote Work",
+      "link": "https://www.theatlantic.com/ideas/2026/10/in-office-remote-work/688993/",
+      "author": "",
+      "published": "2026-10-14T17:10:36+00:00",
+      "category": "精选",
+      "summary": "The alternative to working from home is often logging on in a sea of mostly empty cubicles."
+    },
+    {
+      "title": "Nine-Inch Snails",
+      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "author": "",
+      "published": "2026-10-14T16:53:19+00:00",
+      "category": "精选",
+      "summary": "They block roads, eat houses, and spread literal brain worms. Only Florida knows how to deal with them."
+    },
+    {
+      "title": "Saudi Arabia Is Running Out of Options",
+      "link": "https://www.theatlantic.com/international/2026/10/houthi-strikes-saudi-arabia/688990/",
+      "author": "",
+      "published": "2026-10-14T15:43:35+00:00",
+      "category": "国际",
+      "summary": "Houthi violence is undermining the kingdom’s best-laid plans."
+    },
+    {
+      "title": "Going Hungry in Trump’s Economy",
+      "link": "https://www.theatlantic.com/politics/2026/10/arizona-voters-trump-economy-midterms/688980/",
+      "author": "",
+      "published": "2026-10-14T15:31:56+00:00",
+      "category": "精选",
+      "summary": "The president said the “American dream is back.” Rural Arizonans don’t think so."
+    },
+    {
+      "title": "Welcome to Over/Under",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/welcome-over-under-gambling-prediction-markets/688991/",
+      "author": "",
+      "published": "2026-10-14T15:16:00+00:00",
+      "category": "精选",
+      "summary": "A new newsletter on the latest in prediction markets, gambling, and the evolution of everyday risk"
+    },
+    {
+      "title": "The Most Cursed Team in American Sports",
+      "link": "https://www.theatlantic.com/magazine/2026/12/josh-allen-buffalo-bills-curse/688982/",
+      "author": "",
+      "published": "2026-10-14T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Why Buffalo Bills fans are convinced this is finally their year"
+    },
     {
       "title": "Hi, I’m Your New Press Secretary, and It’s My First Time Reading Words Out Loud",
       "link": "https://www.theatlantic.com/newsletters/2026/10/press-secretary-katie-zacharia-first-briefing/688988/",
@@ -128,7 +192,7 @@
       "link": "https://www.theatlantic.com/politics/2026/10/trump-ukraine-russia-oil/688975/",
       "author": "",
       "published": "2026-10-12T21:08:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Just ahead of the midterm elections, the president again helps Russia."
     },
     {
@@ -136,7 +200,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/10/trump-ukraine-putin-fuel/688974/",
       "author": "",
       "published": "2026-10-12T16:36:37+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The president’s actions over the past 72 hours look like an effort to force Kyiv to surrender."
     },
     {
@@ -1946,70 +2010,6 @@
       "published": "2026-09-23T09:00:00+00:00",
       "category": "精选",
       "summary": "Trump’s advisers have been working for months to move his focus away from baseless theories of election fraud. A group of outsiders is making that difficult."
-    },
-    {
-      "title": "Oh, Good, Trump’s Arch Will Store Military-Grade Weapons",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/normal-places-store-military-grade-weapons-trump-arch/688745/",
-      "author": "",
-      "published": "2026-09-22T21:59:00+00:00",
-      "category": "全部",
-      "summary": "Here are 13 other very normal places to store munitions."
-    },
-    {
-      "title": "Don Jr.’s Wedding Trap",
-      "link": "https://www.theatlantic.com/national-security/2026/09/donald-trump-jr-kremlev-wedding/688734/",
-      "author": "",
-      "published": "2026-09-22T20:13:18+00:00",
-      "category": "全部",
-      "summary": "His luxurious, Russian-funded wedding celebration was a counterintelligence nightmare."
-    },
-    {
-      "title": "David Ellison Will Get Control of CNN After All",
-      "link": "https://www.theatlantic.com/ideas/2026/09/david-ellison-cnn-control/688740/",
-      "author": "",
-      "published": "2026-09-22T19:48:00+00:00",
-      "category": "精选",
-      "summary": "And don’t pretend an “independent editorial board” will mean otherwise"
-    },
-    {
-      "title": "The ‘New Word’ Trump Hates",
-      "link": "https://www.theatlantic.com/ideas/2026/09/affordability-politics-democrats-policy/688736/",
-      "author": "",
-      "published": "2026-09-22T19:00:00+00:00",
-      "category": "精选",
-      "summary": "Affordability is the Democrats’ unifying theme. It may be enough to carry them to victory in the midterms."
-    },
-    {
-      "title": "America’s Biggest Dating Company Is Betting on Trad Values",
-      "link": "https://www.theatlantic.com/family/2026/09/upward-dating-app-traditional/688737/",
-      "author": "",
-      "published": "2026-09-22T17:43:46+00:00",
-      "category": "精选",
-      "summary": "Match Group thinks young people want to date using old scripts."
-    },
-    {
-      "title": "The ICE Officer in Austin Wasn’t Wearing a Body Cam",
-      "link": "https://www.theatlantic.com/politics/2026/09/austin-ice-shooting-body-camera/688738/",
-      "author": "",
-      "published": "2026-09-22T16:29:21+00:00",
-      "category": "精选",
-      "summary": "The officer who shot a Venezuelan man was hired last year from another federal law-enforcement agency."
-    },
-    {
-      "title": "Winners of the Bird Photographer of the Year 2026",
-      "link": "https://www.theatlantic.com/photography/2026/09/winners-bird-photographer-year-2026/688733/",
-      "author": "",
-      "published": "2026-09-22T14:41:36+00:00",
-      "category": "精选",
-      "summary": "A selection of some of the winning entries from this year’s bird-photography contest. Competition organizers were kind enough to share some of the winners and runners-up, chosen from more than 24,000 entries."
-    },
-    {
-      "title": "Trump Battles Against an Economy of His Making",
-      "link": "https://www.theatlantic.com/podcasts/2026/09/ra-us-china/688731/",
-      "author": "",
-      "published": "2026-09-22T14:04:55+00:00",
-      "category": "精选",
-      "summary": "A high-stakes week unfolds among Trump, Xi, and other global leaders."
     }
   ]
 }
