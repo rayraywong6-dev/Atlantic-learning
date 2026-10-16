@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T04:36:07.766808+00:00",
+  "updated_at": "2026-10-16T04:30:12.941199+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,110 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "How Pete Hegseth’s Plan for a Reality-TV Execution Imploded",
+      "link": "https://www.theatlantic.com/national-security/2026/10/pete-hegseth-livestreamed-execution-plan/689020/",
+      "author": "",
+      "published": "2026-10-15T23:58:42+00:00",
+      "category": "精选",
+      "summary": "Trump is fine with a military execution by firing squad, just not with putting it on YouTube"
+    },
+    {
+      "title": "America’s Latest Inflation Check-In Doesn’t Look Good for Trump",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/inflation-trump-consumer-price-index-september/689030/",
+      "author": "",
+      "published": "2026-10-15T23:02:00+00:00",
+      "category": "精选",
+      "summary": "The recent Consumer Price Index report is the last word on inflation before the midterms."
+    },
+    {
+      "title": "The Memory Shortage Comes for Schools",
+      "link": "https://www.theatlantic.com/technology/2026/10/chromebook-schools-memory-shortage/689015/",
+      "author": "",
+      "published": "2026-10-15T20:46:00+00:00",
+      "category": "科技",
+      "summary": "Districts are struggling to afford all those Chromebooks."
+    },
+    {
+      "title": "A Bold Era in Hollywood Ends With a Whimper",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/warner-bros-pam-abdy-michael-de-luca-exit-video-village/689016/",
+      "author": "",
+      "published": "2026-10-15T20:09:00+00:00",
+      "category": "精选",
+      "summary": "The co-chairs of Warner Bros. Pictures are out—and they may be taking their risky swings with them."
+    },
+    {
+      "title": "This Is Edgar Allan Poe, and I Am Begging Kelly Clarkson to Take My Bird",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/edgar-allan-poe-kelly-clarkson-bird/689014/",
+      "author": "",
+      "published": "2026-10-15T20:00:00+00:00",
+      "category": "精选",
+      "summary": "I eagerly await your response."
+    },
+    {
+      "title": "What the Falling Leaves Taught Thoreau",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/thoreau-autumn-death-lessons/689009/",
+      "author": "",
+      "published": "2026-10-15T18:59:00+00:00",
+      "category": "精选",
+      "summary": "His autumnal observations held a lesson for him in his final years."
+    },
+    {
+      "title": "Winners of the Wildlife Photographer of the Year 2026",
+      "link": "https://www.theatlantic.com/photography/2026/10/winners-wildlife-photographer-year-2026/689005/",
+      "author": "",
+      "published": "2026-10-15T16:35:01+00:00",
+      "category": "精选",
+      "summary": "A collection of some of this year’s winning and honored images, selected from more than 65,000 submissions from 121 countries and territories"
+    },
+    {
+      "title": "A Lab-Leak Story You Haven’t Heard",
+      "link": "https://www.theatlantic.com/health/2026/10/rsv-kennedy-conspiracy-theory-lab-leak/688998/",
+      "author": "",
+      "published": "2026-10-15T14:53:31+00:00",
+      "category": "精选",
+      "summary": "Robert F. Kennedy Jr. believes that RSV originated in a government science experiment."
+    },
+    {
+      "title": "0 for 26: The Trump Administration’s Astonishing Losing Record",
+      "link": "https://www.theatlantic.com/ideas/2026/10/doj-lawsuits-voter-rolls-losing/689003/",
+      "author": "",
+      "published": "2026-10-15T13:25:59+00:00",
+      "category": "精选",
+      "summary": "Not one single court has approved of the Department of Justice’s plans to obtain state voter rolls."
+    },
+    {
+      "title": "Have We Reached Peak Testosterone?",
+      "link": "https://www.theatlantic.com/podcasts/2026/10/masculinism-testosterone-men-politics-trump/688989/",
+      "author": "",
+      "published": "2026-10-15T13:00:00+00:00",
+      "category": "精选",
+      "summary": "A live taping with Helen Lewis and Sophie Gilbert about the evolution of masculinism"
+    },
+    {
+      "title": "Ukraine Finds a New Set of Targets",
+      "link": "https://www.theatlantic.com/national-security/2026/10/ukraine-russia-trump-putin-war/689002/",
+      "author": "",
+      "published": "2026-10-15T11:00:00+00:00",
+      "category": "精选",
+      "summary": "As Donald Trump intervenes to protect Russia’s oil refineries, Ukraine plays the few cards it has left."
+    },
+    {
+      "title": "The Non-AI AI Jobs",
+      "link": "https://www.theatlantic.com/ideas/2026/10/ai-new-job-creation/689000/",
+      "author": "",
+      "published": "2026-10-15T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Will the labor market of the future include cold-plunge installers, psychedelic therapists, and house managers?"
+    },
+    {
+      "title": "Invasion of the Self-Replicating AI-Malware Botnet",
+      "link": "https://www.theatlantic.com/ideas/2026/10/ai-malware-botnet/688997/",
+      "author": "",
+      "published": "2026-10-15T11:00:00+00:00",
+      "category": "精选",
+      "summary": "An AI risk much dumber—and therefore more likely—than extinction is arriving."
+    },
     {
       "title": "Kimberly Guilfoyle Broke Trump’s Most Important Rule",
       "link": "https://www.theatlantic.com/ideas/2026/10/kimberly-guilfoyle-trump-greece-davos/688996/",
@@ -64,7 +168,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/10/welcome-over-under-gambling-prediction-markets/688991/",
       "author": "",
       "published": "2026-10-14T15:16:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A new newsletter on the latest in prediction markets, gambling, and the evolution of everyday risk"
     },
     {
@@ -88,7 +192,7 @@
       "link": "https://www.theatlantic.com/books/2026/10/joanna-kavenna-seven-review/688078/",
       "author": "",
       "published": "2026-10-13T20:45:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Joanna Kavenna’s book about the battle of man versus machine is both funny and deadly serious."
     },
     {
@@ -104,7 +208,7 @@
       "link": "https://www.theatlantic.com/photography/2026/10/photos-fall-colors/688983/",
       "author": "",
       "published": "2026-10-13T19:53:18+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Autumn, the best season, has arrived once again—the season of harvests, festivals, migrations, and, of course, spectacular fall colors. Collected here are early images from this year."
     },
     {
@@ -1906,110 +2010,6 @@
       "published": "2026-09-24T09:00:00+00:00",
       "category": "精选",
       "summary": "Not long ago, President Trump could claim that he ran the world. Now he’s waiting at the bottom of a set of airline steps for the Chinese president."
-    },
-    {
-      "title": "AI’s Risk to Financial Systems",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/ai-financial-system-risk-banks/688763/",
-      "author": "",
-      "published": "2026-09-23T22:46:00+00:00",
-      "category": "精选",
-      "summary": "The tech may soon become an existential risk to humanity, but it’s already a risk to many Americans in a more mundane way: their banks."
-    },
-    {
-      "title": "China Has No Use for AI Doomerism",
-      "link": "https://www.theatlantic.com/technology/2026/09/china-ai-panic-doomerism/688761/",
-      "author": "",
-      "published": "2026-09-23T21:31:40+00:00",
-      "category": "科技",
-      "summary": "The country’s most prominent AI companies are focused on beating the U.S., no matter the cost."
-    },
-    {
-      "title": "My Night at the Reindeer-Sausage Buffet",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/trump-greenland-invasion-denmark-embassy-food/688760/",
-      "author": "",
-      "published": "2026-09-23T21:25:00+00:00",
-      "category": "精选",
-      "summary": "What I learned at a “Taste of the Arctic” dinner at the Danish ambassador’s residence"
-    },
-    {
-      "title": "The Makings of a Prewar World",
-      "link": "https://www.theatlantic.com/international/2026/09/international-order-unga-trump/688753/",
-      "author": "",
-      "published": "2026-09-23T20:26:51+00:00",
-      "category": "国际",
-      "summary": "President Trump’s speech to the United Nations clarifies the vision he shares with Vladimir Putin and Xi Jinping."
-    },
-    {
-      "title": "A Revealing Exchange Between Donald Trump and Kaitlan Collins",
-      "link": "https://www.theatlantic.com/culture/2026/09/trump-kaitlan-collins-united-nations/688757/",
-      "author": "",
-      "published": "2026-09-23T20:22:00+00:00",
-      "category": "精选",
-      "summary": "The president doesn’t understand how journalism works."
-    },
-    {
-      "title": "How to Argue in the Trump Era Without Losing Your Mind",
-      "link": "https://www.theatlantic.com/podcasts/2026/09/david-frum-show-jessica-tarlov-winning-arguments/688756/",
-      "author": "",
-      "published": "2026-09-23T19:30:00+00:00",
-      "category": "精选",
-      "summary": "Jessica Tarlov on her new book, I Disagree: Winning Arguments Without Losing Friends , and the dangers of platforming the wrong people"
-    },
-    {
-      "title": "Six Hard-to-Find Books Worth Reading",
-      "link": "https://www.theatlantic.com/books/2026/09/six-books-worth-tracking-down/688752/",
-      "author": "",
-      "published": "2026-09-23T18:30:00+00:00",
-      "category": "精选",
-      "summary": "These titles are no longer fashionable, if they ever were—but should you manage to read one, you might love it."
-    },
-    {
-      "title": "The Middle East Still to Come",
-      "link": "https://www.theatlantic.com/international/2026/09/middle-east-future/688747/",
-      "author": "",
-      "published": "2026-09-23T15:27:13+00:00",
-      "category": "国际",
-      "summary": "A region defined by conflict and dynamism is reconstituting itself and the world."
-    },
-    {
-      "title": "Xi Is Getting What He Wants",
-      "link": "https://www.theatlantic.com/international/2026/09/xi-trump-summit/688743/",
-      "author": "",
-      "published": "2026-09-23T15:21:00+00:00",
-      "category": "国际",
-      "summary": "The Chinese president has neutralized Trump."
-    },
-    {
-      "title": "Why I’m Sending My Black Son to Private School",
-      "link": "https://www.theatlantic.com/ideas/2026/09/public-school-nikole-hannah-jones/688746/",
-      "author": "",
-      "published": "2026-09-23T12:48:00+00:00",
-      "category": "精选",
-      "summary": "I admire Nikole Hannah-Jones’s choice. I am making a different one."
-    },
-    {
-      "title": "The Enduring Mystery of Annie Dillard",
-      "link": "https://www.theatlantic.com/books/2026/09/annie-dillard-pilgrim-at-tinker-creek/688741/",
-      "author": "",
-      "published": "2026-09-23T12:00:00+00:00",
-      "category": "全部",
-      "summary": "Dillard kept much of her personal life carefully outside the scope of her nonfiction."
-    },
-    {
-      "title": "An Existential Threat to the Oil Industry",
-      "link": "https://www.theatlantic.com/science/2026/09/climate-attribution-oil-company-lawsuits/688744/",
-      "author": "",
-      "published": "2026-09-23T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Can the energy giants be held responsible for extreme weather?"
-    },
-    {
-      "title": "The Supporters Urging Trump to Declare Martial Law for the Midterms",
-      "link": "https://www.theatlantic.com/politics/2026/09/trump-midterms-2026/688716/",
-      "author": "",
-      "published": "2026-09-23T09:00:00+00:00",
-      "category": "精选",
-      "summary": "Trump’s advisers have been working for months to move his focus away from baseless theories of election fraud. A group of outsiders is making that difficult."
     }
   ]
 }
