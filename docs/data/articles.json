@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T04:30:12.941199+00:00",
+  "updated_at": "2026-10-17T04:23:16.634012+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -12,12 +12,148 @@
   "errors": [],
   "articles": [
     {
+      "title": "The Blog Post That Set the AI World on Fire",
+      "link": "https://www.theatlantic.com/technology/2026/10/ai-neuron-blog-post/689058/",
+      "author": "",
+      "published": "2026-10-16T21:33:25+00:00",
+      "category": "科技",
+      "summary": "An incendiary post from a prominent researcher suggests that AI is actually more predictable than we thought."
+    },
+    {
+      "title": "Five Fabulous Days of Katie Zacharia",
+      "link": "https://www.theatlantic.com/ideas/2026/10/katie-zacharia-press-secretary-trump/689055/",
+      "author": "",
+      "published": "2026-10-16T20:35:05+00:00",
+      "category": "精选",
+      "summary": "The Trump administration returns to classic form."
+    },
+    {
+      "title": "How Botched Executions Were Handled in Centuries Past",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/history-lessons-botched-executions/689054/",
+      "author": "",
+      "published": "2026-10-16T19:43:00+00:00",
+      "category": "精选",
+      "summary": "The case of Christa Pike, who survived two lethal injections last month, gives new relevance to strange stories across history."
+    },
+    {
+      "title": "The Real Selling Point of Romantasy",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/books-briefing-dont-listen-romantasy-haters/689049/",
+      "author": "",
+      "published": "2026-10-16T17:55:00+00:00",
+      "category": "精选",
+      "summary": "The best-selling genre is more than just smut."
+    },
+    {
+      "title": "What Newsrooms Should Know Before They Take Money From OpenAI",
+      "link": "https://www.theatlantic.com/ideas/2026/10/newsrooms-journalism-openai-funding/689043/",
+      "author": "",
+      "published": "2026-10-16T17:35:00+00:00",
+      "category": "精选",
+      "summary": "Journalists need not reject the funding, but they should be cautious."
+    },
+    {
+      "title": "Will the New ‘Grand Theft Auto’ Be a Weapon in the Culture Wars?",
+      "link": "https://www.theatlantic.com/podcasts/2026/10/grand-theft-auto-ambition-culture-wars/689036/",
+      "author": "",
+      "published": "2026-10-16T17:00:00+00:00",
+      "category": "精选",
+      "summary": "It’s not just stealing cars and running from cops anymore."
+    },
+    {
+      "title": "A Bet That Young People Are Willing to Make",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/betting-gambling-young-people-boom/689045/",
+      "author": "",
+      "published": "2026-10-16T16:45:00+00:00",
+      "category": "精选",
+      "summary": "Bettors keep losing. Why do they keep coming back?"
+    },
+    {
+      "title": "Can Elizabeth Holmes Drop the Act?",
+      "link": "https://www.theatlantic.com/culture/2026/10/you-can-see-everything-review-elizabeth-holmes-documentary/689038/",
+      "author": "",
+      "published": "2026-10-16T16:02:19+00:00",
+      "category": "精选",
+      "summary": "Nathan Fielder follows the Theranos founder for a brilliant study of self-perception."
+    },
+    {
+      "title": "What the Loss of Starshield Revealed",
+      "link": "https://www.theatlantic.com/international/2026/10/starshield-ukraine-military-technology-vulnerability/689035/",
+      "author": "",
+      "published": "2026-10-16T14:22:48+00:00",
+      "category": "国际",
+      "summary": "Ukraine’s defenses depend on the high-speed data links that Washington may have briefly shut down."
+    },
+    {
+      "title": "Photos of the Week: Rabbit Jumping, Floating Bazaar, Chief Mouser",
+      "link": "https://www.theatlantic.com/photography/2026/10/photos-week-rabbit-jumping-floating-bazaar-chief-mouser/689007/",
+      "author": "",
+      "published": "2026-10-16T13:00:00+00:00",
+      "category": "精选",
+      "summary": "A highland-cattle show in Scotland, traditional sword forging in China, a fuel shortage in Bali, high water flow at Brazil’s Iguazu Falls, anti-government protests in Albania, and much more"
+    },
+    {
+      "title": "How the Catholic Church Is Rethinking War",
+      "link": "https://www.theatlantic.com/culture/2026/10/catholic-church-just-war-theory/688941/",
+      "author": "",
+      "published": "2026-10-16T12:45:00+00:00",
+      "category": "精选",
+      "summary": "Just-war theory, which has guided Vatican teaching for centuries, may be on its way out."
+    },
+    {
+      "title": "Imagine Every AI Agent on Earth Buying the Same Cheap Paper Towels",
+      "link": "https://www.theatlantic.com/technology/2026/10/ai-agent-chaos-e-commerce/689010/",
+      "author": "",
+      "published": "2026-10-16T12:00:00+00:00",
+      "category": "科技",
+      "summary": "AI agents are doing our shopping for us, and wreaking havoc on the internet."
+    },
+    {
+      "title": "What Three Gene-Therapy Deaths Have in Common",
+      "link": "https://www.theatlantic.com/health/2026/10/virus-gene-therapy/689034/",
+      "author": "",
+      "published": "2026-10-16T11:30:00+00:00",
+      "category": "精选",
+      "summary": "The virus used to deliver healing DNA in gene therapy is under renewed scrutiny."
+    },
+    {
+      "title": "The Cutest Target of Trump’s D.C. Makeover",
+      "link": "https://www.theatlantic.com/culture/2026/10/mini-golf-east-potomac-park-trump/688992/",
+      "author": "",
+      "published": "2026-10-16T11:30:00+00:00",
+      "category": "精选",
+      "summary": "A mini-golf course"
+    },
+    {
+      "title": "He Joined the Military. They Reported His Wife to ICE.",
+      "link": "https://www.theatlantic.com/politics/2026/10/army-wife-ice-deportation-texas/689012/",
+      "author": "",
+      "published": "2026-10-16T11:05:00+00:00",
+      "category": "精选",
+      "summary": "When a soldier’s wife went to pick up her military ID at a base in Texas, ICE officers showed up."
+    },
+    {
+      "title": "Watching for a Blue Wave in South Carolina",
+      "link": "https://www.theatlantic.com/politics/2026/10/lacore-hegseth-south-carolina-congress/688981/",
+      "author": "",
+      "published": "2026-10-16T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Nancy Lacore was sacked by Pete Hegseth. She wants to go back to Washington."
+    },
+    {
+      "title": "Big Tech Oligarchs Have a Terrible Plan for Humanity",
+      "link": "https://www.theatlantic.com/ideas/2026/10/ai-regulation-transhumanism-oligarchs/689013/",
+      "author": "",
+      "published": "2026-10-16T10:00:00+00:00",
+      "category": "精选",
+      "summary": "A handful of multibillionaires hope to dictate our future."
+    },
+    {
       "title": "How Pete Hegseth’s Plan for a Reality-TV Execution Imploded",
       "link": "https://www.theatlantic.com/national-security/2026/10/pete-hegseth-livestreamed-execution-plan/689020/",
       "author": "",
       "published": "2026-10-15T23:58:42+00:00",
       "category": "精选",
-      "summary": "Trump is fine with a military execution by firing squad, just not with putting it on YouTube"
+      "summary": "Trump is fine with a military execution by firing squad, just not with putting it on YouTube."
     },
     {
       "title": "America’s Latest Inflation Check-In Doesn’t Look Good for Trump",
@@ -48,7 +184,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/10/edgar-allan-poe-kelly-clarkson-bird/689014/",
       "author": "",
       "published": "2026-10-15T20:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "I eagerly await your response."
     },
     {
@@ -56,7 +192,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/10/thoreau-autumn-death-lessons/689009/",
       "author": "",
       "published": "2026-10-15T18:59:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "His autumnal observations held a lesson for him in his final years."
     },
     {
@@ -64,7 +200,7 @@
       "link": "https://www.theatlantic.com/photography/2026/10/winners-wildlife-photographer-year-2026/689005/",
       "author": "",
       "published": "2026-10-15T16:35:01+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A collection of some of this year’s winning and honored images, selected from more than 65,000 submissions from 121 countries and territories"
     },
     {
@@ -72,7 +208,7 @@
       "link": "https://www.theatlantic.com/health/2026/10/rsv-kennedy-conspiracy-theory-lab-leak/688998/",
       "author": "",
       "published": "2026-10-15T14:53:31+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Robert F. Kennedy Jr. believes that RSV originated in a government science experiment."
     },
     {
@@ -1874,142 +2010,6 @@
       "published": "2026-09-25T13:15:43+00:00",
       "category": "精选",
       "summary": "The scourge of COVID led to drive-by whinings disguised as activism."
-    },
-    {
-      "title": "Maybe Alex Gibney Did Elon Musk a Favor",
-      "link": "https://www.theatlantic.com/culture/2026/09/elon-musk-documentary-alex-gibney-interview/688780/",
-      "author": "",
-      "published": "2026-09-25T13:00:00+00:00",
-      "category": "精选",
-      "summary": "For his new documentary about the tech mogul, the director plays by unconventional rules."
-    },
-    {
-      "title": "An Underappreciated Problem With Dating Apps",
-      "link": "https://www.theatlantic.com/family/2026/09/dating-strategies-apps-matchmakers/688779/",
-      "author": "",
-      "published": "2026-09-25T13:00:00+00:00",
-      "category": "精选",
-      "summary": "Going on lots of first dates with strangers is not a great way to find love. Getting to know someone slowly is."
-    },
-    {
-      "title": "Photos of the Week: Human Tower, Pumpkin Pyramid, Monster Town",
-      "link": "https://www.theatlantic.com/photography/2026/09/photos-of-the-week-human-tower-pumpkin-pyramid-monster-town/688765/",
-      "author": "",
-      "published": "2026-09-25T13:00:00+00:00",
-      "category": "精选",
-      "summary": "Scenes from the Asian Games in Japan, livestock in the Swiss Alps, the European Tram Driver Championship in Warsaw, a cycling race in Montreal, and much more"
-    },
-    {
-      "title": "The Americans Having the Most Sex",
-      "link": "https://www.theatlantic.com/ideas/2026/09/religion-sex-recession-marriage/688774/",
-      "author": "",
-      "published": "2026-09-25T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Regular churchgoers have a surprising advantage over secular couples."
-    },
-    {
-      "title": "Why Macklemore Was Kicked Off the Ed Sheeran Tour",
-      "link": "https://www.theatlantic.com/culture/2026/09/ed-sheeran-macklemore-cancelled-tour-israel-palestine/688773/",
-      "author": "",
-      "published": "2026-09-25T11:30:00+00:00",
-      "category": "全部",
-      "summary": "Music’s most consequential confrontation over Israel and Palestine has complicated the idea of the apolitical concert."
-    },
-    {
-      "title": "Let’s Get Specific About These Doomsday Scenarios",
-      "link": "https://www.theatlantic.com/ideas/2026/09/ai-extinction-scenarios/688769/",
-      "author": "",
-      "published": "2026-09-25T11:00:00+00:00",
-      "category": "全部",
-      "summary": "How exactly is AI supposed to kill us all?"
-    },
-    {
-      "title": "The Houthis Have a Rich Sense of Irony and Timing",
-      "link": "https://www.theatlantic.com/national-security/2026/09/houthis-yemen-iran-trump-saudis/688768/",
-      "author": "",
-      "published": "2026-09-25T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Supposedly decimated last year, they are back and stronger than ever."
-    },
-    {
-      "title": "Trump’s Public Service Announcement: ‘Love Me’",
-      "link": "https://www.theatlantic.com/politics/2026/09/trump-ad-white-house-psa/688778/",
-      "author": "",
-      "published": "2026-09-24T23:20:00+00:00",
-      "category": "精选",
-      "summary": "Taxpayers are funding a campaign-style ad for the president."
-    },
-    {
-      "title": "Trump Should Stop Hosting Summits",
-      "link": "https://www.theatlantic.com/ideas/2026/09/trump-xi-summit-china/688776/",
-      "author": "",
-      "published": "2026-09-24T22:50:55+00:00",
-      "category": "精选",
-      "summary": "He’s turned them into a pointless ritual."
-    },
-    {
-      "title": "The Doomed Midterm Strategy Some Republicans Are Trying",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/gop-members-seeking-distance-trump-midterms/688777/",
-      "author": "",
-      "published": "2026-09-24T21:59:00+00:00",
-      "category": "精选",
-      "summary": "GOP incumbents are seeking distance from President Trump, but that’s not likely to save them."
-    },
-    {
-      "title": "Why Female Fans Can’t Win",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/why-female-fans-cant-win/688775/",
-      "author": "",
-      "published": "2026-09-24T21:37:00+00:00",
-      "category": "精选",
-      "summary": "Damned if they cheer; damned if they don’t."
-    },
-    {
-      "title": "Another Female Democrat Is Mean, Apparently",
-      "link": "https://www.theatlantic.com/ideas/2026/09/peltola-democratic-staffers-complain/688770/",
-      "author": "",
-      "published": "2026-09-24T20:00:31+00:00",
-      "category": "全部",
-      "summary": "A New York Times report on Representative Mary Peltola’s management is revealing—about her younger employees’ self-regard."
-    },
-    {
-      "title": "Why Fauda Is So Popular in the Arab World",
-      "link": "https://www.theatlantic.com/ideas/2026/09/fauda-israeli-tv-show-popularity/688766/",
-      "author": "",
-      "published": "2026-09-24T15:00:10+00:00",
-      "category": "全部",
-      "summary": "Viewers may find, in the fictions of a TV show, a more realistic portrayal of their world than they are usually offered."
-    },
-    {
-      "title": "Nikole Hannah-Jones Faced Too Much Apathy to Win",
-      "link": "https://www.theatlantic.com/ideas/2026/09/hannah-jones-school-choice-response/688758/",
-      "author": "",
-      "published": "2026-09-24T14:35:08+00:00",
-      "category": "精选",
-      "summary": "Fixing troubled schools requires collective action, and no one should underestimate the difficulty."
-    },
-    {
-      "title": "Trump Could Leave the Iran Mess to His Successor",
-      "link": "https://www.theatlantic.com/international/2026/09/trump-iran-successor-blame/688754/",
-      "author": "",
-      "published": "2026-09-24T11:00:00+00:00",
-      "category": "国际",
-      "summary": "And if he blames the next administration for whatever happens, he’ll likely succeed."
-    },
-    {
-      "title": "The ‘Godfather of AI’ on the Best Chance Humanity Has to Survive",
-      "link": "https://www.theatlantic.com/podcasts/2026/09/what-the-godfather-of-ai-thinks-we-should-do/688748/",
-      "author": "",
-      "published": "2026-09-24T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Geoffrey Hinton still believes the potential benefits of artificial intelligence outweigh its potential for destruction."
-    },
-    {
-      "title": "The Deferential President",
-      "link": "https://www.theatlantic.com/politics/2026/09/trump-xi-china-summit/688762/",
-      "author": "",
-      "published": "2026-09-24T09:00:00+00:00",
-      "category": "精选",
-      "summary": "Not long ago, President Trump could claim that he ran the world. Now he’s waiting at the bottom of a set of airline steps for the Chinese president."
     }
   ]
 }
