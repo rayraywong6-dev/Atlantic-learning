@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T04:30:19.269798+00:00",
+  "updated_at": "2026-10-19T04:38:18.465903+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,70 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Siding With Putin Is a Huge Mistake",
+      "link": "https://www.theatlantic.com/ideas/2026/10/trump-putin/689067/",
+      "author": "",
+      "published": "2026-10-18T22:26:41+00:00",
+      "category": "精选",
+      "summary": "The United States should stand unequivocally with Ukraine against Russia."
+    },
+    {
+      "title": "America Is Now an Ally of Russia",
+      "link": "https://www.theatlantic.com/ideas/2026/10/america-now-ally-russia/689066/",
+      "author": "",
+      "published": "2026-10-18T21:51:28+00:00",
+      "category": "精选",
+      "summary": "Donald Trump has abandoned the Western order."
+    },
+    {
+      "title": "Catalog of Misplaced Things",
+      "link": "https://www.theatlantic.com/books/2026/10/poem-j-mae-barizo-catalog/689060/",
+      "author": "",
+      "published": "2026-10-18T16:00:00+00:00",
+      "category": "精选",
+      "summary": "A poem"
+    },
+    {
+      "title": "How the Rabbit Revolution Went Too Far",
+      "link": "https://www.theatlantic.com/ideas/2026/10/vibrators-sexuality-intimacy-loneliness/689004/",
+      "author": "",
+      "published": "2026-10-18T13:25:00+00:00",
+      "category": "精选",
+      "summary": "The golden age of vibrators is not what it seems."
+    },
+    {
+      "title": "Are We Too Political?",
+      "link": "https://www.theatlantic.com/podcasts/2026/10/are-we-too-political/689011/",
+      "author": "",
+      "published": "2026-10-18T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Long careers spent covering politicians have taught David Brooks and Jeffrey Goldberg the importance of putting politics in its place."
+    },
+    {
+      "title": "The Evolution of the Human Brain Set It Up for Failure",
+      "link": "https://www.theatlantic.com/health/2026/10/alzheimers-evolution/689062/",
+      "author": "",
+      "published": "2026-10-18T12:00:00+00:00",
+      "category": "精选",
+      "summary": "The genetic changes that made the human brain may have made us uniquely vulnerable to Alzheimer’s."
+    },
+    {
+      "title": "America Has a Police Shortage",
+      "link": "https://www.theatlantic.com/ideas/2026/10/police-officers-usa-europe/689006/",
+      "author": "",
+      "published": "2026-10-18T11:00:00+00:00",
+      "category": "全部",
+      "summary": "Many Americans have decided that their country’s problem is that it has too many police officers. In fact, it has too few."
+    },
+    {
+      "title": "Theranos-Style Fraud Has Become the Norm",
+      "link": "https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/",
+      "author": "",
+      "published": "2026-10-18T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Elizabeth Holmes was ahead of her time."
+    },
     {
       "title": "The Fight to Control Congress",
       "link": "https://www.theatlantic.com/national/2026/10/fight-to-control-congress-washington-week/689050/",
@@ -44,12 +108,12 @@
       "summary": "It is not a goal to be reached, but a dream of new freedom deferred."
     },
     {
-      "title": "All the Comforts of Fall",
+      "title": "How to Indulge in Fall",
       "link": "https://www.theatlantic.com/newsletters/2026/10/comforts-of-fall/689056/",
       "author": "",
       "published": "2026-10-17T12:00:00+00:00",
       "category": "精选",
-      "summary": "Pumpkin-spice treats, cozy reads, and a few more ways to make the most of the season"
+      "summary": "A few ways to make the most of the season"
     },
     {
       "title": "Iran’s ‘Anti-Imperialism’ Is a Dead End",
@@ -96,7 +160,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/10/newsrooms-journalism-openai-funding/689043/",
       "author": "",
       "published": "2026-10-16T17:35:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Journalists need not reject the funding, but they should be cautious."
     },
     {
@@ -104,7 +168,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/10/grand-theft-auto-ambition-culture-wars/689036/",
       "author": "",
       "published": "2026-10-16T17:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "It’s not just stealing cars and running from cops anymore."
     },
     {
@@ -120,7 +184,7 @@
       "link": "https://www.theatlantic.com/culture/2026/10/you-can-see-everything-review-elizabeth-holmes-documentary/689038/",
       "author": "",
       "published": "2026-10-16T16:02:19+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Nathan Fielder follows the Theranos founder for a brilliant study of self-perception."
     },
     {
@@ -136,7 +200,7 @@
       "link": "https://www.theatlantic.com/photography/2026/10/photos-week-rabbit-jumping-floating-bazaar-chief-mouser/689007/",
       "author": "",
       "published": "2026-10-16T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A highland-cattle show in Scotland, traditional sword forging in China, a fuel shortage in Bali, high water flow at Brazil’s Iguazu Falls, anti-government protests in Albania, and much more"
     },
     {
@@ -1946,70 +2010,6 @@
       "published": "2026-09-26T12:00:00+00:00",
       "category": "全部",
       "summary": "Structural forces in the news industry have made the effective exercise of presidential power more difficult."
-    },
-    {
-      "title": "How Militarizing the Triumphal Arch Could Backfire for Trump",
-      "link": "https://www.theatlantic.com/culture/2026/09/trump-triumphal-arch-military/688789/",
-      "author": "",
-      "published": "2026-09-26T11:00:00+00:00",
-      "category": "全部",
-      "summary": "Adding drones and snipers to a planned monument may not work the way the president hopes."
-    },
-    {
-      "title": "Lenders Don’t Trust the United States Anymore",
-      "link": "https://www.theatlantic.com/ideas/2026/09/trump-national-debt-interest-rates/688783/",
-      "author": "",
-      "published": "2026-09-26T10:00:00+00:00",
-      "category": "精选",
-      "summary": "Blame Trump for rising borrowing costs."
-    },
-    {
-      "title": "The Absences Haunting the Trump Administration",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/trump-understaffed-administration/688795/",
-      "author": "",
-      "published": "2026-09-25T21:22:00+00:00",
-      "category": "全部",
-      "summary": "The president has left hundreds of appointed roles open—including those that would have a central role in implementing his priorities."
-    },
-    {
-      "title": "Egypt’s Warning to Israel",
-      "link": "https://www.theatlantic.com/national-security/2026/09/egypt-israel-gaza-hamas-palestinian-october-7/688720/",
-      "author": "",
-      "published": "2026-09-25T21:03:32+00:00",
-      "category": "精选",
-      "summary": "Cairo’s intelligence chief visited Tel Aviv shortly before October 7 with a dire message about Gaza."
-    },
-    {
-      "title": "The Show That Always Chased Ratings, No Matter the Cost",
-      "link": "https://www.theatlantic.com/culture/2026/09/primetime-movie-robert-pattinson-to-catch-a-predator/688796/",
-      "author": "",
-      "published": "2026-09-25T21:00:13+00:00",
-      "category": "精选",
-      "summary": "The film Primetime imagines the impulses that fueled the making of To Catch a Predator ."
-    },
-    {
-      "title": "The Right Way to Adapt a Video Game",
-      "link": "https://www.theatlantic.com/culture/2026/09/resident-evil-2026-movie-zach-cregger-interview/688792/",
-      "author": "",
-      "published": "2026-09-25T19:49:55+00:00",
-      "category": "精选",
-      "summary": "The director of the latest Resident Evil movie glanced past the details to capture the franchise’s spirit."
-    },
-    {
-      "title": "AI Companies’ New Plan to Keep Themselves From Destroying Everything",
-      "link": "https://www.theatlantic.com/technology/2026/09/ai-companies-evaluators-risk/688785/",
-      "author": "",
-      "published": "2026-09-25T17:56:16+00:00",
-      "category": "科技",
-      "summary": "Third-party evaluators will be allowed inside companies to monitor the models. But how much access and influence will they really have?"
-    },
-    {
-      "title": "The Two-Year Temper Tantrum to Come",
-      "link": "https://www.theatlantic.com/ideas/2026/09/trump-white-house-press-fight/688788/",
-      "author": "",
-      "published": "2026-09-25T17:47:06+00:00",
-      "category": "精选",
-      "summary": "Trump’s recent kerfuffle with the press is a preview of his next era."
     }
   ]
 }
