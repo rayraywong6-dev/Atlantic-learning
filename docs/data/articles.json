@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T04:38:18.465903+00:00",
+  "updated_at": "2026-10-20T04:48:22.076962+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,94 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Americans Are Spending More Money to Drive Worse Cars",
+      "link": "https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/",
+      "author": "",
+      "published": "2026-10-19T22:06:00+00:00",
+      "category": "科技",
+      "summary": "If high gas prices won’t persuade drivers to go electric, what will?"
+    },
+    {
+      "title": "What Trump’s Comments About France Say About Him",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/what-trump-france-protest-comments-reveal/689073/",
+      "author": "",
+      "published": "2026-10-19T21:16:00+00:00",
+      "category": "精选",
+      "summary": "The president’s reaction to mass protests in France tells us more about his mentality and domestic politics than it does about French society."
+    },
+    {
+      "title": "Two Firefighters Died in Yosemite—For What?",
+      "link": "https://www.theatlantic.com/science/2026/10/yosemite-fires/689069/",
+      "author": "",
+      "published": "2026-10-19T20:48:29+00:00",
+      "category": "精选",
+      "summary": "The effort put into controlling even remote fires has started to baffle some veterans."
+    },
+    {
+      "title": "Why the Internet Needs a Memory",
+      "link": "https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/",
+      "author": "",
+      "published": "2026-10-19T16:00:00+00:00",
+      "category": "科技",
+      "summary": "Publishers have every right to challenge businesses that exploit their work—but the Wayback Machine has become collateral damage."
+    },
+    {
+      "title": "How Corruption Got This Bad",
+      "link": "https://www.theatlantic.com/ideas/2026/10/constitution-trump-doj-supreme-court-corruption/689042/",
+      "author": "",
+      "published": "2026-10-19T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Over the course of decades, the Supreme Court has legalized behavior that is poisonous to a functioning democracy."
+    },
+    {
+      "title": "The Minimal Requirements for a Society Free From Fear",
+      "link": "https://www.theatlantic.com/ideas/2026/10/liberalism-fukuyama-shklar-trump/689040/",
+      "author": "",
+      "published": "2026-10-19T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Liberalism’s deepest grounding is the belief that cruelty is an absolute evil."
+    },
+    {
+      "title": "Like Yesteryear , but Better",
+      "link": "https://www.theatlantic.com/books/2026/10/sarah-anderson-fallow-ultimate-would-you-rather-novel-book-review/689064/",
+      "author": "",
+      "published": "2026-10-19T11:00:00+00:00",
+      "category": "精选",
+      "summary": "In Sarah Anderson’s novel, Fallow , a woman is hired to bear children for busy C-suite executives."
+    },
+    {
+      "title": "Mamdani Is the Centrist We’ve Been Waiting For",
+      "link": "https://www.theatlantic.com/ideas/2026/10/mamdani-leftist-moderate-new-york/689053/",
+      "author": "",
+      "published": "2026-10-19T11:00:00+00:00",
+      "category": "精选",
+      "summary": "The New York City mayor deserves a new cult following—among pragmatists."
+    },
+    {
+      "title": "Decoupling From the U.S. Is Awkward",
+      "link": "https://www.theatlantic.com/international/2026/10/canada-military-buildup-defense/689041/",
+      "author": "",
+      "published": "2026-10-19T11:00:00+00:00",
+      "category": "国际",
+      "summary": "Canada is experiencing a sudden and complicated defense boom."
+    },
+    {
+      "title": "Maine Has Changed. Susan Collins Hasn’t.",
+      "link": "https://www.theatlantic.com/politics/2026/10/susan-collins-maine-debate-troy-jackson/689037/",
+      "author": "",
+      "published": "2026-10-19T10:00:00+00:00",
+      "category": "精选",
+      "summary": "The senator is trying to defy the odds, again."
+    },
+    {
+      "title": "Democrats’ Sudden Revulsion Toward Big Tech",
+      "link": "https://www.theatlantic.com/politics/2026/10/democratic-party-big-tech/689008/",
+      "author": "",
+      "published": "2026-10-19T10:00:00+00:00",
+      "category": "精选",
+      "summary": "The party once celebrated technology’s potential for innovation—now it’s a villain in campaign ads."
+    },
     {
       "title": "Siding With Putin Is a Huge Mistake",
       "link": "https://www.theatlantic.com/ideas/2026/10/trump-putin/689067/",
@@ -46,6 +134,14 @@
     {
       "title": "Are We Too Political?",
       "link": "https://www.theatlantic.com/podcasts/2026/10/are-we-too-political/689011/",
+      "author": "",
+      "published": "2026-10-18T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Long careers spent covering politicians have taught David Brooks and Jeffrey Goldberg the importance of putting politics in its place."
+    },
+    {
+      "title": "What Role Should Politics Play In Your Life?",
+      "link": "https://www.theatlantic.com/podcasts/2026/10/what-role-should-politics-play-in-your-life/689011/",
       "author": "",
       "published": "2026-10-18T13:00:00+00:00",
       "category": "精选",
@@ -96,7 +192,7 @@
       "link": "https://www.theatlantic.com/culture/2026/10/catholic-church-sacraments/689063/",
       "author": "",
       "published": "2026-10-17T12:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The Church has fought the government multiple times to ensure that detained migrants have access to sacraments."
     },
     {
@@ -1914,102 +2010,6 @@
       "published": "2026-09-28T11:00:00+00:00",
       "category": "全部",
       "summary": "Storms driven by El Niño are pulling chunks of coast away."
-    },
-    {
-      "title": "The Babies Left Behind in America",
-      "link": "https://www.theatlantic.com/magazine/2026/11/trump-ice-family-separation/688695/",
-      "author": "",
-      "published": "2026-09-28T11:00:00+00:00",
-      "category": "国际",
-      "summary": "The United States is deporting parents without their children, creating a whole new family-separation crisis."
-    },
-    {
-      "title": "An SNL Exchange That Captures the AI Disconnect",
-      "link": "https://www.theatlantic.com/culture/2026/09/saturday-night-live-season-52-premiere-dario-amodei/688803/",
-      "author": "",
-      "published": "2026-09-27T17:55:23+00:00",
-      "category": "精选",
-      "summary": "The Season 52 premiere’s standout moment took an Anthropic co-founder to task."
-    },
-    {
-      "title": "Drawing the Birds Back Into the Sky",
-      "link": "https://www.theatlantic.com/books/2026/09/poem-trish-reeves-drawing-birds/688749/",
-      "author": "",
-      "published": "2026-09-27T16:00:00+00:00",
-      "category": "精选",
-      "summary": "A poem"
-    },
-    {
-      "title": "What Is the Meaning of Mystical Experience?",
-      "link": "https://www.theatlantic.com/podcasts/2026/09/what-meaning-mystical-experience/688782/",
-      "author": "",
-      "published": "2026-09-27T13:00:00+00:00",
-      "category": "精选",
-      "summary": "The novelist and playwright Ayad Akhtar tries to do justice to feelings of radiance without religious language."
-    },
-    {
-      "title": "The Kennedy Center Is the Most Terrifying Building in America",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/kennedy-center-danger/688797/",
-      "author": "",
-      "published": "2026-09-27T11:00:00+00:00",
-      "category": "精选",
-      "summary": "This place is much too dangerous."
-    },
-    {
-      "title": "The Hidden State Russia Is Building Inside Ukraine",
-      "link": "https://www.theatlantic.com/international/2026/09/ukraine-war-russia-occupation-construction/688739/",
-      "author": "",
-      "published": "2026-09-27T11:00:00+00:00",
-      "category": "国际",
-      "summary": "Russian occupation authorities are doing everything possible to make Ukrainian lands unrecoverable."
-    },
-    {
-      "title": "Why Empathy Is Now ‘Toxic,’ ‘Suicidal,’ and a ‘Sin’",
-      "link": "https://www.theatlantic.com/ideas/2026/09/maga-right-christianity-empathy-toxic/688755/",
-      "author": "",
-      "published": "2026-09-27T10:00:00+00:00",
-      "category": "精选",
-      "summary": "According to Gad Saad and his powerful acolytes, compassion is a recipe for “the collective suicide of the West.”"
-    },
-    {
-      "title": "The Pacific Is a Mess of Hurricanes",
-      "link": "https://www.theatlantic.com/science/2026/09/pacific-hurricanes/688802/",
-      "author": "",
-      "published": "2026-09-26T20:37:35+00:00",
-      "category": "精选",
-      "summary": "Hawaii is on its third close call this season."
-    },
-    {
-      "title": "What Israel Knew Before October 7",
-      "link": "https://www.theatlantic.com/podcasts/2026/09/ra-vivian-reporting/688798/",
-      "author": "",
-      "published": "2026-09-26T17:17:12+00:00",
-      "category": "全部",
-      "summary": "A conversation with Vivian Salama about her exclusive reporting that Egypt’s top spy warned of the coming attack."
-    },
-    {
-      "title": "How to Define the Fuzzy Phases of Life",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/middle-age-life-stages-definition/688801/",
-      "author": "",
-      "published": "2026-09-26T15:20:00+00:00",
-      "category": "全部",
-      "summary": "Modern life is making these stages harder and harder to pin down."
-    },
-    {
-      "title": "Xi’s Visit to Washington",
-      "link": "https://www.theatlantic.com/national/2026/09/xi-trump-washington-week/688800/",
-      "author": "",
-      "published": "2026-09-26T14:48:39+00:00",
-      "category": "全部",
-      "summary": "Panelists joined to discuss what the Chinese president’s conversations with President Trump reveal about trade, AI, and the war with Iran."
-    },
-    {
-      "title": "Modern Media Weaken the Presidency",
-      "link": "https://www.theatlantic.com/ideas/2026/09/modern-media-presidential-power/688784/",
-      "author": "",
-      "published": "2026-09-26T12:00:00+00:00",
-      "category": "全部",
-      "summary": "Structural forces in the news industry have made the effective exercise of presidential power more difficult."
     }
   ]
 }
