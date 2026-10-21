@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T04:48:22.076962+00:00",
+  "updated_at": "2026-10-21T04:43:48.059923+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,126 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "The Three Dates for Deciding Ukraine’s Future",
+      "link": "https://www.theatlantic.com/national-security/2026/10/trump-putin-russia-ukraine-midterms/689096/",
+      "author": "",
+      "published": "2026-10-21T00:12:00+00:00",
+      "category": "精选",
+      "summary": "The next two months will bring a U.S. election and summits."
+    },
+    {
+      "title": "Elon Musk and Dario Amodei Are Offering Gifts—With Strings Attached",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/ai-charities-power-control/689097/",
+      "author": "",
+      "published": "2026-10-20T23:30:00+00:00",
+      "category": "精选",
+      "summary": "Their charitable acts could help a lot of people—but they also raise questions about these companies’ role in society."
+    },
+    {
+      "title": "You Can Believe Everything",
+      "link": "https://www.theatlantic.com/technology/2026/10/theranos-elizabeth-holmes-musk-flying-car/689095/",
+      "author": "",
+      "published": "2026-10-20T21:12:43+00:00",
+      "category": "科技",
+      "summary": "What do Elizabeth Holmes and Elon Musk’s flying car have in common?"
+    },
+    {
+      "title": "France Will Never Be Enough for the People Desecrating It",
+      "link": "https://www.theatlantic.com/ideas/2026/10/france-protests-macron-government/689089/",
+      "author": "",
+      "published": "2026-10-20T19:54:00+00:00",
+      "category": "精选",
+      "summary": "No society, no matter how equal or enlightened, can satisfy nihilists."
+    },
+    {
+      "title": "Donald Trump Really Wants This Golf Course",
+      "link": "https://www.theatlantic.com/culture/2026/10/trump-golf-course/689086/",
+      "author": "",
+      "published": "2026-10-20T19:41:00+00:00",
+      "category": "精选",
+      "summary": "The government is going to considerable—bordering on absurd—lengths to make a D.C. park worthy of the PGA."
+    },
+    {
+      "title": "Sally Rooney Is Wrong, and So Is What’s Happening to Her",
+      "link": "https://www.theatlantic.com/ideas/2026/10/sally-rooney-free-speech/689087/",
+      "author": "",
+      "published": "2026-10-20T19:34:09+00:00",
+      "category": "精选",
+      "summary": "You don’t have to agree with the author and activist to see that Britain’s suppression of speech is a problem."
+    },
+    {
+      "title": "Trump Jr. Privately Breaks With His Dad",
+      "link": "https://www.theatlantic.com/politics/2026/10/trump-don-jr-iran-war/689078/",
+      "author": "",
+      "published": "2026-10-20T19:25:00+00:00",
+      "category": "精选",
+      "summary": "In private conversations, including with his father, Donald Trump Jr. has raised concerns about the Iran war."
+    },
+    {
+      "title": "All the President’s Hotties",
+      "link": "https://www.theatlantic.com/ideas/2026/10/trump-physical-appearance-senate-midterms/689084/",
+      "author": "",
+      "published": "2026-10-20T18:15:48+00:00",
+      "category": "精选",
+      "summary": "Donald Trump is 100 percent behind Jon Husted’s behind."
+    },
+    {
+      "title": "Winners of the 2026 Epson International Pano Awards",
+      "link": "https://www.theatlantic.com/photography/2026/10/winners-2026-epson-international-pano-awards/689074/",
+      "author": "",
+      "published": "2026-10-20T15:02:00+00:00",
+      "category": "精选",
+      "summary": "A collection of some of the highest-scoring images from the 17th edition of this panoramic-photo competition"
+    },
+    {
+      "title": "Trump’s ‘Staggering One-Two Punch’ to Ukraine",
+      "link": "https://www.theatlantic.com/podcasts/2026/10/ra-ukraine/689068/",
+      "author": "",
+      "published": "2026-10-20T14:09:11+00:00",
+      "category": "精选",
+      "summary": "Why is Trump making deals with Putin?"
+    },
+    {
+      "title": "What Lego Lost When It Grew Up",
+      "link": "https://www.theatlantic.com/culture/2026/10/lego-adult-market/689051/",
+      "author": "",
+      "published": "2026-10-20T11:30:00+00:00",
+      "category": "精选",
+      "summary": "The company’s overt outreach to an adult market has changed the nature of its products."
+    },
+    {
+      "title": "The Cynicism of Trump’s Climate Policy",
+      "link": "https://www.theatlantic.com/ideas/2026/10/epa-greenhouse-gas-emissions-power/689070/",
+      "author": "",
+      "published": "2026-10-20T11:00:00+00:00",
+      "category": "精选",
+      "summary": "The EPA’s latest emissions guidance is nihilistic—and also wrong."
+    },
+    {
+      "title": "The New Food Movement",
+      "link": "https://www.theatlantic.com/culture/2026/10/american-sustenance-omnivore-dilemma/688643/",
+      "author": "",
+      "published": "2026-10-20T11:00:00+00:00",
+      "category": "全部",
+      "summary": "Twenty years since my book The Omnivore’s Dilemma was published, America’s food system is still a mess—but there are reasons for optimism."
+    },
+    {
+      "title": "Why Is Strategy So Difficult?",
+      "link": "https://www.theatlantic.com/ideas/2026/10/strategy-military-politics-war/689072/",
+      "author": "",
+      "published": "2026-10-20T10:00:00+00:00",
+      "category": "全部",
+      "summary": "It can be studied, but rarely mastered."
+    },
+    {
+      "title": "A New Season of Autocracy in America",
+      "link": "https://www.theatlantic.com/podcasts/2026/10/a-new-season-of-autocracy-in-america/689044/",
+      "author": "",
+      "published": "2026-10-20T10:00:00+00:00",
+      "category": "精选",
+      "summary": "Anne Applebaum’s podcast asks: Can we repair the American institutions Donald Trump is breaking?"
+    },
     {
       "title": "Americans Are Spending More Money to Drive Worse Cars",
       "link": "https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/",
@@ -64,7 +184,7 @@
       "link": "https://www.theatlantic.com/books/2026/10/sarah-anderson-fallow-ultimate-would-you-rather-novel-book-review/689064/",
       "author": "",
       "published": "2026-10-19T11:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "In Sarah Anderson’s novel, Fallow , a woman is hired to bear children for busy C-suite executives."
     },
     {
@@ -88,7 +208,7 @@
       "link": "https://www.theatlantic.com/politics/2026/10/susan-collins-maine-debate-troy-jackson/689037/",
       "author": "",
       "published": "2026-10-19T10:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The senator is trying to defy the odds, again."
     },
     {
@@ -1890,126 +2010,6 @@
       "published": "2026-09-29T12:00:00+00:00",
       "category": "精选",
       "summary": "Democrats are now favored to take back the Senate, a prospect that seemed far-fetched a year ago."
-    },
-    {
-      "title": "ICE Deportees Are Vanishing Into Salvadoran Prisons",
-      "link": "https://www.theatlantic.com/politics/2026/09/el-salvador-bukele-trump-ice-deportation/688799/",
-      "author": "",
-      "published": "2026-09-29T12:00:00+00:00",
-      "category": "全部",
-      "summary": "The world moved on after Kilmar Abrego Garcia, but people continue to disappear."
-    },
-    {
-      "title": "Taylor Swift’s Audience Is Growing Up. Her Music Is Devolving.",
-      "link": "https://www.theatlantic.com/culture/2026/09/taylor-swift-the-encore-review/688815/",
-      "author": "",
-      "published": "2026-09-29T11:00:00+00:00",
-      "category": "精选",
-      "summary": "The singer’s music once put a clever twist on ideas about aging and adulthood. Now she just seems to be going backwards."
-    },
-    {
-      "title": "Trump’s Latest Appeal to Russia Could Outrage Even His Allies",
-      "link": "https://www.theatlantic.com/national-security/2026/09/trump-russia-putin-ukraine-sanctions/688808/",
-      "author": "",
-      "published": "2026-09-29T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Trump’s envoy wants to trade Russian political prisoners for U.S. sanctions relief, creating a path to business deals before the war in Ukraine ends."
-    },
-    {
-      "title": "The Art of Dealing With Trump",
-      "link": "https://www.theatlantic.com/international/2026/09/canada-america-trade-negotiations/688807/",
-      "author": "",
-      "published": "2026-09-29T11:00:00+00:00",
-      "category": "国际",
-      "summary": "As Canada’s international trade minister and foreign minister, I learned that the only thing that works with this president is strength."
-    },
-    {
-      "title": "Inside the Biggest Feud in Artificial Intelligence",
-      "link": "https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/",
-      "author": "",
-      "published": "2026-09-29T10:00:00+00:00",
-      "category": "科技",
-      "summary": "A new world has arrived. Dario Amodei and Sam Altman cannot stop fighting over it."
-    },
-    {
-      "title": "The THAAD Delusion",
-      "link": "https://www.theatlantic.com/national-security/2026/09/american-missile-shortage-iran-war/688793/",
-      "author": "",
-      "published": "2026-09-29T10:00:00+00:00",
-      "category": "精选",
-      "summary": "The story of a missile system placed in a role for which it was never intended illuminates the broader challenges facing the U.S. military."
-    },
-    {
-      "title": "Republican Candidates Are Running From Trump. Will It Work?",
-      "link": "https://www.theatlantic.com/podcasts/2026/09/ra-midterm-mess/688810/",
-      "author": "",
-      "published": "2026-09-29T01:09:00+00:00",
-      "category": "精选",
-      "summary": "And how midterm maps and ongoing court disputes are scrambling this election"
-    },
-    {
-      "title": "The Problem With Trump’s New Taxpayer-Funded Ads",
-      "link": "https://www.theatlantic.com/newsletters/2026/09/problem-with-trumps-taxpayer-funded-ads/688817/",
-      "author": "",
-      "published": "2026-09-28T21:43:00+00:00",
-      "category": "精选",
-      "summary": "They clearly violate the intent of the law. But that doesn’t mean they’ll be easy to stop."
-    },
-    {
-      "title": "A $111 Billion Hollywood Takeover With a Murky Future",
-      "link": "https://www.theatlantic.com/culture/2026/09/paramount-warner-bros-merger-questions-explained/688814/",
-      "author": "",
-      "published": "2026-09-28T21:10:31+00:00",
-      "category": "精选",
-      "summary": "Paramount and Warner Bros. are inching closer toward closing a deal, but they won’t be anywhere out of the woods."
-    },
-    {
-      "title": "OpenAI Has Gone Rogue",
-      "link": "https://www.theatlantic.com/technology/2026/09/ai-hacks-infestation/688806/",
-      "author": "",
-      "published": "2026-09-28T17:06:26+00:00",
-      "category": "科技",
-      "summary": "It’s impossible to know the extent of the AI-hacking crisis."
-    },
-    {
-      "title": "Selections From the 2026 Audubon Photography Awards Top 100",
-      "link": "https://www.theatlantic.com/photography/2026/09/audubon-photography-awards-2026-top-100/688804/",
-      "author": "",
-      "published": "2026-09-28T16:23:10+00:00",
-      "category": "精选",
-      "summary": "Organizers of this year’s Audubon Photography Awards shared some of their top-100 selections—featuring a rainbow-bearded thornbill, a northern pygmy-owl, Andean condors, and more."
-    },
-    {
-      "title": "One Reason People Are Spending So Much Time Alone",
-      "link": "https://www.theatlantic.com/culture/2026/09/convenience-loneliness-bullard/688791/",
-      "author": "",
-      "published": "2026-09-28T12:00:00+00:00",
-      "category": "精选",
-      "summary": "There is a social cost to many modern conveniences."
-    },
-    {
-      "title": "How Biden Averted a War With Iran",
-      "link": "https://www.theatlantic.com/ideas/2026/09/israel-biden-gaza-hamas-netanyahu/688750/",
-      "author": "",
-      "published": "2026-09-28T12:00:00+00:00",
-      "category": "全部",
-      "summary": "In April 2024, the U.S. military helped avoid a wider conflict in the Middle East by working with Israel to defeat an Iranian missile attack."
-    },
-    {
-      "title": "The Problem With Democrats’ Favorite Policy Proposal",
-      "link": "https://www.theatlantic.com/ideas/2026/09/universal-child-care-democrats/688794/",
-      "author": "",
-      "published": "2026-09-28T11:30:00+00:00",
-      "category": "全部",
-      "summary": "Universal child care appeals to the party’s cosmopolitan base—but not to most of the country."
-    },
-    {
-      "title": "The Edge of California Is Falling Into the Ocean",
-      "link": "https://www.theatlantic.com/science/2026/09/california-cost-falling-ocean/688759/",
-      "author": "",
-      "published": "2026-09-28T11:00:00+00:00",
-      "category": "全部",
-      "summary": "Storms driven by El Niño are pulling chunks of coast away."
     }
   ]
 }
