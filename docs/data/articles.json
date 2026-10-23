@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T04:41:55.995217+00:00",
+  "updated_at": "2026-10-23T04:46:51.993242+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,126 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "‘If Anything Happens to This Guy … Everyone Is Screwed’",
+      "link": "https://www.theatlantic.com/technology/2026/10/man-who-saved-internet-php-vulnerability/689123/",
+      "author": "",
+      "published": "2026-10-22T23:47:00+00:00",
+      "category": "科技",
+      "summary": "Ondřej Surý was a relatively anonymous volunteer working on PHP security. Then the internet exploded."
+    },
+    {
+      "title": "Trump’s Gamble to End the Iran War",
+      "link": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121/",
+      "author": "",
+      "published": "2026-10-22T21:41:50+00:00",
+      "category": "精选",
+      "summary": "The president is considering another escalation in the Middle East."
+    },
+    {
+      "title": "When Rivers Run Low in the American West",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/the-one-resource-the-american-west-will-never-stop-fighting-over/689120/",
+      "author": "",
+      "published": "2026-10-22T19:32:00+00:00",
+      "category": "精选",
+      "summary": "Water is the one resource that the region will never stop fighting over."
+    },
+    {
+      "title": "The Myth of Safe AI",
+      "link": "https://www.theatlantic.com/technology/2026/10/false-promise-of-safe-ai/689114/",
+      "author": "",
+      "published": "2026-10-22T19:12:03+00:00",
+      "category": "科技",
+      "summary": "Silicon Valley promises to make AI benevolent. That may be technically impossible."
+    },
+    {
+      "title": "America Needs Its Indian Immigrants",
+      "link": "https://www.theatlantic.com/ideas/2026/10/america-anti-indian-bigotry/689107/",
+      "author": "",
+      "published": "2026-10-22T19:00:27+00:00",
+      "category": "精选",
+      "summary": "The country relies on their talents, ambition, and skills to power two of its most important sectors—technology and medicine."
+    },
+    {
+      "title": "A Congressional District Where the Iran War Is Personal",
+      "link": "https://www.theatlantic.com/politics/2026/10/iran-war-virginia-midterms/688948/",
+      "author": "",
+      "published": "2026-10-22T18:18:03+00:00",
+      "category": "精选",
+      "summary": "How voters in Virginia’s veteran-rich Second Congressional District feel about the war could determine control of Congress."
+    },
+    {
+      "title": "The Limits of the Cinematic Universe",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/clayface-dc-universe-james-gunn-video-village/689115/",
+      "author": "",
+      "published": "2026-10-22T17:37:18+00:00",
+      "category": "精选",
+      "summary": "Clayface is a gory horror movie without the world building to give it substance."
+    },
+    {
+      "title": "Why So Many Men Aren’t Working",
+      "link": "https://www.theatlantic.com/ideas/2026/10/job-market-unemployment-men-screentime/689109/",
+      "author": "",
+      "published": "2026-10-22T13:49:15+00:00",
+      "category": "精选",
+      "summary": "Jobs exist. The trouble lies in finding men who are willing and able to take them."
+    },
+    {
+      "title": "China’s Economy Has a Huge Weakness",
+      "link": "https://www.theatlantic.com/international/2026/10/chinese-companies-profit-problem/689088/",
+      "author": "",
+      "published": "2026-10-22T12:13:00+00:00",
+      "category": "国际",
+      "summary": "Local manufacturers are struggling to make one very important thing."
+    },
+    {
+      "title": "A Forgotten Fix for American Racial Strife",
+      "link": "https://www.theatlantic.com/books/2026/10/harold-cruse-biography-racism-integration/689110/",
+      "author": "",
+      "published": "2026-10-22T12:00:00+00:00",
+      "category": "全部",
+      "summary": "Harold Cruse had a prescient understanding of why social movements stumble—and how they might find more success."
+    },
+    {
+      "title": "Sending a Silly Meme Is an Act of Love",
+      "link": "https://www.theatlantic.com/family/2026/10/send-silly-memes/689077/",
+      "author": "",
+      "published": "2026-10-22T12:00:00+00:00",
+      "category": "精选",
+      "summary": "The case for a common, occasionally annoying, and secretly sweet digital habit"
+    },
+    {
+      "title": "America Is About to See What Happens When Voters Turn to AI",
+      "link": "https://www.theatlantic.com/technology/2026/10/ai-midterm-election-voters-chatbots/689103/",
+      "author": "",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "科技",
+      "summary": "Chatbots are adding a new layer of chaos ahead of the midterms."
+    },
+    {
+      "title": "The New Subterranean Front",
+      "link": "https://www.theatlantic.com/national-security/2026/10/ukraine-war-gas-pipelines-russia/689105/",
+      "author": "",
+      "published": "2026-10-22T11:00:00+00:00",
+      "category": "精选",
+      "summary": "As drones fill the skies over the war zone, the fighting in Ukraine has moved into a network of gas pipelines deep belowground."
+    },
+    {
+      "title": "Maria Bamford on OCD, Pugs, and Getting Paid",
+      "link": "https://www.theatlantic.com/podcasts/2026/10/maria-bamford-is-tough-as-nails/689076/",
+      "author": "",
+      "published": "2026-10-22T11:00:00+00:00",
+      "category": "精选",
+      "summary": "An interview with the comedian about Paralyzed by Hope , a new Netflix documentary about her"
+    },
+    {
+      "title": "What the U.S. Is Really Doing in Venezuela",
+      "link": "https://www.theatlantic.com/magazine/2026/12/trump-oil-venezuela-exploitation/689033/",
+      "author": "",
+      "published": "2026-10-22T11:00:00+00:00",
+      "category": "国际",
+      "summary": "Suppressing democracy and extracting resources at the expense of its people"
+    },
     {
       "title": "Vladimir Putin, the Humanitarian",
       "link": "https://www.theatlantic.com/newsletters/2026/10/congratulations-great-humanitarian-vladimir-putin/689111/",
@@ -48,7 +168,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/10/david-frum-show-kara-swisher-tech-oligarchs-trump-ai/689101/",
       "author": "",
       "published": "2026-10-21T17:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Kara Swisher on whether AI will ever be regulated"
     },
     {
@@ -56,7 +176,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/10/texas-attorney-general-race/689061/",
       "author": "",
       "published": "2026-10-21T16:06:17+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The most important race in Texas is for attorney general."
     },
     {
@@ -80,7 +200,7 @@
       "link": "https://www.theatlantic.com/photography/2026/10/microscopic-photography-competition-winners/689093/",
       "author": "",
       "published": "2026-10-21T14:01:34+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Some of the winning and honored images from this year’s photomicrography competition, selected from more than 1,800 entries"
     },
     {
@@ -88,7 +208,7 @@
       "link": "https://www.theatlantic.com/press-releases/2026/10/atlantics-list-50-unforgettable-love-stories/689099/",
       "author": "",
       "published": "2026-10-21T13:41:37+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Today The Atlantic launches “ 50 Unforgettable Love Stories ,” a new editorial project that highlights stories of romantic love. The list includes works published across more than four centuries—from its earliest selection, Astrophil and Stella by Philip Sidney, published in 1591, to its most recent, The Safekeep by Yael van der Wouden, published in 2024. The list below is an effort to name the love stories—novels, of course, but also poetry, plays, and short stories—that are the most enduring. To arrive at 50 titles, The Atlantic ’s Books team asked a jury of scholars, librarians, critics, and authors across genres, as well as many colleagues, to name their favorite titles that were originally written in English. As the introduction to the list says: “We thought of our own personal touchstones, deliberated over the choices, and emerged with a group of standouts: 50 titles you won’t soon forget.” The editors write that across centuries, “the love story, with all of its attendant joys and sorrows, was an organizing principle of life—and of literature … Today, fictional love is associated with the romance genre and its proliferating subcategories, and you’ll find examples of those books here, but we aimed to think more expansively about its literary manifestations. The love story belongs as much to Arundhati Roy as to Jane Austen; its pulse beats as strongly in the knotty poetry of Anne Carson as it does in the steamy historicals of Beverly Jenkins. It is by turns ecstatic, tragic, cerebral, enthralling, and enlightening. For so many of us, it’s a reason to live and to read.” “50 Unforgettable Love Stories” is part of The Atlantic ’s robust Books section , devoted to essays, criticism, reporting, original fiction, poetry, and book recommendations, as well as The Atlantic ’s weekly Books Briefing newsletter. This follows The Atlantic ’s earlier books projects “ 65 Essential Children’s Books ,” released in October 2025, “ The Best American Poetry of the 21st Century (So Far) ,” published in March 2025, and “ The Great American Novels ,” released in 2024. Press Contacts: Paul Jackson and Sammi Sontag | The Atlantic press@theatlantic.com"
     },
     {
@@ -556,12 +676,12 @@
       "summary": "Just-war theory, which has guided Vatican teaching for centuries, may be on its way out."
     },
     {
-      "title": "Imagine Every AI Agent on Earth Buying the Same Cheap Paper Towels",
+      "title": "AI Agents Are Here. Nobody’s Ready.",
       "link": "https://www.theatlantic.com/technology/2026/10/ai-agent-chaos-e-commerce/689010/",
       "author": "",
       "published": "2026-10-16T12:00:00+00:00",
       "category": "科技",
-      "summary": "AI agents are doing our shopping for us, and wreaking havoc on the internet."
+      "summary": "They were supposed to make our lives easier. Now they’re wreaking havoc on the internet."
     },
     {
       "title": "What Three Gene-Therapy Deaths Have in Common",
@@ -1890,126 +2010,6 @@
       "published": "2026-10-01T16:09:00+00:00",
       "category": "全部",
       "summary": "The president is eager to both undermine the credibility of the press and bask in its plaudits."
-    },
-    {
-      "title": "Pete Hegseth, Idea Guy",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/pete-hegseth-state-of-force-address/688852/",
-      "author": "",
-      "published": "2026-10-01T15:36:00+00:00",
-      "category": "精选",
-      "summary": "His State of the Force address was a partisan disgrace—with a few good ideas buried in it."
-    },
-    {
-      "title": "A Dissatisfying Apocalypse",
-      "link": "https://www.theatlantic.com/books/2026/10/hernan-diaz-disappointing-dystopan-novel-ply-book-review/688843/",
-      "author": "",
-      "published": "2026-10-01T13:00:00+00:00",
-      "category": "全部",
-      "summary": "Hernan Diaz’s new novel, Ply , fails to fulfill the promise of every great end-of-the-world novel."
-    },
-    {
-      "title": "Want to Reform Democracy? Start Here.",
-      "link": "https://www.theatlantic.com/ideas/2026/10/pardon-power-congres-expand/688836/",
-      "author": "",
-      "published": "2026-10-01T12:00:00+00:00",
-      "category": "全部",
-      "summary": "A more constrained executive branch could begin to take shape with a smaller pardon power—and a bigger House of Representatives."
-    },
-    {
-      "title": "Is College Getting Less Safe for Women?",
-      "link": "https://www.theatlantic.com/culture/2026/10/cornell-gang-rape-allegations/688849/",
-      "author": "",
-      "published": "2026-10-01T11:41:00+00:00",
-      "category": "精选",
-      "summary": "A lawsuit about an alleged gang rape at Cornell University and a Wired story about sexual cyberharassment reveal how campus rape culture and online misogyny are colliding."
-    },
-    {
-      "title": "Why Americans Stopped Throwing Dinner Parties",
-      "link": "https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/",
-      "author": "",
-      "published": "2026-10-01T11:00:00+00:00",
-      "category": "精选",
-      "summary": "The share of adults who say they regularly have friends over has declined dramatically since 1975."
-    },
-    {
-      "title": "The Problem With Trump’s Crime Claims",
-      "link": "https://www.theatlantic.com/politics/2026/10/trump-immigration-ice-crime-sanctuary-city/688829/",
-      "author": "",
-      "published": "2026-10-01T11:00:00+00:00",
-      "category": "全部",
-      "summary": "The president says that his immigration crackdown is behind falling crime rates. The numbers don’t back that up."
-    },
-    {
-      "title": "The Baltic States Prepare for War",
-      "link": "https://www.theatlantic.com/magazine/2026/11/baltic-defense-russia/688692/",
-      "author": "",
-      "published": "2026-10-01T11:00:00+00:00",
-      "category": "国际",
-      "summary": "Lithuania, Latvia, and Estonia are readying themselves to fend off a Russian attack—with the help of the United States, or without it."
-    },
-    {
-      "title": "Min Jin Lee’s Underdog Morality",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/min-jin-lee-american-hagwon/688835/",
-      "author": "",
-      "published": "2026-10-01T10:00:00+00:00",
-      "category": "精选",
-      "summary": "The Pachinko author on her latest novel, American Hagwon , and parents’ near-religious belief in elite education"
-    },
-    {
-      "title": "What Is Trump Doing?",
-      "link": "https://www.theatlantic.com/politics/2026/10/trump-midterms-polls-senate/688840/",
-      "author": "",
-      "published": "2026-10-01T09:00:00+00:00",
-      "category": "精选",
-      "summary": "Poll after poll shows that Trump’s presidency is not going well. And he has only himself to blame."
-    },
-    {
-      "title": "Baruch Obama",
-      "link": "https://www.theatlantic.com/politics/2026/10/barack-obama-josh-shapiro-president/688790/",
-      "author": "",
-      "published": "2026-10-01T09:00:00+00:00",
-      "category": "精选",
-      "summary": "Josh Shapiro’s one-man Black-Jewish alliance"
-    },
-    {
-      "title": "A Near Disaster on Flydubai",
-      "link": "https://www.theatlantic.com/ideas/2026/09/flydubai-plane-attack-israel/688848/",
-      "author": "",
-      "published": "2026-09-30T22:04:00+00:00",
-      "category": "精选",
-      "summary": "This unbelievable sequence of events has huge implications."
-    },
-    {
-      "title": "MAHA Gone Mild",
-      "link": "https://www.theatlantic.com/health/2026/09/maha-gone-mild/688844/",
-      "author": "",
-      "published": "2026-09-30T20:45:13+00:00",
-      "category": "精选",
-      "summary": "This week’s summit featured J. D. Vance, electrolyte powder, and very few mentions of vaccination."
-    },
-    {
-      "title": "Pete Hegseth’s Magic Marker",
-      "link": "https://www.theatlantic.com/international/2026/09/pete-hegseth-military-professors-tenure/688842/",
-      "author": "",
-      "published": "2026-09-30T19:20:28+00:00",
-      "category": "国际",
-      "summary": "The secretary of defense strikes another blow against military preparedness."
-    },
-    {
-      "title": "Eric Schmitt’s Very Bad Day at Work",
-      "link": "https://www.theatlantic.com/ideas/2026/09/maga-senate-hearing-eric-schmitt/688839/",
-      "author": "",
-      "published": "2026-09-30T19:05:06+00:00",
-      "category": "精选",
-      "summary": "For MAGA politicians, there’s no such thing as a gaffe."
-    },
-    {
-      "title": "How Trump Could Threaten the 2026 Election",
-      "link": "https://www.theatlantic.com/podcasts/2026/09/david-frum-show-eric-holder-voting-rights-act/688838/",
-      "author": "",
-      "published": "2026-09-30T18:00:00+00:00",
-      "category": "精选",
-      "summary": "Former Attorney General Eric Holder on the dismantling of the Voting Rights Act and whether the 2026 midterm elections will be free and fair"
     }
   ]
 }
