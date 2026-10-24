@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T04:46:51.993242+00:00",
+  "updated_at": "2026-10-24T04:34:11.513666+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,86 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "A Very Suspicious Indictment of Two Former FBI Officials",
+      "link": "https://www.theatlantic.com/ideas/2026/10/fbi-indictments/689138/",
+      "author": "",
+      "published": "2026-10-24T01:01:25+00:00",
+      "category": "精选",
+      "summary": "The timing of the charges and the puzzling substance of the allegations raise questions about the integrity of the prosecutorial work."
+    },
+    {
+      "title": "The GOP’s Midterms-Money Advantage Has Its Limits",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/midterm-fundraising-republican-money-advantages/689136/",
+      "author": "",
+      "published": "2026-10-23T19:45:00+00:00",
+      "category": "精选",
+      "summary": "Cash can’t necessarily solve the challenges that Republican candidates face."
+    },
+    {
+      "title": "Welcome to the Valley of Pain",
+      "link": "https://www.theatlantic.com/technology/2026/10/the-safe-internet-is-shrinking/689130/",
+      "author": "",
+      "published": "2026-10-23T18:28:51+00:00",
+      "category": "科技",
+      "summary": "An explosion of AI-powered hacks will reshape life online."
+    },
+    {
+      "title": "The DEI Language That’s Doing More Harm Than Good",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/democrats-race-dei-hiring-edward-markey/689131/",
+      "author": "",
+      "published": "2026-10-23T17:12:00+00:00",
+      "category": "精选",
+      "summary": "Those committed to the fight for equal opportunity in hiring should reconsider the movement’s rhetoric, but not the principle that everyone should get a fair shot."
+    },
+    {
+      "title": "The Armageddon Economy",
+      "link": "https://www.theatlantic.com/podcasts/2026/10/zealousness-new-tech-right/689124/",
+      "author": "",
+      "published": "2026-10-23T17:00:00+00:00",
+      "category": "精选",
+      "summary": "Tech leaders have escape plans. What about everybody else?"
+    },
+    {
+      "title": "An Anti-Marriage Marriage Movie",
+      "link": "https://www.theatlantic.com/culture/2026/10/wicker-movie-marriage-olivia-colman/689122/",
+      "author": "",
+      "published": "2026-10-23T13:59:48+00:00",
+      "category": "精选",
+      "summary": "In Wicker , a woman and her basket show just how suffocating the institution can be."
+    },
+    {
+      "title": "Photos of the Week: Foam Fight, Santa Dance, Orangutan Escape",
+      "link": "https://www.theatlantic.com/photography/2026/10/photos-of-the-week-foam-fight-santa-dance-orangutan-escape/689117/",
+      "author": "",
+      "published": "2026-10-23T13:00:00+00:00",
+      "category": "精选",
+      "summary": "A huge Hindu festival in India, hazy skies from wildfires in Indonesia, preparations for a presidential runoff election in Brazil, Halloween decorations in Los Angeles, a newborn giraffe in Germany, and much more"
+    },
+    {
+      "title": "Why Trump Can’t Sell Putin a Deal",
+      "link": "https://www.theatlantic.com/international/2026/10/trump-putin-ukraine-nato/689118/",
+      "author": "",
+      "published": "2026-10-23T11:00:00+00:00",
+      "category": "国际",
+      "summary": "Economic incentives don’t persuade the Russian leader. Here’s what could."
+    },
+    {
+      "title": "The Party That Must Not Be Named",
+      "link": "https://www.theatlantic.com/politics/2026/10/sherrod-brown-ohio-senate-midterms/689094/",
+      "author": "",
+      "published": "2026-10-23T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Sherrod Brown doesn’t want you to know he’s a Democrat."
+    },
+    {
+      "title": "The Man in the Middle of Trump’s Deeply Conflicted Ukraine Policy",
+      "link": "https://www.theatlantic.com/national-security/2026/10/ukraine-russia-trump-john-ratcliffe/689090/",
+      "author": "",
+      "published": "2026-10-23T11:00:00+00:00",
+      "category": "精选",
+      "summary": "CIA Director John Ratcliffe leads an agency that’s at war with Russia, even as Trump makes nice with Putin."
+    },
     {
       "title": "‘If Anything Happens to This Guy … Everyone Is Screwed’",
       "link": "https://www.theatlantic.com/technology/2026/10/man-who-saved-internet-php-vulnerability/689123/",
@@ -48,7 +128,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/10/america-anti-indian-bigotry/689107/",
       "author": "",
       "published": "2026-10-22T19:00:27+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The country relies on their talents, ambition, and skills to power two of its most important sectors—technology and medicine."
     },
     {
@@ -56,7 +136,7 @@
       "link": "https://www.theatlantic.com/politics/2026/10/iran-war-virginia-midterms/688948/",
       "author": "",
       "published": "2026-10-22T18:18:03+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "How voters in Virginia’s veteran-rich Second Congressional District feel about the war could determine control of Congress."
     },
     {
@@ -64,7 +144,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/10/clayface-dc-universe-james-gunn-video-village/689115/",
       "author": "",
       "published": "2026-10-22T17:37:18+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Clayface is a gory horror movie without the world building to give it substance."
     },
     {
@@ -96,7 +176,7 @@
       "link": "https://www.theatlantic.com/family/2026/10/send-silly-memes/689077/",
       "author": "",
       "published": "2026-10-22T12:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The case for a common, occasionally annoying, and secretly sweet digital habit"
     },
     {
@@ -120,7 +200,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/10/maria-bamford-is-tough-as-nails/689076/",
       "author": "",
       "published": "2026-10-22T11:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "An interview with the comedian about Paralyzed by Hope , a new Netflix documentary about her"
     },
     {
@@ -1930,86 +2010,6 @@
       "published": "2026-10-02T13:00:00+00:00",
       "category": "全部",
       "summary": "Douglas Smith’s The City Without Jews revisits the decimation of a robust community—and the city that betrayed it."
-    },
-    {
-      "title": "Ella Langley Can’t Believe Her Success. Many Listeners Can’t Either.",
-      "link": "https://www.theatlantic.com/culture/2026/10/ella-langley-choosin-texas-billboard-record/688860/",
-      "author": "",
-      "published": "2026-10-02T12:26:11+00:00",
-      "category": "全部",
-      "summary": "The criteria—and meaning—of a No. 1 hit are always changing."
-    },
-    {
-      "title": "Time to Consider Becoming a Bricklayer",
-      "link": "https://www.theatlantic.com/ideas/2026/10/young-people-job-market-choice/688845/",
-      "author": "",
-      "published": "2026-10-02T12:17:10+00:00",
-      "category": "精选",
-      "summary": "College degrees hold less value, while jobs in the trades are booming."
-    },
-    {
-      "title": "The Best Seller That’s Nearly Impossible to Finish Reading",
-      "link": "https://www.theatlantic.com/books/2026/10/mrbeast-james-patterson-book/688862/",
-      "author": "",
-      "published": "2026-10-02T12:00:00+00:00",
-      "category": "全部",
-      "summary": "James Patterson and MrBeast wrote a book in hopes of reaching young people."
-    },
-    {
-      "title": "Tom Cruise’s Return to Serious Cinema Isn’t What It Looks Like",
-      "link": "https://www.theatlantic.com/culture/2026/10/digger-movie-review-tom-cruise-spoilers/688861/",
-      "author": "",
-      "published": "2026-10-02T11:30:00+00:00",
-      "category": "精选",
-      "summary": "The actor sets action filmmaking aside for a new, bizarre kind of challenge in Digger ."
-    },
-    {
-      "title": "The GOP’s Culture-War Hail Mary",
-      "link": "https://www.theatlantic.com/politics/2026/10/gop-republicans-midterms-transgender/688837/",
-      "author": "",
-      "published": "2026-10-02T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Will it work?"
-    },
-    {
-      "title": "Here’s Who Democrats Want to Impeach Next",
-      "link": "https://www.theatlantic.com/politics/2026/10/democrats-trump-congress-investigations/688811/",
-      "author": "",
-      "published": "2026-10-02T11:00:00+00:00",
-      "category": "精选",
-      "summary": "There’s little desire to go after President Trump again—but lawmakers want to investigate his administration and family."
-    },
-    {
-      "title": "A Terrible Way to Die, a Terrifying Way to Survive",
-      "link": "https://www.theatlantic.com/ideas/2026/10/christa-pike-tennessee-lethal-injection/688859/",
-      "author": "",
-      "published": "2026-10-01T20:59:00+00:00",
-      "category": "精选",
-      "summary": "America’s experiment with lethal injection has failed."
-    },
-    {
-      "title": "The 14 Movies to Look Out for This Fall",
-      "link": "https://www.theatlantic.com/culture/2026/10/best-movies-fall-2026-preview/688857/",
-      "author": "",
-      "published": "2026-10-01T19:08:07+00:00",
-      "category": "全部",
-      "summary": "The best new films coming this season take a close look at humanity."
-    },
-    {
-      "title": "I’m Calling for a Pause in the Development of the Universal Bone Dissolver",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/ai-slowdown-bone-dissolver/688854/",
-      "author": "",
-      "published": "2026-10-01T19:05:12+00:00",
-      "category": "全部",
-      "summary": "A recent incident has raised my concerns: Last month, the Bone Dissolver unexpectedly dissolved a number of bones."
-    },
-    {
-      "title": "What Trump Misunderstands About Modern Media",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/when-the-president-tries-to-control-the-stories/688853/",
-      "author": "",
-      "published": "2026-10-01T16:09:00+00:00",
-      "category": "全部",
-      "summary": "The president is eager to both undermine the credibility of the press and bask in its plaudits."
     }
   ]
 }
