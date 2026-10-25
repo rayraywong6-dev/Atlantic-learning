@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T04:34:11.513666+00:00",
+  "updated_at": "2026-10-25T04:38:44.576085+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -12,8 +12,48 @@
   "errors": [],
   "articles": [
     {
+      "title": "Celebrity Has Become a Jobs Program",
+      "link": "https://www.theatlantic.com/books/2026/10/who-weekly-book-i-want-to-be-famous-review/689139/",
+      "author": "",
+      "published": "2026-10-24T16:00:00+00:00",
+      "category": "精选",
+      "summary": "A new book by the hosts of Who? Weekly scrutinizes how social media democratized fame."
+    },
+    {
+      "title": "The Temporary Pleasure of Conversation",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/the-secret-to-a-good-conversation/689141/",
+      "author": "",
+      "published": "2026-10-24T15:41:00+00:00",
+      "category": "精选",
+      "summary": "Talking is a fleeting act, but that transience gives it meaning."
+    },
+    {
+      "title": "What Shifting U.S. Support May Mean for Ukraine",
+      "link": "https://www.theatlantic.com/national/2026/10/what-shifting-us-support-may-mean-ukraine/689140/",
+      "author": "",
+      "published": "2026-10-24T14:06:36+00:00",
+      "category": "全部",
+      "summary": "Panelists on Washington Week With The Atlantic joined to discuss how Donald Trump’s dismissal of Russian aggression against Ukraine has prompted bipartisan backlash."
+    },
+    {
+      "title": "AI Terrorism Is Just Terrorism",
+      "link": "https://www.theatlantic.com/ideas/2026/10/ai-terrorism-technology/689137/",
+      "author": "",
+      "published": "2026-10-24T12:00:00+00:00",
+      "category": "精选",
+      "summary": "The new technology hasn’t fundamentally transformed the problem—at least not yet."
+    },
+    {
       "title": "A Very Suspicious Indictment of Two Former FBI Officials",
       "link": "https://www.theatlantic.com/ideas/2026/10/fbi-indictments/689138/",
+      "author": "",
+      "published": "2026-10-24T01:01:25+00:00",
+      "category": "精选",
+      "summary": "The timing of the charges and the puzzling substance of the allegations raise questions about the integrity of the prosecutorial work."
+    },
+    {
+      "title": "A Very Suspicious Prosecution of Two Former FBI Officials",
+      "link": "https://www.theatlantic.com/ideas/2026/10/fbi-prosecution/689138/",
       "author": "",
       "published": "2026-10-24T01:01:25+00:00",
       "category": "精选",
@@ -128,7 +168,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/10/america-anti-indian-bigotry/689107/",
       "author": "",
       "published": "2026-10-22T19:00:27+00:00",
-      "category": "全部",
+      "category": "精选",
       "summary": "The country relies on their talents, ambition, and skills to power two of its most important sectors—technology and medicine."
     },
     {
@@ -1970,46 +2010,6 @@
       "published": "2026-10-02T17:00:00+00:00",
       "category": "精选",
       "summary": "The latest hacks reveal a sprawling cybersecurity crisis."
-    },
-    {
-      "title": "A Mysterious Literary Pattern",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/books-briefing-vanishing-family-switzy-dementia/688866/",
-      "author": "",
-      "published": "2026-10-02T16:00:00+00:00",
-      "category": "精选",
-      "summary": "Robert Kolker’s The Vanishing Family joins a growing bookshelf of new works focusing on dementia."
-    },
-    {
-      "title": "Is There Anything Kash Patel Won’t Do for Trump Before the Midterms?",
-      "link": "https://www.theatlantic.com/politics/2026/10/kash-patel-fbi-trump-midterm-elections/688805/",
-      "author": "",
-      "published": "2026-10-02T14:29:05+00:00",
-      "category": "精选",
-      "summary": "“The president wants indictments. He wants people in handcuffs.”"
-    },
-    {
-      "title": "Requiem for a Condiment",
-      "link": "https://www.theatlantic.com/magazine/2026/11/durkee-famous-sauce-discontinued/688673/",
-      "author": "",
-      "published": "2026-10-02T14:00:00+00:00",
-      "category": "全部",
-      "summary": "When Durkee Famous Sauce disappeared from grocery-store shelves, I mourned a piece of my childhood."
-    },
-    {
-      "title": "Photos of the Week: Mermaid Dance, Medieval Village, Alpaca Café",
-      "link": "https://www.theatlantic.com/photography/2026/10/photos-of-the-week-mermaid-dance-medieval-village-alpaca-cafe/688858/",
-      "author": "",
-      "published": "2026-10-02T13:00:00+00:00",
-      "category": "全部",
-      "summary": "The world’s tallest wind turbine, in Germany; scenes from Moscow Fashion Week; a procession of judges in London; yodeling in an underground garage in Austria; and much more"
-    },
-    {
-      "title": "What Vienna Lost When It Lost Its Jews",
-      "link": "https://www.theatlantic.com/books/2026/10/city-without-jews-douglas-smith-book-review-vienna/688855/",
-      "author": "",
-      "published": "2026-10-02T13:00:00+00:00",
-      "category": "全部",
-      "summary": "Douglas Smith’s The City Without Jews revisits the decimation of a robust community—and the city that betrayed it."
     }
   ]
 }
