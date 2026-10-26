@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T04:38:44.576085+00:00",
+  "updated_at": "2026-10-26T04:44:22.269869+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,46 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Peeling the Orange",
+      "link": "https://www.theatlantic.com/books/2026/10/poem-howard-altmann-peeling/689127/",
+      "author": "",
+      "published": "2026-10-25T16:00:00+00:00",
+      "category": "精选",
+      "summary": "A poem"
+    },
+    {
+      "title": "Do Miracles Really Happen?",
+      "link": "https://www.theatlantic.com/podcasts/2026/10/do-miracles-really-happen/689116/",
+      "author": "",
+      "published": "2026-10-25T13:00:00+00:00",
+      "category": "精选",
+      "summary": "People throughout history have claimed to witness impossible occurrences. Historian Carlos Eire asks: What if they’re telling the truth?"
+    },
+    {
+      "title": "A Mathematician Reads the AI Future",
+      "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "author": "",
+      "published": "2026-10-25T12:00:00+00:00",
+      "category": "精选",
+      "summary": "My field is as much an expression of the human spirit as music and literature. Is it for the machines now?"
+    },
+    {
+      "title": "The Greek Island That Taught Me the Art of Living",
+      "link": "https://www.theatlantic.com/books/2026/10/platon-paros-photography-book-greece/689083/",
+      "author": "",
+      "published": "2026-10-25T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Chronicling the disappearance of the old ways in a village where I was raised"
+    },
+    {
+      "title": "Six of the Greatest Movie Soundtracks From This Century",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/six-greatest-movie-soundtracks-21st-century/689135/",
+      "author": "",
+      "published": "2026-10-25T11:00:00+00:00",
+      "category": "精选",
+      "summary": "A movie’s music choices can be just as memorable as the film itself."
+    },
     {
       "title": "Celebrity Has Become a Jobs Program",
       "link": "https://www.theatlantic.com/books/2026/10/who-weekly-book-i-want-to-be-famous-review/689139/",
@@ -144,7 +184,7 @@
       "link": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121/",
       "author": "",
       "published": "2026-10-22T21:41:50+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The president is considering another escalation in the Middle East."
     },
     {
@@ -152,7 +192,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/10/the-one-resource-the-american-west-will-never-stop-fighting-over/689120/",
       "author": "",
       "published": "2026-10-22T19:32:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Water is the one resource that the region will never stop fighting over."
     },
     {
@@ -168,7 +208,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/10/america-anti-indian-bigotry/689107/",
       "author": "",
       "published": "2026-10-22T19:00:27+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The country relies on their talents, ambition, and skills to power two of its most important sectors—technology and medicine."
     },
     {
@@ -1970,46 +2010,6 @@
       "published": "2026-10-03T12:00:00+00:00",
       "category": "精选",
       "summary": "A Republican schism over a social-media post by a Texas politician revealed that the party’s defense of a color-blind meritocracy has its limits."
-    },
-    {
-      "title": "I Quit OpenAI Because Its Culture Is Broken",
-      "link": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
-      "author": "",
-      "published": "2026-10-03T11:00:00+00:00",
-      "category": "科技",
-      "summary": "The industry’s approach to safety will guarantee more failures unless something changes."
-    },
-    {
-      "title": "The Right’s Identity Politics Take a Bizarre Turn",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/maga-sarah-huckabee-sanders-woke/688876/",
-      "author": "",
-      "published": "2026-10-02T21:14:00+00:00",
-      "category": "精选",
-      "summary": "MAGA activists are having a meltdown over a throwaway character in Sarah Huckabee Sanders’s political ad."
-    },
-    {
-      "title": "Trump Got What He Wanted From the Kennedy Center Honors",
-      "link": "https://www.theatlantic.com/culture/2026/10/kennedy-center-honors-trump/688871/",
-      "author": "",
-      "published": "2026-10-02T19:02:00+00:00",
-      "category": "精选",
-      "summary": "For better or worse, the show won’t be able to feature artists who reject him."
-    },
-    {
-      "title": "Manipulator vs. Manipulator",
-      "link": "https://www.theatlantic.com/culture/2026/10/elizabeth-holmes-documentary-explained-nathan-fielder/688869/",
-      "author": "",
-      "published": "2026-10-02T18:18:18+00:00",
-      "category": "精选",
-      "summary": "Nathan Fielder got an up-close look at Elizabeth Holmes and is still unsure whom he really met."
-    },
-    {
-      "title": "An Argument Against AI Doom",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/an-argument-against-ai-doom/688863/",
-      "author": "",
-      "published": "2026-10-02T17:00:00+00:00",
-      "category": "精选",
-      "summary": "The latest hacks reveal a sprawling cybersecurity crisis."
     }
   ]
 }
