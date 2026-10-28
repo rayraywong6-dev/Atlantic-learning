@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T05:01:29.012113+00:00",
+  "updated_at": "2026-10-28T05:40:02.217334+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,110 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "When ICE Comes for a MAGA Supporter",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/ice-maga-supporter-samuel-sey/689180/",
+      "author": "",
+      "published": "2026-10-27T23:19:00+00:00",
+      "category": "精选",
+      "summary": "What happens to the right’s immigration views when the target for deportation is one of their own?"
+    },
+    {
+      "title": "Flying Across the World to Vote",
+      "link": "https://www.theatlantic.com/international/2026/10/israeli-expat-vote/689172/",
+      "author": "",
+      "published": "2026-10-27T21:21:12+00:00",
+      "category": "国际",
+      "summary": "Israeli expats traveled thousands of miles to make their voices heard."
+    },
+    {
+      "title": "Who Said It: Marissa Mayer, or Odysseus?",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/quiz-ai-odysseus-tech-industry-nyt/689174/",
+      "author": "",
+      "published": "2026-10-27T20:07:00+00:00",
+      "category": "精选",
+      "summary": "A quiz inspired by one bewildering anecdote about AI and parenting"
+    },
+    {
+      "title": "The Limits of Trump’s Midterm Trickery",
+      "link": "https://www.theatlantic.com/ideas/2026/10/trump-midterms-election-schemes/689177/",
+      "author": "",
+      "published": "2026-10-27T20:04:00+00:00",
+      "category": "精选",
+      "summary": "A big night for the Democrats could stymie any efforts to interfere with the election."
+    },
+    {
+      "title": "The Illusion of ‘Radical Transparency’",
+      "link": "https://www.theatlantic.com/ideas/2026/10/elizabeth-holmes-nathan-fielder-trump/689173/",
+      "author": "",
+      "published": "2026-10-27T19:00:47+00:00",
+      "category": "精选",
+      "summary": "What Elizabeth Holmes has in common with Donald Trump"
+    },
+    {
+      "title": "Bernie Sanders Thinks the Democratic Party Is Moving Toward Him",
+      "link": "https://www.theatlantic.com/politics/2026/10/bernie-sanders-michigan-party/689129/",
+      "author": "",
+      "published": "2026-10-27T16:46:46+00:00",
+      "category": "精选",
+      "summary": "He’s at the peak of his influence."
+    },
+    {
+      "title": "Trump’s Cheesecake Factory Dissent",
+      "link": "https://www.theatlantic.com/ideas/2026/10/obama-cheesecake-factory-trump-elitism/689171/",
+      "author": "",
+      "published": "2026-10-27T16:43:57+00:00",
+      "category": "精选",
+      "summary": "Every Republican wants to paint Obama as an out-of-touch elitist—except one."
+    },
+    {
+      "title": "Winners of the European Wildlife Photographer of the Year 2026",
+      "link": "https://www.theatlantic.com/photography/2026/10/winners-european-wildlife-photographer-year-2026/689169/",
+      "author": "",
+      "published": "2026-10-27T16:14:24+00:00",
+      "category": "精选",
+      "summary": "The German Society for Nature Photography recently announced the top images from the European Wildlife Photographer of the Year competition, selected from more than 26,000 entries from 46 countries."
+    },
+    {
+      "title": "The Issues Christian Voters Are Neglecting",
+      "link": "https://www.theatlantic.com/ideas/2026/10/midterms-maga-trump-christianity/689170/",
+      "author": "",
+      "published": "2026-10-27T16:11:26+00:00",
+      "category": "精选",
+      "summary": "What would a Christian political agenda look like if it were measured by the lives that could be saved, sheltered, and healed?"
+    },
+    {
+      "title": "Music for the Movie-Brained",
+      "link": "https://www.theatlantic.com/culture/2026/10/sophia-stel-a24-music/689149/",
+      "author": "",
+      "published": "2026-10-27T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Sophia Stel’s new album fits an era in which technology encourages us to experience life as a movie."
+    },
+    {
+      "title": "Democrats Are Sounding More Like Republicans",
+      "link": "https://www.theatlantic.com/books/2026/10/midterm-elections-and-return-of-good-and-evil/689145/",
+      "author": "",
+      "published": "2026-10-27T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Why politicians are betting on ever more moralizing language"
+    },
+    {
+      "title": "The Costume I Can’t Persuade My Husband to Throw Away",
+      "link": "https://www.theatlantic.com/family/2026/10/wolf-dawg-halloween-costume-husband/689052/",
+      "author": "",
+      "published": "2026-10-27T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Its name is Wolf Dawg, and it hasn’t been cleaned in 18 years."
+    },
+    {
+      "title": "Is There Anything BPC-157 Can’t Cure?",
+      "link": "https://www.theatlantic.com/magazine/2026/12/predrag-sikiric-peptide-science/689032/",
+      "author": "",
+      "published": "2026-10-27T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Proponents of the peptide say it can treat gingivitis, runner’s knee, even dementia."
+    },
     {
       "title": "How the Campaign War Chests Are Being Spent",
       "link": "https://www.theatlantic.com/podcasts/2026/10/ra-midterm-scramble/689146/",
@@ -65,14 +169,14 @@
       "author": "",
       "published": "2026-10-26T14:02:00+00:00",
       "category": "精选",
-      "summary": "Tomorrow Israelis will vote, many trembling for the future of their country, no matter which candidate they prefer."
+      "summary": "Today Israelis will vote, many trembling for the future of their country, no matter which candidate they prefer."
     },
     {
       "title": "A Map for Loving America",
       "link": "https://www.theatlantic.com/culture/2026/10/stevie-wonder-songs-in-the-key-of-life-50th-anniversary/689128/",
       "author": "",
       "published": "2026-10-26T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Fifty years ago, Stevie Wonder released Songs in the Key of Life . Its message still feels urgent."
     },
     {
@@ -96,7 +200,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/10/grocery-prices-public-option/689132/",
       "author": "",
       "published": "2026-10-26T11:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Although neither farmers nor grocers make very much money, many of the middlemen who operate between them make plenty of it."
     },
     {
@@ -104,7 +208,7 @@
       "link": "https://www.theatlantic.com/politics/2026/10/opt-out-trump-accounts-savings/689112/",
       "author": "",
       "published": "2026-10-26T11:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The greatest obstacle to widespread acceptance of the Trump Accounts program may be embedded in its very name."
     },
     {
@@ -1906,110 +2010,6 @@
       "published": "2026-10-06T11:00:00+00:00",
       "category": "国际",
       "summary": "More oil is flowing through the strait, but that doesn’t mean the U.S. has won."
-    },
-    {
-      "title": "Zombie Originalism",
-      "link": "https://www.theatlantic.com/magazine/2026/11/samuel-alito-originalism-so-ordered/688699/",
-      "author": "",
-      "published": "2026-10-06T11:00:00+00:00",
-      "category": "全部",
-      "summary": "Samuel Alito’s efforts to revamp the conservative legal philosophy reveal that a new movement is ascendant."
-    },
-    {
-      "title": "The Curse of the Incumbent",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/incumbents-curse-lula-brazil-starmer-trump/688889/",
-      "author": "",
-      "published": "2026-10-05T21:28:00+00:00",
-      "category": "全部",
-      "summary": "The wave of voter anger that swept the globe in 2024 is still rolling."
-    },
-    {
-      "title": "Hegseth’s One Percent",
-      "link": "https://www.theatlantic.com/ideas/2026/10/pete-hegseth-military-superiority-bible/688887/",
-      "author": "",
-      "published": "2026-10-05T19:28:05+00:00",
-      "category": "全部",
-      "summary": "A cult of military superiority over civilians is not only unwarranted, but actively dangerous."
-    },
-    {
-      "title": "Photos: Human-Tower Season",
-      "link": "https://www.theatlantic.com/photography/2026/10/photos-human-tower-season/688885/",
-      "author": "",
-      "published": "2026-10-05T17:33:52+00:00",
-      "category": "精选",
-      "summary": "As autumn approaches in Spain, teams at festivals and competitions can be found forming spectacular human towers ( castells ) up to nine levels tall. The Catalan tradition is believed to have originated among local dance groups at the end of the 18th century."
-    },
-    {
-      "title": "The Atlantic Announces Mike Isaac as Staff Writer",
-      "link": "https://www.theatlantic.com/press-releases/2026/10/the-atlantic-announces-mike-isaac-as-staff-writer/688884/",
-      "author": "",
-      "published": "2026-10-05T12:59:32+00:00",
-      "category": "精选",
-      "summary": "Mike Isaac is joining The Atlantic as a staff writer later this year. In an announcement, editor in chief Jeffrey Goldberg and executive editor Adrienne LaFrance write: “You are undoubtedly familiar with his groundbreaking reporting on, among other companies, Meta and Uber, as well as his many other scoops and investigations. Mike is joining us at a key moment, as we work overtime to expand our presence in Silicon Valley.” Last week, The Atlantic announced the hires of Sophie Haigney and Robert F. Worth (who had been a contributing writer) as staff writers; Zachary Fryer-Biggs, Jebediah Reed, and Alex Stockton as senior editors; Lindsey Sitz as a producer for video podcasts; and Kevin Roose as a contributing writer. Today’s staff note is below: Dear everyone, We’re writing with exciting news this morning: One of the country’s best reporters, Mike Isaac, is joining The Atlantic as a staff writer. For the past 12 years, Mike has been the leading technology reporter for The New York Times . You are undoubtedly familiar with his groundbreaking reporting on, among other companies, Meta and Uber, as well as his many other scoops and investigations. Mike is joining us at a key moment, as we work overtime to expand our presence in Silicon Valley. About Mike: In addition to having broken some of the most consequential stories of our time, Mike is also a brilliant writer and fantastically creative. On a personal level, he is also hilarious. He is drawn to the biggest stories and most difficult reporting challenges, and knows Silicon Valley better than most anyone. In addition to his daily coverage of AI, the strange economics of the modern information system, and the most powerful people on the planet, Mike is also a best-selling author of Super Pumped: The Battle for Uber , which was adapted into a Showtime series of the same name. (Those who have followed Mike’s reporting as closely as we have over the years will remember when he uncovered the existence of the company’s secret Greyball program.) Mike is a journalist who matches the mission of The Atlantic —someone who brings great reporting firepower and tremendous writing talent, plus a deep love of magazines, and an uncommon level of ambition and creativity. We could not be more excited to welcome him and cannot wait for him to get started. Mike starts in December and will remain based in the Bay Area. Please join us in welcoming Mike to The Atlantic . Best wishes, Jeff and Adrienne Press Contacts: Anna Bross and Paul Jackson | press@theatlantic.com"
-    },
-    {
-      "title": "The Upgrade Holdouts",
-      "link": "https://www.theatlantic.com/technology/2026/10/meet-the-upgrade-holdouts/688874/",
-      "author": "",
-      "published": "2026-10-05T12:59:05+00:00",
-      "category": "科技",
-      "summary": "Meet the people who refuse to let their gadgets die."
-    },
-    {
-      "title": "Using the Power of the Government to Win Elections",
-      "link": "https://www.theatlantic.com/ideas/2026/10/government-neutrality-elections/688877/",
-      "author": "",
-      "published": "2026-10-05T12:03:08+00:00",
-      "category": "精选",
-      "summary": "The Trump administration is breaking a fundamental promise of political impartiality."
-    },
-    {
-      "title": "Movies Are Undeniably Back",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/video-village-weekly-movies-newsletter/688875/",
-      "author": "",
-      "published": "2026-10-05T12:00:00+00:00",
-      "category": "全部",
-      "summary": "Introducing a new newsletter that brings readers together to share in their passion for film"
-    },
-    {
-      "title": "She Wanted to Have Three Kids. Then Life Happened.",
-      "link": "https://www.theatlantic.com/family/2026/10/women-decision-family-size/688873/",
-      "author": "",
-      "published": "2026-10-05T12:00:00+00:00",
-      "category": "全部",
-      "summary": "Many women start out with a notion of their ideal number of children—but a variety of obstacles can get in the way."
-    },
-    {
-      "title": "When Anesthesia Goes Wrong",
-      "link": "https://www.theatlantic.com/magazine/2026/11/anesthesia-brain-damage-death/688691/",
-      "author": "",
-      "published": "2026-10-05T11:30:00+00:00",
-      "category": "精选",
-      "summary": "A teenage boy went into surgery for a broken arm and emerged with brain damage. His mother was determined to figure out what had happened."
-    },
-    {
-      "title": "Waiting on Marco",
-      "link": "https://www.theatlantic.com/national-security/2026/10/rubio-miami-republicans-cuba/688856/",
-      "author": "",
-      "published": "2026-10-05T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Nine months ago, regime change in Cuba appeared imminent. Then reality set in."
-    },
-    {
-      "title": "What Is Zionism?",
-      "link": "https://www.theatlantic.com/ideas/2026/10/zionism-israel-palestine-history/688834/",
-      "author": "",
-      "published": "2026-10-05T10:00:00+00:00",
-      "category": "全部",
-      "summary": "To understand what the word means today, you have to go back to the beginning of the story."
-    },
-    {
-      "title": "An SNL Sketch That Understands How the Internet Shapes Our Reality",
-      "link": "https://www.theatlantic.com/culture/2026/10/saturday-night-live-get-ready-with-me/688883/",
-      "author": "",
-      "published": "2026-10-04T16:47:48+00:00",
-      "category": "全部",
-      "summary": "Sometimes your favorite influencer is really weird, and your friends just don’t get it."
     }
   ]
 }
