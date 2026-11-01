@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T05:37:55.262063+00:00",
+  "updated_at": "2026-11-01T05:59:54.269896+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,94 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "A Pro-Russia Strongman at Mar-a-Lago",
+      "link": "https://www.theatlantic.com/politics/2026/10/serbia-dodik-russia-maga/689246/",
+      "author": "",
+      "published": "2026-10-31T18:05:10+00:00",
+      "category": "精选",
+      "summary": "Milorad Dodik, the separatist Bosnian Serb leader, has won MAGA’s favor after a lobbying bonanza."
+    },
+    {
+      "title": "The Election Lies Are Already Starting on X",
+      "link": "https://www.theatlantic.com/technology/2026/10/x-midterm-election-ai-fact-check/689245/",
+      "author": "",
+      "published": "2026-10-31T14:59:00+00:00",
+      "category": "科技",
+      "summary": "No one is ready for what Elon Musk’s platform could look like on Tuesday."
+    },
+    {
+      "title": "How the Midterms Could Test Trump",
+      "link": "https://www.theatlantic.com/national/2026/10/midterms-test-trump-washington-week/689243/",
+      "author": "",
+      "published": "2026-10-31T14:25:57+00:00",
+      "category": "全部",
+      "summary": "Panelists on Washington Week With The Atlantic joined to discuss how Tuesday’s midterm results could help determine what President Trump’s final two years in office will look like."
+    },
+    {
+      "title": "The ‘Cuteservative’ in Chief",
+      "link": "https://www.theatlantic.com/health/2026/10/alex-clark-maha-rfk-marriage/689193/",
+      "author": "",
+      "published": "2026-10-31T14:00:00+00:00",
+      "category": "精选",
+      "summary": "Alex Clark, the voice of wellness at Turning Point USA, is entering her wife era."
+    },
+    {
+      "title": "Foie Gras Is Tearing D.C. Apart",
+      "link": "https://www.theatlantic.com/health/2026/10/foie-gras-ban-washington-dc/689244/",
+      "author": "",
+      "published": "2026-10-31T13:48:10+00:00",
+      "category": "精选",
+      "summary": "A proposed ban on the delicacy is somehow the most contentious question on the ballot."
+    },
+    {
+      "title": "The Rise of the Tallboy Is a Sign of the Times",
+      "link": "https://www.theatlantic.com/culture/2026/10/tallboys-big-beer/689231/",
+      "author": "",
+      "published": "2026-10-31T13:00:00+00:00",
+      "category": "精选",
+      "summary": "America has entered its big-beer era."
+    },
+    {
+      "title": "Why Halloween Isn’t Just for Kids",
+      "link": "https://www.theatlantic.com/newsletters/2026/10/halloween-adults-embrace-silliness/689228/",
+      "author": "",
+      "published": "2026-10-31T12:00:00+00:00",
+      "category": "精选",
+      "summary": "A holiday devoted to costumes and candy offers grown-ups a chance to embrace their silly side."
+    },
+    {
+      "title": "He Was Hugely Influential. He Also Had a Foolish Streak.",
+      "link": "https://www.theatlantic.com/books/2026/10/john-berger-biography-book-review/688987/",
+      "author": "",
+      "published": "2026-10-31T12:00:00+00:00",
+      "category": "精选",
+      "summary": "A recent biography of the writer John Berger reminds us about his hefty influence—and how he could be blinkered by his convictions."
+    },
+    {
+      "title": "What the Economy Is Sacrificing to AI",
+      "link": "https://www.theatlantic.com/ideas/2026/10/ai-data-centers-crowding/689239/",
+      "author": "",
+      "published": "2026-10-31T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Every investment is a trade-off."
+    },
+    {
+      "title": "The Bursting of the Tel Aviv Bubble",
+      "link": "https://www.theatlantic.com/international/2026/10/tel-aviv-israel-democracy-liberal/689229/",
+      "author": "",
+      "published": "2026-10-31T11:00:00+00:00",
+      "category": "国际",
+      "summary": "The liberal, cosmopolitan side of Israel is facing a moment of truth."
+    },
+    {
+      "title": "Trump Has Pushed Some Texas Republicans Too Far",
+      "link": "https://www.theatlantic.com/politics/2026/10/texas-republicans-midterms-paxton/689217/",
+      "author": "",
+      "published": "2026-10-31T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Four Lone Star State conservatives wrestle with their party’s MAGA turn."
+    },
     {
       "title": "A Very Bad 24 Hours for Crypto",
       "link": "https://www.theatlantic.com/newsletters/2026/10/crypto-biggest-heist-ever-binance-polymarket/689241/",
@@ -65,7 +153,7 @@
       "author": "",
       "published": "2026-10-30T16:06:00+00:00",
       "category": "精选",
-      "summary": "Time and change have obscured certain gestures, such as cranking a machine or dialing a rotary phone, but we can still rediscover them."
+      "summary": "Time and change have obscured certain acts, such as cranking a machine or dialing a rotary phone, but we can still rediscover them."
     },
     {
       "title": "An Adaptation That’s Both ‘Excellent’ and ‘Bizarre’",
@@ -96,7 +184,7 @@
       "link": "https://www.theatlantic.com/photography/2026/10/photos-of-the-week-surfing-devil-sheltered-owl-fresh-snowfall/689203/",
       "author": "",
       "published": "2026-10-30T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Sheep herding in central Madrid, Halloween displays in California, scenes from Brazil’s general election, autumn colors in China, and much more"
     },
     {
@@ -120,7 +208,7 @@
       "link": "https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/",
       "author": "",
       "published": "2026-10-30T11:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Sorry!"
     },
     {
@@ -176,7 +264,7 @@
       "link": "https://www.theatlantic.com/culture/2026/10/halloween-romance-books/689209/",
       "author": "",
       "published": "2026-10-29T17:30:00+00:00",
-      "category": "全部",
+      "category": "精选",
       "summary": "It’s spooky season. Time to read … romance?"
     },
     {
@@ -1922,94 +2010,6 @@
       "published": "2026-10-10T12:00:00+00:00",
       "category": "精选",
       "summary": "The time someone takes to reply may say little about your relationship."
-    },
-    {
-      "title": "Megyn Kelly’s Extreme Makeover",
-      "link": "https://www.theatlantic.com/culture/2026/10/megyn-kelly-youtube-cornell-allegations/688951/",
-      "author": "",
-      "published": "2026-10-10T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Does the TV host turned YouTube polemicist really believe what she’s saying?"
-    },
-    {
-      "title": "The Best Protein Source Is Hiding in Plain Sight",
-      "link": "https://www.theatlantic.com/health/2026/10/yogurt-best-protein-source/688950/",
-      "author": "",
-      "published": "2026-10-10T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Just have some yogurt."
-    },
-    {
-      "title": "‘Elon Is a Nuke’",
-      "link": "https://www.theatlantic.com/culture/2026/10/elon-musk-documentary-alex-gibney/688942/",
-      "author": "",
-      "published": "2026-10-10T12:00:00+00:00",
-      "category": "全部",
-      "summary": "A new documentary makes the case that Elon Musk is a human of mass destruction."
-    },
-    {
-      "title": "The French Are Very Worried, and That’s Making Things Worse",
-      "link": "https://www.theatlantic.com/international/2026/10/french-decline-politics-extremism/688953/",
-      "author": "",
-      "published": "2026-10-10T11:00:00+00:00",
-      "category": "国际",
-      "summary": "The belief that the country is on a downward slope fuels the appeal of radicalism."
-    },
-    {
-      "title": "This Is the Hurricane Season El Niño Foretold",
-      "link": "https://www.theatlantic.com/science/2026/10/hurricane-season-isaias-simon/688961/",
-      "author": "",
-      "published": "2026-10-09T22:40:18+00:00",
-      "category": "全部",
-      "summary": "Hurricane Isaias formed so late in the season that it set an Atlantic Ocean record. The Pacific is on a very different track."
-    },
-    {
-      "title": "Public Execution Won’t Have the Effect Trump Intends",
-      "link": "https://www.theatlantic.com/ideas/2026/10/public-execution-livestream-nidal-hasan/688955/",
-      "author": "",
-      "published": "2026-10-09T20:46:21+00:00",
-      "category": "全部",
-      "summary": "Livestreaming Nidal Hasan’s death would only credit the Fort Hood shooter’s argument that this country is barbarous."
-    },
-    {
-      "title": "The Real Harm of a Public Execution",
-      "link": "https://www.theatlantic.com/ideas/2026/10/public-killing-death-humanity/688954/",
-      "author": "",
-      "published": "2026-10-09T20:28:00+00:00",
-      "category": "全部",
-      "summary": "It is hard to appreciate how awful this viewing experience will be, until you have it."
-    },
-    {
-      "title": "Whatever Happened to Friday Night?",
-      "link": "https://www.theatlantic.com/family/2026/10/friday-nights-antisocial/688913/",
-      "author": "",
-      "published": "2026-10-09T19:00:00+00:00",
-      "category": "精选",
-      "summary": "Fewer and fewer Americans are kicking off their weekends by socializing."
-    },
-    {
-      "title": "Anne Carson’s View of the Past",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/the-books-briefing-anne-carsons-point-of-view/688952/",
-      "author": "",
-      "published": "2026-10-09T17:50:00+00:00",
-      "category": "全部",
-      "summary": "The new Nobel laureate invokes ancient history while understanding its inaccessibility."
-    },
-    {
-      "title": "Why Is Kash Patel Planning to Visit Russia?",
-      "link": "https://www.theatlantic.com/national-security/2026/10/kash-patel-fbi-russia-trip/688906/",
-      "author": "",
-      "published": "2026-10-09T17:22:59+00:00",
-      "category": "全部",
-      "summary": "Democrats in Congress are asking the FBI director to cancel the reported trip."
-    },
-    {
-      "title": "Is Crypto Dead? Or More Influential Than Ever?",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/crypto-influence-politics-ben-mckenzie/688946/",
-      "author": "",
-      "published": "2026-10-09T17:00:00+00:00",
-      "category": "全部",
-      "summary": "Ben McKenzie is a celebrity who investigated crypto during the pandemic, rather than shilling for it. He describes the currency’s strange journey."
     }
   ]
 }
