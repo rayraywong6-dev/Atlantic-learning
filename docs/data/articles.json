@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T05:59:54.269896+00:00",
+  "updated_at": "2026-11-02T05:59:09.443430+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,86 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Haley Stevens Is Sending the Wrong Message",
+      "link": "https://www.theatlantic.com/ideas/2026/11/haley-stevens-sending-wrong-message/689250/",
+      "author": "",
+      "published": "2026-11-01T21:18:01+00:00",
+      "category": "精选",
+      "summary": "In trying to stand up for one minority religious group, she is conveying her comfort with bigotry toward another."
+    },
+    {
+      "title": "Trump Searches for a Fall Guy to Blame for Iran",
+      "link": "https://www.theatlantic.com/national-security/2026/11/trump-advisers-iran-war/689247/",
+      "author": "",
+      "published": "2026-11-01T19:16:17+00:00",
+      "category": "精选",
+      "summary": "The president might resume strikes, but he is also questioning allies about the performances of Pete Hegseth and Dan Caine."
+    },
+    {
+      "title": "An SNL Sketch to Make Airlines Feel Ashamed",
+      "link": "https://www.theatlantic.com/culture/2026/11/snl-delta-disruptive-inde-navarette/689249/",
+      "author": "",
+      "published": "2026-11-01T18:39:16+00:00",
+      "category": "精选",
+      "summary": "There’s a lot to worry about while flying. Add terrible passengers to the list."
+    },
+    {
+      "title": "Inside the Plan to Send 1,000 DOJ Monitors to the Polls",
+      "link": "https://www.theatlantic.com/politics/2026/11/doj-election-monitors-midterms/689225/",
+      "author": "",
+      "published": "2026-11-01T17:15:00+00:00",
+      "category": "精选",
+      "summary": "The Justice Department has assured local officials that monitoring will follow past norms, but election clerks say they have reason to worry."
+    },
+    {
+      "title": "The MAGA Reckoning Arrives",
+      "link": "https://www.theatlantic.com/ideas/2026/11/maga-reckoning-arrives/689248/",
+      "author": "",
+      "published": "2026-11-01T16:00:18+00:00",
+      "category": "精选",
+      "summary": "Trump has lost most of the country. Now his hold on his own base is weakening."
+    },
+    {
+      "title": "I Thought I’d Left Authoritarianism Behind",
+      "link": "https://www.theatlantic.com/ideas/2026/11/escaping-communist-czechoslovakia-america/689232/",
+      "author": "",
+      "published": "2026-11-01T15:00:00+00:00",
+      "category": "精选",
+      "summary": "Four decades ago, I escaped Communist Czechoslovakia for America. Now my adopted homeland reminds me of the one that I fled."
+    },
+    {
+      "title": "Is Radicalism the Answer?",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/is-radicalism-the-answer/689201/",
+      "author": "",
+      "published": "2026-11-01T14:00:00+00:00",
+      "category": "精选",
+      "summary": "The legal scholar Samuel Moyn argues that moderates have given up on the emancipatory promise of liberalism."
+    },
+    {
+      "title": "I Was Lucky to Be Alive. But I Missed Being Pretty.",
+      "link": "https://www.theatlantic.com/ideas/2026/11/stroke-25-recovery-mortality/689126/",
+      "author": "",
+      "published": "2026-11-01T13:00:00+00:00",
+      "category": "精选",
+      "summary": "A pump-up girl faces her own mortality."
+    },
+    {
+      "title": "The U.S. Is Bullying Europe Like Never Before",
+      "link": "https://www.theatlantic.com/ideas/2026/11/trump-europe-guilfoyle-afd-meddling/689226/",
+      "author": "",
+      "published": "2026-11-01T12:15:00+00:00",
+      "category": "精选",
+      "summary": "The Trump administration tries to micromanage the domestic politics of American allies."
+    },
+    {
+      "title": "The Questions Adam Hamawy Won’t Answer",
+      "link": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/",
+      "author": "",
+      "published": "2026-11-01T12:00:00+00:00",
+      "category": "精选",
+      "summary": "He’s likely to end up in Congress. He still hasn’t fully accounted for why he once kept company with the man known as the Blind Sheikh."
+    },
     {
       "title": "A Pro-Russia Strongman at Mar-a-Lago",
       "link": "https://www.theatlantic.com/politics/2026/10/serbia-dodik-russia-maga/689246/",
@@ -96,7 +176,7 @@
       "link": "https://www.theatlantic.com/politics/2026/10/texas-republicans-midterms-paxton/689217/",
       "author": "",
       "published": "2026-10-31T11:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Four Lone Star State conservatives wrestle with their party’s MAGA turn."
     },
     {
@@ -104,7 +184,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/10/crypto-biggest-heist-ever-binance-polymarket/689241/",
       "author": "",
       "published": "2026-10-30T22:33:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The aftershocks of two hacks on Binance and Polymarket have rippled across digital finance."
     },
     {
@@ -120,7 +200,7 @@
       "link": "https://www.theatlantic.com/culture/2026/10/child-actors-josephine-fjord-gentle-monster/689224/",
       "author": "",
       "published": "2026-10-30T18:00:12+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Directors are taking new pains to protect young actors, but many of the perils of early stardom are out of their control."
     },
     {
@@ -128,7 +208,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/10/is-it-time-to-rebuild-the-internet/689218/",
       "author": "",
       "published": "2026-10-30T17:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Bank hacks, power grids, and AI’s Black October"
     },
     {
@@ -1930,86 +2010,6 @@
       "published": "2026-10-11T17:42:00+00:00",
       "category": "精选",
       "summary": "After stumbling in his monologue, Shane Gillis anchored a perceptive sketch about the pull of the man cave."
-    },
-    {
-      "title": "I Thought I Was Good at Something",
-      "link": "https://www.theatlantic.com/books/2026/10/poem-robert-wood-lynn-i-thought/688936/",
-      "author": "",
-      "published": "2026-10-11T16:00:00+00:00",
-      "category": "全部",
-      "summary": "A poem"
-    },
-    {
-      "title": "Yet Another Literary Prizewinner Seems to Be AI",
-      "link": "https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/",
-      "author": "",
-      "published": "2026-10-11T14:00:00+00:00",
-      "category": "精选",
-      "summary": "The prestigious Caine Prize, announced last week, went to a story with many red flags."
-    },
-    {
-      "title": "Do Human Beings Have Souls?",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/do-human-beings-have-souls/688931/",
-      "author": "",
-      "published": "2026-10-11T13:00:00+00:00",
-      "category": "全部",
-      "summary": "The philosopher Shelly Kagan has gained millions of fans online while arguing that we can embrace physicalism without giving up meaning, morality, or human exceptionalism."
-    },
-    {
-      "title": "A Left-Wing Politics Based on Calling People Names",
-      "link": "https://www.theatlantic.com/ideas/2026/10/influencer-who-wants-democrats-fight-dirty/688965/",
-      "author": "",
-      "published": "2026-10-11T12:00:00+00:00",
-      "category": "全部",
-      "summary": "For Jennifer Welch, moving left and reviling Republicans are the keys to victory."
-    },
-    {
-      "title": "All the Things You’re Not Allowed to Say In Texas",
-      "link": "https://www.theatlantic.com/ideas/2026/10/texas-university-censorship-free-speech/688827/",
-      "author": "",
-      "published": "2026-10-11T11:50:56+00:00",
-      "category": "精选",
-      "summary": "The state now controls what professors can teach."
-    },
-    {
-      "title": "Six of the Best First Lines in Modern Literature",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/six-of-the-best-first-lines-in-modern-literature/688958/",
-      "author": "",
-      "published": "2026-10-11T11:00:00+00:00",
-      "category": "全部",
-      "summary": "It is a truth universally acknowledged that every great book must be in want of a great first line."
-    },
-    {
-      "title": "Trump Is an Easy Mark for Putin",
-      "link": "https://www.theatlantic.com/ideas/2026/10/trumps-diesel-deal-sells-out-ukraine/688964/",
-      "author": "",
-      "published": "2026-10-10T18:14:00+00:00",
-      "category": "全部",
-      "summary": "The president’s diesel deal sells out Ukraine, and does nothing for Americans."
-    },
-    {
-      "title": "A Referendum on the President’s Policies",
-      "link": "https://www.theatlantic.com/national/2026/10/trump-red-states-washington-week/688963/",
-      "author": "",
-      "published": "2026-10-10T15:38:25+00:00",
-      "category": "全部",
-      "summary": "Panelists joined to discuss what the crucial races in battleground states and districts could mean for both parties in the midterm elections."
-    },
-    {
-      "title": "Those Books of Smut and Wonder",
-      "link": "https://www.theatlantic.com/magazine/2026/11/sarah-j-maas-romantasy/688680/",
-      "author": "",
-      "published": "2026-10-10T13:00:00+00:00",
-      "category": "全部",
-      "summary": "How Sarah J. Maas became the queen of romantasy"
-    },
-    {
-      "title": "Even Good Friends Can Be Bad Texters",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/good-friends-bad-texters/688957/",
-      "author": "",
-      "published": "2026-10-10T12:00:00+00:00",
-      "category": "精选",
-      "summary": "The time someone takes to reply may say little about your relationship."
     }
   ]
 }
