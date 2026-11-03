@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T05:59:09.443430+00:00",
+  "updated_at": "2026-11-03T06:44:42.926686+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,118 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Maybe Donald Trump Doesn’t Want His Party to Win the Midterms",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/trump-midterms-speech-reflecting-pool/689259/",
+      "author": "",
+      "published": "2026-11-02T23:55:00+00:00",
+      "category": "精选",
+      "summary": "If he does, he’s certainly picking a strange way of showing it."
+    },
+    {
+      "title": "Trump’s Venezuela Project Just Got a Lot More Complicated",
+      "link": "https://www.theatlantic.com/national-security/2026/11/machado-rodriguez-venezuela-trump/689251/",
+      "author": "",
+      "published": "2026-11-02T23:43:00+00:00",
+      "category": "精选",
+      "summary": "The return of María Corina Machado puts the U.S.-backed regime on the clock."
+    },
+    {
+      "title": "Who Thought This Ad Was a Good Idea?",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/who-thought-this-ad-was-a-good-idea/689258/",
+      "author": "",
+      "published": "2026-11-02T23:07:00+00:00",
+      "category": "精选",
+      "summary": "Senator Roger Marshall of Kansas is using his final campaign message to call attention to the biggest criticism of him."
+    },
+    {
+      "title": "The Anger Election’s Final Twist",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/ra-voter-issues/689254/",
+      "author": "",
+      "published": "2026-11-02T22:23:10+00:00",
+      "category": "精选",
+      "summary": "The Anti-Corruption Message Is Actually Landing"
+    },
+    {
+      "title": "Fall Is in the Air, Part II",
+      "link": "https://www.theatlantic.com/photography/2026/11/fall-photos-2026/689253/",
+      "author": "",
+      "published": "2026-11-02T18:11:37+00:00",
+      "category": "精选",
+      "summary": "More images of the season, as autumn colors reach their peak and people are out working in fields, going for walks, and taking photographs, while animals migrate or prepare for the winter to come"
+    },
+    {
+      "title": "The States Where Democrats Have the Most to Gain",
+      "link": "https://www.theatlantic.com/politics/2026/11/democrats-midterms-state-power/689236/",
+      "author": "",
+      "published": "2026-11-02T16:55:21+00:00",
+      "category": "精选",
+      "summary": "The party is trying to take maximum advantage of the moment."
+    },
+    {
+      "title": "The Time is Right for a ‘Great Books’ Revival",
+      "link": "https://www.theatlantic.com/books/2026/11/age-ai-is-the-time-for-a-great-books-revival/689242/",
+      "author": "",
+      "published": "2026-11-02T14:00:00+00:00",
+      "category": "精选",
+      "summary": "To build a better world in the age of AI, students need grounding in indispensable ideas."
+    },
+    {
+      "title": "The Protect College Sports Act Isn’t Enough",
+      "link": "https://www.theatlantic.com/culture/2026/11/protect-college-sports-act/689235/",
+      "author": "",
+      "published": "2026-11-02T13:00:00+00:00",
+      "category": "精选",
+      "summary": "A much-hyped piece of legislation is more bark than bite."
+    },
+    {
+      "title": "DOJ’s Try-Anything Approach",
+      "link": "https://www.theatlantic.com/ideas/2026/11/doj-elections/689238/",
+      "author": "",
+      "published": "2026-11-02T12:32:56+00:00",
+      "category": "精选",
+      "summary": "A wide range of last-minute schemes could seed the idea among Trump’s supporters that the election results can’t be trusted."
+    },
+    {
+      "title": "America Can’t Afford an AI Recession",
+      "link": "https://www.theatlantic.com/technology/2026/11/ai-data-center-spending-economy/689237/",
+      "author": "",
+      "published": "2026-11-02T12:30:00+00:00",
+      "category": "科技",
+      "summary": "AI investments are driving the economy. That’s a dangerous tightrope."
+    },
+    {
+      "title": "Can You See What Holds This Painting Together?",
+      "link": "https://www.theatlantic.com/culture/2026/11/roy-lichtenstein-like-new-whitney-exhibition-review/689215/",
+      "author": "",
+      "published": "2026-11-02T12:30:00+00:00",
+      "category": "精选",
+      "summary": "With his sly, vacant images, Roy Lichtenstein explored the distance that technology created between us and reality."
+    },
+    {
+      "title": "The Racism Scam",
+      "link": "https://www.theatlantic.com/ideas/2026/11/right-strategy-rhetoric-racism/689233/",
+      "author": "",
+      "published": "2026-11-02T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Republicans are resorting to a troubling closing argument."
+    },
+    {
+      "title": "The Push to Lead the Working Class Without Workers",
+      "link": "https://www.theatlantic.com/politics/2026/11/morris-katz-democrats-midterms/689227/",
+      "author": "",
+      "published": "2026-11-02T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Morris Katz played a key role in the Graham Platner fiasco. Now the midterms could hinge on his theory of politics."
+    },
+    {
+      "title": "The Backlash to Corruption Is Going Global",
+      "link": "https://www.theatlantic.com/politics/2026/11/global-corruption-trump-hungary-serbia/689216/",
+      "author": "",
+      "published": "2026-11-02T12:00:00+00:00",
+      "category": "精选",
+      "summary": "The U.S. may become just the latest country where voters choose to punish profligate behavior."
+    },
     {
       "title": "Haley Stevens Is Sending the Wrong Message",
       "link": "https://www.theatlantic.com/ideas/2026/11/haley-stevens-sending-wrong-message/689250/",
@@ -88,7 +200,7 @@
       "link": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/",
       "author": "",
       "published": "2026-11-01T12:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "He’s likely to end up in Congress. He still hasn’t fully accounted for why he once kept company with the man known as the Blind Sheikh."
     },
     {
@@ -96,7 +208,7 @@
       "link": "https://www.theatlantic.com/politics/2026/10/serbia-dodik-russia-maga/689246/",
       "author": "",
       "published": "2026-10-31T18:05:10+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Milorad Dodik, the separatist Bosnian Serb leader, has won MAGA’s favor after a lobbying bonanza."
     },
     {
@@ -1898,118 +2010,6 @@
       "published": "2026-10-13T11:00:00+00:00",
       "category": "精选",
       "summary": "Janet Malcolm policed the literary ruses of others, but wasn’t afraid to deploy them herself."
-    },
-    {
-      "title": "The Man Who Wanted to Understand Every Aspect of Jewish Life",
-      "link": "https://www.theatlantic.com/magazine/2026/11/an-sky-jewish-ethnography-ukraine/688697/",
-      "author": "",
-      "published": "2026-10-13T11:00:00+00:00",
-      "category": "精选",
-      "summary": "In the Pale of Settlement, the writer S. An-Sky made an ecstatic, obsessive attempt to wrap his arms around an entire people just as it was disappearing."
-    },
-    {
-      "title": "Choose Your Overlord",
-      "link": "https://www.theatlantic.com/magazine/2026/11/bezos-musk-billionaire-space-race/688690/",
-      "author": "",
-      "published": "2026-10-13T10:00:00+00:00",
-      "category": "精选",
-      "summary": "Musk vs. Bezos"
-    },
-    {
-      "title": "Trump’s October Surprise",
-      "link": "https://www.theatlantic.com/politics/2026/10/trump-ukraine-russia-oil/688975/",
-      "author": "",
-      "published": "2026-10-12T21:08:00+00:00",
-      "category": "全部",
-      "summary": "Just ahead of the midterm elections, the president again helps Russia."
-    },
-    {
-      "title": "Trump’s Message to Ukraine Is Now Crystal Clear",
-      "link": "https://www.theatlantic.com/ideas/2026/10/trump-ukraine-putin-fuel/688974/",
-      "author": "",
-      "published": "2026-10-12T16:36:37+00:00",
-      "category": "全部",
-      "summary": "The president’s actions over the past 72 hours look like an effort to force Kyiv to surrender."
-    },
-    {
-      "title": "Make Big Brother Bad for Big Business",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/flock-surveiilance-cameras-regulation/688971/",
-      "author": "",
-      "published": "2026-10-12T14:30:00+00:00",
-      "category": "全部",
-      "summary": "Localities should ban Flock and its competitors until regulation better protects us from mass surveillance."
-    },
-    {
-      "title": "The Tragedy of AI Coding",
-      "link": "https://www.theatlantic.com/ideas/2026/10/ai-programming-big-tech-regulations/688960/",
-      "author": "",
-      "published": "2026-10-12T13:11:23+00:00",
-      "category": "精选",
-      "summary": "AI-assisted software development could have liberated programmers. Instead, it has become the latest way for Big Tech to confine us."
-    },
-    {
-      "title": "The People Who Outsource Emotional Labor to AI",
-      "link": "https://www.theatlantic.com/family/2026/10/ai-family-text/688962/",
-      "author": "",
-      "published": "2026-10-12T12:00:00+00:00",
-      "category": "全部",
-      "summary": "Texting with difficult family members can be infuriating. For some individuals, Claude can help."
-    },
-    {
-      "title": "Immigration Is a Poorly Oiled Machine",
-      "link": "https://www.theatlantic.com/books/2026/10/wobbly-immigration-argument-racist-by-design-kelly-lytle-hernandez-book-review/688968/",
-      "author": "",
-      "published": "2026-10-12T11:30:00+00:00",
-      "category": "全部",
-      "summary": "Kelly Lytle Hernández’s new book, Racist by Design , makes a strong but incomplete—and counterproductive—argument."
-    },
-    {
-      "title": "Some Revised Scenes From The Social Network",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/revised-scenes-social-network-meta/688966/",
-      "author": "",
-      "published": "2026-10-12T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Making a whole new movie is not the best way to tell the continuing story of Mark Zuckerberg and Meta."
-    },
-    {
-      "title": "What Hasan Piker Believes",
-      "link": "https://www.theatlantic.com/ideas/2026/10/hasan-piker-podcast-democrat/688956/",
-      "author": "",
-      "published": "2026-10-12T11:00:00+00:00",
-      "category": "精选",
-      "summary": "He’s right to complain that a few provocative quotes do not capture his worldview."
-    },
-    {
-      "title": "Americans Aren’t Spending Their Retirement Savings",
-      "link": "https://www.theatlantic.com/economy/2026/10/retirement-spending-decrease-economy/688923/",
-      "author": "",
-      "published": "2026-10-12T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Bucket lists everywhere are suffering."
-    },
-    {
-      "title": "The Only Thing the Houthis Have Done Successfully",
-      "link": "https://www.theatlantic.com/ideas/2026/10/only-thing-houthis-have-done-successfully/688972/",
-      "author": "",
-      "published": "2026-10-11T23:40:00+00:00",
-      "category": "全部",
-      "summary": "What they do well is fight. Escalation against Saudi Arabia is assured."
-    },
-    {
-      "title": "Admiral McRaven: Public Execution Is Shameless and Ignoble",
-      "link": "https://www.theatlantic.com/ideas/2026/10/public-execution-nidal-hasan/688970/",
-      "author": "",
-      "published": "2026-10-11T18:07:00+00:00",
-      "category": "全部",
-      "summary": "A government livestream of Nidal Hasan’s killing would put America in extremely poor company."
-    },
-    {
-      "title": "A Spot-On SNL Parody About Men Who Can’t Deal With Time’s Passage",
-      "link": "https://www.theatlantic.com/culture/2026/10/snl-gillis-man-cave/688969/",
-      "author": "",
-      "published": "2026-10-11T17:42:00+00:00",
-      "category": "精选",
-      "summary": "After stumbling in his monologue, Shane Gillis anchored a perceptive sketch about the pull of the man cave."
     }
   ]
 }
