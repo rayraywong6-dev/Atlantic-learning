@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T06:44:42.926686+00:00",
+  "updated_at": "2026-11-04T06:17:26.084733+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,142 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "The Blue Wave Is Real",
+      "link": "https://www.theatlantic.com/politics/2026/11/blue-wave-midterms-democrats/689271/",
+      "author": "",
+      "published": "2026-11-04T05:48:12+00:00",
+      "category": "精选",
+      "summary": "America’s response to Trump was an unmistakably emphatic one."
+    },
+    {
+      "title": "The Unlikeliest Democratic Win of All",
+      "link": "https://www.theatlantic.com/politics/2026/11/andrews-graham-south-carolina-democrat/689275/",
+      "author": "",
+      "published": "2026-11-04T05:41:57+00:00",
+      "category": "精选",
+      "summary": "Few thought South Carolina was really in play until it had already flipped."
+    },
+    {
+      "title": "How the Democrats Beat Trump",
+      "link": "https://www.theatlantic.com/politics/2026/11/trump-jeffries-democrats-midterms/689266/",
+      "author": "",
+      "published": "2026-11-04T05:09:31+00:00",
+      "category": "精选",
+      "summary": "Hakeem Jeffries pushed Democrats to focus on affordability. Donald Trump made it all about himself."
+    },
+    {
+      "title": "How Texas Turned Blue",
+      "link": "https://www.theatlantic.com/politics/2026/11/talarico-hinojosa-texas-musk/689268/",
+      "author": "",
+      "published": "2026-11-04T04:38:00+00:00",
+      "category": "精选",
+      "summary": "An impossible Democratic dream has finally come true."
+    },
+    {
+      "title": "Why Republicans Lost So Big",
+      "link": "https://www.theatlantic.com/ideas/2026/11/midterms-democrats-trump-blue-wave/689274/",
+      "author": "",
+      "published": "2026-11-04T04:26:55+00:00",
+      "category": "精选",
+      "summary": "Trump’s opponents have spent a decade pining for an outcome like this."
+    },
+    {
+      "title": "Repudiation",
+      "link": "https://www.theatlantic.com/politics/2026/11/trump-midterms-lame-duck/689265/",
+      "author": "",
+      "published": "2026-11-04T03:25:00+00:00",
+      "category": "精选",
+      "summary": "The president told voters to act like his name was on the ballot—and they did."
+    },
+    {
+      "title": "Donald Trump Is Bad at Politics",
+      "link": "https://www.theatlantic.com/ideas/2026/11/trump-midterm-losses-winners-losers/689262/",
+      "author": "",
+      "published": "2026-11-04T03:15:21+00:00",
+      "category": "精选",
+      "summary": "The aura of mastery and domination that surrounds the president should now be permanently dispelled."
+    },
+    {
+      "title": "What Is It About Jon Ossoff?",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/jon-ossoff-georgia-victory-democratic-party/689273/",
+      "author": "",
+      "published": "2026-11-04T02:28:00+00:00",
+      "category": "精选",
+      "summary": "The candidate’s charisma is undeniable—but 2028 is still a long way off."
+    },
+    {
+      "title": "Trump Repeats a Centuries-Old Mistake",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/andrew-johnson-midterms/689269/",
+      "author": "",
+      "published": "2026-11-03T21:53:00+00:00",
+      "category": "精选",
+      "summary": "This isn’t the first time a president has made the midterm elections all about himself."
+    },
+    {
+      "title": "Six Books You Should Read Twice",
+      "link": "https://www.theatlantic.com/books/2026/11/books-read-twice-twists/689263/",
+      "author": "",
+      "published": "2026-11-03T21:15:00+00:00",
+      "category": "精选",
+      "summary": "These titles’ twists and turns demand you take a second look."
+    },
+    {
+      "title": "Three Tips for Watching the Results Roll In",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/how-track-midterms-results/689261/",
+      "author": "",
+      "published": "2026-11-03T17:01:00+00:00",
+      "category": "精选",
+      "summary": "The best bet is to just wait a few days. But if you must follow more closely, here are some suggestions."
+    },
+    {
+      "title": "Things Are Going to Get Ugly",
+      "link": "https://www.theatlantic.com/ideas/2026/11/trump-election-results-cope/689260/",
+      "author": "",
+      "published": "2026-11-03T16:39:00+00:00",
+      "category": "精选",
+      "summary": "Donald Trump is about to redefine the lame-duck presidency."
+    },
+    {
+      "title": "The Democrat Who’s Winning Over Voters in Trump Country",
+      "link": "https://www.theatlantic.com/politics/2026/11/josh-shapiro-pennsylvania-midterms/689252/",
+      "author": "",
+      "published": "2026-11-03T14:28:19+00:00",
+      "category": "精选",
+      "summary": "Josh Shapiro is looking past his own reelection."
+    },
+    {
+      "title": "Latinos Are Still Swing Voters",
+      "link": "https://www.theatlantic.com/ideas/2026/11/latinos-swing-voters-midterms/689256/",
+      "author": "",
+      "published": "2026-11-03T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Two years after Trump’s second victory, many political observers wrongly see us as one-dimensional actors."
+    },
+    {
+      "title": "Israel’s Common Ground",
+      "link": "https://www.theatlantic.com/ideas/2026/11/israeli-election-politics-culture/689257/",
+      "author": "",
+      "published": "2026-11-03T11:00:00+00:00",
+      "category": "全部",
+      "summary": "Israel is becoming dangerously indifferent to world opinion, but still finds strength in its social bonds."
+    },
+    {
+      "title": "The Voters Sitting This One Out",
+      "link": "https://www.theatlantic.com/politics/2026/11/midterm-voters-sitting-out/689255/",
+      "author": "",
+      "published": "2026-11-03T11:00:00+00:00",
+      "category": "精选",
+      "summary": "They could help determine the balance of Congress."
+    },
+    {
+      "title": "The Election Deniers Are in Retreat",
+      "link": "https://www.theatlantic.com/politics/2026/11/election-deniers-midterms-trump/689240/",
+      "author": "",
+      "published": "2026-11-03T10:00:00+00:00",
+      "category": "精选",
+      "summary": "The president is not getting the political cover he once enjoyed from Republicans."
+    },
     {
       "title": "Maybe Donald Trump Doesn’t Want His Party to Win the Midterms",
       "link": "https://www.theatlantic.com/newsletters/2026/11/trump-midterms-speech-reflecting-pool/689259/",
@@ -40,15 +176,15 @@
       "link": "https://www.theatlantic.com/podcasts/2026/11/ra-voter-issues/689254/",
       "author": "",
       "published": "2026-11-02T22:23:10+00:00",
-      "category": "精选",
-      "summary": "The Anti-Corruption Message Is Actually Landing"
+      "category": "全部",
+      "summary": "The anti-corruption message is actually landing."
     },
     {
       "title": "Fall Is in the Air, Part II",
       "link": "https://www.theatlantic.com/photography/2026/11/fall-photos-2026/689253/",
       "author": "",
       "published": "2026-11-02T18:11:37+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "More images of the season, as autumn colors reach their peak and people are out working in fields, going for walks, and taking photographs, while animals migrate or prepare for the winter to come"
     },
     {
@@ -56,11 +192,11 @@
       "link": "https://www.theatlantic.com/politics/2026/11/democrats-midterms-state-power/689236/",
       "author": "",
       "published": "2026-11-02T16:55:21+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The party is trying to take maximum advantage of the moment."
     },
     {
-      "title": "The Time is Right for a ‘Great Books’ Revival",
+      "title": "The Time Is Right for a ‘Great Books’ Revival",
       "link": "https://www.theatlantic.com/books/2026/11/age-ai-is-the-time-for-a-great-books-revival/689242/",
       "author": "",
       "published": "2026-11-02T14:00:00+00:00",
@@ -72,7 +208,7 @@
       "link": "https://www.theatlantic.com/culture/2026/11/protect-college-sports-act/689235/",
       "author": "",
       "published": "2026-11-02T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A much-hyped piece of legislation is more bark than bite."
     },
     {
@@ -1874,142 +2010,6 @@
       "published": "2026-10-14T17:10:36+00:00",
       "category": "精选",
       "summary": "The alternative to working from home is often logging on in a sea of mostly empty cubicles."
-    },
-    {
-      "title": "Nine-Inch Snails",
-      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-      "author": "",
-      "published": "2026-10-14T16:53:19+00:00",
-      "category": "精选",
-      "summary": "They block roads, eat houses, and spread literal brain worms. Only Florida knows how to deal with them."
-    },
-    {
-      "title": "Saudi Arabia Is Running Out of Options",
-      "link": "https://www.theatlantic.com/international/2026/10/houthi-strikes-saudi-arabia/688990/",
-      "author": "",
-      "published": "2026-10-14T15:43:35+00:00",
-      "category": "国际",
-      "summary": "Houthi violence is undermining the kingdom’s best-laid plans."
-    },
-    {
-      "title": "Going Hungry in Trump’s Economy",
-      "link": "https://www.theatlantic.com/politics/2026/10/arizona-voters-trump-economy-midterms/688980/",
-      "author": "",
-      "published": "2026-10-14T15:31:56+00:00",
-      "category": "精选",
-      "summary": "The president said the “American dream is back.” Rural Arizonans don’t think so."
-    },
-    {
-      "title": "Welcome to Over/Under",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/welcome-over-under-gambling-prediction-markets/688991/",
-      "author": "",
-      "published": "2026-10-14T15:16:00+00:00",
-      "category": "全部",
-      "summary": "A new newsletter on the latest in prediction markets, gambling, and the evolution of everyday risk"
-    },
-    {
-      "title": "The Most Cursed Team in American Sports",
-      "link": "https://www.theatlantic.com/magazine/2026/12/josh-allen-buffalo-bills-curse/688982/",
-      "author": "",
-      "published": "2026-10-14T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Why Buffalo Bills fans are convinced this is finally their year"
-    },
-    {
-      "title": "Hi, I’m Your New Press Secretary, and It’s My First Time Reading Words Out Loud",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/press-secretary-katie-zacharia-first-briefing/688988/",
-      "author": "",
-      "published": "2026-10-13T23:47:00+00:00",
-      "category": "精选",
-      "summary": "A very uncomfortable 14 minutes"
-    },
-    {
-      "title": "A Novel That Turns the Tables on AI",
-      "link": "https://www.theatlantic.com/books/2026/10/joanna-kavenna-seven-review/688078/",
-      "author": "",
-      "published": "2026-10-13T20:45:00+00:00",
-      "category": "全部",
-      "summary": "Joanna Kavenna’s book about the battle of man versus machine is both funny and deadly serious."
-    },
-    {
-      "title": "Trump’s Affection for Russia Is No Mystery",
-      "link": "https://www.theatlantic.com/ideas/2026/10/trump-russia-putin-oil/688986/",
-      "author": "",
-      "published": "2026-10-13T20:14:42+00:00",
-      "category": "精选",
-      "summary": "The best explanation is the least complicated one."
-    },
-    {
-      "title": "Photos: Fall Is in the Air",
-      "link": "https://www.theatlantic.com/photography/2026/10/photos-fall-colors/688983/",
-      "author": "",
-      "published": "2026-10-13T19:53:18+00:00",
-      "category": "全部",
-      "summary": "Autumn, the best season, has arrived once again—the season of harvests, festivals, migrations, and, of course, spectacular fall colors. Collected here are early images from this year."
-    },
-    {
-      "title": "Trump’s Dubious Claim About the Ilhan Omar Search",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/trump-doj-ilhan-omar-search/688984/",
-      "author": "",
-      "published": "2026-10-13T17:30:00+00:00",
-      "category": "精选",
-      "summary": "The president proclaims unfettered power to go after his critics, but then disclaims any involvement once a prominent critic is actually the subject of a search."
-    },
-    {
-      "title": "What If AI Is the End of the World?",
-      "link": "https://www.theatlantic.com/ideas/2026/10/ai-end-of-world-meaning/688977/",
-      "author": "",
-      "published": "2026-10-13T17:07:22+00:00",
-      "category": "精选",
-      "summary": "The dramatic warnings of doom have fed an atmosphere of despair. But there are more constructive responses."
-    },
-    {
-      "title": "The Incredible Ambitions, and Rivalry, of Musk and Bezos",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/ra-space-overlords/688899/",
-      "author": "",
-      "published": "2026-10-13T16:39:52+00:00",
-      "category": "精选",
-      "summary": "Space is hard, and expensive. The U.S. is relying on some of its wealthiest individuals to help it get there."
-    },
-    {
-      "title": "Why the Intelligence Gap Really Matters",
-      "link": "https://www.theatlantic.com/family/2026/10/intelligence-gap-relationships/688978/",
-      "author": "",
-      "published": "2026-10-13T13:42:00+00:00",
-      "category": "精选",
-      "summary": "Great thinkers and artists throughout history have argued that you can’t have true romance without a meeting of the minds."
-    },
-    {
-      "title": "The Atlantic ’s November Cover: Josh Tyrangiel Profiles Jeff Bezos and Elon Musk on Their Race to Control Outer Space—And Measures Who Is Ahead",
-      "link": "https://www.theatlantic.com/press-releases/2026/10/the-atlantics-november-cover-story-by-josh-tyrangiel/688976/",
-      "author": "",
-      "published": "2026-10-13T12:22:46+00:00",
-      "category": "精选",
-      "summary": "“They may be the only ones who can check the other’s power.”"
-    },
-    {
-      "title": "The Rise of the IRL Influencer",
-      "link": "https://www.theatlantic.com/health/2026/10/community-builders/688947/",
-      "author": "",
-      "published": "2026-10-13T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Americans need to party more. A new class of “community builders” is ready to help."
-    },
-    {
-      "title": "Good Villains Are Hard to Come By. This One’s Great.",
-      "link": "https://www.theatlantic.com/books/2026/10/avalon-rise-madeline-ffitch-book-review/688939/",
-      "author": "",
-      "published": "2026-10-13T12:00:00+00:00",
-      "category": "精选",
-      "summary": "A fascinating new novel pits a small Appalachian community against a very online foe."
-    },
-    {
-      "title": "The Journalist and the Manipulator",
-      "link": "https://www.theatlantic.com/magazine/2026/11/absent-woman-janet-malcolm-eve-sneider/688701/",
-      "author": "",
-      "published": "2026-10-13T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Janet Malcolm policed the literary ruses of others, but wasn’t afraid to deploy them herself."
     }
   ]
 }
