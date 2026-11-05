@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T06:17:26.084733+00:00",
+  "updated_at": "2026-11-05T06:43:12.592705+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -12,35 +12,171 @@
   "errors": [],
   "articles": [
     {
-      "title": "The Blue Wave Is Real",
+      "title": "Revenge of the White Working Class",
+      "link": "https://www.theatlantic.com/politics/2026/11/sand-turek-iowa-midterms-democrats/689290/",
+      "author": "",
+      "published": "2026-11-04T23:13:04+00:00",
+      "category": "精选",
+      "summary": "But what happens next?"
+    },
+    {
+      "title": "Google Won’t Give Schools the One Thing They Want",
+      "link": "https://www.theatlantic.com/technology/2026/11/google-schools-ai-search/689298/",
+      "author": "",
+      "published": "2026-11-04T23:10:00+00:00",
+      "category": "科技",
+      "summary": "The tech giant is making districts choose between AI and search."
+    },
+    {
+      "title": "The Polls Found a New Way to Be Wrong",
+      "link": "https://www.theatlantic.com/politics/2026/11/midterm-polls-democrats/689297/",
+      "author": "",
+      "published": "2026-11-04T22:28:00+00:00",
+      "category": "精选",
+      "summary": "After a decade of underrating Donald Trump’s support, pollsters finally underestimated Democrats."
+    },
+    {
+      "title": "Democrats Will Likely Disappoint Voters Soon",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/democrats-midterms-bue-wave-affordability-trap/689294/",
+      "author": "",
+      "published": "2026-11-04T21:24:00+00:00",
+      "category": "精选",
+      "summary": "We don’t need to guess what happens to politicians who campaign on affordability and don’t deliver. We saw it last night."
+    },
+    {
+      "title": "It’s the Morality, Stupid",
+      "link": "https://www.theatlantic.com/culture/2026/11/morality-mattered-midterms/689293/",
+      "author": "",
+      "published": "2026-11-04T21:01:50+00:00",
+      "category": "精选",
+      "summary": "Some midterm voters may have been driven by the desire to repudiate cruelty."
+    },
+    {
+      "title": "Vance 2028 Is Here",
+      "link": "https://www.theatlantic.com/ideas/2026/11/vance-2028-campaign-strategy-change/689291/",
+      "author": "",
+      "published": "2026-11-04T20:30:46+00:00",
+      "category": "精选",
+      "summary": "The midterm wave seems to have altered the vice president’s strategy of portraying himself as Donald Trump’s heir."
+    },
+    {
+      "title": "The End of the Trump Era",
+      "link": "https://www.theatlantic.com/ideas/2026/11/trump-era-republicans-midterms/689292/",
+      "author": "",
+      "published": "2026-11-04T20:30:06+00:00",
+      "category": "精选",
+      "summary": "The midterm elections were a thorough repudiation of the president and what he stands for."
+    },
+    {
+      "title": "Trump Learns His Orbán Lesson",
+      "link": "https://www.theatlantic.com/ideas/2026/11/trump-orban-elections/689287/",
+      "author": "",
+      "published": "2026-11-04T20:16:19+00:00",
+      "category": "精选",
+      "summary": "He wanted to be like the former Hungarian prime minister, and now he got his wish."
+    },
+    {
+      "title": "It’s the End of America as We Know It!",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/blue-wave-midterms-america/689288/",
+      "author": "",
+      "published": "2026-11-04T19:03:00+00:00",
+      "category": "精选",
+      "summary": "The Blue Wave washes over all."
+    },
+    {
+      "title": "Silicon Valley’s Very Bad Night",
+      "link": "https://www.theatlantic.com/technology/2026/11/americans-really-dont-like-data-centers-elections/689284/",
+      "author": "",
+      "published": "2026-11-04T18:30:19+00:00",
+      "category": "科技",
+      "summary": "America has made its feelings about data centers crystal clear."
+    },
+    {
+      "title": "$500 Million Bought Elon Nothing",
+      "link": "https://www.theatlantic.com/technology/2026/11/elon-musk-loss/689281/",
+      "author": "",
+      "published": "2026-11-04T18:15:03+00:00",
+      "category": "科技",
+      "summary": "Musk’s unprecedented spending may even have hurt Republicans."
+    },
+    {
+      "title": "Can Democrats Hold Trump Accountable?",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/david-frum-show-dave-rapallo-democrats-trump-investigate/689282/",
+      "author": "",
+      "published": "2026-11-04T18:00:00+00:00",
+      "category": "精选",
+      "summary": "Dave Rapallo on how Democrats in Congress could possibly investigate the president, and how he might fight back."
+    },
+    {
+      "title": "The Biggest Victory of the Night",
+      "link": "https://www.theatlantic.com/ideas/2026/11/midterm-election-democrats-normal/689279/",
+      "author": "",
+      "published": "2026-11-04T17:08:06+00:00",
+      "category": "精选",
+      "summary": "It wasn’t any particular race but the fact that the election proceeded so smoothly."
+    },
+    {
+      "title": "A Night of Pure Trumpenfreude",
+      "link": "https://www.theatlantic.com/ideas/2026/11/trump-midterm-results-schadenfreude/689277/",
+      "author": "",
+      "published": "2026-11-04T15:56:41+00:00",
+      "category": "精选",
+      "summary": "Finally, the president’s actions had consequences."
+    },
+    {
+      "title": "Susan Collins Didn’t Have a Chance",
+      "link": "https://www.theatlantic.com/politics/2026/11/susan-collins-maine-midterms-jackson/689276/",
+      "author": "",
+      "published": "2026-11-04T15:12:01+00:00",
+      "category": "精选",
+      "summary": "A nationwide rejection of President Trump swept out the moderate Republican."
+    },
+    {
+      "title": "Texas Republicans Get Washed",
+      "link": "https://www.theatlantic.com/ideas/2026/11/texas-blue-democrats-win/689278/",
+      "author": "",
+      "published": "2026-11-04T14:53:11+00:00",
+      "category": "精选",
+      "summary": "America didn’t just get Blexas. It got Deep Blexas."
+    },
+    {
+      "title": "The Socializing That’s Replacing Friend Time",
+      "link": "https://www.theatlantic.com/family/2026/11/family-time-versus-friend-time/689270/",
+      "author": "",
+      "published": "2026-11-04T14:00:00+00:00",
+      "category": "精选",
+      "summary": "More Americans are hanging out with family—by choice, but also by necessity."
+    },
+    {
+      "title": "A New Kind of Blue Wave",
       "link": "https://www.theatlantic.com/politics/2026/11/blue-wave-midterms-democrats/689271/",
       "author": "",
       "published": "2026-11-04T05:48:12+00:00",
-      "category": "精选",
-      "summary": "America’s response to Trump was an unmistakably emphatic one."
+      "category": "全部",
+      "summary": "America’s response to Trump was unmistakably emphatic."
     },
     {
       "title": "The Unlikeliest Democratic Win of All",
       "link": "https://www.theatlantic.com/politics/2026/11/andrews-graham-south-carolina-democrat/689275/",
       "author": "",
       "published": "2026-11-04T05:41:57+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Few thought South Carolina was really in play until it had already flipped."
     },
     {
-      "title": "How the Democrats Beat Trump",
+      "title": "The Simple Message That Produced a Democratic Landslide",
       "link": "https://www.theatlantic.com/politics/2026/11/trump-jeffries-democrats-midterms/689266/",
       "author": "",
       "published": "2026-11-04T05:09:31+00:00",
       "category": "精选",
-      "summary": "Hakeem Jeffries pushed Democrats to focus on affordability. Donald Trump made it all about himself."
+      "summary": "While Donald Trump made it all about himself, Hakeem Jeffries pushed Democrats to focus on affordability."
     },
     {
       "title": "How Texas Turned Blue",
       "link": "https://www.theatlantic.com/politics/2026/11/talarico-hinojosa-texas-musk/689268/",
       "author": "",
       "published": "2026-11-04T04:38:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "An impossible Democratic dream has finally come true."
     },
     {
@@ -48,7 +184,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/midterms-democrats-trump-blue-wave/689274/",
       "author": "",
       "published": "2026-11-04T04:26:55+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Trump’s opponents have spent a decade pining for an outcome like this."
     },
     {
@@ -56,7 +192,7 @@
       "link": "https://www.theatlantic.com/politics/2026/11/trump-midterms-lame-duck/689265/",
       "author": "",
       "published": "2026-11-04T03:25:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The president told voters to act like his name was on the ballot—and they did."
     },
     {
@@ -64,7 +200,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/trump-midterm-losses-winners-losers/689262/",
       "author": "",
       "published": "2026-11-04T03:15:21+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The aura of mastery and domination that surrounds the president should now be permanently dispelled."
     },
     {
@@ -72,7 +208,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/11/jon-ossoff-georgia-victory-democratic-party/689273/",
       "author": "",
       "published": "2026-11-04T02:28:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The candidate’s charisma is undeniable—but 2028 is still a long way off."
     },
     {
@@ -1874,142 +2010,6 @@
       "published": "2026-10-16T11:00:00+00:00",
       "category": "精选",
       "summary": "Nancy Lacore was sacked by Pete Hegseth. She wants to go back to Washington."
-    },
-    {
-      "title": "Big Tech Oligarchs Have a Terrible Plan for Humanity",
-      "link": "https://www.theatlantic.com/ideas/2026/10/ai-regulation-transhumanism-oligarchs/689013/",
-      "author": "",
-      "published": "2026-10-16T10:00:00+00:00",
-      "category": "精选",
-      "summary": "A handful of multibillionaires hope to dictate our future."
-    },
-    {
-      "title": "How Pete Hegseth’s Plan for a Reality-TV Execution Imploded",
-      "link": "https://www.theatlantic.com/national-security/2026/10/pete-hegseth-livestreamed-execution-plan/689020/",
-      "author": "",
-      "published": "2026-10-15T23:58:42+00:00",
-      "category": "精选",
-      "summary": "Trump is fine with a military execution by firing squad, just not with putting it on YouTube."
-    },
-    {
-      "title": "America’s Latest Inflation Check-In Doesn’t Look Good for Trump",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/inflation-trump-consumer-price-index-september/689030/",
-      "author": "",
-      "published": "2026-10-15T23:02:00+00:00",
-      "category": "全部",
-      "summary": "The recent Consumer Price Index report is the last word on inflation before the midterms."
-    },
-    {
-      "title": "The Memory Shortage Comes for Schools",
-      "link": "https://www.theatlantic.com/technology/2026/10/chromebook-schools-memory-shortage/689015/",
-      "author": "",
-      "published": "2026-10-15T20:46:00+00:00",
-      "category": "科技",
-      "summary": "Districts are struggling to afford all those Chromebooks."
-    },
-    {
-      "title": "A Bold Era in Hollywood Ends With a Whimper",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/warner-bros-pam-abdy-michael-de-luca-exit-video-village/689016/",
-      "author": "",
-      "published": "2026-10-15T20:09:00+00:00",
-      "category": "精选",
-      "summary": "The co-chairs of Warner Bros. Pictures are out—and they may be taking their risky swings with them."
-    },
-    {
-      "title": "This Is Edgar Allan Poe, and I Am Begging Kelly Clarkson to Take My Bird",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/edgar-allan-poe-kelly-clarkson-bird/689014/",
-      "author": "",
-      "published": "2026-10-15T20:00:00+00:00",
-      "category": "全部",
-      "summary": "I eagerly await your response."
-    },
-    {
-      "title": "What the Falling Leaves Taught Thoreau",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/thoreau-autumn-death-lessons/689009/",
-      "author": "",
-      "published": "2026-10-15T18:59:00+00:00",
-      "category": "全部",
-      "summary": "His autumnal observations held a lesson for him in his final years."
-    },
-    {
-      "title": "Winners of the Wildlife Photographer of the Year 2026",
-      "link": "https://www.theatlantic.com/photography/2026/10/winners-wildlife-photographer-year-2026/689005/",
-      "author": "",
-      "published": "2026-10-15T16:35:01+00:00",
-      "category": "全部",
-      "summary": "A collection of some of this year’s winning and honored images, selected from more than 65,000 submissions from 121 countries and territories"
-    },
-    {
-      "title": "A Lab-Leak Story You Haven’t Heard",
-      "link": "https://www.theatlantic.com/health/2026/10/rsv-kennedy-conspiracy-theory-lab-leak/688998/",
-      "author": "",
-      "published": "2026-10-15T14:53:31+00:00",
-      "category": "全部",
-      "summary": "Robert F. Kennedy Jr. believes that RSV originated in a government science experiment."
-    },
-    {
-      "title": "0 for 26: The Trump Administration’s Astonishing Losing Record",
-      "link": "https://www.theatlantic.com/ideas/2026/10/doj-lawsuits-voter-rolls-losing/689003/",
-      "author": "",
-      "published": "2026-10-15T13:25:59+00:00",
-      "category": "精选",
-      "summary": "Not one single court has approved of the Department of Justice’s plans to obtain state voter rolls."
-    },
-    {
-      "title": "Have We Reached Peak Testosterone?",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/masculinism-testosterone-men-politics-trump/688989/",
-      "author": "",
-      "published": "2026-10-15T13:00:00+00:00",
-      "category": "精选",
-      "summary": "A live taping with Helen Lewis and Sophie Gilbert about the evolution of masculinism"
-    },
-    {
-      "title": "Ukraine Finds a New Set of Targets",
-      "link": "https://www.theatlantic.com/national-security/2026/10/ukraine-russia-trump-putin-war/689002/",
-      "author": "",
-      "published": "2026-10-15T11:00:00+00:00",
-      "category": "精选",
-      "summary": "As Donald Trump intervenes to protect Russia’s oil refineries, Ukraine plays the few cards it has left."
-    },
-    {
-      "title": "The Non-AI AI Jobs",
-      "link": "https://www.theatlantic.com/ideas/2026/10/ai-new-job-creation/689000/",
-      "author": "",
-      "published": "2026-10-15T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Will the labor market of the future include cold-plunge installers, psychedelic therapists, and house managers?"
-    },
-    {
-      "title": "Invasion of the Self-Replicating AI-Malware Botnet",
-      "link": "https://www.theatlantic.com/ideas/2026/10/ai-malware-botnet/688997/",
-      "author": "",
-      "published": "2026-10-15T11:00:00+00:00",
-      "category": "精选",
-      "summary": "An AI risk much dumber—and therefore more likely—than extinction is arriving."
-    },
-    {
-      "title": "Kimberly Guilfoyle Broke Trump’s Most Important Rule",
-      "link": "https://www.theatlantic.com/ideas/2026/10/kimberly-guilfoyle-trump-greece-davos/688996/",
-      "author": "",
-      "published": "2026-10-14T20:54:33+00:00",
-      "category": "精选",
-      "summary": "The president doesn’t seem to care about corruption; he cares about embarrassment."
-    },
-    {
-      "title": "How Trump Is Selling Out Ukraine",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/david-frum-show-illia-ponomarenko-ukraine-trump/688994/",
-      "author": "",
-      "published": "2026-10-14T18:00:00+00:00",
-      "category": "精选",
-      "summary": "The Ukrainian journalist Illia Ponomarenko on his new book, The Land of Tears and Hope , a history of his country"
-    },
-    {
-      "title": "The Rise of In-Office Remote Work",
-      "link": "https://www.theatlantic.com/ideas/2026/10/in-office-remote-work/688993/",
-      "author": "",
-      "published": "2026-10-14T17:10:36+00:00",
-      "category": "精选",
-      "summary": "The alternative to working from home is often logging on in a sea of mostly empty cubicles."
     }
   ]
 }
