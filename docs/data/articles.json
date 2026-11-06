@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T06:43:12.592705+00:00",
+  "updated_at": "2026-11-06T06:40:23.340218+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,142 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Prediction Markets Are Calling It Early",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/prediction-markets-election-outcomes-polymarket-kalshi/689322/",
+      "author": "",
+      "published": "2026-11-06T00:04:00+00:00",
+      "category": "精选",
+      "summary": "This week, Polymarket and Kalshi hoped to prove they could be taken seriously. Did they?"
+    },
+    {
+      "title": "The Speaker Who Gave the House Away",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/mike-johnson-house-speaker-trump/689317/",
+      "author": "",
+      "published": "2026-11-05T23:49:00+00:00",
+      "category": "精选",
+      "summary": "His legacy will be the abdication of the legislative branch’s power."
+    },
+    {
+      "title": "Democrats Have No Coherent Plan for AI",
+      "link": "https://www.theatlantic.com/ideas/2026/11/democrats-ai-midterms-regulation/689320/",
+      "author": "",
+      "published": "2026-11-05T23:22:00+00:00",
+      "category": "精选",
+      "summary": "Running on the backlash was easy. Getting the specifics right will be much more difficult."
+    },
+    {
+      "title": "The Ballad of Bob Dylan and the Pope",
+      "link": "https://www.theatlantic.com/culture/2026/11/bob-dylan-pope-leo/689314/",
+      "author": "",
+      "published": "2026-11-05T21:15:00+00:00",
+      "category": "精选",
+      "summary": "The image of their encounter at the Vatican is strange and funny—but these two make some sense together."
+    },
+    {
+      "title": "This Won’t Be Easy for Democrats",
+      "link": "https://www.theatlantic.com/politics/2026/11/midterms-democrats-party-reputation/689311/",
+      "author": "",
+      "published": "2026-11-05T20:43:19+00:00",
+      "category": "精选",
+      "summary": "They’re out of the wilderness—for now."
+    },
+    {
+      "title": "The Execution Divide",
+      "link": "https://www.theatlantic.com/ideas/2026/11/death-row-commutation-california-newsom/689304/",
+      "author": "",
+      "published": "2026-11-05T20:07:34+00:00",
+      "category": "精选",
+      "summary": "Gavin Newsom’s mass commutation of death-row prisoners reveals a growing split in the country over capital punishment."
+    },
+    {
+      "title": "Trump May Come to Regret His Rush Job on the Arch and Ballroom",
+      "link": "https://www.theatlantic.com/culture/2026/11/trump-monument-fight/689309/",
+      "author": "",
+      "published": "2026-11-05T19:37:00+00:00",
+      "category": "精选",
+      "summary": "Democrats want to cut off funding for the president’s building projects—or tear them down later."
+    },
+    {
+      "title": "Bird Flu Could Become a Terrible Feature of Fall",
+      "link": "https://www.theatlantic.com/health/2026/11/bird-flu-death/689308/",
+      "author": "",
+      "published": "2026-11-05T18:59:40+00:00",
+      "category": "精选",
+      "summary": "It’s flu season. Is it also bird-flu season?"
+    },
+    {
+      "title": "How Did Nathan Fielder Pull This Off?",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/you-can-see-everything-biggest-documentary-video-village/689305/",
+      "author": "",
+      "published": "2026-11-05T17:18:53+00:00",
+      "category": "精选",
+      "summary": "The most surprising thing about the fall’s must-see film isn’t its twist."
+    },
+    {
+      "title": "‘We Did This for This Man?’",
+      "link": "https://www.theatlantic.com/politics/2026/11/midterms-conservative-republicans-identity/689300/",
+      "author": "",
+      "published": "2026-11-05T15:46:39+00:00",
+      "category": "精选",
+      "summary": "The vindication of Never Trump conservatives"
+    },
+    {
+      "title": "Chuck Schumer’s Revenge",
+      "link": "https://www.theatlantic.com/ideas/2026/11/midterms-democrats-mississippi-senate/689301/",
+      "author": "",
+      "published": "2026-11-05T14:45:00+00:00",
+      "category": "精选",
+      "summary": "The Senate majority leader, long a left-wing punching bag, is now the architect of a historic landslide."
+    },
+    {
+      "title": "What I Lost to Shock Therapy—And What I Got Back",
+      "link": "https://www.theatlantic.com/family/2026/11/shock-therapy-memory-loss/689267/",
+      "author": "",
+      "published": "2026-11-05T13:00:00+00:00",
+      "category": "全部",
+      "summary": "The treatment forced me to ask: Without the stories of who I’d been, who might I become?"
+    },
+    {
+      "title": "An Underrated Reason Boys Are Reading Less",
+      "link": "https://www.theatlantic.com/culture/2026/11/middle-grade-reading-male-protagonists/689285/",
+      "author": "",
+      "published": "2026-11-05T12:30:00+00:00",
+      "category": "精选",
+      "summary": "A lack of male protagonists is making it harder to get young readers into books."
+    },
+    {
+      "title": "Even Where MAGA Won, MAGA Lost",
+      "link": "https://www.theatlantic.com/ideas/2026/11/maga-party-demographic-shift/689286/",
+      "author": "",
+      "published": "2026-11-05T12:00:00+00:00",
+      "category": "精选",
+      "summary": "A vision of a multicultural America emerges from this election."
+    },
+    {
+      "title": "Did Democrats Win—Or Did Trump Lose?",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/midterm-democrats-trump/689283/",
+      "author": "",
+      "published": "2026-11-05T12:00:00+00:00",
+      "category": "精选",
+      "summary": "There are lots of ways to read the overwhelming midterm results. But voters sent one clear message."
+    },
+    {
+      "title": "A Good Night for the Christian Faith",
+      "link": "https://www.theatlantic.com/ideas/2026/11/midterms-christianity-talarico-hamilton/689299/",
+      "author": "",
+      "published": "2026-11-05T11:00:00+00:00",
+      "category": "精选",
+      "summary": "A pair of victories may do much to help the Democratic Party—and even more for the evangelical world."
+    },
+    {
+      "title": "Republicans Redistricted Themselves Out of Congress",
+      "link": "https://www.theatlantic.com/politics/2026/11/republicans-gerrymandering-redistricting-midterms/689296/",
+      "author": "",
+      "published": "2026-11-05T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Trump’s plan backfired."
+    },
     {
       "title": "Revenge of the White Working Class",
       "link": "https://www.theatlantic.com/politics/2026/11/sand-turek-iowa-midterms-democrats/689290/",
@@ -48,7 +184,7 @@
       "link": "https://www.theatlantic.com/culture/2026/11/morality-mattered-midterms/689293/",
       "author": "",
       "published": "2026-11-04T21:01:50+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Some midterm voters may have been driven by the desire to repudiate cruelty."
     },
     {
@@ -64,7 +200,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/trump-era-republicans-midterms/689292/",
       "author": "",
       "published": "2026-11-04T20:30:06+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The midterm elections were a thorough repudiation of the president and what he stands for."
     },
     {
@@ -72,7 +208,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/trump-orban-elections/689287/",
       "author": "",
       "published": "2026-11-04T20:16:19+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "He wanted to be like the former Hungarian prime minister, and now he got his wish."
     },
     {
@@ -1874,142 +2010,6 @@
       "published": "2026-10-17T12:00:00+00:00",
       "category": "精选",
       "summary": "A few ways to make the most of the season"
-    },
-    {
-      "title": "Iran’s ‘Anti-Imperialism’ Is a Dead End",
-      "link": "https://www.theatlantic.com/international/2026/10/west-iran-economy-us/689039/",
-      "author": "",
-      "published": "2026-10-17T11:00:00+00:00",
-      "category": "国际",
-      "summary": "An ideology of refusal has not made the international order fairer for Iranians or anyone else."
-    },
-    {
-      "title": "The Blog Post That Set the AI World on Fire",
-      "link": "https://www.theatlantic.com/technology/2026/10/ai-neuron-blog-post/689058/",
-      "author": "",
-      "published": "2026-10-16T21:33:25+00:00",
-      "category": "科技",
-      "summary": "An incendiary post from a prominent researcher suggests that AI is actually more predictable than we thought."
-    },
-    {
-      "title": "Five Fabulous Days of Katie Zacharia",
-      "link": "https://www.theatlantic.com/ideas/2026/10/katie-zacharia-press-secretary-trump/689055/",
-      "author": "",
-      "published": "2026-10-16T20:35:05+00:00",
-      "category": "精选",
-      "summary": "The Trump administration returns to classic form."
-    },
-    {
-      "title": "How Botched Executions Were Handled in Centuries Past",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/history-lessons-botched-executions/689054/",
-      "author": "",
-      "published": "2026-10-16T19:43:00+00:00",
-      "category": "精选",
-      "summary": "The case of Christa Pike, who survived two lethal injections last month, gives new relevance to strange stories across history."
-    },
-    {
-      "title": "The Real Selling Point of Romantasy",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/books-briefing-dont-listen-romantasy-haters/689049/",
-      "author": "",
-      "published": "2026-10-16T17:55:00+00:00",
-      "category": "精选",
-      "summary": "The best-selling genre is more than just smut."
-    },
-    {
-      "title": "What Newsrooms Should Know Before They Take Money From OpenAI",
-      "link": "https://www.theatlantic.com/ideas/2026/10/newsrooms-journalism-openai-funding/689043/",
-      "author": "",
-      "published": "2026-10-16T17:35:00+00:00",
-      "category": "全部",
-      "summary": "Journalists need not reject the funding, but they should be cautious."
-    },
-    {
-      "title": "Will the New ‘Grand Theft Auto’ Be a Weapon in the Culture Wars?",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/grand-theft-auto-ambition-culture-wars/689036/",
-      "author": "",
-      "published": "2026-10-16T17:00:00+00:00",
-      "category": "全部",
-      "summary": "It’s not just stealing cars and running from cops anymore."
-    },
-    {
-      "title": "A Bet That Young People Are Willing to Make",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/betting-gambling-young-people-boom/689045/",
-      "author": "",
-      "published": "2026-10-16T16:45:00+00:00",
-      "category": "精选",
-      "summary": "Bettors keep losing. Why do they keep coming back?"
-    },
-    {
-      "title": "Can Elizabeth Holmes Drop the Act?",
-      "link": "https://www.theatlantic.com/culture/2026/10/you-can-see-everything-review-elizabeth-holmes-documentary/689038/",
-      "author": "",
-      "published": "2026-10-16T16:02:19+00:00",
-      "category": "全部",
-      "summary": "Nathan Fielder follows the Theranos founder for a brilliant study of self-perception."
-    },
-    {
-      "title": "What the Loss of Starshield Revealed",
-      "link": "https://www.theatlantic.com/international/2026/10/starshield-ukraine-military-technology-vulnerability/689035/",
-      "author": "",
-      "published": "2026-10-16T14:22:48+00:00",
-      "category": "国际",
-      "summary": "Ukraine’s defenses depend on the high-speed data links that Washington may have briefly shut down."
-    },
-    {
-      "title": "Photos of the Week: Rabbit Jumping, Floating Bazaar, Chief Mouser",
-      "link": "https://www.theatlantic.com/photography/2026/10/photos-week-rabbit-jumping-floating-bazaar-chief-mouser/689007/",
-      "author": "",
-      "published": "2026-10-16T13:00:00+00:00",
-      "category": "全部",
-      "summary": "A highland-cattle show in Scotland, traditional sword forging in China, a fuel shortage in Bali, high water flow at Brazil’s Iguazu Falls, anti-government protests in Albania, and much more"
-    },
-    {
-      "title": "How the Catholic Church Is Rethinking War",
-      "link": "https://www.theatlantic.com/culture/2026/10/catholic-church-just-war-theory/688941/",
-      "author": "",
-      "published": "2026-10-16T12:45:00+00:00",
-      "category": "全部",
-      "summary": "Just-war theory, which has guided Vatican teaching for centuries, may be on its way out."
-    },
-    {
-      "title": "AI Agents Are Here. Nobody’s Ready.",
-      "link": "https://www.theatlantic.com/technology/2026/10/ai-agent-chaos-e-commerce/689010/",
-      "author": "",
-      "published": "2026-10-16T12:00:00+00:00",
-      "category": "科技",
-      "summary": "They were supposed to make our lives easier. Now they’re wreaking havoc on the internet."
-    },
-    {
-      "title": "What Three Gene-Therapy Deaths Have in Common",
-      "link": "https://www.theatlantic.com/health/2026/10/virus-gene-therapy/689034/",
-      "author": "",
-      "published": "2026-10-16T11:30:00+00:00",
-      "category": "精选",
-      "summary": "The virus used to deliver healing DNA in gene therapy is under renewed scrutiny."
-    },
-    {
-      "title": "The Cutest Target of Trump’s D.C. Makeover",
-      "link": "https://www.theatlantic.com/culture/2026/10/mini-golf-east-potomac-park-trump/688992/",
-      "author": "",
-      "published": "2026-10-16T11:30:00+00:00",
-      "category": "精选",
-      "summary": "A mini-golf course"
-    },
-    {
-      "title": "He Joined the Military. They Reported His Wife to ICE.",
-      "link": "https://www.theatlantic.com/politics/2026/10/army-wife-ice-deportation-texas/689012/",
-      "author": "",
-      "published": "2026-10-16T11:05:00+00:00",
-      "category": "精选",
-      "summary": "When a soldier’s wife went to pick up her military ID at a base in Texas, ICE officers showed up."
-    },
-    {
-      "title": "Watching for a Blue Wave in South Carolina",
-      "link": "https://www.theatlantic.com/politics/2026/10/lacore-hegseth-south-carolina-congress/688981/",
-      "author": "",
-      "published": "2026-10-16T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Nancy Lacore was sacked by Pete Hegseth. She wants to go back to Washington."
     }
   ]
 }
