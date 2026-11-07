@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T06:40:23.340218+00:00",
+  "updated_at": "2026-11-07T05:56:10.343922+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,134 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "A Chief of Staff Who ‘Will Crack Skulls’",
+      "link": "https://www.theatlantic.com/politics/2026/11/stephen-miller-susie-wiles-white-house/689331/",
+      "author": "",
+      "published": "2026-11-07T03:10:00+00:00",
+      "category": "精选",
+      "summary": "The president has no interest in being reined in. His new chief of staff is perfect for him."
+    },
+    {
+      "title": "A Preposterous, Overpriced, Beautiful Disaster of a Car",
+      "link": "https://www.theatlantic.com/technology/2026/11/rip-cybertruck/689340/",
+      "author": "",
+      "published": "2026-11-06T23:16:00+00:00",
+      "category": "科技",
+      "summary": "There will never be another vehicle like the Cybertruck."
+    },
+    {
+      "title": "Harmeet Dhillon’s Tenure of Destruction",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/harmeet-dhillons-doj-resigned/689339/",
+      "author": "",
+      "published": "2026-11-06T21:23:00+00:00",
+      "category": "精选",
+      "summary": "The head of the department’s Civil Rights Division has resigned, leaving a trail of damage behind her—just as she intended."
+    },
+    {
+      "title": "A Monster of His Time",
+      "link": "https://www.theatlantic.com/culture/2026/11/russell-brand-sexual-assault-guilty/689330/",
+      "author": "",
+      "published": "2026-11-06T21:18:00+00:00",
+      "category": "精选",
+      "summary": "Russell Brand’s sexual transgressions were never hidden. They’re what made him so popular."
+    },
+    {
+      "title": "Trump Doubles Down With Miller",
+      "link": "https://www.theatlantic.com/ideas/2026/11/trump-stephen-miller/689334/",
+      "author": "",
+      "published": "2026-11-06T20:47:35+00:00",
+      "category": "精选",
+      "summary": "The president responded to rejection at the polls by naming his longtime aide as his new chief of staff."
+    },
+    {
+      "title": "The Education a STEM Major Needs",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/books-briefing-great-books-teach-students/689327/",
+      "author": "",
+      "published": "2026-11-06T19:10:00+00:00",
+      "category": "精选",
+      "summary": "“Great Books” courses won’t teach students the meaning of life—but they can help them think about it."
+    },
+    {
+      "title": "Breaking Down Tech’s Brutal Election",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/breaking-down-techs-brutal-election/689325/",
+      "author": "",
+      "published": "2026-11-06T18:00:00+00:00",
+      "category": "精选",
+      "summary": "And are tech leaders self-aware enough to make any changes?"
+    },
+    {
+      "title": "The Epstein Election and the End of MAGA",
+      "link": "https://www.theatlantic.com/politics/2026/11/epstein-midterm-election-end-maga/689303/",
+      "author": "",
+      "published": "2026-11-06T16:31:46+00:00",
+      "category": "精选",
+      "summary": "The issue once motivated Trump voters. This week, it helped doom Republicans."
+    },
+    {
+      "title": "The Waters Off California Are Unrecognizable",
+      "link": "https://www.theatlantic.com/science/2026/11/el-nino-california-fish/689310/",
+      "author": "",
+      "published": "2026-11-06T15:33:33+00:00",
+      "category": "精选",
+      "summary": "El Niño is driving whole tropical ecosystems north."
+    },
+    {
+      "title": "LeBron James, Philadelphian",
+      "link": "https://www.theatlantic.com/ideas/2026/11/lebron-james-sixers-philadelphia/689324/",
+      "author": "",
+      "published": "2026-11-06T14:58:22+00:00",
+      "category": "精选",
+      "summary": "Can the superstar chase away the city’s demons?"
+    },
+    {
+      "title": "Photos of the Week: Mountain Castle, Fire Festival, Cat Wedding",
+      "link": "https://www.theatlantic.com/photography/2026/11/photos-of-the-week-mountain-castle-fire-festival-cat-wedding/689313/",
+      "author": "",
+      "published": "2026-11-06T14:00:00+00:00",
+      "category": "精选",
+      "summary": "Early Christmas decorations in England, midterm elections in the United States, continued protests in Western Europe, a volcanic eruption in the Philippines, and much more"
+    },
+    {
+      "title": "Hockey Finally Has the Great Books It Deserves",
+      "link": "https://www.theatlantic.com/magazine/2026/12/don-delillo-nick-paumgarten-hockey-literature/689021/",
+      "author": "",
+      "published": "2026-11-06T14:00:00+00:00",
+      "category": "精选",
+      "summary": "With the return of a lost Don DeLillo novel and the arrival of Nick Paumgarten’s memoir, the sport at last has a worthy canon."
+    },
+    {
+      "title": "What If the Apocalypse Is Already Here?",
+      "link": "https://www.theatlantic.com/books/2026/11/end-of-everything-by-m-john-harrison-book-review/689319/",
+      "author": "",
+      "published": "2026-11-06T13:00:00+00:00",
+      "category": "精选",
+      "summary": "A new novel inverts the dystopian formula, resonating with the modern feeling of slow-rolling collapse."
+    },
+    {
+      "title": "The School Apps Are Out of Control",
+      "link": "https://www.theatlantic.com/family/2026/11/school-apps-communication-broken/689312/",
+      "author": "",
+      "published": "2026-11-06T12:30:00+00:00",
+      "category": "精选",
+      "summary": "But they’re not the only thing that’s broken about communication with parents."
+    },
+    {
+      "title": "The Pope Confronts One of His Toughest Political Challenges",
+      "link": "https://www.theatlantic.com/ideas/2026/11/pope-leo-south-america-right-wing/689316/",
+      "author": "",
+      "published": "2026-11-06T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Leo’s upcoming trip to South America is an early test of how he will handle the rise of right-wing populists."
+    },
+    {
+      "title": "In Front of Their Noses",
+      "link": "https://www.theatlantic.com/ideas/2026/11/democrats-midterms-trump-maga/689315/",
+      "author": "",
+      "published": "2026-11-06T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Why did so many highly intelligent people refuse to believe that a self-destructive administration would actually self-destruct?"
+    },
     {
       "title": "Prediction Markets Are Calling It Early",
       "link": "https://www.theatlantic.com/newsletters/2026/11/prediction-markets-election-outcomes-polymarket-kalshi/689322/",
@@ -32,7 +160,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/democrats-ai-midterms-regulation/689320/",
       "author": "",
       "published": "2026-11-05T23:22:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Running on the backlash was easy. Getting the specifics right will be much more difficult."
     },
     {
@@ -40,7 +168,7 @@
       "link": "https://www.theatlantic.com/culture/2026/11/bob-dylan-pope-leo/689314/",
       "author": "",
       "published": "2026-11-05T21:15:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The image of their encounter at the Vatican is strange and funny—but these two make some sense together."
     },
     {
@@ -56,7 +184,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/death-row-commutation-california-newsom/689304/",
       "author": "",
       "published": "2026-11-05T20:07:34+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Gavin Newsom’s mass commutation of death-row prisoners reveals a growing split in the country over capital punishment."
     },
     {
@@ -72,7 +200,7 @@
       "link": "https://www.theatlantic.com/health/2026/11/bird-flu-death/689308/",
       "author": "",
       "published": "2026-11-05T18:59:40+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "It’s flu season. Is it also bird-flu season?"
     },
     {
@@ -80,7 +208,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/11/you-can-see-everything-biggest-documentary-video-village/689305/",
       "author": "",
       "published": "2026-11-05T17:18:53+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The most surprising thing about the fall’s must-see film isn’t its twist."
     },
     {
@@ -1882,134 +2010,6 @@
       "published": "2026-10-19T11:00:00+00:00",
       "category": "国际",
       "summary": "Canada is experiencing a sudden and complicated defense boom."
-    },
-    {
-      "title": "Maine Has Changed. Susan Collins Hasn’t.",
-      "link": "https://www.theatlantic.com/politics/2026/10/susan-collins-maine-debate-troy-jackson/689037/",
-      "author": "",
-      "published": "2026-10-19T10:00:00+00:00",
-      "category": "全部",
-      "summary": "The senator is trying to defy the odds, again."
-    },
-    {
-      "title": "Democrats’ Sudden Revulsion Toward Big Tech",
-      "link": "https://www.theatlantic.com/politics/2026/10/democratic-party-big-tech/689008/",
-      "author": "",
-      "published": "2026-10-19T10:00:00+00:00",
-      "category": "精选",
-      "summary": "The party once celebrated technology’s potential for innovation—now it’s a villain in campaign ads."
-    },
-    {
-      "title": "Siding With Putin Is a Huge Mistake",
-      "link": "https://www.theatlantic.com/ideas/2026/10/trump-putin/689067/",
-      "author": "",
-      "published": "2026-10-18T22:26:41+00:00",
-      "category": "精选",
-      "summary": "The United States should stand unequivocally with Ukraine against Russia."
-    },
-    {
-      "title": "America Is Now an Ally of Russia",
-      "link": "https://www.theatlantic.com/ideas/2026/10/america-now-ally-russia/689066/",
-      "author": "",
-      "published": "2026-10-18T21:51:28+00:00",
-      "category": "精选",
-      "summary": "Donald Trump has abandoned the Western order."
-    },
-    {
-      "title": "Catalog of Misplaced Things",
-      "link": "https://www.theatlantic.com/books/2026/10/poem-j-mae-barizo-catalog/689060/",
-      "author": "",
-      "published": "2026-10-18T16:00:00+00:00",
-      "category": "精选",
-      "summary": "A poem"
-    },
-    {
-      "title": "How the Rabbit Revolution Went Too Far",
-      "link": "https://www.theatlantic.com/ideas/2026/10/vibrators-sexuality-intimacy-loneliness/689004/",
-      "author": "",
-      "published": "2026-10-18T13:25:00+00:00",
-      "category": "精选",
-      "summary": "The golden age of vibrators is not what it seems."
-    },
-    {
-      "title": "Are We Too Political?",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/are-we-too-political/689011/",
-      "author": "",
-      "published": "2026-10-18T13:00:00+00:00",
-      "category": "精选",
-      "summary": "Long careers spent covering politicians have taught David Brooks and Jeffrey Goldberg the importance of putting politics in its place."
-    },
-    {
-      "title": "What Role Should Politics Play In Your Life?",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/what-role-should-politics-play-in-your-life/689011/",
-      "author": "",
-      "published": "2026-10-18T13:00:00+00:00",
-      "category": "精选",
-      "summary": "Long careers spent covering politicians have taught David Brooks and Jeffrey Goldberg the importance of putting politics in its place."
-    },
-    {
-      "title": "The Evolution of the Human Brain Set It Up for Failure",
-      "link": "https://www.theatlantic.com/health/2026/10/alzheimers-evolution/689062/",
-      "author": "",
-      "published": "2026-10-18T12:00:00+00:00",
-      "category": "精选",
-      "summary": "The genetic changes that made the human brain may have made us uniquely vulnerable to Alzheimer’s."
-    },
-    {
-      "title": "America Has a Police Shortage",
-      "link": "https://www.theatlantic.com/ideas/2026/10/police-officers-usa-europe/689006/",
-      "author": "",
-      "published": "2026-10-18T11:00:00+00:00",
-      "category": "全部",
-      "summary": "Many Americans have decided that their country’s problem is that it has too many police officers. In fact, it has too few."
-    },
-    {
-      "title": "Theranos-Style Fraud Has Become the Norm",
-      "link": "https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/",
-      "author": "",
-      "published": "2026-10-18T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Elizabeth Holmes was ahead of her time."
-    },
-    {
-      "title": "The Fight to Control Congress",
-      "link": "https://www.theatlantic.com/national/2026/10/fight-to-control-congress-washington-week/689050/",
-      "author": "",
-      "published": "2026-10-17T16:27:37+00:00",
-      "category": "精选",
-      "summary": "Panelists discuss the midterm elections in a special edition of Washington Week With The Atlantic in Austin, Texas."
-    },
-    {
-      "title": "The Final Defenders",
-      "link": "https://www.theatlantic.com/ideas/2026/10/capital-punishment-mitigators/688995/",
-      "author": "",
-      "published": "2026-10-17T13:00:00+00:00",
-      "category": "精选",
-      "summary": "Those facing the death penalty have a last line of protection: the specialists who find explanations for unthinkable crimes and attempt to convince juries that sometimes guilty people deserve mercy."
-    },
-    {
-      "title": "Another Battle Between the Catholic Church and the Trump Administration",
-      "link": "https://www.theatlantic.com/culture/2026/10/catholic-church-sacraments/689063/",
-      "author": "",
-      "published": "2026-10-17T12:00:00+00:00",
-      "category": "全部",
-      "summary": "The Church has fought the government multiple times to ensure that detained migrants have access to sacraments."
-    },
-    {
-      "title": "The Flying Car Must Never Be Built",
-      "link": "https://www.theatlantic.com/ideas/2026/10/tesla-elon-musk-roadster/689059/",
-      "author": "",
-      "published": "2026-10-17T12:00:00+00:00",
-      "category": "精选",
-      "summary": "It is not a goal to be reached, but a dream of new freedom deferred."
-    },
-    {
-      "title": "How to Indulge in Fall",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/comforts-of-fall/689056/",
-      "author": "",
-      "published": "2026-10-17T12:00:00+00:00",
-      "category": "精选",
-      "summary": "A few ways to make the most of the season"
     }
   ]
 }
