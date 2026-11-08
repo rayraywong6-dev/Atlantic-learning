@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T05:56:10.343922+00:00",
+  "updated_at": "2026-11-08T05:58:10.432926+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,54 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "What Comes After the Midterms",
+      "link": "https://www.theatlantic.com/national/2026/11/what-comes-after-midterms-washington-week/689342/",
+      "author": "",
+      "published": "2026-11-07T16:01:19+00:00",
+      "category": "全部",
+      "summary": "Panelists on Washington Week With The Atlantic joined to discuss what President Trump may do in the remaining two years of his presidency—and how Democrats in Congress could respond."
+    },
+    {
+      "title": "Memories of the Train",
+      "link": "https://www.theatlantic.com/magazine/2026/12/siqi-liu-memories-of-the-train/689026/",
+      "author": "",
+      "published": "2026-11-07T14:00:00+00:00",
+      "category": "全部",
+      "summary": "A short story"
+    },
+    {
+      "title": "Mike Johnson Will Tend To Your Lawn Now",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/mike-johnson-not-running-minority-leader/689341/",
+      "author": "",
+      "published": "2026-11-07T13:00:00+00:00",
+      "category": "精选",
+      "summary": "This job will require actual work."
+    },
+    {
+      "title": "Americans Are Spending Less Time With Friends",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/less-socializing-friends-families/689335/",
+      "author": "",
+      "published": "2026-11-07T13:00:00+00:00",
+      "category": "精选",
+      "summary": "And more time with their families"
+    },
+    {
+      "title": "What Happened to JetBlue?",
+      "link": "https://www.theatlantic.com/ideas/2026/11/airlines-bankruptcy-profit-jetblue/689332/",
+      "author": "",
+      "published": "2026-11-07T12:00:00+00:00",
+      "category": "精选",
+      "summary": "The carrier is more than $8.4 billion in debt, but it won’t cut its snacks."
+    },
+    {
+      "title": "ICE After the Blowout",
+      "link": "https://www.theatlantic.com/politics/2026/11/ice-midterms-deportations-dhs/689329/",
+      "author": "",
+      "published": "2026-11-07T12:00:00+00:00",
+      "category": "精选",
+      "summary": "The midterms were a backlash to Trump’s immigration policies. But ICE has billions more to spend."
+    },
     {
       "title": "A Chief of Staff Who ‘Will Crack Skulls’",
       "link": "https://www.theatlantic.com/politics/2026/11/stephen-miller-susie-wiles-white-house/689331/",
@@ -144,7 +192,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/11/prediction-markets-election-outcomes-polymarket-kalshi/689322/",
       "author": "",
       "published": "2026-11-06T00:04:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "This week, Polymarket and Kalshi hoped to prove they could be taken seriously. Did they?"
     },
     {
@@ -152,7 +200,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/11/mike-johnson-house-speaker-trump/689317/",
       "author": "",
       "published": "2026-11-05T23:49:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "His legacy will be the abdication of the legislative branch’s power."
     },
     {
@@ -1962,54 +2010,6 @@
       "published": "2026-10-19T20:48:29+00:00",
       "category": "精选",
       "summary": "The effort put into controlling even remote fires has started to baffle some veterans."
-    },
-    {
-      "title": "Why the Internet Needs a Memory",
-      "link": "https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/",
-      "author": "",
-      "published": "2026-10-19T16:00:00+00:00",
-      "category": "科技",
-      "summary": "Publishers have every right to challenge businesses that exploit their work—but the Wayback Machine has become collateral damage."
-    },
-    {
-      "title": "How Corruption Got This Bad",
-      "link": "https://www.theatlantic.com/ideas/2026/10/constitution-trump-doj-supreme-court-corruption/689042/",
-      "author": "",
-      "published": "2026-10-19T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Over the course of decades, the Supreme Court has legalized behavior that is poisonous to a functioning democracy."
-    },
-    {
-      "title": "The Minimal Requirements for a Society Free From Fear",
-      "link": "https://www.theatlantic.com/ideas/2026/10/liberalism-fukuyama-shklar-trump/689040/",
-      "author": "",
-      "published": "2026-10-19T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Liberalism’s deepest grounding is the belief that cruelty is an absolute evil."
-    },
-    {
-      "title": "Like Yesteryear , but Better",
-      "link": "https://www.theatlantic.com/books/2026/10/sarah-anderson-fallow-ultimate-would-you-rather-novel-book-review/689064/",
-      "author": "",
-      "published": "2026-10-19T11:00:00+00:00",
-      "category": "全部",
-      "summary": "In Sarah Anderson’s novel, Fallow , a woman is hired to bear children for busy C-suite executives."
-    },
-    {
-      "title": "Mamdani Is the Centrist We’ve Been Waiting For",
-      "link": "https://www.theatlantic.com/ideas/2026/10/mamdani-leftist-moderate-new-york/689053/",
-      "author": "",
-      "published": "2026-10-19T11:00:00+00:00",
-      "category": "精选",
-      "summary": "The New York City mayor deserves a new cult following—among pragmatists."
-    },
-    {
-      "title": "Decoupling From the U.S. Is Awkward",
-      "link": "https://www.theatlantic.com/international/2026/10/canada-military-buildup-defense/689041/",
-      "author": "",
-      "published": "2026-10-19T11:00:00+00:00",
-      "category": "国际",
-      "summary": "Canada is experiencing a sudden and complicated defense boom."
     }
   ]
 }
