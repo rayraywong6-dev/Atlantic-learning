@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T06:23:04.935534+00:00",
+  "updated_at": "2026-11-10T07:14:57.065528+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,142 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "A Scandal at the Center of the Economy",
+      "link": "https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/",
+      "author": "",
+      "published": "2026-11-10T00:28:50+00:00",
+      "category": "科技",
+      "summary": "Silicon Valley and Trump seem determined to protect the Nvidia-state at any cost."
+    },
+    {
+      "title": "The End of Stephen Miller’s Recusals",
+      "link": "https://www.theatlantic.com/politics/2026/11/stephen-miller-katie-ai-stock/689356/",
+      "author": "",
+      "published": "2026-11-09T23:52:00+00:00",
+      "category": "精选",
+      "summary": "The White House says Trump’s chief of staff is free to engage on AI and space matters after his wife ended several potential conflicts of interest."
+    },
+    {
+      "title": "The Inconvenient Truth at the Center of the Immigration Debate",
+      "link": "https://www.theatlantic.com/ideas/2026/11/immigration-trump-border-asylum/689318/",
+      "author": "",
+      "published": "2026-11-09T23:52:00+00:00",
+      "category": "精选",
+      "summary": "America’s asylum system is broken."
+    },
+    {
+      "title": "Congress vs. Hegseth",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/ra-iran-fallout/689349/",
+      "author": "",
+      "published": "2026-11-09T23:33:06+00:00",
+      "category": "精选",
+      "summary": "What’s next for the war in Iran—and the secretary that’s the face of it?"
+    },
+    {
+      "title": "Trump Slides Into His Lame-Duck Era",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/trump-lame-duck-era-dana-white/689355/",
+      "author": "",
+      "published": "2026-11-09T21:45:00+00:00",
+      "category": "精选",
+      "summary": "The Dana White debacle is a first glimpse at a president whose power has been sapped."
+    },
+    {
+      "title": "The Color and Lights of Diwali 2026",
+      "link": "https://www.theatlantic.com/photography/2026/11/photos-lights-diwali-2026/689348/",
+      "author": "",
+      "published": "2026-11-09T20:44:30+00:00",
+      "category": "精选",
+      "summary": "Hindus, Buddhists, Jains, Sikhs, and others around the world are celebrating the five-day festival of Diwali. Observers offer prayers and use fireworks, lanterns, and colorful lights to celebrate the triumph of light over darkness, good over evil, and knowledge over ignorance."
+    },
+    {
+      "title": "Pete Hegseth Lashes Out",
+      "link": "https://www.theatlantic.com/ideas/2026/11/hegseth-war-college-curriculum/689351/",
+      "author": "",
+      "published": "2026-11-09T20:32:00+00:00",
+      "category": "精选",
+      "summary": "The defense secretary wants military educators to pursue politics, not war."
+    },
+    {
+      "title": "How to Talk to Your Child About the Cybertruck’s Demise",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/goodbye-cyber-truck/689352/",
+      "author": "",
+      "published": "2026-11-09T20:05:00+00:00",
+      "category": "精选",
+      "summary": "Don’t tell them that it will be sent to a farm upstate. They know it can’t handle the terrain there."
+    },
+    {
+      "title": "An Electoral Mess in Mississippi",
+      "link": "https://www.theatlantic.com/politics/2026/11/mississippi-voters-senate-election-experian/689345/",
+      "author": "",
+      "published": "2026-11-09T19:22:18+00:00",
+      "category": "精选",
+      "summary": "Tens of thousands of voters in the state were shifted to “inactive” status."
+    },
+    {
+      "title": "How to Be an Ethical Russophile",
+      "link": "https://www.theatlantic.com/books/2026/11/ethical-russophile-russia-carrere-kolkhoz/688945/",
+      "author": "",
+      "published": "2026-11-09T19:00:00+00:00",
+      "category": "精选",
+      "summary": "In his new memoir, Emmanuel Carrère wonders if he can both oppose the war in Ukraine and love Russia."
+    },
+    {
+      "title": "How Ugly Metro Sweaters Became Chic",
+      "link": "https://www.theatlantic.com/culture/2026/11/metro-fashion-is-cool-now/689323/",
+      "author": "",
+      "published": "2026-11-09T18:01:00+00:00",
+      "category": "精选",
+      "summary": "Public-transit fashion is having a moment."
+    },
+    {
+      "title": "The Used-Battery Gold Rush Is Coming",
+      "link": "https://www.theatlantic.com/science/2026/11/electric-vehicle-battery-reuse/689326/",
+      "author": "",
+      "published": "2026-11-09T14:30:00+00:00",
+      "category": "精选",
+      "summary": "If it can power an electric vehicle, why not a data center?"
+    },
+    {
+      "title": "The Collapse of America’s Most Consequential Institution",
+      "link": "https://www.theatlantic.com/ideas/2026/11/justice-department-collapse-trump/689306/",
+      "author": "",
+      "published": "2026-11-09T14:00:00+00:00",
+      "category": "全部",
+      "summary": "Without a functional Department of Justice, no one can ensure that Americans will be treated equally under the law."
+    },
+    {
+      "title": "The Atlantic ’s December Cover: Sarah Zhang Reports on “The Geo-Located Generation”",
+      "link": "https://www.theatlantic.com/press-releases/2026/11/atlantics-december-cover-the-geo-located-generation/689333/",
+      "author": "",
+      "published": "2026-11-09T13:29:17+00:00",
+      "category": "精选",
+      "summary": "In The Atlantic ’s December cover story, “ The Geo-Located Generation ,” staff writer Sarah Zhang explores how constant surveillance is stunting children and making parents paranoid. Parents today can functionally track their children 24/7 from the moment they’re born through adulthood, starting with products such as the Snoo Smart Bassinet and Apple’s AirTags sewn into toddler backpacks and moving to apps such as Find My Friends and Life 360. Zhang examines how this is affecting kids, and namely their resilience and independence––but also how it’s affecting their parents. Although one of the primary developmental tasks of adolescence is achieving a measure of independence, this metaphorical umbilical cord can limit that development. Zhang writes that “as parents, we are supposed to undergo our own transformation as our children grow, relinquishing the knowledge and control we once held … And here, we parents might be failing ourselves.” She reports on seemingly extreme but all-too-common anecdotes of just how far perpetual tracking has gone: WhatsApp groups for parents of students on the same college-dorm floor, who text if they notice their child is late for class; adult children whose parents continue to track their location well into their 20s; and teens whose parents show up unannounced at their last-known location on Life360, when they don’t recognize the address. And the tracking is extensive: Zhang reports that three-quarters of parents with teenagers ages 14 to 17 had access to their kids’ location data, according to one study. She writes: “Even among college students, one-third were being tracked by their parents, according to another study, conducted in 2021 by Michaeline Jensen, a psychologist at the University of North Carolina at Greensboro. Five years later, Jensen says, that number is even higher: More than half of college students are being tracked, per her unpublished data.” In Zhang’s reporting, there is the sense that the world has become more dangerous and too many risks lurk out there, and thus the need for parents tracking their children. Zhang writes: “This is not borne out in the statistics: In just about every way, teenagers are living safer lives than ever. They are not only less likely to be victims of violence than in the 1990s, when crime peaked; they are also less likely to smoke, drink, use hard drugs, or get pregnant. The rates of all these behaviors have plummeted by more than half.” Zhang continues: “By coincidence or not, the rates of depression and anxiety in teenagers have steadily increased …The cause of the teen mental-health crisis is a topic of debate, much of it recently centered on the role of social media. But it’s hard to imagine that a diminished tolerance for risk and un­certainty in teenagers is not affecting their well-being.” Zhang writes: “Most parents agree—in the abstract—that kids need to confront their own challenges and make their own mistakes as they grow up. They need to learn how to ask for help when lost. They need to face the consequences of oversleeping for a math test before they oversleep for a job interview. But when you’re hovering digitally, phone in hand, it is so natural to want to help and so easy to intervene.” Sarah Zhang’s “ The Geo-Located Generation ” was published today at TheAtlantic.com. Please reach out with any questions or requests. Press contacts: Anna Bross and Paul Jackson | The Atlantic press@theatlantic.com"
+    },
+    {
+      "title": "The One Source Bob Woodward Can’t Get to Talk",
+      "link": "https://www.theatlantic.com/magazine/2026/12/bob-woodward-secrets-sources-watergate/689022/",
+      "author": "",
+      "published": "2026-11-09T13:00:00+00:00",
+      "category": "精选",
+      "summary": "In a new memoir, the legendary reporter reveals his methods—but little of himself."
+    },
+    {
+      "title": "What Constant Surveillance Is Doing to Children",
+      "link": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+      "author": "",
+      "published": "2026-11-09T12:30:00+00:00",
+      "category": "科技",
+      "summary": "And their parents"
+    },
+    {
+      "title": "Biden: What Trump Did on January 6 ‘Should Follow Him to His Grave’",
+      "link": "https://www.theatlantic.com/politics/2026/11/biden-trump-democracy-elections/689343/",
+      "author": "",
+      "published": "2026-11-09T10:00:00+00:00",
+      "category": "精选",
+      "summary": "In an excerpt from his forthcoming book, the former president calls on Americans to defend their democracy."
+    },
     {
       "title": "Perhaps Connecting Fridges to the Internet Was a Bad Idea",
       "link": "https://www.theatlantic.com/technology/2026/11/fridge-hacks-europe-supermarkets/689328/",
@@ -64,7 +200,7 @@
       "link": "https://www.theatlantic.com/magazine/2026/12/mac-and-cheese-ingredient/689019/",
       "author": "",
       "published": "2026-11-08T14:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Everyone has their own way of making it—but no one has ever done it quite like my Aunt Louise."
     },
     {
@@ -72,7 +208,7 @@
       "link": "https://www.theatlantic.com/health/2026/11/famine-somalia-trump-aid/689295/",
       "author": "",
       "published": "2026-11-08T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Somalia is experiencing a hunger emergency. For the first time in decades, the U.S. isn’t doing anything to stop it."
     },
     {
@@ -1874,142 +2010,6 @@
       "published": "2026-10-21T14:53:53+00:00",
       "category": "科技",
       "summary": "A past winner of the Caine Prize draws a hard lesson from the controversy over its latest recipient."
-    },
-    {
-      "title": "Photographing the Microscopic: Winners of Nikon Small World 2026",
-      "link": "https://www.theatlantic.com/photography/2026/10/microscopic-photography-competition-winners/689093/",
-      "author": "",
-      "published": "2026-10-21T14:01:34+00:00",
-      "category": "全部",
-      "summary": "Some of the winning and honored images from this year’s photomicrography competition, selected from more than 1,800 entries"
-    },
-    {
-      "title": "The Atlantic Publishes List of “50 Unforgettable Love Stories”",
-      "link": "https://www.theatlantic.com/press-releases/2026/10/atlantics-list-50-unforgettable-love-stories/689099/",
-      "author": "",
-      "published": "2026-10-21T13:41:37+00:00",
-      "category": "全部",
-      "summary": "Today The Atlantic launches “ 50 Unforgettable Love Stories ,” a new editorial project that highlights stories of romantic love. The list includes works published across more than four centuries—from its earliest selection, Astrophil and Stella by Philip Sidney, published in 1591, to its most recent, The Safekeep by Yael van der Wouden, published in 2024. The list below is an effort to name the love stories—novels, of course, but also poetry, plays, and short stories—that are the most enduring. To arrive at 50 titles, The Atlantic ’s Books team asked a jury of scholars, librarians, critics, and authors across genres, as well as many colleagues, to name their favorite titles that were originally written in English. As the introduction to the list says: “We thought of our own personal touchstones, deliberated over the choices, and emerged with a group of standouts: 50 titles you won’t soon forget.” The editors write that across centuries, “the love story, with all of its attendant joys and sorrows, was an organizing principle of life—and of literature … Today, fictional love is associated with the romance genre and its proliferating subcategories, and you’ll find examples of those books here, but we aimed to think more expansively about its literary manifestations. The love story belongs as much to Arundhati Roy as to Jane Austen; its pulse beats as strongly in the knotty poetry of Anne Carson as it does in the steamy historicals of Beverly Jenkins. It is by turns ecstatic, tragic, cerebral, enthralling, and enlightening. For so many of us, it’s a reason to live and to read.” “50 Unforgettable Love Stories” is part of The Atlantic ’s robust Books section , devoted to essays, criticism, reporting, original fiction, poetry, and book recommendations, as well as The Atlantic ’s weekly Books Briefing newsletter. This follows The Atlantic ’s earlier books projects “ 65 Essential Children’s Books ,” released in October 2025, “ The Best American Poetry of the 21st Century (So Far) ,” published in March 2025, and “ The Great American Novels ,” released in 2024. Press Contacts: Paul Jackson and Sammi Sontag | The Atlantic press@theatlantic.com"
-    },
-    {
-      "title": "Stop Trying to Be Your Best Self",
-      "link": "https://www.theatlantic.com/family/2026/10/self-worth-esteem-book/689079/",
-      "author": "",
-      "published": "2026-10-21T13:33:43+00:00",
-      "category": "精选",
-      "summary": "A new book argues that being sort of confident is enough."
-    },
-    {
-      "title": "50 Unforgettable Love Stories",
-      "link": "https://www.theatlantic.com/books/2026/10/love-stories-romance-novels/688079/",
-      "author": "",
-      "published": "2026-10-21T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Centuries of joyous, tragic, tantalizing, enduring fiction"
-    },
-    {
-      "title": "This Is Not a Cycle of Retribution",
-      "link": "https://www.theatlantic.com/ideas/2026/10/slotkin-trump-investigations-corruption/689092/",
-      "author": "",
-      "published": "2026-10-21T11:30:00+00:00",
-      "category": "精选",
-      "summary": "The Republican response to Senator Elissa Slotkin is revealing."
-    },
-    {
-      "title": "The Contradictions of Troy Jackson",
-      "link": "https://www.theatlantic.com/culture/2026/10/troy-jackson-maine-progressive/689091/",
-      "author": "",
-      "published": "2026-10-21T11:00:00+00:00",
-      "category": "精选",
-      "summary": "The Democratic Senate candidate for Maine is courting working-class voters—while championing a set of policies that they don’t support."
-    },
-    {
-      "title": "Canadian Officers Don’t Want to Serve in the U.S. Anymore",
-      "link": "https://www.theatlantic.com/national-security/2026/10/military-cooperation-canada-trump/689057/",
-      "author": "",
-      "published": "2026-10-21T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Trump’s threats are making a real impact on U.S.-Canada military cooperation."
-    },
-    {
-      "title": "The Bill for Trumpism Comes Due",
-      "link": "https://www.theatlantic.com/ideas/2026/10/trump-budget-deficit-debt/689085/",
-      "author": "",
-      "published": "2026-10-21T10:00:00+00:00",
-      "category": "精选",
-      "summary": "Budget promises made, budget promises broken"
-    },
-    {
-      "title": "Why Trump Is Furious at Ukraine",
-      "link": "https://www.theatlantic.com/national-security/2026/10/trump-putin-russia-ukraine-midterms/689096/",
-      "author": "",
-      "published": "2026-10-21T00:12:00+00:00",
-      "category": "精选",
-      "summary": "The president thinks the country is trying to undermine his party’s chances in the midterm elections."
-    },
-    {
-      "title": "Elon Musk and Dario Amodei Are Offering Gifts—With Strings Attached",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/ai-charities-power-control/689097/",
-      "author": "",
-      "published": "2026-10-20T23:30:00+00:00",
-      "category": "全部",
-      "summary": "Their charitable acts could help a lot of people—but they also raise questions about these companies’ role in society."
-    },
-    {
-      "title": "You Can Believe Everything",
-      "link": "https://www.theatlantic.com/technology/2026/10/theranos-elizabeth-holmes-musk-flying-car/689095/",
-      "author": "",
-      "published": "2026-10-20T21:12:43+00:00",
-      "category": "科技",
-      "summary": "What do Elizabeth Holmes and Elon Musk’s flying car have in common?"
-    },
-    {
-      "title": "France Will Never Be Enough for the People Desecrating It",
-      "link": "https://www.theatlantic.com/ideas/2026/10/france-protests-macron-government/689089/",
-      "author": "",
-      "published": "2026-10-20T19:54:00+00:00",
-      "category": "全部",
-      "summary": "No society, no matter how equal or enlightened, can satisfy nihilists."
-    },
-    {
-      "title": "Donald Trump Really Wants This Golf Course",
-      "link": "https://www.theatlantic.com/culture/2026/10/trump-golf-course/689086/",
-      "author": "",
-      "published": "2026-10-20T19:41:00+00:00",
-      "category": "全部",
-      "summary": "The government is going to considerable—bordering on absurd—lengths to make a D.C. park worthy of the PGA."
-    },
-    {
-      "title": "Sally Rooney Is Wrong, and So Is What’s Happening to Her",
-      "link": "https://www.theatlantic.com/ideas/2026/10/sally-rooney-free-speech/689087/",
-      "author": "",
-      "published": "2026-10-20T19:34:09+00:00",
-      "category": "精选",
-      "summary": "You don’t have to agree with the author and activist to see that Britain’s suppression of speech is a problem."
-    },
-    {
-      "title": "Trump Jr. Privately Breaks With His Dad",
-      "link": "https://www.theatlantic.com/politics/2026/10/trump-don-jr-iran-war/689078/",
-      "author": "",
-      "published": "2026-10-20T19:25:00+00:00",
-      "category": "精选",
-      "summary": "In private conversations, including with his father, Donald Trump Jr. has raised concerns about the Iran war."
-    },
-    {
-      "title": "All the President’s Hotties",
-      "link": "https://www.theatlantic.com/ideas/2026/10/trump-physical-appearance-senate-midterms/689084/",
-      "author": "",
-      "published": "2026-10-20T18:15:48+00:00",
-      "category": "精选",
-      "summary": "Donald Trump is 100 percent behind Jon Husted’s behind."
-    },
-    {
-      "title": "Winners of the 2026 Epson International Pano Awards",
-      "link": "https://www.theatlantic.com/photography/2026/10/winners-2026-epson-international-pano-awards/689074/",
-      "author": "",
-      "published": "2026-10-20T15:02:00+00:00",
-      "category": "全部",
-      "summary": "A collection of some of the highest-scoring images from the 17th edition of this panoramic-photo competition"
     }
   ]
 }
