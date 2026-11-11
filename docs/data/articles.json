@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T07:14:57.065528+00:00",
+  "updated_at": "2026-11-11T06:14:19.300316+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,118 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "The Tension Between Two of the Democrats’ Biggest Promises",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/democrats-next-big-ai-challenge/689376/",
+      "author": "",
+      "published": "2026-11-10T23:23:00+00:00",
+      "category": "精选",
+      "summary": "Lawmakers will have to figure out how to deliver on AI regulation without damaging the economy they’ve promised to protect."
+    },
+    {
+      "title": "Prepare for the AI Apocalypse Like You’d Prepare for a Snowstorm",
+      "link": "https://www.theatlantic.com/technology/2026/11/how-to-prepare-for-the-ai-apocalypse/689367/",
+      "author": "",
+      "published": "2026-11-10T22:01:25+00:00",
+      "category": "科技",
+      "summary": "Water, batteries, and go bags"
+    },
+    {
+      "title": "The Scapegals",
+      "link": "https://www.theatlantic.com/politics/2026/11/trump-administration-women-departures/689359/",
+      "author": "",
+      "published": "2026-11-10T21:06:49+00:00",
+      "category": "精选",
+      "summary": "Most of the top officials President Trump has pushed out have one thing in common."
+    },
+    {
+      "title": "Jensen Huang’s Apology May Be the Only Correct Use of AI",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/",
+      "author": "",
+      "published": "2026-11-10T18:08:00+00:00",
+      "category": "精选",
+      "summary": "There are some things in life, like writing an apology email for derailing both national security and one’s marriage, that nobody wants to do."
+    },
+    {
+      "title": "Why Pete Hegseth Faces Impeachment",
+      "link": "https://www.theatlantic.com/national-security/2026/11/pete-hegseth-thomas-massie-impeachment/689353/",
+      "author": "",
+      "published": "2026-11-10T17:42:29+00:00",
+      "category": "精选",
+      "summary": "A Republican lawmaker is forcing a vote on impeaching the defense secretary based on these eight charges."
+    },
+    {
+      "title": "Trump Has Been Corroded by Hate",
+      "link": "https://www.theatlantic.com/ideas/2026/11/trump-hate-legacy/689362/",
+      "author": "",
+      "published": "2026-11-10T17:00:35+00:00",
+      "category": "精选",
+      "summary": "And he has, in turn, also corroded the soul of his party."
+    },
+    {
+      "title": "Can Democrats Hold Trump Accountable?",
+      "link": "https://www.theatlantic.com/politics/2026/11/democrats-trump-investigations-corruption/689354/",
+      "author": "",
+      "published": "2026-11-10T16:51:36+00:00",
+      "category": "精选",
+      "summary": "They’re preparing investigations on numerous fronts, but the president knows how to stonewall."
+    },
+    {
+      "title": "The Unbearable Mediocrity of Microdramas",
+      "link": "https://www.theatlantic.com/culture/2026/11/microdramas-festival-vertical-entertainment/689361/",
+      "author": "",
+      "published": "2026-11-10T16:29:28+00:00",
+      "category": "精选",
+      "summary": "A new festival devoted to vertical-video series tries to make a case for the format."
+    },
+    {
+      "title": "Can ICE Be Abolished Now?",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/can-ice-be-abolished-now/689046/",
+      "author": "",
+      "published": "2026-11-10T16:00:00+00:00",
+      "category": "精选",
+      "summary": "How a Democratic Congress could stop the runaway federal agency"
+    },
+    {
+      "title": "The Trolls’ Comeuppance",
+      "link": "https://www.theatlantic.com/ideas/2026/11/attention-economy-republicans-failure/689347/",
+      "author": "",
+      "published": "2026-11-10T15:02:03+00:00",
+      "category": "精选",
+      "summary": "How the attention economy turned on Republicans"
+    },
+    {
+      "title": "Getting Too Close to Trump Was a Mistake",
+      "link": "https://www.theatlantic.com/ideas/2026/11/silicon-valley-trump-administration/689360/",
+      "author": "",
+      "published": "2026-11-10T14:30:00+00:00",
+      "category": "精选",
+      "summary": "For Silicon Valley leaders, cozying up to the Trump administration has led to a series of spectacular failures."
+    },
+    {
+      "title": "The Lost World of Aquaterra",
+      "link": "https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/",
+      "author": "",
+      "published": "2026-11-10T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Most of human history is waiting to be found. And it’s underwater."
+    },
+    {
+      "title": "What I Learned About Christmas—And Life—By Starring* in a Hallmark Movie",
+      "link": "https://www.theatlantic.com/magazine/2026/12/hallmark-christmas-movie-actor/689028/",
+      "author": "",
+      "published": "2026-11-10T12:00:00+00:00",
+      "category": "精选",
+      "summary": "*Playing a minor character"
+    },
+    {
+      "title": "Reading Isn’t Over Yet",
+      "link": "https://www.theatlantic.com/magazine/2026/12/the-commons/689017/",
+      "author": "",
+      "published": "2026-11-10T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Readers respond to our August 2026 cover story and more."
+    },
     {
       "title": "A Scandal at the Center of the Economy",
       "link": "https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/",
@@ -40,15 +152,15 @@
       "link": "https://www.theatlantic.com/podcasts/2026/11/ra-iran-fallout/689349/",
       "author": "",
       "published": "2026-11-09T23:33:06+00:00",
-      "category": "精选",
-      "summary": "What’s next for the war in Iran—and the secretary that’s the face of it?"
+      "category": "全部",
+      "summary": "What’s next for the war in Iran—and the secretary who’s the face of it?"
     },
     {
       "title": "Trump Slides Into His Lame-Duck Era",
       "link": "https://www.theatlantic.com/newsletters/2026/11/trump-lame-duck-era-dana-white/689355/",
       "author": "",
       "published": "2026-11-09T21:45:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The Dana White debacle is a first glimpse at a president whose power has been sapped."
     },
     {
@@ -56,7 +168,7 @@
       "link": "https://www.theatlantic.com/photography/2026/11/photos-lights-diwali-2026/689348/",
       "author": "",
       "published": "2026-11-09T20:44:30+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Hindus, Buddhists, Jains, Sikhs, and others around the world are celebrating the five-day festival of Diwali. Observers offer prayers and use fireworks, lanterns, and colorful lights to celebrate the triumph of light over darkness, good over evil, and knowledge over ignorance."
     },
     {
@@ -80,7 +192,7 @@
       "link": "https://www.theatlantic.com/politics/2026/11/mississippi-voters-senate-election-experian/689345/",
       "author": "",
       "published": "2026-11-09T19:22:18+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Tens of thousands of voters in the state were shifted to “inactive” status."
     },
     {
@@ -88,7 +200,7 @@
       "link": "https://www.theatlantic.com/books/2026/11/ethical-russophile-russia-carrere-kolkhoz/688945/",
       "author": "",
       "published": "2026-11-09T19:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "In his new memoir, Emmanuel Carrère wonders if he can both oppose the war in Ukraine and love Russia."
     },
     {
@@ -1898,118 +2010,6 @@
       "published": "2026-10-22T12:13:00+00:00",
       "category": "国际",
       "summary": "Local manufacturers are struggling to make one very important thing."
-    },
-    {
-      "title": "A Forgotten Fix for American Racial Strife",
-      "link": "https://www.theatlantic.com/books/2026/10/harold-cruse-biography-racism-integration/689110/",
-      "author": "",
-      "published": "2026-10-22T12:00:00+00:00",
-      "category": "全部",
-      "summary": "Harold Cruse had a prescient understanding of why social movements stumble—and how they might find more success."
-    },
-    {
-      "title": "Sending a Silly Meme Is an Act of Love",
-      "link": "https://www.theatlantic.com/family/2026/10/send-silly-memes/689077/",
-      "author": "",
-      "published": "2026-10-22T12:00:00+00:00",
-      "category": "全部",
-      "summary": "The case for a common, occasionally annoying, and secretly sweet digital habit"
-    },
-    {
-      "title": "America Is About to See What Happens When Voters Turn to AI",
-      "link": "https://www.theatlantic.com/technology/2026/10/ai-midterm-election-voters-chatbots/689103/",
-      "author": "",
-      "published": "2026-10-22T11:30:00+00:00",
-      "category": "科技",
-      "summary": "Chatbots are adding a new layer of chaos ahead of the midterms."
-    },
-    {
-      "title": "The New Subterranean Front",
-      "link": "https://www.theatlantic.com/national-security/2026/10/ukraine-war-gas-pipelines-russia/689105/",
-      "author": "",
-      "published": "2026-10-22T11:00:00+00:00",
-      "category": "精选",
-      "summary": "As drones fill the skies over the war zone, the fighting in Ukraine has moved into a network of gas pipelines deep belowground."
-    },
-    {
-      "title": "Maria Bamford on OCD, Pugs, and Getting Paid",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/maria-bamford-is-tough-as-nails/689076/",
-      "author": "",
-      "published": "2026-10-22T11:00:00+00:00",
-      "category": "全部",
-      "summary": "An interview with the comedian about Paralyzed by Hope , a new Netflix documentary about her"
-    },
-    {
-      "title": "What the U.S. Is Really Doing in Venezuela",
-      "link": "https://www.theatlantic.com/magazine/2026/12/trump-oil-venezuela-exploitation/689033/",
-      "author": "",
-      "published": "2026-10-22T11:00:00+00:00",
-      "category": "国际",
-      "summary": "Suppressing democracy and extracting resources at the expense of its people"
-    },
-    {
-      "title": "Vladimir Putin, the Humanitarian",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/congratulations-great-humanitarian-vladimir-putin/689111/",
-      "author": "",
-      "published": "2026-10-21T22:56:00+00:00",
-      "category": "精选",
-      "summary": "Please update your dictionaries accordingly."
-    },
-    {
-      "title": "Vivek Ramaswamy’s Appalling Campaign Ad",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/vivek-ramaswamy-ohio-amy-acton-child-abuse/689108/",
-      "author": "",
-      "published": "2026-10-21T21:50:00+00:00",
-      "category": "精选",
-      "summary": "The Republican candidate for governor of Ohio has drawn condemnation from the right and the left for casually dismissing his opponent’s account of being raped as a child."
-    },
-    {
-      "title": "Read This Website While You Still Can",
-      "link": "https://www.theatlantic.com/technology/2026/10/ai-hacking-apocalypse-began-last-night/689106/",
-      "author": "",
-      "published": "2026-10-21T19:21:21+00:00",
-      "category": "科技",
-      "summary": "Parts of the internet are going dark to protect against a newly discovered vulnerability."
-    },
-    {
-      "title": "Why Is Everyone Avoiding the Biggest Issue Facing Voters?",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/trump-golf-course-dc-potomac/689104/",
-      "author": "",
-      "published": "2026-10-21T18:17:00+00:00",
-      "category": "精选",
-      "summary": "Please, I beg you, Mr. President, do not stop talking about the golf course."
-    },
-    {
-      "title": "Will the Tech Oligarchs Turn on Trump?",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/david-frum-show-kara-swisher-tech-oligarchs-trump-ai/689101/",
-      "author": "",
-      "published": "2026-10-21T17:00:00+00:00",
-      "category": "全部",
-      "summary": "Kara Swisher on whether AI will ever be regulated"
-    },
-    {
-      "title": "Like Ken Paxton, Without the Baggage",
-      "link": "https://www.theatlantic.com/ideas/2026/10/texas-attorney-general-race/689061/",
-      "author": "",
-      "published": "2026-10-21T16:06:17+00:00",
-      "category": "全部",
-      "summary": "The most important race in Texas is for attorney general."
-    },
-    {
-      "title": "The Data-Center Rebellion Is Just Beginning",
-      "link": "https://www.theatlantic.com/technology/2026/10/year-world-turned-data-centers/689081/",
-      "author": "",
-      "published": "2026-10-21T15:00:06+00:00",
-      "category": "科技",
-      "summary": "Infrastructure that once flew under the radar is now the subject of national and global outrage."
-    },
-    {
-      "title": "The Paradox of African Writing and AI",
-      "link": "https://www.theatlantic.com/books/2026/10/caine-prize-winner-tope-folarin-on-african-writing-and-ai/689098/",
-      "author": "",
-      "published": "2026-10-21T14:53:53+00:00",
-      "category": "科技",
-      "summary": "A past winner of the Caine Prize draws a hard lesson from the controversy over its latest recipient."
     }
   ]
 }
