@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T06:14:19.300316+00:00",
+  "updated_at": "2026-11-12T07:07:48.081197+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,118 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Trump’s Stance on Jensen Huang Is a Tell",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/trump-jensen-huang-affair-ignorance-national-security/689390/",
+      "author": "",
+      "published": "2026-11-11T23:06:00+00:00",
+      "category": "精选",
+      "summary": "The president’s decision to feign ignorance about the Nvidia scandal shows once again that he doesn’t care that much about national security."
+    },
+    {
+      "title": "Democrats Should Cut a Deal With Trump",
+      "link": "https://www.theatlantic.com/ideas/2026/11/democrats-trump-deal-not-investigation/689368/",
+      "author": "",
+      "published": "2026-11-11T19:15:00+00:00",
+      "category": "精选",
+      "summary": "Instead of revenge, the party could seek lasting reforms."
+    },
+    {
+      "title": "Can Republicans Quit Trump?",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/david-frum-show-bob-inglis-republicans-quit-trump/689383/",
+      "author": "",
+      "published": "2026-11-11T18:00:00+00:00",
+      "category": "精选",
+      "summary": "Former Representative Bob Inglis on the experience of political defeat and whether the blue wave will let Republicans break free of Trumpism"
+    },
+    {
+      "title": "The Atlantic Announces Amanda Mull, Annalisa Quinn, and Erik Slavin as Staff Writers",
+      "link": "https://www.theatlantic.com/press-releases/2026/11/atlantics-latest-hiring-news-november-2026/689382/",
+      "author": "",
+      "published": "2026-11-11T16:35:04+00:00",
+      "category": "精选",
+      "summary": "Bill Tipper hired as a senior editor overseeing The Atlantic’ s forthcoming book club"
+    },
+    {
+      "title": "Modi Is Facing ‘A Million Mutinies’",
+      "link": "https://www.theatlantic.com/international/2026/11/modi-india-cockroach-party/689370/",
+      "author": "",
+      "published": "2026-11-11T15:26:36+00:00",
+      "category": "国际",
+      "summary": "The crackdown on India’s protests has looked less like a show of force than an admission of fear."
+    },
+    {
+      "title": "The Stealth Friendship Killer",
+      "link": "https://www.theatlantic.com/family/2026/11/out-of-town-weekend/689377/",
+      "author": "",
+      "published": "2026-11-11T14:00:00+00:00",
+      "category": "精选",
+      "summary": "Lots of people spend weekends away from home—but in doing so, they sacrifice something important."
+    },
+    {
+      "title": "The Worst Thing About AI Writing",
+      "link": "https://www.theatlantic.com/books/2026/11/french-ai-literary-scandal-and-black-writers/689375/",
+      "author": "",
+      "published": "2026-11-11T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Using chatbots to write a novel is questionable. Using them to write a bad one is horrifying."
+    },
+    {
+      "title": "The Case Against a ‘Religious Left’",
+      "link": "https://www.theatlantic.com/ideas/2026/11/religious-left-christian-democrats/689374/",
+      "author": "",
+      "published": "2026-11-11T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Christians should be wary of collaborating too closely with the Democratic Party."
+    },
+    {
+      "title": "A Novel About Obsessively Digging Into the Past",
+      "link": "https://www.theatlantic.com/books/2026/11/what-remains-brais-lamela-book-review/689378/",
+      "author": "",
+      "published": "2026-11-11T12:30:00+00:00",
+      "category": "精选",
+      "summary": "A new book by the Galician writer Brais Lamela chronicles the drive that many have to touch history, no matter how elusive it is."
+    },
+    {
+      "title": "What I Saw Every Step of the Way",
+      "link": "https://www.theatlantic.com/photography/2026/11/photographs-david-hume-kennerly/689264/",
+      "author": "",
+      "published": "2026-11-11T12:30:00+00:00",
+      "category": "精选",
+      "summary": "Powerful photographs from David Hume Kennerly’s six decades on the “front lines of history”"
+    },
+    {
+      "title": "The Left’s Election Denial",
+      "link": "https://www.theatlantic.com/ideas/2026/11/moderates-midterms-success-progressives/689371/",
+      "author": "",
+      "published": "2026-11-11T12:00:00+00:00",
+      "category": "精选",
+      "summary": "The Democrats’ most impressive victories in 2026 came from mainstream or moderate candidates."
+    },
+    {
+      "title": "The Perverse Reason Health-Care Costs Are About to Surge",
+      "link": "https://www.theatlantic.com/economy/2026/11/affordability-crisis-health-care-insurance/689365/",
+      "author": "",
+      "published": "2026-11-11T12:00:00+00:00",
+      "category": "精选",
+      "summary": "A law designed to end surprise billing has turned into a tool for squeezing even more money out of insurers—and raising costs for everyone else."
+    },
+    {
+      "title": "‘Make Politics Boring Again’",
+      "link": "https://www.theatlantic.com/politics/2026/11/majority-democrats-denver-election/689358/",
+      "author": "",
+      "published": "2026-11-11T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Jake Auchincloss has some ideas for his party."
+    },
+    {
+      "title": "The Christian Nationalists Have a Plan",
+      "link": "https://www.theatlantic.com/politics/2026/11/christian-nationalism-trump-elections/689373/",
+      "author": "",
+      "published": "2026-11-11T11:30:00+00:00",
+      "category": "精选",
+      "summary": "Movement leaders see last week’s defeat of Republicans as the prelude to a far-right takeover."
+    },
     {
       "title": "The Tension Between Two of the Democrats’ Biggest Promises",
       "link": "https://www.theatlantic.com/newsletters/2026/11/democrats-next-big-ai-challenge/689376/",
@@ -48,7 +160,7 @@
       "link": "https://www.theatlantic.com/national-security/2026/11/pete-hegseth-thomas-massie-impeachment/689353/",
       "author": "",
       "published": "2026-11-10T17:42:29+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A Republican lawmaker is forcing a vote on impeaching the defense secretary based on these eight charges."
     },
     {
@@ -56,7 +168,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/trump-hate-legacy/689362/",
       "author": "",
       "published": "2026-11-10T17:00:35+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "And he has, in turn, also corroded the soul of his party."
     },
     {
@@ -64,7 +176,7 @@
       "link": "https://www.theatlantic.com/politics/2026/11/democrats-trump-investigations-corruption/689354/",
       "author": "",
       "published": "2026-11-10T16:51:36+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "They’re preparing investigations on numerous fronts, but the president knows how to stonewall."
     },
     {
@@ -72,7 +184,7 @@
       "link": "https://www.theatlantic.com/culture/2026/11/microdramas-festival-vertical-entertainment/689361/",
       "author": "",
       "published": "2026-11-10T16:29:28+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A new festival devoted to vertical-video series tries to make a case for the format."
     },
     {
@@ -80,7 +192,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/11/can-ice-be-abolished-now/689046/",
       "author": "",
       "published": "2026-11-10T16:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "How a Democratic Congress could stop the runaway federal agency"
     },
     {
@@ -88,7 +200,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/attention-economy-republicans-failure/689347/",
       "author": "",
       "published": "2026-11-10T15:02:03+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "How the attention economy turned on Republicans"
     },
     {
@@ -1898,118 +2010,6 @@
       "published": "2026-10-23T17:00:00+00:00",
       "category": "精选",
       "summary": "Tech leaders have escape plans. What about everybody else?"
-    },
-    {
-      "title": "An Anti-Marriage Marriage Movie",
-      "link": "https://www.theatlantic.com/culture/2026/10/wicker-movie-marriage-olivia-colman/689122/",
-      "author": "",
-      "published": "2026-10-23T13:59:48+00:00",
-      "category": "精选",
-      "summary": "In Wicker , a woman and her basket show just how suffocating the institution can be."
-    },
-    {
-      "title": "Photos of the Week: Foam Fight, Santa Dance, Orangutan Escape",
-      "link": "https://www.theatlantic.com/photography/2026/10/photos-of-the-week-foam-fight-santa-dance-orangutan-escape/689117/",
-      "author": "",
-      "published": "2026-10-23T13:00:00+00:00",
-      "category": "精选",
-      "summary": "A huge Hindu festival in India, hazy skies from wildfires in Indonesia, preparations for a presidential runoff election in Brazil, Halloween decorations in Los Angeles, a newborn giraffe in Germany, and much more"
-    },
-    {
-      "title": "Why Trump Can’t Sell Putin a Deal",
-      "link": "https://www.theatlantic.com/international/2026/10/trump-putin-ukraine-nato/689118/",
-      "author": "",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "国际",
-      "summary": "Economic incentives don’t persuade the Russian leader. Here’s what could."
-    },
-    {
-      "title": "The Party That Must Not Be Named",
-      "link": "https://www.theatlantic.com/politics/2026/10/sherrod-brown-ohio-senate-midterms/689094/",
-      "author": "",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Sherrod Brown doesn’t want you to know he’s a Democrat."
-    },
-    {
-      "title": "The Man in the Middle of Trump’s Deeply Conflicted Ukraine Policy",
-      "link": "https://www.theatlantic.com/national-security/2026/10/ukraine-russia-trump-john-ratcliffe/689090/",
-      "author": "",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "精选",
-      "summary": "CIA Director John Ratcliffe leads an agency that’s at war with Russia, even as Trump makes nice with Putin."
-    },
-    {
-      "title": "‘If Anything Happens to This Guy … Everyone Is Screwed’",
-      "link": "https://www.theatlantic.com/technology/2026/10/man-who-saved-internet-php-vulnerability/689123/",
-      "author": "",
-      "published": "2026-10-22T23:47:00+00:00",
-      "category": "科技",
-      "summary": "Ondřej Surý was a relatively anonymous volunteer working on PHP security. Then the internet exploded."
-    },
-    {
-      "title": "Trump’s Gamble to End the Iran War",
-      "link": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121/",
-      "author": "",
-      "published": "2026-10-22T21:41:50+00:00",
-      "category": "全部",
-      "summary": "The president is considering another escalation in the Middle East."
-    },
-    {
-      "title": "When Rivers Run Low in the American West",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/the-one-resource-the-american-west-will-never-stop-fighting-over/689120/",
-      "author": "",
-      "published": "2026-10-22T19:32:00+00:00",
-      "category": "全部",
-      "summary": "Water is the one resource that the region will never stop fighting over."
-    },
-    {
-      "title": "The Myth of Safe AI",
-      "link": "https://www.theatlantic.com/technology/2026/10/false-promise-of-safe-ai/689114/",
-      "author": "",
-      "published": "2026-10-22T19:12:03+00:00",
-      "category": "科技",
-      "summary": "Silicon Valley promises to make AI benevolent. That may be technically impossible."
-    },
-    {
-      "title": "America Needs Its Indian Immigrants",
-      "link": "https://www.theatlantic.com/ideas/2026/10/america-anti-indian-bigotry/689107/",
-      "author": "",
-      "published": "2026-10-22T19:00:27+00:00",
-      "category": "全部",
-      "summary": "The country relies on their talents, ambition, and skills to power two of its most important sectors—technology and medicine."
-    },
-    {
-      "title": "A Congressional District Where the Iran War Is Personal",
-      "link": "https://www.theatlantic.com/politics/2026/10/iran-war-virginia-midterms/688948/",
-      "author": "",
-      "published": "2026-10-22T18:18:03+00:00",
-      "category": "全部",
-      "summary": "How voters in Virginia’s veteran-rich Second Congressional District feel about the war could determine control of Congress."
-    },
-    {
-      "title": "The Limits of the Cinematic Universe",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/clayface-dc-universe-james-gunn-video-village/689115/",
-      "author": "",
-      "published": "2026-10-22T17:37:18+00:00",
-      "category": "全部",
-      "summary": "Clayface is a gory horror movie without the world building to give it substance."
-    },
-    {
-      "title": "Why So Many Men Aren’t Working",
-      "link": "https://www.theatlantic.com/ideas/2026/10/job-market-unemployment-men-screentime/689109/",
-      "author": "",
-      "published": "2026-10-22T13:49:15+00:00",
-      "category": "精选",
-      "summary": "Jobs exist. The trouble lies in finding men who are willing and able to take them."
-    },
-    {
-      "title": "China’s Economy Has a Huge Weakness",
-      "link": "https://www.theatlantic.com/international/2026/10/chinese-companies-profit-problem/689088/",
-      "author": "",
-      "published": "2026-10-22T12:13:00+00:00",
-      "category": "国际",
-      "summary": "Local manufacturers are struggling to make one very important thing."
     }
   ]
 }
