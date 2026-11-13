@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T07:07:48.081197+00:00",
+  "updated_at": "2026-11-13T06:42:08.953814+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,118 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "What the Iraq War Foretold About How the Iran War Will End",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/politics-or-iran-war-bush-trump/689421/",
+      "author": "",
+      "published": "2026-11-12T22:46:00+00:00",
+      "category": "精选",
+      "summary": "The political fight over how to resolve the current conflict may be just beginning."
+    },
+    {
+      "title": "The Jensen Huang Scandal Should Change Everything",
+      "link": "https://www.theatlantic.com/international/2026/11/nvidia-affair-chips-china/689417/",
+      "author": "",
+      "published": "2026-11-12T21:35:14+00:00",
+      "category": "国际",
+      "summary": "America needs a new approach to AI."
+    },
+    {
+      "title": "An Offbeat Director Worth Your Time",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/paper-tiger-james-gray-video-village/689416/",
+      "author": "",
+      "published": "2026-11-12T21:23:34+00:00",
+      "category": "精选",
+      "summary": "James Gray makes good movies with big-name actors and big budgets, but hasn’t gotten mainstream acclaim."
+    },
+    {
+      "title": "Investigating Michel Houellebecq Is a Dangerous Mistake",
+      "link": "https://www.theatlantic.com/ideas/2026/11/michel-houellebecq-investigation-france/689415/",
+      "author": "",
+      "published": "2026-11-12T21:13:00+00:00",
+      "category": "精选",
+      "summary": "The French writer’s comments about Muslims could lead to criminal charges, which should concern anyone who professes to care about free speech."
+    },
+    {
+      "title": "Why Black Voters Abandoned Trump",
+      "link": "https://www.theatlantic.com/politics/2026/11/black-voters-redistricting-midterms/689389/",
+      "author": "",
+      "published": "2026-11-12T15:57:00+00:00",
+      "category": "精选",
+      "summary": "A shift toward the Republican Party didn’t survive contact with the president’s agenda."
+    },
+    {
+      "title": "Scott Colom Is Mississippi’s First Black Senator in 150 Years",
+      "link": "https://www.theatlantic.com/ideas/2026/11/scott-colom-us-senate-democrats/689395/",
+      "author": "",
+      "published": "2026-11-12T15:14:27+00:00",
+      "category": "精选",
+      "summary": "Blanche Bruce would have been proud."
+    },
+    {
+      "title": "What I Learned at a Drunk-Math Party",
+      "link": "https://www.theatlantic.com/technology/2026/11/drunk-math-party/689364/",
+      "author": "",
+      "published": "2026-11-12T14:00:00+00:00",
+      "category": "科技",
+      "summary": "AI might be taking over mathematics research, but there is reason for hope when it comes to the uniquely human love of numbers."
+    },
+    {
+      "title": "The Quest to Build an Immortal AI Companion",
+      "link": "https://www.theatlantic.com/technology/2026/11/people-keeping-ai-partners-alive/689380/",
+      "author": "",
+      "published": "2026-11-12T13:48:37+00:00",
+      "category": "科技",
+      "summary": "When updates threatened the existence of their AI companions, some dedicated users took matters into their own hands."
+    },
+    {
+      "title": "A $5.7 Trillion Face-Plant",
+      "link": "https://www.theatlantic.com/technology/2026/11/jensen-huangs-icarus-complex/689393/",
+      "author": "",
+      "published": "2026-11-12T13:40:36+00:00",
+      "category": "科技",
+      "summary": "The spectacular rise and fall of Jensen Huang"
+    },
+    {
+      "title": "The CEO, the Spy, and a Crisis for AI",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/the-jensen-huang-crisis-for-ai/689392/",
+      "author": "",
+      "published": "2026-11-12T13:32:28+00:00",
+      "category": "精选",
+      "summary": "“This may be the craziest story in the AI era since ChatGPT launched.”"
+    },
+    {
+      "title": "AI Is Destroying the Trust Between Writers and Readers",
+      "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "author": "",
+      "published": "2026-11-12T13:00:00+00:00",
+      "category": "精选",
+      "summary": "As literary scams proliferate, authors don’t know whether their readers are real anymore—and vice versa."
+    },
+    {
+      "title": "The Scandal Is Bigger Than Jensen Huang",
+      "link": "https://www.theatlantic.com/international/2026/11/nvidia-china-ai-regulation/689387/",
+      "author": "",
+      "published": "2026-11-12T12:00:00+00:00",
+      "category": "国际",
+      "summary": "No business executive should have so much political power that they can’t be held to account."
+    },
+    {
+      "title": "Netanyahu’s January 6 Moment",
+      "link": "https://www.theatlantic.com/international/2026/11/netanyahu-election-denial-israel/689386/",
+      "author": "",
+      "published": "2026-11-12T12:00:00+00:00",
+      "category": "国际",
+      "summary": "Disputing the results of an election is a new low for the Israeli prime minister."
+    },
+    {
+      "title": "The Last Trumpist Standing",
+      "link": "https://www.theatlantic.com/ideas/2026/11/stephen-miller-trump-chief-of-staff/689385/",
+      "author": "",
+      "published": "2026-11-12T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Stephen Miller has been there from the beginning, and he is now presiding over the end."
+    },
     {
       "title": "Trump’s Stance on Jensen Huang Is a Tell",
       "link": "https://www.theatlantic.com/newsletters/2026/11/trump-jensen-huang-affair-ignorance-national-security/689390/",
@@ -64,7 +176,7 @@
       "link": "https://www.theatlantic.com/books/2026/11/french-ai-literary-scandal-and-black-writers/689375/",
       "author": "",
       "published": "2026-11-11T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Using chatbots to write a novel is questionable. Using them to write a bad one is horrifying."
     },
     {
@@ -72,7 +184,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/religious-left-christian-democrats/689374/",
       "author": "",
       "published": "2026-11-11T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Christians should be wary of collaborating too closely with the Democratic Party."
     },
     {
@@ -80,7 +192,7 @@
       "link": "https://www.theatlantic.com/books/2026/11/what-remains-brais-lamela-book-review/689378/",
       "author": "",
       "published": "2026-11-11T12:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A new book by the Galician writer Brais Lamela chronicles the drive that many have to touch history, no matter how elusive it is."
     },
     {
@@ -88,7 +200,7 @@
       "link": "https://www.theatlantic.com/photography/2026/11/photographs-david-hume-kennerly/689264/",
       "author": "",
       "published": "2026-11-11T12:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Powerful photographs from David Hume Kennerly’s six decades on the “front lines of history”"
     },
     {
@@ -1898,118 +2010,6 @@
       "published": "2026-10-25T16:00:00+00:00",
       "category": "精选",
       "summary": "A poem"
-    },
-    {
-      "title": "Do Miracles Really Happen?",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/do-miracles-really-happen/689116/",
-      "author": "",
-      "published": "2026-10-25T13:00:00+00:00",
-      "category": "精选",
-      "summary": "People throughout history have claimed to witness impossible occurrences. Historian Carlos Eire asks: What if they’re telling the truth?"
-    },
-    {
-      "title": "A Mathematician Reads the AI Future",
-      "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-      "author": "",
-      "published": "2026-10-25T12:00:00+00:00",
-      "category": "精选",
-      "summary": "My field is as much an expression of the human spirit as music and literature. Is it for the machines now?"
-    },
-    {
-      "title": "The Greek Island That Taught Me the Art of Living",
-      "link": "https://www.theatlantic.com/books/2026/10/platon-paros-photography-book-greece/689083/",
-      "author": "",
-      "published": "2026-10-25T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Chronicling the disappearance of the old ways in a village where I was raised"
-    },
-    {
-      "title": "Six of the Greatest Movie Soundtracks From This Century",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/six-greatest-movie-soundtracks-21st-century/689135/",
-      "author": "",
-      "published": "2026-10-25T11:00:00+00:00",
-      "category": "精选",
-      "summary": "A movie’s music choices can be just as memorable as the film itself."
-    },
-    {
-      "title": "Celebrity Has Become a Jobs Program",
-      "link": "https://www.theatlantic.com/books/2026/10/who-weekly-book-i-want-to-be-famous-review/689139/",
-      "author": "",
-      "published": "2026-10-24T16:00:00+00:00",
-      "category": "精选",
-      "summary": "A new book by the hosts of Who? Weekly scrutinizes how social media democratized fame."
-    },
-    {
-      "title": "The Temporary Pleasure of Conversation",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/the-secret-to-a-good-conversation/689141/",
-      "author": "",
-      "published": "2026-10-24T15:41:00+00:00",
-      "category": "精选",
-      "summary": "Talking is a fleeting act, but that transience gives it meaning."
-    },
-    {
-      "title": "What Shifting U.S. Support May Mean for Ukraine",
-      "link": "https://www.theatlantic.com/national/2026/10/what-shifting-us-support-may-mean-ukraine/689140/",
-      "author": "",
-      "published": "2026-10-24T14:06:36+00:00",
-      "category": "全部",
-      "summary": "Panelists on Washington Week With The Atlantic joined to discuss how Donald Trump’s dismissal of Russian aggression against Ukraine has prompted bipartisan backlash."
-    },
-    {
-      "title": "AI Terrorism Is Just Terrorism",
-      "link": "https://www.theatlantic.com/ideas/2026/10/ai-terrorism-technology/689137/",
-      "author": "",
-      "published": "2026-10-24T12:00:00+00:00",
-      "category": "精选",
-      "summary": "The new technology hasn’t fundamentally transformed the problem—at least not yet."
-    },
-    {
-      "title": "A Very Suspicious Indictment of Two Former FBI Officials",
-      "link": "https://www.theatlantic.com/ideas/2026/10/fbi-indictments/689138/",
-      "author": "",
-      "published": "2026-10-24T01:01:25+00:00",
-      "category": "精选",
-      "summary": "The timing of the charges and the puzzling substance of the allegations raise questions about the integrity of the prosecutorial work."
-    },
-    {
-      "title": "A Very Suspicious Prosecution of Two Former FBI Officials",
-      "link": "https://www.theatlantic.com/ideas/2026/10/fbi-prosecution/689138/",
-      "author": "",
-      "published": "2026-10-24T01:01:25+00:00",
-      "category": "精选",
-      "summary": "The timing of the charges and the puzzling substance of the allegations raise questions about the integrity of the prosecutorial work."
-    },
-    {
-      "title": "The GOP’s Midterms-Money Advantage Has Its Limits",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/midterm-fundraising-republican-money-advantages/689136/",
-      "author": "",
-      "published": "2026-10-23T19:45:00+00:00",
-      "category": "全部",
-      "summary": "Cash can’t necessarily solve the challenges that Republican candidates face."
-    },
-    {
-      "title": "Welcome to the Valley of Pain",
-      "link": "https://www.theatlantic.com/technology/2026/10/the-safe-internet-is-shrinking/689130/",
-      "author": "",
-      "published": "2026-10-23T18:28:51+00:00",
-      "category": "科技",
-      "summary": "An explosion of AI-powered hacks will reshape life online."
-    },
-    {
-      "title": "The DEI Language That’s Doing More Harm Than Good",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/democrats-race-dei-hiring-edward-markey/689131/",
-      "author": "",
-      "published": "2026-10-23T17:12:00+00:00",
-      "category": "精选",
-      "summary": "Those committed to the fight for equal opportunity in hiring should reconsider the movement’s rhetoric, but not the principle that everyone should get a fair shot."
-    },
-    {
-      "title": "The Armageddon Economy",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/zealousness-new-tech-right/689124/",
-      "author": "",
-      "published": "2026-10-23T17:00:00+00:00",
-      "category": "精选",
-      "summary": "Tech leaders have escape plans. What about everybody else?"
     }
   ]
 }
