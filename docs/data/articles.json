@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T06:19:35.899094+00:00",
+  "updated_at": "2026-11-15T06:27:20.600662+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,70 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "China’s Intelligence Coup in the AI War",
+      "link": "https://www.theatlantic.com/national-security/2026/11/jensen-huang-chinese-intelligence-nvidia/689430/",
+      "author": "",
+      "published": "2026-11-14T17:15:32+00:00",
+      "category": "精选",
+      "summary": "China has been working for years to spy its way to AI dominance. With Jensen Huang, the country may have pulled off its greatest achievement yet."
+    },
+    {
+      "title": "The Joy of True Mental Effort",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/mental-effort-math-puzzles/689451/",
+      "author": "",
+      "published": "2026-11-14T16:27:00+00:00",
+      "category": "精选",
+      "summary": "Fully engaging your brain with no distractions can be a reminder of what the mind is capable of."
+    },
+    {
+      "title": "RFK Jr. Failed America on Measles",
+      "link": "https://www.theatlantic.com/health/2026/11/measles-elimination-status-endemic-kennedy/689450/",
+      "author": "",
+      "published": "2026-11-14T16:00:56+00:00",
+      "category": "精选",
+      "summary": "The virus is once again endemic in the United States."
+    },
+    {
+      "title": "What a New Congress Could Mean For Hegseth",
+      "link": "https://www.theatlantic.com/national/2026/11/congress-hegseth-washington-week/689449/",
+      "author": "",
+      "published": "2026-11-14T15:11:53+00:00",
+      "category": "全部",
+      "summary": "Panelists on Washington Week With The Atlantic joined to discuss the defense secretary’s future once Democrats take control of Congress."
+    },
+    {
+      "title": "Don’t Be So Surprised That Mississippi Turned Blue",
+      "link": "https://www.theatlantic.com/ideas/2026/11/scott-colom-mississippi-democrats/689443/",
+      "author": "",
+      "published": "2026-11-14T15:00:00+00:00",
+      "category": "精选",
+      "summary": "Scott Colom’s win is the product of decades of work."
+    },
+    {
+      "title": "10 Questions to Determine Whether Your Partner Is a Spy",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-partner-quiz-spy/689448/",
+      "author": "",
+      "published": "2026-11-14T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Here’s how to make sure you aren’t being honeypotted."
+    },
+    {
+      "title": "What the Tomb of the Unknown Soldier Means to Its Guards",
+      "link": "https://www.theatlantic.com/politics/2026/11/tomb-unknown-soldier-guards-meaning/689437/",
+      "author": "",
+      "published": "2026-11-14T12:00:00+00:00",
+      "category": "精选",
+      "summary": "The U.S. Army sentinel who reprimanded the defense secretary joins a century-long line of infantrymen who did their duty."
+    },
+    {
+      "title": "The Mind of a Megalomaniac",
+      "link": "https://www.theatlantic.com/ideas/2026/11/hitler-langer-cia-psychoanalysis/689434/",
+      "author": "",
+      "published": "2026-11-14T12:00:00+00:00",
+      "category": "全部",
+      "summary": "The secret government report that previewed Hitler’s final two years in power"
+    },
     {
       "title": "How to Land 4,000 Planes During a Ground Stop",
       "link": "https://www.theatlantic.com/technology/2026/11/flight-stop-safety/689447/",
@@ -136,7 +200,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/11/politics-or-iran-war-bush-trump/689421/",
       "author": "",
       "published": "2026-11-12T22:46:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The political fight over how to resolve the current conflict may be just beginning."
     },
     {
@@ -588,12 +652,12 @@
       "summary": "In a new memoir, the legendary reporter reveals his methods—but little of himself."
     },
     {
-      "title": "What Constant Surveillance Is Doing to Children",
+      "title": "The Parents Who Never Stop Tracking Their Kids",
       "link": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
       "author": "",
       "published": "2026-11-09T12:30:00+00:00",
       "category": "科技",
-      "summary": "And their parents"
+      "summary": "Tech has made it easy for parents to surveil their kids all the way through college—and beyond."
     },
     {
       "title": "Biden: What Trump Did on January 6 ‘Should Follow Him to His Grave’",
@@ -1946,70 +2010,6 @@
       "published": "2026-10-27T20:04:00+00:00",
       "category": "全部",
       "summary": "A big night for the Democrats could stymie any efforts to interfere with the election."
-    },
-    {
-      "title": "The Illusion of ‘Radical Transparency’",
-      "link": "https://www.theatlantic.com/ideas/2026/10/elizabeth-holmes-nathan-fielder-trump/689173/",
-      "author": "",
-      "published": "2026-10-27T19:00:47+00:00",
-      "category": "全部",
-      "summary": "What Elizabeth Holmes has in common with Donald Trump"
-    },
-    {
-      "title": "Bernie Sanders Thinks the Democratic Party Is Moving Toward Him",
-      "link": "https://www.theatlantic.com/politics/2026/10/bernie-sanders-michigan-party/689129/",
-      "author": "",
-      "published": "2026-10-27T16:46:46+00:00",
-      "category": "精选",
-      "summary": "He’s at the peak of his influence."
-    },
-    {
-      "title": "Trump’s Cheesecake Factory Dissent",
-      "link": "https://www.theatlantic.com/ideas/2026/10/obama-cheesecake-factory-trump-elitism/689171/",
-      "author": "",
-      "published": "2026-10-27T16:43:57+00:00",
-      "category": "全部",
-      "summary": "Every Republican wants to paint Obama as an out-of-touch elitist—except one."
-    },
-    {
-      "title": "Winners of the European Wildlife Photographer of the Year 2026",
-      "link": "https://www.theatlantic.com/photography/2026/10/winners-european-wildlife-photographer-year-2026/689169/",
-      "author": "",
-      "published": "2026-10-27T16:14:24+00:00",
-      "category": "全部",
-      "summary": "The German Society for Nature Photography recently announced the top images from the European Wildlife Photographer of the Year competition, selected from more than 26,000 entries from 46 countries."
-    },
-    {
-      "title": "The Issues Christian Voters Are Neglecting",
-      "link": "https://www.theatlantic.com/ideas/2026/10/midterms-maga-trump-christianity/689170/",
-      "author": "",
-      "published": "2026-10-27T16:11:26+00:00",
-      "category": "精选",
-      "summary": "What would a Christian political agenda look like if it were measured by the lives that could be saved, sheltered, and healed?"
-    },
-    {
-      "title": "Music for the Movie-Brained",
-      "link": "https://www.theatlantic.com/culture/2026/10/sophia-stel-a24-music/689149/",
-      "author": "",
-      "published": "2026-10-27T13:00:00+00:00",
-      "category": "全部",
-      "summary": "Sophia Stel’s new album fits an era in which technology encourages us to experience life as a movie."
-    },
-    {
-      "title": "Democrats Are Sounding More Like Republicans",
-      "link": "https://www.theatlantic.com/books/2026/10/midterm-elections-and-return-of-good-and-evil/689145/",
-      "author": "",
-      "published": "2026-10-27T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Why politicians are betting on ever more moralizing language"
-    },
-    {
-      "title": "The Costume I Can’t Persuade My Husband to Throw Away",
-      "link": "https://www.theatlantic.com/family/2026/10/wolf-dawg-halloween-costume-husband/689052/",
-      "author": "",
-      "published": "2026-10-27T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Its name is Wolf Dawg, and it hasn’t been cleaned in 18 years."
     }
   ]
 }
