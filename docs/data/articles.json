@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T06:27:20.600662+00:00",
+  "updated_at": "2026-11-16T06:25:01.101220+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,86 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Awesome",
+      "link": "https://www.theatlantic.com/technology/2026/11/spacex-starship-catch/689453/",
+      "author": "",
+      "published": "2026-11-16T01:52:00+00:00",
+      "category": "科技",
+      "summary": "The future of space travel looks very cool."
+    },
+    {
+      "title": "An Astute SNL Sketch About Who Deals With Aging Parents",
+      "link": "https://www.theatlantic.com/culture/2026/11/saturday-night-live-john-mulaney-baby-boomers-sister/689452/",
+      "author": "",
+      "published": "2026-11-15T18:55:00+00:00",
+      "category": "精选",
+      "summary": "John Mulaney was notably preoccupied with Boomers throughout his return as host."
+    },
+    {
+      "title": "Caravaggio",
+      "link": "https://www.theatlantic.com/books/2026/11/poem-peter-balakian-caravaggio/689422/",
+      "author": "",
+      "published": "2026-11-15T17:00:00+00:00",
+      "category": "精选",
+      "summary": "A poem"
+    },
+    {
+      "title": "The Pentagon Ignored a Warning About the Danger of Iran’s Drones",
+      "link": "https://www.theatlantic.com/national-security/2026/11/pentagon-drones-iran-war-hegseth/689425/",
+      "author": "",
+      "published": "2026-11-15T14:52:46+00:00",
+      "category": "精选",
+      "summary": "As soon as the war started, U.S. troops were killed."
+    },
+    {
+      "title": "What Are the Masculine Virtues?",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/what-are-masculine-virtues/689379/",
+      "author": "",
+      "published": "2026-11-15T14:00:00+00:00",
+      "category": "精选",
+      "summary": "The novelist and Iraq War veteran Phil Klay offers an alternative to Donald Trump and Pete Hegseth’s cartoonish view of manhood."
+    },
+    {
+      "title": "ChatGPT Analyzed 32,245 of My Text Messages",
+      "link": "https://www.theatlantic.com/family/2026/11/ai-text-message-analysis-friendship/689436/",
+      "author": "",
+      "published": "2026-11-15T13:00:00+00:00",
+      "category": "精选",
+      "summary": "I fed it a digital archive of one of my most intimate friendships. It had a lot to say."
+    },
+    {
+      "title": "Five Books That Would Make Great Movies",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/five-books-that-would-make-great-movies/689442/",
+      "author": "",
+      "published": "2026-11-15T12:00:00+00:00",
+      "category": "精选",
+      "summary": "These stories would translate well to the big screen."
+    },
+    {
+      "title": "Investigate Trump Like a Mob Boss",
+      "link": "https://www.theatlantic.com/ideas/2026/11/trump-investigation-strategy/689427/",
+      "author": "",
+      "published": "2026-11-15T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Democrats will be tempted to go directly after Trump. They should focus first on the misconduct of those around him."
+    },
+    {
+      "title": "30 Years for Moving a Box",
+      "link": "https://www.theatlantic.com/politics/2026/11/daniel-sanchez-prairieland-ice-protest/689372/",
+      "author": "",
+      "published": "2026-11-15T12:00:00+00:00",
+      "category": "精选",
+      "summary": "A man who relocated a collection of radical art, zines, and handbooks will spend the next three decades in prison."
+    },
+    {
+      "title": "The Only Thing Nathan Fielder Won’t Show",
+      "link": "https://www.theatlantic.com/ideas/2026/11/holmes-documentary-journalistic-ethics/689350/",
+      "author": "",
+      "published": "2026-11-15T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Why shouldn’t the subject of a documentary get paid?"
+    },
     {
       "title": "China’s Intelligence Coup in the AI War",
       "link": "https://www.theatlantic.com/national-security/2026/11/jensen-huang-chinese-intelligence-nvidia/689430/",
@@ -96,7 +176,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/flights-grounded-why/689446/",
       "author": "",
       "published": "2026-11-14T01:56:25+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Get ready for more havoc."
     },
     {
@@ -104,7 +184,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-cancelled/689444/",
       "author": "",
       "published": "2026-11-14T01:47:15+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "When anything can go wrong, speculation flourishes."
     },
     {
@@ -112,7 +192,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-airlines/689441/",
       "author": "",
       "published": "2026-11-14T00:17:15+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "This crisis is the latest air-travel humiliation."
     },
     {
@@ -128,7 +208,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/hegseth-resignation-trump-embarrassment/689435/",
       "author": "",
       "published": "2026-11-13T21:13:03+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "When a defense secretary has to make a public case that he is not an embarrassment to the president, he has already lost the battle."
     },
     {
@@ -1930,86 +2010,6 @@
       "published": "2026-10-28T17:00:00+00:00",
       "category": "全部",
       "summary": "Omar Mohammed on life in Mosul under ISIS rule"
-    },
-    {
-      "title": "Israeli Election Results Hazy, Try Again",
-      "link": "https://www.theatlantic.com/ideas/2026/10/israel-election-outcome-possibilities/689184/",
-      "author": "",
-      "published": "2026-10-28T16:19:00+00:00",
-      "category": "全部",
-      "summary": "The voting results are mostly in, and they are less conclusive than everyone hoped or than either side is willing to admit."
-    },
-    {
-      "title": "Why India Is Erupting",
-      "link": "https://www.theatlantic.com/international/2026/10/india-modi-cockroach-janta-party/689183/",
-      "author": "",
-      "published": "2026-10-28T15:54:01+00:00",
-      "category": "国际",
-      "summary": "Protests are challenging India’s Hindu-nationalist government like never before."
-    },
-    {
-      "title": "What You Are About to See From Oleshky, Ukraine, Is a Lie",
-      "link": "https://www.theatlantic.com/international/2026/10/oleshky-ceasefire-ukraine-press/689179/",
-      "author": "",
-      "published": "2026-10-28T12:47:46+00:00",
-      "category": "国际",
-      "summary": "The Kremlin is staging whitewashed tours of a city it has terrorized."
-    },
-    {
-      "title": "The Pants That Define the Cool Millennial Mom",
-      "link": "https://www.theatlantic.com/culture/2026/10/cool-mom-pants/689181/",
-      "author": "",
-      "published": "2026-10-28T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Many mothers want clothes that they can wear to the playground and to work—and companies are eager to sell them a uniform."
-    },
-    {
-      "title": "The Best Kind of Book Adaptation",
-      "link": "https://www.theatlantic.com/books/2026/10/best-book-adaptation-opera-george-saunders-lincoln-in-the-bardo/689178/",
-      "author": "",
-      "published": "2026-10-28T11:00:00+00:00",
-      "category": "精选",
-      "summary": "A new opera based on George Saunders’s novel Lincoln in the Bardo makes some fantastically shocking choices."
-    },
-    {
-      "title": "How American Girl Doll Lost Its Way",
-      "link": "https://www.theatlantic.com/magazine/2026/12/american-girl-dolls-40th-anniversary/689024/",
-      "author": "",
-      "published": "2026-10-28T11:00:00+00:00",
-      "category": "精选",
-      "summary": "At 40, the brand faces a midlife crisis."
-    },
-    {
-      "title": "When ICE Comes for a MAGA Supporter",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/ice-maga-supporter-samuel-sey/689180/",
-      "author": "",
-      "published": "2026-10-27T23:19:00+00:00",
-      "category": "精选",
-      "summary": "What happens to the right’s immigration views when the target for deportation is one of their own?"
-    },
-    {
-      "title": "Flying Across the World to Vote",
-      "link": "https://www.theatlantic.com/international/2026/10/israeli-expat-vote/689172/",
-      "author": "",
-      "published": "2026-10-27T21:21:12+00:00",
-      "category": "国际",
-      "summary": "Israeli expats traveled thousands of miles to make their voices heard."
-    },
-    {
-      "title": "Who Said It: Marissa Mayer, or Odysseus?",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/quiz-ai-odysseus-tech-industry-nyt/689174/",
-      "author": "",
-      "published": "2026-10-27T20:07:00+00:00",
-      "category": "全部",
-      "summary": "A quiz inspired by one bewildering anecdote about AI and parenting"
-    },
-    {
-      "title": "The Limits of Trump’s Midterm Trickery",
-      "link": "https://www.theatlantic.com/ideas/2026/10/trump-midterms-election-schemes/689177/",
-      "author": "",
-      "published": "2026-10-27T20:04:00+00:00",
-      "category": "全部",
-      "summary": "A big night for the Democrats could stymie any efforts to interfere with the election."
     }
   ]
 }
