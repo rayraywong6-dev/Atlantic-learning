@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T06:25:01.101220+00:00",
+  "updated_at": "2026-11-17T07:52:52.070366+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -12,15 +12,103 @@
   "errors": [],
   "articles": [
     {
+      "title": "Why Warnock Didn’t Sleep on Mississippi",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/ra-raphael-warnock/689454/",
+      "author": "",
+      "published": "2026-11-17T01:21:25+00:00",
+      "category": "精选",
+      "summary": "A conversation with Senator Raphael Warnock about Mississippi and protecting the vote"
+    },
+    {
+      "title": "The Dangerous Idea Rubio and Hegseth Are Endorsing",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/rubio-and-hegseth-law-force/689469/",
+      "author": "",
+      "published": "2026-11-16T23:44:00+00:00",
+      "category": "精选",
+      "summary": "The Trump administration’s repeated suggestions that force can and should triumph over law are un-American in the most original sense."
+    },
+    {
+      "title": "The Real Reason Robert Pattinson Is the New James Bond",
+      "link": "https://www.theatlantic.com/culture/2026/11/robert-pattinson-james-bond-casting/689468/",
+      "author": "",
+      "published": "2026-11-16T23:30:38+00:00",
+      "category": "精选",
+      "summary": "For any other franchise, the A-lister would be an obvious pick."
+    },
+    {
+      "title": "Sorry, Robert Pattinson Is Not James Bond",
+      "link": "https://www.theatlantic.com/ideas/2026/11/robert-pattinson-james-bond-casting/689464/",
+      "author": "",
+      "published": "2026-11-16T22:58:24+00:00",
+      "category": "精选",
+      "summary": "What is Amazon thinking?"
+    },
+    {
+      "title": "Are You Sure the Problem Is Pajamas, Sean Duffy?",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/pajamas-apology-sean-duffy-air-travel/689465/",
+      "author": "",
+      "published": "2026-11-16T22:36:00+00:00",
+      "category": "精选",
+      "summary": "It’s me, pajamas, and I’d like an apology."
+    },
+    {
+      "title": "The Rise of the Fusion Democrat",
+      "link": "https://www.theatlantic.com/politics/2026/11/democrat-factions-fighting-fusion/689428/",
+      "author": "",
+      "published": "2026-11-16T16:49:27+00:00",
+      "category": "精选",
+      "summary": "The Democrats won big this month. What if every faction gets to claim victory?"
+    },
+    {
+      "title": "The EV Boom Is Happening Without Car Buyers",
+      "link": "https://www.theatlantic.com/technology/2026/11/electric-cars-delivery-vans-robotaxis/689423/",
+      "author": "",
+      "published": "2026-11-16T14:00:00+00:00",
+      "category": "科技",
+      "summary": "Delivery vans, robotaxis, and police cars are all going electric."
+    },
+    {
+      "title": "The Future of AI Is Not China",
+      "link": "https://www.theatlantic.com/international/2026/11/ai-race-china-us/689439/",
+      "author": "",
+      "published": "2026-11-16T13:37:00+00:00",
+      "category": "国际",
+      "summary": "The Nvidia scandal will create only more hurdles for Chinese labs."
+    },
+    {
+      "title": "Who Is Anthropic Kidding?",
+      "link": "https://www.theatlantic.com/economy/2026/11/anthropic-ipo-ai-safety/689440/",
+      "author": "",
+      "published": "2026-11-16T12:00:00+00:00",
+      "category": "精选",
+      "summary": "The company’s pitch to investors depends on pursuing the very strategy that it warns could lead to human extinction."
+    },
+    {
+      "title": "One Word to Explain America",
+      "link": "https://www.theatlantic.com/books/2026/11/four-letter-nation-steven-h-jaffe-excerpt-curseword-history/689431/",
+      "author": "",
+      "published": "2026-11-16T12:00:00+00:00",
+      "category": "全部",
+      "summary": "The curse that’s gone from a political taboo to a mark of authenticity"
+    },
+    {
+      "title": "Trump Sets the Olive Branch on Fire",
+      "link": "https://www.theatlantic.com/politics/2026/11/trump-jeffries-schumer-2027/689433/",
+      "author": "",
+      "published": "2026-11-16T10:00:00+00:00",
+      "category": "精选",
+      "summary": "As the president’s blip of graciousness gives way to political combat, Democrats weigh how much to engage."
+    },
+    {
       "title": "Awesome",
       "link": "https://www.theatlantic.com/technology/2026/11/spacex-starship-catch/689453/",
       "author": "",
       "published": "2026-11-16T01:52:00+00:00",
       "category": "科技",
-      "summary": "The future of space travel looks very cool."
+      "summary": "SpaceX’s historic landing is a reminder that even extraordinary technology will be reinvented."
     },
     {
-      "title": "An Astute SNL Sketch About Who Deals With Aging Parents",
+      "title": "An Astute SNL Sketch About Who Cares for Aging Parents",
       "link": "https://www.theatlantic.com/culture/2026/11/saturday-night-live-john-mulaney-baby-boomers-sister/689452/",
       "author": "",
       "published": "2026-11-15T18:55:00+00:00",
@@ -104,7 +192,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/11/mental-effort-math-puzzles/689451/",
       "author": "",
       "published": "2026-11-14T16:27:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Fully engaging your brain with no distractions can be a reminder of what the mind is capable of."
     },
     {
@@ -112,11 +200,11 @@
       "link": "https://www.theatlantic.com/health/2026/11/measles-elimination-status-endemic-kennedy/689450/",
       "author": "",
       "published": "2026-11-14T16:00:56+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The virus is once again endemic in the United States."
     },
     {
-      "title": "What a New Congress Could Mean For Hegseth",
+      "title": "What a New Congress Could Mean for Hegseth",
       "link": "https://www.theatlantic.com/national/2026/11/congress-hegseth-washington-week/689449/",
       "author": "",
       "published": "2026-11-14T15:11:53+00:00",
@@ -1922,94 +2010,6 @@
       "published": "2026-10-29T11:00:00+00:00",
       "category": "科技",
       "summary": "The seminal conspiracy theory of the Trump era gets a facelift 10 years later."
-    },
-    {
-      "title": "The Long, Weird Tale of Comet Ping Pong",
-      "link": "https://www.theatlantic.com/technology/2026/10/pizzagate-comet-ping-pong-2026/689080/",
-      "author": "",
-      "published": "2026-10-29T11:00:00+00:00",
-      "category": "科技",
-      "summary": "Whatever happened to the D.C. pizza place that became a target for the internet’s darkest obsessives?"
-    },
-    {
-      "title": "The Trump Aide Trying to Stop a Blue Wave",
-      "link": "https://www.theatlantic.com/politics/2026/10/james-blair-trump-midterm-elections/689175/",
-      "author": "",
-      "published": "2026-10-29T10:00:00+00:00",
-      "category": "精选",
-      "summary": "James Blair, the president’s top political strategist, planned for a different midterm cycle. Then Trump attacked Iran."
-    },
-    {
-      "title": "Hegseth Fires a Top General",
-      "link": "https://www.theatlantic.com/national-security/2026/10/brett-sylvia-hegseth-general-pentagon/689199/",
-      "author": "",
-      "published": "2026-10-29T00:54:24+00:00",
-      "category": "精选",
-      "summary": "The U.S. military may be planning a return to war, but the director of planning is out."
-    },
-    {
-      "title": "Why Wouldn’t Google Tell Me Who Won the 2020 Election?",
-      "link": "https://www.theatlantic.com/technology/2026/10/google-search-ai-2020-election-trump/689197/",
-      "author": "",
-      "published": "2026-10-29T00:44:00+00:00",
-      "category": "科技",
-      "summary": "The world’s most popular AI tool dodged a consequential question."
-    },
-    {
-      "title": "Trump Is Closing From Behind",
-      "link": "https://www.theatlantic.com/politics/2026/10/trump-midterms-closing-message/689191/",
-      "author": "",
-      "published": "2026-10-28T23:50:00+00:00",
-      "category": "精选",
-      "summary": "His final plea to voters is not about the issues that matter the most to them."
-    },
-    {
-      "title": "A Stress Test for Prediction Markets",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/kalshi-polymarket-midterms-brazil/689196/",
-      "author": "",
-      "published": "2026-10-28T23:19:00+00:00",
-      "category": "精选",
-      "summary": "Is the industry ready for the midterms?"
-    },
-    {
-      "title": "How Elon Musk Turned on Ukraine",
-      "link": "https://www.theatlantic.com/national-security/2026/10/elon-musk-ukraine-starlink-alternative/689192/",
-      "author": "",
-      "published": "2026-10-28T22:28:52+00:00",
-      "category": "精选",
-      "summary": "No reliable alternatives exist to Musk’s satellite network, and Ukraine cannot survive for long without it."
-    },
-    {
-      "title": "Corruption Catches Up to MAGA",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/midtems-voters-corruption-inflation-gas-prices/689194/",
-      "author": "",
-      "published": "2026-10-28T22:10:00+00:00",
-      "category": "精选",
-      "summary": "Voters’ worries about inflation and gas prices have seemed to dominate the midterms—but late polling shows another issue vaulting to the top of their list of concerns."
-    },
-    {
-      "title": "There Are Too Many Apps for That",
-      "link": "https://www.theatlantic.com/technology/2026/10/vibe-coders-are-clogging-app-store-slop/689150/",
-      "author": "",
-      "published": "2026-10-28T20:03:50+00:00",
-      "category": "科技",
-      "summary": "An extraordinary number of vibe-coded apps are flooding the market. Is anyone actually using them?"
-    },
-    {
-      "title": "What Should You Do With Your Money in the Age of AI?",
-      "link": "https://www.theatlantic.com/technology/2026/10/ai-hedge-financial-tips/689187/",
-      "author": "",
-      "published": "2026-10-28T17:26:45+00:00",
-      "category": "科技",
-      "summary": "Financial tips for AI doomers (and accelerationists)"
-    },
-    {
-      "title": "The Man Who Risked Death Documenting ISIS",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/david-frum-show-omar-mohammed-eye-of-mosul/689185/",
-      "author": "",
-      "published": "2026-10-28T17:00:00+00:00",
-      "category": "全部",
-      "summary": "Omar Mohammed on life in Mosul under ISIS rule"
     }
   ]
 }
