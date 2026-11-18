@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T07:52:52.070366+00:00",
+  "updated_at": "2026-11-18T07:25:31.500327+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,118 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Jensen Huang and the Myth of Indispensability",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-indispensability-myth-nvidia-replacement/689483/",
+      "author": "",
+      "published": "2026-11-17T23:01:00+00:00",
+      "category": "精选",
+      "summary": "His supporters seem to have learned little from the chaos of the past two weeks."
+    },
+    {
+      "title": "Diplomacy, but Make It Obnoxious",
+      "link": "https://www.theatlantic.com/ideas/2026/11/marco-rubio-federalist-society-speech/689473/",
+      "author": "",
+      "published": "2026-11-17T22:38:00+00:00",
+      "category": "精选",
+      "summary": "Why does Rubio sound so nasty lately?"
+    },
+    {
+      "title": "An Obituary for America’s Measles-Elimination Status",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/rip-measles-elimination/689482/",
+      "author": "",
+      "published": "2026-11-17T22:05:00+00:00",
+      "category": "精选",
+      "summary": "It’d seemed to have many more good years ahead."
+    },
+    {
+      "title": "Trump’s Arch Must Be Stopped",
+      "link": "https://www.theatlantic.com/culture/2026/11/kennedy-trump-arch-arlington/689478/",
+      "author": "",
+      "published": "2026-11-17T19:41:00+00:00",
+      "category": "精选",
+      "summary": "The 250-foot structure would dishonor the veterans buried at Arlington National Cemetery. That’s why my family is suing."
+    },
+    {
+      "title": "Long Wave",
+      "link": "https://www.theatlantic.com/books/2026/11/daisy-johnson-long-wave/689456/",
+      "author": "",
+      "published": "2026-11-17T19:00:00+00:00",
+      "category": "全部",
+      "summary": "A short story"
+    },
+    {
+      "title": "Welcome to the Era of Second-Screen Reading",
+      "link": "https://www.theatlantic.com/books/2026/11/sarah-j-maas-acotar-second-screen-reading/689474/",
+      "author": "",
+      "published": "2026-11-17T18:45:00+00:00",
+      "category": "精选",
+      "summary": "Sarah J. Maas’s ACOTAR books aren’t meant to be consumed in the same way as best sellers of the past."
+    },
+    {
+      "title": "The Iran War Has Slipped Into a Dangerous Limbo",
+      "link": "https://www.theatlantic.com/national-security/2026/11/iran-war-trump-limbo/689471/",
+      "author": "",
+      "published": "2026-11-17T17:14:16+00:00",
+      "category": "精选",
+      "summary": "President Trump has decided to pursue neither strikes nor talks, leaving the United States and Iran in an unstable standoff."
+    },
+    {
+      "title": "Getting Out of Trump’s Wars",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/getting-out-of-trumps-wars/689047/",
+      "author": "",
+      "published": "2026-11-17T16:00:00+00:00",
+      "category": "精选",
+      "summary": "“If you break it, you buy it” is no good when it comes to military conflicts, says Representative Jason Crow, a former Army Ranger."
+    },
+    {
+      "title": "‘We Simply Cannot Trust This Belligerent Neighbor’",
+      "link": "https://www.theatlantic.com/international/2026/11/apec-china-us-xi-jinping/689462/",
+      "author": "",
+      "published": "2026-11-17T14:51:00+00:00",
+      "category": "国际",
+      "summary": "China’s ruthless pursuit of regional power may be backfiring."
+    },
+    {
+      "title": "Is This the End of Cheap Salmon?",
+      "link": "https://www.theatlantic.com/science/2026/11/salmon-farming/689418/",
+      "author": "",
+      "published": "2026-11-17T14:31:38+00:00",
+      "category": "精选",
+      "summary": "More people than ever want to eat the fish, but salmon farmers are closing in on their limits."
+    },
+    {
+      "title": "The Hollowing of the Venezuelan State",
+      "link": "https://www.theatlantic.com/international/2026/11/venezuela-maduro-oil-earthquake-intervention/689113/",
+      "author": "",
+      "published": "2026-11-17T14:00:00+00:00",
+      "category": "国际",
+      "summary": "Photographs of a collapsing economy, a decaying oil industry, and citizens left to fend for themselves"
+    },
+    {
+      "title": "The Least Productive Day of the Year",
+      "link": "https://www.theatlantic.com/culture/2026/11/gta-6-launch-time-off-work/689466/",
+      "author": "",
+      "published": "2026-11-17T13:38:42+00:00",
+      "category": "精选",
+      "summary": "The new Grand Theft Auto game’s debut might grind the workweek to a halt."
+    },
+    {
+      "title": "An Almost Entirely Unregulated Corner of the Health-Care Workforce",
+      "link": "https://www.theatlantic.com/family/2026/11/doula-regulations-failures/689463/",
+      "author": "",
+      "published": "2026-11-17T12:30:00+00:00",
+      "category": "精选",
+      "summary": "More and more expectant mothers are hiring a doula to support them during childbirth—and are realizing that they have little recourse if things go wrong."
+    },
+    {
+      "title": "Do Republican States Have a Better Quality of Life?",
+      "link": "https://www.theatlantic.com/politics/2026/11/new-york-florida-budgets/689470/",
+      "author": "",
+      "published": "2026-11-17T12:00:00+00:00",
+      "category": "精选",
+      "summary": "The perennial debate about which taxpayers get more for their money cannot be answered just by comparing budget lines."
+    },
     {
       "title": "Why Warnock Didn’t Sleep on Mississippi",
       "link": "https://www.theatlantic.com/podcasts/2026/11/ra-raphael-warnock/689454/",
@@ -80,7 +192,7 @@
       "link": "https://www.theatlantic.com/economy/2026/11/anthropic-ipo-ai-safety/689440/",
       "author": "",
       "published": "2026-11-16T12:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The company’s pitch to investors depends on pursuing the very strategy that it warns could lead to human extinction."
     },
     {
@@ -96,7 +208,7 @@
       "link": "https://www.theatlantic.com/politics/2026/11/trump-jeffries-schumer-2027/689433/",
       "author": "",
       "published": "2026-11-16T10:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "As the president’s blip of graciousness gives way to political combat, Democrats weigh how much to engage."
     },
     {
@@ -1898,118 +2010,6 @@
       "published": "2026-10-30T11:00:00+00:00",
       "category": "精选",
       "summary": "Some voters who support the proposal might be duped into nullifying it."
-    },
-    {
-      "title": "The Real Threat of Election Interference",
-      "link": "https://www.theatlantic.com/national-security/2026/10/election-interference-influence-midterms/689200/",
-      "author": "",
-      "published": "2026-10-30T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Experts worry that Donald Trump could use claims of foreign meddling as a pretext for seizing control."
-    },
-    {
-      "title": "A Harmless Act of Halloween Rebellion",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/kids-halloween-costumes-confuse-adults/689212/",
-      "author": "",
-      "published": "2026-10-29T19:11:00+00:00",
-      "category": "精选",
-      "summary": "Don’t worry if you don’t understand some costumes this year."
-    },
-    {
-      "title": "Photos: Preparing for the Day of the Dead",
-      "link": "https://www.theatlantic.com/photography/2026/10/photos-day-of-the-dead/689204/",
-      "author": "",
-      "published": "2026-10-29T18:07:22+00:00",
-      "category": "精选",
-      "summary": "Images from Mexico and other Latin American communities in recent years showing preparations for Día de Muertos, or the Day of the Dead, when people pay homage to departed family members and honor death as a part of life"
-    },
-    {
-      "title": "Democrats Are Ready to Run Hegseth ‘Out of Town’",
-      "link": "https://www.theatlantic.com/politics/2026/10/democrats-impeachment-plans-hegseth-pentagon/689195/",
-      "author": "",
-      "published": "2026-10-29T17:57:38+00:00",
-      "category": "精选",
-      "summary": "A new majority might push for impeachment, but could regret it."
-    },
-    {
-      "title": "The Rise of the Sexy-Cozy Autumn Read",
-      "link": "https://www.theatlantic.com/culture/2026/10/halloween-romance-books/689209/",
-      "author": "",
-      "published": "2026-10-29T17:30:00+00:00",
-      "category": "精选",
-      "summary": "It’s spooky season. Time to read … romance?"
-    },
-    {
-      "title": "The Variety Bag Has Ruined Halloween",
-      "link": "https://www.theatlantic.com/ideas/2026/10/trick-or-treating-mixed-candy/689208/",
-      "author": "",
-      "published": "2026-10-29T17:03:12+00:00",
-      "category": "精选",
-      "summary": "Corporate consolidation and changing tastes have made kids’ holiday hauls boring."
-    },
-    {
-      "title": "This Year’s Best Horror Movies Go Beyond Jump Scares",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/best-horror-movies-2026-video-village/689207/",
-      "author": "",
-      "published": "2026-10-29T17:00:00+00:00",
-      "category": "精选",
-      "summary": "The genre remains one of the most creatively rewarding in Hollywood."
-    },
-    {
-      "title": "Election Night at The Atlantic : Live Special November 3 at 9 P.M.",
-      "link": "https://www.theatlantic.com/press-releases/2026/10/election-night-atlantic-live-special/689198/",
-      "author": "",
-      "published": "2026-10-29T15:20:00+00:00",
-      "category": "全部",
-      "summary": "Anchored by Radio Atlantic co-hosts Adam Harris and Hanna Rosin, with Anne Applebaum, David Frum, Tyler Austin Harper, Mark Leibovich, and Tom Nichols"
-    },
-    {
-      "title": "Why Are Political Candidates Emailing Like Ex-Boyfriends and Car Salesmen?",
-      "link": "https://www.theatlantic.com/culture/2026/10/political-donation-emails-needy/689205/",
-      "author": "",
-      "published": "2026-10-29T14:50:38+00:00",
-      "category": "全部",
-      "summary": "Intimate greetings and overfamiliarity have become hallmarks of campaign-donation emails."
-    },
-    {
-      "title": "How to Lose Texas",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/hispanic-latino-voters-texas-midterms/689182/",
-      "author": "",
-      "published": "2026-10-29T14:00:00+00:00",
-      "category": "精选",
-      "summary": "Latinos helped put Trump in office. Now they’re over him."
-    },
-    {
-      "title": "‘A Man Must Eat Meat’",
-      "link": "https://www.theatlantic.com/culture/2026/10/james-talarico-vegan-insult/689202/",
-      "author": "",
-      "published": "2026-10-29T13:00:00+00:00",
-      "category": "精选",
-      "summary": "Why Republicans keep falsely accusing James Talarico of being a vegan"
-    },
-    {
-      "title": "Can Democracy Survive the Next Financial Crash?",
-      "link": "https://www.theatlantic.com/ideas/2026/10/bubble-bailout-trump-authority/689190/",
-      "author": "",
-      "published": "2026-10-29T12:00:00+00:00",
-      "category": "精选",
-      "summary": "If the AI bubble bursts, Donald Trump will control a bailout apparatus with essentially limitless authority."
-    },
-    {
-      "title": "He Wanted to Save Children. Instead, He Unleashed Chaos.",
-      "link": "https://www.theatlantic.com/technology/2026/10/martyr-of-pizzagate-edgar-maddison-welch/689188/",
-      "author": "",
-      "published": "2026-10-29T11:00:00+00:00",
-      "category": "科技",
-      "summary": "The American tragedy of Edgar Maddison Welch"
-    },
-    {
-      "title": "The Epstein-Pizzagate Connection",
-      "link": "https://www.theatlantic.com/technology/2026/10/pizzagate-epstein-tucker-carlson-conspiracy/689152/",
-      "author": "",
-      "published": "2026-10-29T11:00:00+00:00",
-      "category": "科技",
-      "summary": "The seminal conspiracy theory of the Trump era gets a facelift 10 years later."
     }
   ]
 }
