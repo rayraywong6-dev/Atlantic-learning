@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T07:21:59.919311+00:00",
+  "updated_at": "2026-11-20T07:12:10.748798+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,126 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "‘I’m Not MAGA,’ Says Man in MAGA Hat",
+      "link": "https://www.theatlantic.com/technology/2026/11/elon-musk-maga-pivot/689517/",
+      "author": "",
+      "published": "2026-11-20T00:51:00+00:00",
+      "category": "科技",
+      "summary": "Elon Musk would like to pretend that the past two years didn’t happen."
+    },
+    {
+      "title": "The Limits of Positive Thinking",
+      "link": "https://www.theatlantic.com/politics/2026/11/trump-ai-tech-outages/689512/",
+      "author": "",
+      "published": "2026-11-19T23:34:34+00:00",
+      "category": "精选",
+      "summary": "Trump is acting like there’s no problem. Persistent outages tell a different story."
+    },
+    {
+      "title": "Grand Theft Auto VI Is Really Weird",
+      "link": "https://www.theatlantic.com/ideas/2026/11/grand-theft-auto-vi-review/689514/",
+      "author": "",
+      "published": "2026-11-19T22:56:38+00:00",
+      "category": "精选",
+      "summary": "A dispatch from the smallest room in the biggest video game ever"
+    },
+    {
+      "title": "I Baked My Way Through The Atlantic ’s Archives",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/old-traditional-cooking-recipes-dessert-thanksgiving/689496/",
+      "author": "",
+      "published": "2026-11-19T22:19:00+00:00",
+      "category": "精选",
+      "summary": "I tested six recipes, from 1865 to 2010. Here’s how I fared."
+    },
+    {
+      "title": "Silicon Valley is Suffering From Model Collapse",
+      "link": "https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/",
+      "author": "",
+      "published": "2026-11-19T21:46:56+00:00",
+      "category": "科技",
+      "summary": "Why do tech leaders sound so illogical and off-putting?"
+    },
+    {
+      "title": "Welcome to Software Beirut",
+      "link": "https://www.theatlantic.com/ideas/2026/11/software-beirut-ai-outages/689508/",
+      "author": "",
+      "published": "2026-11-19T18:17:00+00:00",
+      "category": "精选",
+      "summary": "The internet’s roads are breaking down."
+    },
+    {
+      "title": "Xi Jinping’s Grandiose Timidity",
+      "link": "https://www.theatlantic.com/national-security/2026/11/us-china-russia-apec-summit/689502/",
+      "author": "",
+      "published": "2026-11-19T18:04:22+00:00",
+      "category": "精选",
+      "summary": "When the world’s biggest nuclear powers gathered this week in China, the host kept the wars in Europe and the Middle East off the agenda."
+    },
+    {
+      "title": "The Anti-Semitism Playbook Comes for Indian Americans",
+      "link": "https://www.theatlantic.com/technology/2026/11/indian-american-anti-semitism-far-right/689487/",
+      "author": "",
+      "published": "2026-11-19T17:19:05+00:00",
+      "category": "科技",
+      "summary": "The far right’s tactics are all too familiar."
+    },
+    {
+      "title": "Trump’s Embarrassing, Inconsequential Summit",
+      "link": "https://www.theatlantic.com/ideas/2026/11/trump-xi-putin-summit/689503/",
+      "author": "",
+      "published": "2026-11-19T15:28:58+00:00",
+      "category": "精选",
+      "summary": "Why the president tried to cosplay Yalta"
+    },
+    {
+      "title": "Making Oil Companies Pay for Climate Damages",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/suing-our-way-out-of-climate-change/689500/",
+      "author": "",
+      "published": "2026-11-19T14:00:00+00:00",
+      "category": "精选",
+      "summary": "The Supreme Court will decide whether cities and counties can take Big Oil to court over climate change."
+    },
+    {
+      "title": "Let’s Not Make Reading a Wellness Trend",
+      "link": "https://www.theatlantic.com/culture/2026/11/reading-tracking-app/689499/",
+      "author": "",
+      "published": "2026-11-19T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Books have long been considered morally and intellectually virtuous. Now some influencers are claiming that they’re good for your physical health."
+    },
+    {
+      "title": "The Arch and Ballroom Are Just the Beginning",
+      "link": "https://www.theatlantic.com/culture/2026/11/trump-architecture-ballroom-classicism/689485/",
+      "author": "",
+      "published": "2026-11-19T12:30:00+00:00",
+      "category": "精选",
+      "summary": "How Donald Trump embraced, then debased, classical architecture"
+    },
+    {
+      "title": "The Secretary of Imprecision",
+      "link": "https://www.theatlantic.com/politics/2026/11/markwayne-mullin-outage-explanations/689498/",
+      "author": "",
+      "published": "2026-11-19T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Homeland Security Secretary Markwayne Mullin struggles as explainer in chief."
+    },
+    {
+      "title": "The Islands That Texas Wants From Mexico",
+      "link": "https://www.theatlantic.com/national-security/2026/11/islands-rio-grande-mexico-border-texas/689489/",
+      "author": "",
+      "published": "2026-11-19T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Mexicans thought the border was settled. Then came an unexpected claim."
+    },
+    {
+      "title": "The 2026 Atlantic Gift Guide",
+      "link": "https://www.theatlantic.com/culture/2026/11/holiday-gift-guide-2026/689100/",
+      "author": "",
+      "published": "2026-11-19T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Find something to delight everyone in your life."
+    },
     {
       "title": "Everything Is Breaking",
       "link": "https://www.theatlantic.com/technology/2026/11/why-mass-digital-outages/689501/",
@@ -56,7 +176,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/11/david-frum-show-neera-tanden-post-blue-wave/689490/",
       "author": "",
       "published": "2026-11-18T19:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Neera Tanden on building a broader coalition, resisting factionalism, and confronting Trump"
     },
     {
@@ -64,7 +184,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/major-server-outage-response/689486/",
       "author": "",
       "published": "2026-11-18T17:02:16+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "A series of major and minor computer incidents could be related—unless they are not."
     },
     {
@@ -88,7 +208,7 @@
       "link": "https://www.theatlantic.com/culture/2026/11/confessions-of-a-shopaholic-future-of-shopping-loneliness/689455/",
       "author": "",
       "published": "2026-11-18T12:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Confessions of a Shopaholic , 25 years later, suggests that the way we buy things has gotten too isolated."
     },
     {
@@ -1890,126 +2010,6 @@
       "published": "2026-11-01T13:00:00+00:00",
       "category": "精选",
       "summary": "A pump-up girl faces her own mortality."
-    },
-    {
-      "title": "The U.S. Is Bullying Europe Like Never Before",
-      "link": "https://www.theatlantic.com/ideas/2026/11/trump-europe-guilfoyle-afd-meddling/689226/",
-      "author": "",
-      "published": "2026-11-01T12:15:00+00:00",
-      "category": "精选",
-      "summary": "The Trump administration tries to micromanage the domestic politics of American allies."
-    },
-    {
-      "title": "The Questions Adam Hamawy Won’t Answer",
-      "link": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/",
-      "author": "",
-      "published": "2026-11-01T12:00:00+00:00",
-      "category": "全部",
-      "summary": "He’s likely to end up in Congress. He still hasn’t fully accounted for why he once kept company with the man known as the Blind Sheikh."
-    },
-    {
-      "title": "A Pro-Russia Strongman at Mar-a-Lago",
-      "link": "https://www.theatlantic.com/politics/2026/10/serbia-dodik-russia-maga/689246/",
-      "author": "",
-      "published": "2026-10-31T18:05:10+00:00",
-      "category": "全部",
-      "summary": "Milorad Dodik, the separatist Bosnian Serb leader, has won MAGA’s favor after a lobbying bonanza."
-    },
-    {
-      "title": "The Election Lies Are Already Starting on X",
-      "link": "https://www.theatlantic.com/technology/2026/10/x-midterm-election-ai-fact-check/689245/",
-      "author": "",
-      "published": "2026-10-31T14:59:00+00:00",
-      "category": "科技",
-      "summary": "No one is ready for what Elon Musk’s platform could look like on Tuesday."
-    },
-    {
-      "title": "How the Midterms Could Test Trump",
-      "link": "https://www.theatlantic.com/national/2026/10/midterms-test-trump-washington-week/689243/",
-      "author": "",
-      "published": "2026-10-31T14:25:57+00:00",
-      "category": "全部",
-      "summary": "Panelists on Washington Week With The Atlantic joined to discuss how Tuesday’s midterm results could help determine what President Trump’s final two years in office will look like."
-    },
-    {
-      "title": "The ‘Cuteservative’ in Chief",
-      "link": "https://www.theatlantic.com/health/2026/10/alex-clark-maha-rfk-marriage/689193/",
-      "author": "",
-      "published": "2026-10-31T14:00:00+00:00",
-      "category": "精选",
-      "summary": "Alex Clark, the voice of wellness at Turning Point USA, is entering her wife era."
-    },
-    {
-      "title": "Foie Gras Is Tearing D.C. Apart",
-      "link": "https://www.theatlantic.com/health/2026/10/foie-gras-ban-washington-dc/689244/",
-      "author": "",
-      "published": "2026-10-31T13:48:10+00:00",
-      "category": "精选",
-      "summary": "A proposed ban on the delicacy is somehow the most contentious question on the ballot."
-    },
-    {
-      "title": "The Rise of the Tallboy Is a Sign of the Times",
-      "link": "https://www.theatlantic.com/culture/2026/10/tallboys-big-beer/689231/",
-      "author": "",
-      "published": "2026-10-31T13:00:00+00:00",
-      "category": "精选",
-      "summary": "America has entered its big-beer era."
-    },
-    {
-      "title": "Why Halloween Isn’t Just for Kids",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/halloween-adults-embrace-silliness/689228/",
-      "author": "",
-      "published": "2026-10-31T12:00:00+00:00",
-      "category": "精选",
-      "summary": "A holiday devoted to costumes and candy offers grown-ups a chance to embrace their silly side."
-    },
-    {
-      "title": "He Was Hugely Influential. He Also Had a Foolish Streak.",
-      "link": "https://www.theatlantic.com/books/2026/10/john-berger-biography-book-review/688987/",
-      "author": "",
-      "published": "2026-10-31T12:00:00+00:00",
-      "category": "精选",
-      "summary": "A recent biography of the writer John Berger reminds us about his hefty influence—and how he could be blinkered by his convictions."
-    },
-    {
-      "title": "What the Economy Is Sacrificing to AI",
-      "link": "https://www.theatlantic.com/ideas/2026/10/ai-data-centers-crowding/689239/",
-      "author": "",
-      "published": "2026-10-31T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Every investment is a trade-off."
-    },
-    {
-      "title": "The Bursting of the Tel Aviv Bubble",
-      "link": "https://www.theatlantic.com/international/2026/10/tel-aviv-israel-democracy-liberal/689229/",
-      "author": "",
-      "published": "2026-10-31T11:00:00+00:00",
-      "category": "国际",
-      "summary": "The liberal, cosmopolitan side of Israel is facing a moment of truth."
-    },
-    {
-      "title": "Trump Has Pushed Some Texas Republicans Too Far",
-      "link": "https://www.theatlantic.com/politics/2026/10/texas-republicans-midterms-paxton/689217/",
-      "author": "",
-      "published": "2026-10-31T11:00:00+00:00",
-      "category": "全部",
-      "summary": "Four Lone Star State conservatives wrestle with their party’s MAGA turn."
-    },
-    {
-      "title": "A Very Bad 24 Hours for Crypto",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/crypto-biggest-heist-ever-binance-polymarket/689241/",
-      "author": "",
-      "published": "2026-10-30T22:33:00+00:00",
-      "category": "全部",
-      "summary": "The aftershocks of two hacks on Binance and Polymarket have rippled across digital finance."
-    },
-    {
-      "title": "The State Department Is in Disarray",
-      "link": "https://www.theatlantic.com/newsletters/2026/10/state-department-marco-rubio-trump/689234/",
-      "author": "",
-      "published": "2026-10-30T20:31:00+00:00",
-      "category": "精选",
-      "summary": "It hasn’t received as much scrutiny as some parts of the Trump administration, but its personnel decisions reflect both disturbing ideas and general incompetence."
     }
   ]
 }
