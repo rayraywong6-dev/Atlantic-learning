@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T07:12:10.748798+00:00",
+  "updated_at": "2026-11-21T07:03:21.725323+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,94 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Trump vs. America",
+      "link": "https://www.theatlantic.com/ideas/2026/11/trump-putin-ukraine-collins/689537/",
+      "author": "",
+      "published": "2026-11-20T21:36:56+00:00",
+      "category": "精选",
+      "summary": "The president finally admitted that his interests do not always align with the nation’s."
+    },
+    {
+      "title": "Silicon Valley Is Scrambling Now",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/karp-musk-trump-midterms/689534/",
+      "author": "",
+      "published": "2026-11-20T21:00:00+00:00",
+      "category": "精选",
+      "summary": "Companies’ attempts to prepare for a post-Trump moment are making them look foolish."
+    },
+    {
+      "title": "What’s So Important About Nvidia’s Chips?",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/whats-so-important-about-nvidias-chips/689521/",
+      "author": "",
+      "published": "2026-11-20T18:00:00+00:00",
+      "category": "精选",
+      "summary": "The truth about chip smuggling and the AI race with China"
+    },
+    {
+      "title": "The Benefits of Reading Are Incalculable",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/books-briefing-benefits-reading-incalculable/689527/",
+      "author": "",
+      "published": "2026-11-20T16:50:00+00:00",
+      "category": "精选",
+      "summary": "Books can alter a life, undermine foundational beliefs, even change the world."
+    },
+    {
+      "title": "The Taylor Swift Museum Exhibition Is an SOS Call",
+      "link": "https://www.theatlantic.com/culture/2026/11/taylor-swift-museum-boston/689520/",
+      "author": "",
+      "published": "2026-11-20T14:00:00+00:00",
+      "category": "精选",
+      "summary": "Art museums have to get creative right now. They can do better than this."
+    },
+    {
+      "title": "The Old-School Dating Ritual People Can’t Seem to Shake",
+      "link": "https://www.theatlantic.com/family/2026/11/split-bill-first-date-debate/689516/",
+      "author": "",
+      "published": "2026-11-20T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Who pays the bill matters less than many people think."
+    },
+    {
+      "title": "I Went Full Kardashian",
+      "link": "https://www.theatlantic.com/health/2026/11/kardashian-products-week/689363/",
+      "author": "",
+      "published": "2026-11-20T13:00:00+00:00",
+      "category": "精选",
+      "summary": "The Kardashians now have so many brands that approximating their lifestyle is more possible than ever before."
+    },
+    {
+      "title": "Hollywood’s Worst Tendencies, in One Movie",
+      "link": "https://www.theatlantic.com/culture/2026/11/hunger-games-sunrise-on-the-reaping-movie-review/689509/",
+      "author": "",
+      "published": "2026-11-20T12:30:00+00:00",
+      "category": "精选",
+      "summary": "The Hunger Games franchise once found meaning in its violent spectacle."
+    },
+    {
+      "title": "Gerrymandering Worked",
+      "link": "https://www.theatlantic.com/ideas/2026/11/gerrymandering-redistricting-black-voters/689492/",
+      "author": "",
+      "published": "2026-11-20T12:30:00+00:00",
+      "category": "精选",
+      "summary": "It just isn’t magic."
+    },
+    {
+      "title": "What War Has Brought Iran’s Opposition",
+      "link": "https://www.theatlantic.com/international/2026/11/iran-opposition-strategic-options/689510/",
+      "author": "",
+      "published": "2026-11-20T12:00:00+00:00",
+      "category": "国际",
+      "summary": "Domestic repression and exile infighting leave few strategic options."
+    },
+    {
+      "title": "Welcome to the Melaniaverse",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/melania-tv-show-melaniaverse/689519/",
+      "author": "",
+      "published": "2026-11-20T11:00:00+00:00",
+      "category": "精选",
+      "summary": "We are bringing back the monoculture. Melania is that monoculture."
+    },
     {
       "title": "‘I’m Not MAGA,’ Says Man in MAGA Hat",
       "link": "https://www.theatlantic.com/technology/2026/11/elon-musk-maga-pivot/689517/",
@@ -44,7 +132,7 @@
       "summary": "I tested six recipes, from 1865 to 2010. Here’s how I fared."
     },
     {
-      "title": "Silicon Valley is Suffering From Model Collapse",
+      "title": "Silicon Valley Is Suffering From Model Collapse",
       "link": "https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/",
       "author": "",
       "published": "2026-11-19T21:46:56+00:00",
@@ -60,7 +148,7 @@
       "summary": "The internet’s roads are breaking down."
     },
     {
-      "title": "Xi Jinping’s Grandiose Timidity",
+      "title": "Xi Jinping’s Say-Nothing Summit",
       "link": "https://www.theatlantic.com/national-security/2026/11/us-china-russia-apec-summit/689502/",
       "author": "",
       "published": "2026-11-19T18:04:22+00:00",
@@ -96,7 +184,7 @@
       "link": "https://www.theatlantic.com/culture/2026/11/reading-tracking-app/689499/",
       "author": "",
       "published": "2026-11-19T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Books have long been considered morally and intellectually virtuous. Now some influencers are claiming that they’re good for your physical health."
     },
     {
@@ -104,7 +192,7 @@
       "link": "https://www.theatlantic.com/culture/2026/11/trump-architecture-ballroom-classicism/689485/",
       "author": "",
       "published": "2026-11-19T12:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "How Donald Trump embraced, then debased, classical architecture"
     },
     {
@@ -120,7 +208,7 @@
       "link": "https://www.theatlantic.com/national-security/2026/11/islands-rio-grande-mexico-border-texas/689489/",
       "author": "",
       "published": "2026-11-19T12:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Mexicans thought the border was settled. Then came an unexpected claim."
     },
     {
@@ -1922,94 +2010,6 @@
       "published": "2026-11-02T12:30:00+00:00",
       "category": "精选",
       "summary": "With his sly, vacant images, Roy Lichtenstein explored the distance that technology created between us and reality."
-    },
-    {
-      "title": "The Racism Scam",
-      "link": "https://www.theatlantic.com/ideas/2026/11/right-strategy-rhetoric-racism/689233/",
-      "author": "",
-      "published": "2026-11-02T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Republicans are resorting to a troubling closing argument."
-    },
-    {
-      "title": "The Push to Lead the Working Class Without Workers",
-      "link": "https://www.theatlantic.com/politics/2026/11/morris-katz-democrats-midterms/689227/",
-      "author": "",
-      "published": "2026-11-02T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Morris Katz played a key role in the Graham Platner fiasco. Now the midterms could hinge on his theory of politics."
-    },
-    {
-      "title": "The Backlash to Corruption Is Going Global",
-      "link": "https://www.theatlantic.com/politics/2026/11/global-corruption-trump-hungary-serbia/689216/",
-      "author": "",
-      "published": "2026-11-02T12:00:00+00:00",
-      "category": "精选",
-      "summary": "The U.S. may become just the latest country where voters choose to punish profligate behavior."
-    },
-    {
-      "title": "Haley Stevens Is Sending the Wrong Message",
-      "link": "https://www.theatlantic.com/ideas/2026/11/haley-stevens-sending-wrong-message/689250/",
-      "author": "",
-      "published": "2026-11-01T21:18:01+00:00",
-      "category": "精选",
-      "summary": "In trying to stand up for one minority religious group, she is conveying her comfort with bigotry toward another."
-    },
-    {
-      "title": "Trump Searches for a Fall Guy to Blame for Iran",
-      "link": "https://www.theatlantic.com/national-security/2026/11/trump-advisers-iran-war/689247/",
-      "author": "",
-      "published": "2026-11-01T19:16:17+00:00",
-      "category": "精选",
-      "summary": "The president might resume strikes, but he is also questioning allies about the performances of Pete Hegseth and Dan Caine."
-    },
-    {
-      "title": "An SNL Sketch to Make Airlines Feel Ashamed",
-      "link": "https://www.theatlantic.com/culture/2026/11/snl-delta-disruptive-inde-navarette/689249/",
-      "author": "",
-      "published": "2026-11-01T18:39:16+00:00",
-      "category": "精选",
-      "summary": "There’s a lot to worry about while flying. Add terrible passengers to the list."
-    },
-    {
-      "title": "Inside the Plan to Send 1,000 DOJ Monitors to the Polls",
-      "link": "https://www.theatlantic.com/politics/2026/11/doj-election-monitors-midterms/689225/",
-      "author": "",
-      "published": "2026-11-01T17:15:00+00:00",
-      "category": "精选",
-      "summary": "The Justice Department has assured local officials that monitoring will follow past norms, but election clerks say they have reason to worry."
-    },
-    {
-      "title": "The MAGA Reckoning Arrives",
-      "link": "https://www.theatlantic.com/ideas/2026/11/maga-reckoning-arrives/689248/",
-      "author": "",
-      "published": "2026-11-01T16:00:18+00:00",
-      "category": "精选",
-      "summary": "Trump has lost most of the country. Now his hold on his own base is weakening."
-    },
-    {
-      "title": "I Thought I’d Left Authoritarianism Behind",
-      "link": "https://www.theatlantic.com/ideas/2026/11/escaping-communist-czechoslovakia-america/689232/",
-      "author": "",
-      "published": "2026-11-01T15:00:00+00:00",
-      "category": "精选",
-      "summary": "Four decades ago, I escaped Communist Czechoslovakia for America. Now my adopted homeland reminds me of the one that I fled."
-    },
-    {
-      "title": "Is Radicalism the Answer?",
-      "link": "https://www.theatlantic.com/podcasts/2026/11/is-radicalism-the-answer/689201/",
-      "author": "",
-      "published": "2026-11-01T14:00:00+00:00",
-      "category": "精选",
-      "summary": "The legal scholar Samuel Moyn argues that moderates have given up on the emancipatory promise of liberalism."
-    },
-    {
-      "title": "I Was Lucky to Be Alive. But I Missed Being Pretty.",
-      "link": "https://www.theatlantic.com/ideas/2026/11/stroke-25-recovery-mortality/689126/",
-      "author": "",
-      "published": "2026-11-01T13:00:00+00:00",
-      "category": "精选",
-      "summary": "A pump-up girl faces her own mortality."
     }
   ]
 }
