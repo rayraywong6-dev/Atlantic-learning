@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T07:03:21.725323+00:00",
+  "updated_at": "2026-11-22T06:44:29.246766+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,46 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "What Trump’s Summit in China Reveals",
+      "link": "https://www.theatlantic.com/national/2026/11/trump-summit-china-washington-week/689539/",
+      "author": "",
+      "published": "2026-11-21T16:18:16+00:00",
+      "category": "全部",
+      "summary": "Panelists on Washington Week With The Atlantic joined to discuss the president’s week in China with Xi Jinping and Vladimir Putin."
+    },
+    {
+      "title": "Two Risk-Takers Walk Into a Football Stadium",
+      "link": "https://www.theatlantic.com/culture/2026/11/vikings-49ers-coaching/689538/",
+      "author": "",
+      "published": "2026-11-21T14:05:00+00:00",
+      "category": "精选",
+      "summary": "When the 49ers and Vikings play this weekend, the most nonconformist coaching minds in the NFL will face off."
+    },
+    {
+      "title": "Hollywood Needs a New Pixar",
+      "link": "https://www.theatlantic.com/ideas/2026/11/movies-pixar-animation-media/689535/",
+      "author": "",
+      "published": "2026-11-21T13:00:00+00:00",
+      "category": "全部",
+      "summary": "AI is accelerating culture’s move to YouTube, Roblox, and TikTok. Movie studios can make the move that transformed Disney."
+    },
+    {
+      "title": "The False Comfort of Online Shopping",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/false-comfort-of-online-shopping/689518/",
+      "author": "",
+      "published": "2026-11-21T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Buying things has never been easier—or more isolating."
+    },
+    {
+      "title": "Fighting a Radical Militia Was Not Part of the Plan",
+      "link": "https://www.theatlantic.com/international/2026/11/houthis-saudi-arabia-war/689532/",
+      "author": "",
+      "published": "2026-11-21T12:00:00+00:00",
+      "category": "国际",
+      "summary": "Saudi Arabia was looking forward to a frictionless future before the Houthis got involved."
+    },
     {
       "title": "Trump vs. America",
       "link": "https://www.theatlantic.com/ideas/2026/11/trump-putin-ukraine-collins/689537/",
@@ -152,7 +192,7 @@
       "link": "https://www.theatlantic.com/national-security/2026/11/us-china-russia-apec-summit/689502/",
       "author": "",
       "published": "2026-11-19T18:04:22+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "When the world’s biggest nuclear powers gathered this week in China, the host kept the wars in Europe and the Middle East off the agenda."
     },
     {
@@ -1970,46 +2010,6 @@
       "published": "2026-11-02T16:55:21+00:00",
       "category": "全部",
       "summary": "The party is trying to take maximum advantage of the moment."
-    },
-    {
-      "title": "The Time Is Right for a ‘Great Books’ Revival",
-      "link": "https://www.theatlantic.com/books/2026/11/age-ai-is-the-time-for-a-great-books-revival/689242/",
-      "author": "",
-      "published": "2026-11-02T14:00:00+00:00",
-      "category": "精选",
-      "summary": "To build a better world in the age of AI, students need grounding in indispensable ideas."
-    },
-    {
-      "title": "The Protect College Sports Act Isn’t Enough",
-      "link": "https://www.theatlantic.com/culture/2026/11/protect-college-sports-act/689235/",
-      "author": "",
-      "published": "2026-11-02T13:00:00+00:00",
-      "category": "全部",
-      "summary": "A much-hyped piece of legislation is more bark than bite."
-    },
-    {
-      "title": "DOJ’s Try-Anything Approach",
-      "link": "https://www.theatlantic.com/ideas/2026/11/doj-elections/689238/",
-      "author": "",
-      "published": "2026-11-02T12:32:56+00:00",
-      "category": "精选",
-      "summary": "A wide range of last-minute schemes could seed the idea among Trump’s supporters that the election results can’t be trusted."
-    },
-    {
-      "title": "America Can’t Afford an AI Recession",
-      "link": "https://www.theatlantic.com/technology/2026/11/ai-data-center-spending-economy/689237/",
-      "author": "",
-      "published": "2026-11-02T12:30:00+00:00",
-      "category": "科技",
-      "summary": "AI investments are driving the economy. That’s a dangerous tightrope."
-    },
-    {
-      "title": "Can You See What Holds This Painting Together?",
-      "link": "https://www.theatlantic.com/culture/2026/11/roy-lichtenstein-like-new-whitney-exhibition-review/689215/",
-      "author": "",
-      "published": "2026-11-02T12:30:00+00:00",
-      "category": "精选",
-      "summary": "With his sly, vacant images, Roy Lichtenstein explored the distance that technology created between us and reality."
     }
   ]
 }
