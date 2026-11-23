@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T06:44:29.246766+00:00",
+  "updated_at": "2026-11-23T07:34:11.664106+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,78 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "The World’s Biggest Climate Conference Just Fell Apart",
+      "link": "https://www.theatlantic.com/science/2026/11/cop31/689530/",
+      "author": "",
+      "published": "2026-11-22T15:47:38+00:00",
+      "category": "精选",
+      "summary": "Delegates at the annual UN climate summit failed to reach an agreement for the first time in almost 20 years."
+    },
+    {
+      "title": "Padrastro",
+      "link": "https://www.theatlantic.com/books/2026/11/poem-valerie-trapp-padrastro/689528/",
+      "author": "",
+      "published": "2026-11-22T15:00:00+00:00",
+      "category": "精选",
+      "summary": "A poem"
+    },
+    {
+      "title": "Is the Populist Moment Over?",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/populist-moment-over/689507/",
+      "author": "",
+      "published": "2026-11-22T14:00:00+00:00",
+      "category": "精选",
+      "summary": "The decline of Donald Trump may spell the beginning of the end for the global movement he represents."
+    },
+    {
+      "title": "The Rise and Fall of the Telephone Century",
+      "link": "https://www.theatlantic.com/magazine/2027/01/james-gleick-telephone-new-history-review/689413/",
+      "author": "",
+      "published": "2026-11-22T14:00:00+00:00",
+      "category": "精选",
+      "summary": "Nobody foresaw where the new technology would lead."
+    },
+    {
+      "title": "The Relationship That Can Survive Not Talking for Years",
+      "link": "https://www.theatlantic.com/family/2026/11/friends-dark-matter/689541/",
+      "author": "",
+      "published": "2026-11-22T13:30:00+00:00",
+      "category": "精选",
+      "summary": "Something unusual happens when friends reconnect."
+    },
+    {
+      "title": "How ‘Real Food’ Nearly Broke the White House",
+      "link": "https://www.theatlantic.com/health/2026/11/ultra-processed-food-definition-wiles-means-kennedy/689536/",
+      "author": "",
+      "published": "2026-11-22T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Inside the Trump administration’s ultra-processed-food fight"
+    },
+    {
+      "title": "My Apology to American Democracy",
+      "link": "https://www.theatlantic.com/ideas/2026/11/doomerism-elections-authoritarianism-trump/689493/",
+      "author": "",
+      "published": "2026-11-22T13:00:00+00:00",
+      "category": "精选",
+      "summary": "I underestimated voters’ sense of self-respect."
+    },
+    {
+      "title": "What We Don’t Know About the Iran War",
+      "link": "https://www.theatlantic.com/national-security/2026/11/iran-war-pentagon-information-access/689524/",
+      "author": "",
+      "published": "2026-11-22T12:00:00+00:00",
+      "category": "精选",
+      "summary": "The president is thinking about restarting the conflict while continuing to obscure information about the cost."
+    },
+    {
+      "title": "A Movie About What Happens When the Party’s Over",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/culture-entertainment-recs-club-kid-anna-karenina-nintendo/689511/",
+      "author": "",
+      "published": "2026-11-22T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Culture and entertainment recommendations including Club Kid , the Rothko Chapel, and more"
+    },
     {
       "title": "What Trump’s Summit in China Reveals",
       "link": "https://www.theatlantic.com/national/2026/11/trump-summit-china-washington-week/689539/",
@@ -104,7 +176,7 @@
       "link": "https://www.theatlantic.com/health/2026/11/kardashian-products-week/689363/",
       "author": "",
       "published": "2026-11-20T13:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The Kardashians now have so many brands that approximating their lifestyle is more possible than ever before."
     },
     {
@@ -112,7 +184,7 @@
       "link": "https://www.theatlantic.com/culture/2026/11/hunger-games-sunrise-on-the-reaping-movie-review/689509/",
       "author": "",
       "published": "2026-11-20T12:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The Hunger Games franchise once found meaning in its violent spectacle."
     },
     {
@@ -120,7 +192,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/gerrymandering-redistricting-black-voters/689492/",
       "author": "",
       "published": "2026-11-20T12:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "It just isn’t magic."
     },
     {
@@ -1938,78 +2010,6 @@
       "published": "2026-11-03T12:00:00+00:00",
       "category": "精选",
       "summary": "Two years after Trump’s second victory, many political observers wrongly see us as one-dimensional actors."
-    },
-    {
-      "title": "Israel’s Common Ground",
-      "link": "https://www.theatlantic.com/ideas/2026/11/israeli-election-politics-culture/689257/",
-      "author": "",
-      "published": "2026-11-03T11:00:00+00:00",
-      "category": "全部",
-      "summary": "Israel is becoming dangerously indifferent to world opinion, but still finds strength in its social bonds."
-    },
-    {
-      "title": "The Voters Sitting This One Out",
-      "link": "https://www.theatlantic.com/politics/2026/11/midterm-voters-sitting-out/689255/",
-      "author": "",
-      "published": "2026-11-03T11:00:00+00:00",
-      "category": "精选",
-      "summary": "They could help determine the balance of Congress."
-    },
-    {
-      "title": "The Election Deniers Are in Retreat",
-      "link": "https://www.theatlantic.com/politics/2026/11/election-deniers-midterms-trump/689240/",
-      "author": "",
-      "published": "2026-11-03T10:00:00+00:00",
-      "category": "精选",
-      "summary": "The president is not getting the political cover he once enjoyed from Republicans."
-    },
-    {
-      "title": "Maybe Donald Trump Doesn’t Want His Party to Win the Midterms",
-      "link": "https://www.theatlantic.com/newsletters/2026/11/trump-midterms-speech-reflecting-pool/689259/",
-      "author": "",
-      "published": "2026-11-02T23:55:00+00:00",
-      "category": "精选",
-      "summary": "If he does, he’s certainly picking a strange way of showing it."
-    },
-    {
-      "title": "Trump’s Venezuela Project Just Got a Lot More Complicated",
-      "link": "https://www.theatlantic.com/national-security/2026/11/machado-rodriguez-venezuela-trump/689251/",
-      "author": "",
-      "published": "2026-11-02T23:43:00+00:00",
-      "category": "精选",
-      "summary": "The return of María Corina Machado puts the U.S.-backed regime on the clock."
-    },
-    {
-      "title": "Who Thought This Ad Was a Good Idea?",
-      "link": "https://www.theatlantic.com/newsletters/2026/11/who-thought-this-ad-was-a-good-idea/689258/",
-      "author": "",
-      "published": "2026-11-02T23:07:00+00:00",
-      "category": "精选",
-      "summary": "Senator Roger Marshall of Kansas is using his final campaign message to call attention to the biggest criticism of him."
-    },
-    {
-      "title": "The Anger Election’s Final Twist",
-      "link": "https://www.theatlantic.com/podcasts/2026/11/ra-voter-issues/689254/",
-      "author": "",
-      "published": "2026-11-02T22:23:10+00:00",
-      "category": "全部",
-      "summary": "The anti-corruption message is actually landing."
-    },
-    {
-      "title": "Fall Is in the Air, Part II",
-      "link": "https://www.theatlantic.com/photography/2026/11/fall-photos-2026/689253/",
-      "author": "",
-      "published": "2026-11-02T18:11:37+00:00",
-      "category": "全部",
-      "summary": "More images of the season, as autumn colors reach their peak and people are out working in fields, going for walks, and taking photographs, while animals migrate or prepare for the winter to come"
-    },
-    {
-      "title": "The States Where Democrats Have the Most to Gain",
-      "link": "https://www.theatlantic.com/politics/2026/11/democrats-midterms-state-power/689236/",
-      "author": "",
-      "published": "2026-11-02T16:55:21+00:00",
-      "category": "全部",
-      "summary": "The party is trying to take maximum advantage of the moment."
     }
   ]
 }
