@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T07:34:11.664106+00:00",
+  "updated_at": "2026-11-24T09:51:45.331885+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,126 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Jensen Huang and Silicon Valley’s Short-Term Thinking",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/ra-nvidia/689551/",
+      "author": "",
+      "published": "2026-11-24T01:34:03+00:00",
+      "category": "精选",
+      "summary": "The stock market may have rallied, but this scandal is just beginning."
+    },
+    {
+      "title": "The Economy Is a Hostage Situation",
+      "link": "https://www.theatlantic.com/technology/2026/11/ai-hostage-economy-nvidia-huang/689552/",
+      "author": "",
+      "published": "2026-11-23T20:30:51+00:00",
+      "category": "科技",
+      "summary": "America has two choices under Nvidia’s market dominance, and both are bad."
+    },
+    {
+      "title": "A Shameless Valley",
+      "link": "https://www.theatlantic.com/technology/2026/11/silicon-valley-shameless-nvidia/689549/",
+      "author": "",
+      "published": "2026-11-23T19:48:24+00:00",
+      "category": "科技",
+      "summary": "The time it apparently takes to atone for your sins in Silicon Valley: less than two weeks."
+    },
+    {
+      "title": "The President Is Acting Like He Works for China",
+      "link": "https://www.theatlantic.com/ideas/2026/11/trump-huang-national-security-risk/689547/",
+      "author": "",
+      "published": "2026-11-23T18:02:45+00:00",
+      "category": "精选",
+      "summary": "Trump’s support of Jensen Huang should set off alarms."
+    },
+    {
+      "title": "Why Trump Rescued Jensen Huang",
+      "link": "https://www.theatlantic.com/ideas/2026/11/trump-jensen-huang-backing/689545/",
+      "author": "",
+      "published": "2026-11-23T17:13:16+00:00",
+      "category": "精选",
+      "summary": "By pushing for the reinstatement of Nvidia’s CEO, the president put the stock market ahead of national security."
+    },
+    {
+      "title": "Three Theories of Jensen Huang’s Resurrection",
+      "link": "https://www.theatlantic.com/ideas/2026/11/jensen-huang-nvidia-reinstated/689546/",
+      "author": "",
+      "published": "2026-11-23T16:58:36+00:00",
+      "category": "精选",
+      "summary": "What’s going on in this totally normal corporate-governance situation?"
+    },
+    {
+      "title": "The Endurance of the Rocky Brand",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/i-play-rocky-biopic-movie-video-village/689544/",
+      "author": "",
+      "published": "2026-11-23T16:58:26+00:00",
+      "category": "精选",
+      "summary": "Fifty years, many sequels, and one biopic later, the franchise remains easy to like."
+    },
+    {
+      "title": "The Political Education of Stephen Miller",
+      "link": "https://www.theatlantic.com/books/2026/11/stephen-miller-political-evolution-dostoyevsky-sadomasochism/689540/",
+      "author": "",
+      "published": "2026-11-23T15:00:00+00:00",
+      "category": "精选",
+      "summary": "First he mocked the liberal pieties of his family and his city; then he pledged loyalty to a monstrous creed."
+    },
+    {
+      "title": "A New Age of Sail",
+      "link": "https://www.theatlantic.com/magazine/2027/01/neoliner-origin-wind-powered-cargo-ship/689402/",
+      "author": "",
+      "published": "2026-11-23T14:00:00+00:00",
+      "category": "精选",
+      "summary": "My tumultuous journey across the Atlantic on a wind-powered cargo ship"
+    },
+    {
+      "title": "Why I Changed My Mind About the Death Penalty",
+      "link": "https://www.theatlantic.com/magazine/2027/01/pro-life-death-penalty/689406/",
+      "author": "",
+      "published": "2026-11-23T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Years after a terrifying night when I was nearly murdered, I realized I had been thinking about punishment and mercy the wrong way."
+    },
+    {
+      "title": "Air Is Easing Out of the AI Bubble",
+      "link": "https://www.theatlantic.com/ideas/2026/11/ai-bubble-returns-timeline/689504/",
+      "author": "",
+      "published": "2026-11-23T12:30:00+00:00",
+      "category": "精选",
+      "summary": "Investors are rightfully getting nervous."
+    },
+    {
+      "title": "Orwell Has Become What He Despised",
+      "link": "https://www.theatlantic.com/ideas/2026/11/george-orwell-trump-authoritarianism/689542/",
+      "author": "",
+      "published": "2026-11-23T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Trumpists have turned him into jargon."
+    },
+    {
+      "title": "The Big Reason Florida Is Still Red",
+      "link": "https://www.theatlantic.com/culture/2026/11/florida-republicans-midterms/689533/",
+      "author": "",
+      "published": "2026-11-23T12:00:00+00:00",
+      "category": "精选",
+      "summary": "How the state’s COVID-era newcomers helped it defy the midterms’ blue wave"
+    },
+    {
+      "title": "We’ll Miss the Assistants When They’re Gone",
+      "link": "https://www.theatlantic.com/ideas/2026/11/executive-assistants-ai-jobs/689531/",
+      "author": "",
+      "published": "2026-11-23T12:00:00+00:00",
+      "category": "精选",
+      "summary": "An ode to the most frustrating, and formative, job in the world"
+    },
+    {
+      "title": "A New ICE Surveillance Superpower",
+      "link": "https://www.theatlantic.com/politics/2026/11/license-plate-readers-ice/689515/",
+      "author": "",
+      "published": "2026-11-23T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Officers have been using license-plate readers to randomly find more people to arrest."
+    },
     {
       "title": "The World’s Biggest Climate Conference Just Fell Apart",
       "link": "https://www.theatlantic.com/science/2026/11/cop31/689530/",
@@ -32,7 +152,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/11/populist-moment-over/689507/",
       "author": "",
       "published": "2026-11-22T14:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The decline of Donald Trump may spell the beginning of the end for the global movement he represents."
     },
     {
@@ -40,7 +160,7 @@
       "link": "https://www.theatlantic.com/magazine/2027/01/james-gleick-telephone-new-history-review/689413/",
       "author": "",
       "published": "2026-11-22T14:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Nobody foresaw where the new technology would lead."
     },
     {
@@ -80,7 +200,7 @@
       "link": "https://www.theatlantic.com/newsletters/2026/11/culture-entertainment-recs-club-kid-anna-karenina-nintendo/689511/",
       "author": "",
       "published": "2026-11-22T12:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Culture and entertainment recommendations including Club Kid , the Rothko Chapel, and more"
     },
     {
@@ -1890,126 +2010,6 @@
       "published": "2026-11-04T14:53:11+00:00",
       "category": "精选",
       "summary": "America didn’t just get Blexas. It got Deep Blexas."
-    },
-    {
-      "title": "The Socializing That’s Replacing Friend Time",
-      "link": "https://www.theatlantic.com/family/2026/11/family-time-versus-friend-time/689270/",
-      "author": "",
-      "published": "2026-11-04T14:00:00+00:00",
-      "category": "精选",
-      "summary": "More Americans are hanging out with family—by choice, but also by necessity."
-    },
-    {
-      "title": "A New Kind of Blue Wave",
-      "link": "https://www.theatlantic.com/politics/2026/11/blue-wave-midterms-democrats/689271/",
-      "author": "",
-      "published": "2026-11-04T05:48:12+00:00",
-      "category": "全部",
-      "summary": "America’s response to Trump was unmistakably emphatic."
-    },
-    {
-      "title": "The Unlikeliest Democratic Win of All",
-      "link": "https://www.theatlantic.com/politics/2026/11/andrews-graham-south-carolina-democrat/689275/",
-      "author": "",
-      "published": "2026-11-04T05:41:57+00:00",
-      "category": "全部",
-      "summary": "Few thought South Carolina was really in play until it had already flipped."
-    },
-    {
-      "title": "The Simple Message That Produced a Democratic Landslide",
-      "link": "https://www.theatlantic.com/politics/2026/11/trump-jeffries-democrats-midterms/689266/",
-      "author": "",
-      "published": "2026-11-04T05:09:31+00:00",
-      "category": "精选",
-      "summary": "While Donald Trump made it all about himself, Hakeem Jeffries pushed Democrats to focus on affordability."
-    },
-    {
-      "title": "How Texas Turned Blue",
-      "link": "https://www.theatlantic.com/politics/2026/11/talarico-hinojosa-texas-musk/689268/",
-      "author": "",
-      "published": "2026-11-04T04:38:00+00:00",
-      "category": "全部",
-      "summary": "An impossible Democratic dream has finally come true."
-    },
-    {
-      "title": "Why Republicans Lost So Big",
-      "link": "https://www.theatlantic.com/ideas/2026/11/midterms-democrats-trump-blue-wave/689274/",
-      "author": "",
-      "published": "2026-11-04T04:26:55+00:00",
-      "category": "全部",
-      "summary": "Trump’s opponents have spent a decade pining for an outcome like this."
-    },
-    {
-      "title": "Repudiation",
-      "link": "https://www.theatlantic.com/politics/2026/11/trump-midterms-lame-duck/689265/",
-      "author": "",
-      "published": "2026-11-04T03:25:00+00:00",
-      "category": "全部",
-      "summary": "The president told voters to act like his name was on the ballot—and they did."
-    },
-    {
-      "title": "Donald Trump Is Bad at Politics",
-      "link": "https://www.theatlantic.com/ideas/2026/11/trump-midterm-losses-winners-losers/689262/",
-      "author": "",
-      "published": "2026-11-04T03:15:21+00:00",
-      "category": "全部",
-      "summary": "The aura of mastery and domination that surrounds the president should now be permanently dispelled."
-    },
-    {
-      "title": "What Is It About Jon Ossoff?",
-      "link": "https://www.theatlantic.com/newsletters/2026/11/jon-ossoff-georgia-victory-democratic-party/689273/",
-      "author": "",
-      "published": "2026-11-04T02:28:00+00:00",
-      "category": "全部",
-      "summary": "The candidate’s charisma is undeniable—but 2028 is still a long way off."
-    },
-    {
-      "title": "Trump Repeats a Centuries-Old Mistake",
-      "link": "https://www.theatlantic.com/newsletters/2026/11/andrew-johnson-midterms/689269/",
-      "author": "",
-      "published": "2026-11-03T21:53:00+00:00",
-      "category": "精选",
-      "summary": "This isn’t the first time a president has made the midterm elections all about himself."
-    },
-    {
-      "title": "Six Books You Should Read Twice",
-      "link": "https://www.theatlantic.com/books/2026/11/books-read-twice-twists/689263/",
-      "author": "",
-      "published": "2026-11-03T21:15:00+00:00",
-      "category": "精选",
-      "summary": "These titles’ twists and turns demand you take a second look."
-    },
-    {
-      "title": "Three Tips for Watching the Results Roll In",
-      "link": "https://www.theatlantic.com/newsletters/2026/11/how-track-midterms-results/689261/",
-      "author": "",
-      "published": "2026-11-03T17:01:00+00:00",
-      "category": "精选",
-      "summary": "The best bet is to just wait a few days. But if you must follow more closely, here are some suggestions."
-    },
-    {
-      "title": "Things Are Going to Get Ugly",
-      "link": "https://www.theatlantic.com/ideas/2026/11/trump-election-results-cope/689260/",
-      "author": "",
-      "published": "2026-11-03T16:39:00+00:00",
-      "category": "精选",
-      "summary": "Donald Trump is about to redefine the lame-duck presidency."
-    },
-    {
-      "title": "The Democrat Who’s Winning Over Voters in Trump Country",
-      "link": "https://www.theatlantic.com/politics/2026/11/josh-shapiro-pennsylvania-midterms/689252/",
-      "author": "",
-      "published": "2026-11-03T14:28:19+00:00",
-      "category": "精选",
-      "summary": "Josh Shapiro is looking past his own reelection."
-    },
-    {
-      "title": "Latinos Are Still Swing Voters",
-      "link": "https://www.theatlantic.com/ideas/2026/11/latinos-swing-voters-midterms/689256/",
-      "author": "",
-      "published": "2026-11-03T12:00:00+00:00",
-      "category": "精选",
-      "summary": "Two years after Trump’s second victory, many political observers wrongly see us as one-dimensional actors."
     }
   ]
 }
