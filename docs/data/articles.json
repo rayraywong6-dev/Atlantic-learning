@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T09:51:45.331885+00:00",
+  "updated_at": "2026-11-25T08:30:04.499832+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,78 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Jensen Huang Isn’t Worried. But You Should Be.",
+      "link": "https://www.theatlantic.com/ideas/2026/11/nvidia-stock-market-crisis/689557/",
+      "author": "",
+      "published": "2026-11-24T22:24:33+00:00",
+      "category": "精选",
+      "summary": "The possibility of an AI crash"
+    },
+    {
+      "title": "A Good Gift Is More Ordinary Than You Think",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/a-better-philosophy-of-gift-giving/689573/",
+      "author": "",
+      "published": "2026-11-24T21:10:00+00:00",
+      "category": "精选",
+      "summary": "A better philosophy of gift-giving can make the holidays more meaningful."
+    },
+    {
+      "title": "The Agents Howard Lutnick Pulled off Their Jobs",
+      "link": "https://www.theatlantic.com/national-security/2026/11/lutnick-export-control-personal-detail/689562/",
+      "author": "",
+      "published": "2026-11-24T20:57:17+00:00",
+      "category": "精选",
+      "summary": "The commerce secretary reassigned them from safeguarding U.S. computer chips to working on his own security detail."
+    },
+    {
+      "title": "What It Means to Secure Elections",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/what-it-means-to-secure-elections/689048/",
+      "author": "",
+      "published": "2026-11-24T16:00:00+00:00",
+      "category": "精选",
+      "summary": "The Democratic election lawyer Marc Elias explains why one free and fair election does not end the threat to our democracy."
+    },
+    {
+      "title": "Was a Drug Lord’s Killing in Ecuador Not What It Seemed?",
+      "link": "https://www.theatlantic.com/national-security/2026/11/ecuador-drug-cartel-raid-investigation/689558/",
+      "author": "",
+      "published": "2026-11-24T14:00:12+00:00",
+      "category": "精选",
+      "summary": "The U.S. and Ecuador are conducting joint raids, but now American officials are investigating a possible murder."
+    },
+    {
+      "title": "He Thought About Rome Every Day",
+      "link": "https://www.theatlantic.com/magazine/2027/01/edward-gibbon-ancient-rome/689409/",
+      "author": "",
+      "published": "2026-11-24T14:00:00+00:00",
+      "category": "精选",
+      "summary": "A lonely misfit in his own time, Edward Gibbon found refuge in a bygone empire."
+    },
+    {
+      "title": "Trader Joe’s Is the Next Sephora",
+      "link": "https://www.theatlantic.com/health/2026/11/trader-joes-skin-care/689523/",
+      "author": "",
+      "published": "2026-11-24T12:30:00+00:00",
+      "category": "精选",
+      "summary": "The king of dupes has come for face wash and body butter."
+    },
+    {
+      "title": "The Big Bang Theory : A Theory",
+      "link": "https://www.theatlantic.com/culture/2026/11/big-bang-theory-most-streamed/689555/",
+      "author": "",
+      "published": "2026-11-24T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Why a 19-year-old sitcom about the nerdiest of nerds continues to lead the streaming charts"
+    },
+    {
+      "title": "‘Our History Is Better Than Anybody Else’s’",
+      "link": "https://www.theatlantic.com/ideas/2026/11/western-civilization-culture-war/689289/",
+      "author": "",
+      "published": "2026-11-24T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Marco Rubio’s story of Western civilization"
+    },
     {
       "title": "Jensen Huang and Silicon Valley’s Short-Term Thinking",
       "link": "https://www.theatlantic.com/podcasts/2026/11/ra-nvidia/689551/",
@@ -96,7 +168,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/ai-bubble-returns-timeline/689504/",
       "author": "",
       "published": "2026-11-23T12:30:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Investors are rightfully getting nervous."
     },
     {
@@ -120,7 +192,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/executive-assistants-ai-jobs/689531/",
       "author": "",
       "published": "2026-11-23T12:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "An ode to the most frustrating, and formative, job in the world"
     },
     {
@@ -128,7 +200,7 @@
       "link": "https://www.theatlantic.com/politics/2026/11/license-plate-readers-ice/689515/",
       "author": "",
       "published": "2026-11-23T11:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Officers have been using license-plate readers to randomly find more people to arrest."
     },
     {
@@ -136,7 +208,7 @@
       "link": "https://www.theatlantic.com/science/2026/11/cop31/689530/",
       "author": "",
       "published": "2026-11-22T15:47:38+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Delegates at the annual UN climate summit failed to reach an agreement for the first time in almost 20 years."
     },
     {
@@ -1938,78 +2010,6 @@
       "published": "2026-11-04T20:30:06+00:00",
       "category": "全部",
       "summary": "The midterm elections were a thorough repudiation of the president and what he stands for."
-    },
-    {
-      "title": "Trump Learns His Orbán Lesson",
-      "link": "https://www.theatlantic.com/ideas/2026/11/trump-orban-elections/689287/",
-      "author": "",
-      "published": "2026-11-04T20:16:19+00:00",
-      "category": "全部",
-      "summary": "He wanted to be like the former Hungarian prime minister, and now he got his wish."
-    },
-    {
-      "title": "It’s the End of America as We Know It!",
-      "link": "https://www.theatlantic.com/newsletters/2026/11/blue-wave-midterms-america/689288/",
-      "author": "",
-      "published": "2026-11-04T19:03:00+00:00",
-      "category": "精选",
-      "summary": "The Blue Wave washes over all."
-    },
-    {
-      "title": "Silicon Valley’s Very Bad Night",
-      "link": "https://www.theatlantic.com/technology/2026/11/americans-really-dont-like-data-centers-elections/689284/",
-      "author": "",
-      "published": "2026-11-04T18:30:19+00:00",
-      "category": "科技",
-      "summary": "America has made its feelings about data centers crystal clear."
-    },
-    {
-      "title": "$500 Million Bought Elon Nothing",
-      "link": "https://www.theatlantic.com/technology/2026/11/elon-musk-loss/689281/",
-      "author": "",
-      "published": "2026-11-04T18:15:03+00:00",
-      "category": "科技",
-      "summary": "Musk’s unprecedented spending may even have hurt Republicans."
-    },
-    {
-      "title": "Can Democrats Hold Trump Accountable?",
-      "link": "https://www.theatlantic.com/podcasts/2026/11/david-frum-show-dave-rapallo-democrats-trump-investigate/689282/",
-      "author": "",
-      "published": "2026-11-04T18:00:00+00:00",
-      "category": "精选",
-      "summary": "Dave Rapallo on how Democrats in Congress could possibly investigate the president, and how he might fight back."
-    },
-    {
-      "title": "The Biggest Victory of the Night",
-      "link": "https://www.theatlantic.com/ideas/2026/11/midterm-election-democrats-normal/689279/",
-      "author": "",
-      "published": "2026-11-04T17:08:06+00:00",
-      "category": "精选",
-      "summary": "It wasn’t any particular race but the fact that the election proceeded so smoothly."
-    },
-    {
-      "title": "A Night of Pure Trumpenfreude",
-      "link": "https://www.theatlantic.com/ideas/2026/11/trump-midterm-results-schadenfreude/689277/",
-      "author": "",
-      "published": "2026-11-04T15:56:41+00:00",
-      "category": "精选",
-      "summary": "Finally, the president’s actions had consequences."
-    },
-    {
-      "title": "Susan Collins Didn’t Have a Chance",
-      "link": "https://www.theatlantic.com/politics/2026/11/susan-collins-maine-midterms-jackson/689276/",
-      "author": "",
-      "published": "2026-11-04T15:12:01+00:00",
-      "category": "精选",
-      "summary": "A nationwide rejection of President Trump swept out the moderate Republican."
-    },
-    {
-      "title": "Texas Republicans Get Washed",
-      "link": "https://www.theatlantic.com/ideas/2026/11/texas-blue-democrats-win/689278/",
-      "author": "",
-      "published": "2026-11-04T14:53:11+00:00",
-      "category": "精选",
-      "summary": "America didn’t just get Blexas. It got Deep Blexas."
     }
   ]
 }
