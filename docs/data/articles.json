@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T08:30:04.499832+00:00",
+  "updated_at": "2026-11-26T08:14:19.013832+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,102 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "With Melania , We See Nothing",
+      "link": "https://www.theatlantic.com/culture/2026/11/melania-series-elizabeth-holmes-documentary/689588/",
+      "author": "",
+      "published": "2026-11-25T19:28:00+00:00",
+      "category": "精选",
+      "summary": "On the heels of Nathan Fielder’s Elizabeth Holmes project, another documentary proves the impossibility of getting inside its subject’s head."
+    },
+    {
+      "title": "Here Comes Santa Claude",
+      "link": "https://www.theatlantic.com/technology/2026/11/ai-agents-holiday-shopping-muse/689587/",
+      "author": "",
+      "published": "2026-11-25T18:17:00+00:00",
+      "category": "科技",
+      "summary": "Some Americans are about to open holiday gifts that were chosen and purchased entirely by AI agents."
+    },
+    {
+      "title": "How Did Any Child Survive the 1970s?",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/david-frum-show-meghan-cox-gurdon-1970s-childhood/689584/",
+      "author": "",
+      "published": "2026-11-25T18:00:00+00:00",
+      "category": "精选",
+      "summary": "Meghan Cox Gurdon on growing up in the 1970s"
+    },
+    {
+      "title": "I’m Not Going to Play Grand Theft Auto VI",
+      "link": "https://www.theatlantic.com/family/2026/11/gta-vi-grand-theft-auto-art/689572/",
+      "author": "",
+      "published": "2026-11-25T14:00:00+00:00",
+      "category": "精选",
+      "summary": "For all its lofty aspirations, the latest GTA is still a video game."
+    },
+    {
+      "title": "What Could Replace the Trump Style of Politics?",
+      "link": "https://www.theatlantic.com/books/2026/11/hannah-arendt-friendship-model-politics/689579/",
+      "author": "",
+      "published": "2026-11-25T13:30:00+00:00",
+      "category": "精选",
+      "summary": "After a decade in which political debate has mostly meant pitting one truth against another, it might be time to try a different way."
+    },
+    {
+      "title": "The Surprising Pleasures of Aging Gracefully",
+      "link": "https://www.theatlantic.com/culture/2026/11/oasis-pulp-documentary/689570/",
+      "author": "",
+      "published": "2026-11-25T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Two new rock-and-roll documentaries make the case for embracing an unknown future."
+    },
+    {
+      "title": "The Great American Tradition",
+      "link": "https://www.theatlantic.com/ideas/2026/11/boycotts-mississippi-naacp-press-scotus/689568/",
+      "author": "",
+      "published": "2026-11-25T12:30:00+00:00",
+      "category": "全部",
+      "summary": "More than 40 years ago, the Supreme Court affirmed that boycotting is a fundamental right protected by the First Amendment—something the Trump administration is now disregarding."
+    },
+    {
+      "title": "A Bizarre Sequel to One of Tarantino’s Best Movies",
+      "link": "https://www.theatlantic.com/culture/2026/11/cliff-booth-once-upon-a-time-in-hollywood-sequel-review/689578/",
+      "author": "",
+      "published": "2026-11-25T12:00:00+00:00",
+      "category": "精选",
+      "summary": "The Once Upon a Time in Hollywood follow-up suffers under another director’s very different vision."
+    },
+    {
+      "title": "The Misguided Democratic Opposition to Permitting Reform",
+      "link": "https://www.theatlantic.com/ideas/2026/11/permit-reform-democratic-accountability/689575/",
+      "author": "",
+      "published": "2026-11-25T12:00:00+00:00",
+      "category": "精选",
+      "summary": "They ran and won on affordability—now they’re resisting a simple fix."
+    },
+    {
+      "title": "Wild Turkeys Have Taken Over American Cities",
+      "link": "https://www.theatlantic.com/science/2026/11/wild-turkeys-cities-suburbs-mayhem/689475/",
+      "author": "",
+      "published": "2026-11-25T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Their habits are, in many ways, perfectly calibrated to conflict with ours."
+    },
+    {
+      "title": "Trump Doesn’t Care Who Might Get Hurt",
+      "link": "https://www.theatlantic.com/ideas/2026/11/nvidia-china-dictators/689577/",
+      "author": "",
+      "published": "2026-11-25T11:00:00+00:00",
+      "category": "精选",
+      "summary": "Autocracy Inc. enters the microchip business."
+    },
+    {
+      "title": "What Is Chris Van Hollen Doing?",
+      "link": "https://www.theatlantic.com/politics/2026/11/van-hollen-schumer-democrats-senate-leader/689553/",
+      "author": "",
+      "published": "2026-11-25T10:00:00+00:00",
+      "category": "精选",
+      "summary": "Americans are clamoring for change. Is the Democratic caucus?"
+    },
     {
       "title": "Jensen Huang Isn’t Worried. But You Should Be.",
       "link": "https://www.theatlantic.com/ideas/2026/11/nvidia-stock-market-crisis/689557/",
@@ -25,7 +121,7 @@
       "author": "",
       "published": "2026-11-24T21:10:00+00:00",
       "category": "精选",
-      "summary": "A better philosophy of gift-giving can make the holidays more meaningful."
+      "summary": "A better philosophy of gift giving can make the holidays more meaningful."
     },
     {
       "title": "The Agents Howard Lutnick Pulled off Their Jobs",
@@ -88,7 +184,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/11/ra-nvidia/689551/",
       "author": "",
       "published": "2026-11-24T01:34:03+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "The stock market may have rallied, but this scandal is just beginning."
     },
     {
@@ -112,7 +208,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/trump-huang-national-security-risk/689547/",
       "author": "",
       "published": "2026-11-23T18:02:45+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Trump’s support of Jensen Huang should set off alarms."
     },
     {
@@ -1914,102 +2010,6 @@
       "published": "2026-11-05T13:00:00+00:00",
       "category": "全部",
       "summary": "The treatment forced me to ask: Without the stories of who I’d been, who might I become?"
-    },
-    {
-      "title": "An Underrated Reason Boys Are Reading Less",
-      "link": "https://www.theatlantic.com/culture/2026/11/middle-grade-reading-male-protagonists/689285/",
-      "author": "",
-      "published": "2026-11-05T12:30:00+00:00",
-      "category": "精选",
-      "summary": "A lack of male protagonists is making it harder to get young readers into books."
-    },
-    {
-      "title": "Even Where MAGA Won, MAGA Lost",
-      "link": "https://www.theatlantic.com/ideas/2026/11/maga-party-demographic-shift/689286/",
-      "author": "",
-      "published": "2026-11-05T12:00:00+00:00",
-      "category": "精选",
-      "summary": "A vision of a multicultural America emerges from this election."
-    },
-    {
-      "title": "Did Democrats Win—Or Did Trump Lose?",
-      "link": "https://www.theatlantic.com/podcasts/2026/11/midterm-democrats-trump/689283/",
-      "author": "",
-      "published": "2026-11-05T12:00:00+00:00",
-      "category": "精选",
-      "summary": "There are lots of ways to read the overwhelming midterm results. But voters sent one clear message."
-    },
-    {
-      "title": "A Good Night for the Christian Faith",
-      "link": "https://www.theatlantic.com/ideas/2026/11/midterms-christianity-talarico-hamilton/689299/",
-      "author": "",
-      "published": "2026-11-05T11:00:00+00:00",
-      "category": "精选",
-      "summary": "A pair of victories may do much to help the Democratic Party—and even more for the evangelical world."
-    },
-    {
-      "title": "Republicans Redistricted Themselves Out of Congress",
-      "link": "https://www.theatlantic.com/politics/2026/11/republicans-gerrymandering-redistricting-midterms/689296/",
-      "author": "",
-      "published": "2026-11-05T11:00:00+00:00",
-      "category": "精选",
-      "summary": "Trump’s plan backfired."
-    },
-    {
-      "title": "Revenge of the White Working Class",
-      "link": "https://www.theatlantic.com/politics/2026/11/sand-turek-iowa-midterms-democrats/689290/",
-      "author": "",
-      "published": "2026-11-04T23:13:04+00:00",
-      "category": "精选",
-      "summary": "But what happens next?"
-    },
-    {
-      "title": "Google Won’t Give Schools the One Thing They Want",
-      "link": "https://www.theatlantic.com/technology/2026/11/google-schools-ai-search/689298/",
-      "author": "",
-      "published": "2026-11-04T23:10:00+00:00",
-      "category": "科技",
-      "summary": "The tech giant is making districts choose between AI and search."
-    },
-    {
-      "title": "The Polls Found a New Way to Be Wrong",
-      "link": "https://www.theatlantic.com/politics/2026/11/midterm-polls-democrats/689297/",
-      "author": "",
-      "published": "2026-11-04T22:28:00+00:00",
-      "category": "精选",
-      "summary": "After a decade of underrating Donald Trump’s support, pollsters finally underestimated Democrats."
-    },
-    {
-      "title": "Democrats Will Likely Disappoint Voters Soon",
-      "link": "https://www.theatlantic.com/newsletters/2026/11/democrats-midterms-bue-wave-affordability-trap/689294/",
-      "author": "",
-      "published": "2026-11-04T21:24:00+00:00",
-      "category": "精选",
-      "summary": "We don’t need to guess what happens to politicians who campaign on affordability and don’t deliver. We saw it last night."
-    },
-    {
-      "title": "It’s the Morality, Stupid",
-      "link": "https://www.theatlantic.com/culture/2026/11/morality-mattered-midterms/689293/",
-      "author": "",
-      "published": "2026-11-04T21:01:50+00:00",
-      "category": "全部",
-      "summary": "Some midterm voters may have been driven by the desire to repudiate cruelty."
-    },
-    {
-      "title": "Vance 2028 Is Here",
-      "link": "https://www.theatlantic.com/ideas/2026/11/vance-2028-campaign-strategy-change/689291/",
-      "author": "",
-      "published": "2026-11-04T20:30:46+00:00",
-      "category": "精选",
-      "summary": "The midterm wave seems to have altered the vice president’s strategy of portraying himself as Donald Trump’s heir."
-    },
-    {
-      "title": "The End of the Trump Era",
-      "link": "https://www.theatlantic.com/ideas/2026/11/trump-era-republicans-midterms/689292/",
-      "author": "",
-      "published": "2026-11-04T20:30:06+00:00",
-      "category": "全部",
-      "summary": "The midterm elections were a thorough repudiation of the president and what he stands for."
     }
   ]
 }
