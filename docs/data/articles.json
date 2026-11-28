@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T08:27:22.559559+00:00",
+  "updated_at": "2026-11-28T07:44:54.676735+00:00",
   "article_count": 250,
   "feeds": {
     "全部": "https://www.theatlantic.com/feed/all/",
@@ -11,6 +11,46 @@
   },
   "errors": [],
   "articles": [
+    {
+      "title": "Jared Kushner’s Strategic Pixie Dust",
+      "link": "https://www.theatlantic.com/ideas/2026/11/kushner-ukraine/689599/",
+      "author": "",
+      "published": "2026-11-27T16:47:00+00:00",
+      "category": "精选",
+      "summary": "Deterrence is the by-product of the will and ability to fight—not a substitute for those qualities."
+    },
+    {
+      "title": "The Good Old Days of American Spy Movies and TV",
+      "link": "https://www.theatlantic.com/newsletters/2026/11/old-new-spy-movies-tv/689594/",
+      "author": "",
+      "published": "2026-11-27T15:30:00+00:00",
+      "category": "精选",
+      "summary": "The heyday of pop-spy mania is well worth revisiting."
+    },
+    {
+      "title": "What We Got Wrong About Comas",
+      "link": "https://www.theatlantic.com/science/2026/11/coma-consciousness/689574/",
+      "author": "",
+      "published": "2026-11-27T13:00:00+00:00",
+      "category": "精选",
+      "summary": "Some patients may be aware of what’s being said around them."
+    },
+    {
+      "title": "Why College Towns Are Booming",
+      "link": "https://www.theatlantic.com/ideas/2026/11/housing-yimby-college-towns/689596/",
+      "author": "",
+      "published": "2026-11-27T12:00:00+00:00",
+      "category": "精选",
+      "summary": "Their evolution from NIMBY holdouts to YIMBY hotbeds is a testament to the left’s extraordinary shift on housing."
+    },
+    {
+      "title": "Gift Guide for the AI Apocalypse",
+      "link": "https://www.theatlantic.com/ideas/2026/11/gift-guide-ai-apocalypse/689561/",
+      "author": "",
+      "published": "2026-11-27T12:00:00+00:00",
+      "category": "精选",
+      "summary": "This holiday season, unwrap a bulwark against computational calamity."
+    },
     {
       "title": "A Little The Crucible . A Little The Craft . A Lot of Catholic Guilt.",
       "link": "https://www.theatlantic.com/culture/2026/11/the-body-netflix-show-girlhood-catholicism/689595/",
@@ -40,7 +80,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/11/measles-maha-and-future-disease-america/689567/",
       "author": "",
       "published": "2026-11-26T11:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "How RFK Jr.’s uneasy coalition is fracturing"
     },
     {
@@ -48,7 +88,7 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/scandinavia-inclusion-dynamism-welfare-sweden/689556/",
       "author": "",
       "published": "2026-11-26T11:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "America needs a new model."
     },
     {
@@ -56,7 +96,7 @@
       "link": "https://www.theatlantic.com/culture/2026/11/melania-series-elizabeth-holmes-documentary/689588/",
       "author": "",
       "published": "2026-11-25T19:28:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "On the heels of Nathan Fielder’s Elizabeth Holmes project, another documentary proves the impossibility of getting inside its subject’s head."
     },
     {
@@ -72,7 +112,7 @@
       "link": "https://www.theatlantic.com/podcasts/2026/11/david-frum-show-meghan-cox-gurdon-1970s-childhood/689584/",
       "author": "",
       "published": "2026-11-25T18:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Meghan Cox Gurdon on growing up in the 1970s"
     },
     {
@@ -128,7 +168,7 @@
       "link": "https://www.theatlantic.com/science/2026/11/wild-turkeys-cities-suburbs-mayhem/689475/",
       "author": "",
       "published": "2026-11-25T12:00:00+00:00",
-      "category": "精选",
+      "category": "全部",
       "summary": "Their habits are, in many ways, perfectly calibrated to conflict with ours."
     },
     {
@@ -1970,46 +2010,6 @@
       "published": "2026-11-05T23:49:00+00:00",
       "category": "全部",
       "summary": "His legacy will be the abdication of the legislative branch’s power."
-    },
-    {
-      "title": "Democrats Have No Coherent Plan for AI",
-      "link": "https://www.theatlantic.com/ideas/2026/11/democrats-ai-midterms-regulation/689320/",
-      "author": "",
-      "published": "2026-11-05T23:22:00+00:00",
-      "category": "全部",
-      "summary": "Running on the backlash was easy. Getting the specifics right will be much more difficult."
-    },
-    {
-      "title": "The Ballad of Bob Dylan and the Pope",
-      "link": "https://www.theatlantic.com/culture/2026/11/bob-dylan-pope-leo/689314/",
-      "author": "",
-      "published": "2026-11-05T21:15:00+00:00",
-      "category": "全部",
-      "summary": "The image of their encounter at the Vatican is strange and funny—but these two make some sense together."
-    },
-    {
-      "title": "This Won’t Be Easy for Democrats",
-      "link": "https://www.theatlantic.com/politics/2026/11/midterms-democrats-party-reputation/689311/",
-      "author": "",
-      "published": "2026-11-05T20:43:19+00:00",
-      "category": "精选",
-      "summary": "They’re out of the wilderness—for now."
-    },
-    {
-      "title": "The Execution Divide",
-      "link": "https://www.theatlantic.com/ideas/2026/11/death-row-commutation-california-newsom/689304/",
-      "author": "",
-      "published": "2026-11-05T20:07:34+00:00",
-      "category": "全部",
-      "summary": "Gavin Newsom’s mass commutation of death-row prisoners reveals a growing split in the country over capital punishment."
-    },
-    {
-      "title": "Trump May Come to Regret His Rush Job on the Arch and Ballroom",
-      "link": "https://www.theatlantic.com/culture/2026/11/trump-monument-fight/689309/",
-      "author": "",
-      "published": "2026-11-05T19:37:00+00:00",
-      "category": "精选",
-      "summary": "Democrats want to cut off funding for the president’s building projects—or tear them down later."
     }
   ]
 }
